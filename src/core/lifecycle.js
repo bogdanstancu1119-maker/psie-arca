@@ -1,0 +1,1 @@
+const fs = require('fs'); process.on('SIGINT', () => { const state = JSON.stringify(hydra.memory); fs.writeFileSync('./persistence/state.json', state); console.log('Starea a fost salvată pentru persistență.'); process.exit(); });
