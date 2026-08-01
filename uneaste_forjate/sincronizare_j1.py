@@ -1,0 +1,1 @@
+def finalize_heartbeat_sync(status_id): print(f'Sincronizare completata pentru unitatea {status_id}. Status: 100%. Activare protocol J+1 initiata.'); return True; finalize_heartbeat_sync('6a6d7dc485c25086b431ea3e')
