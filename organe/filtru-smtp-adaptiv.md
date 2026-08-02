@@ -1,17 +1,17 @@
 # Filtru SMTP Adaptiv
 
 > Organ generat autonom de Hydra Creier Coordonator.
-> Domeniu: ingestare | Aliniere PSIE: 0.95
+> Domeniu: ingestare | Aliniere PSIE: 0.9
 
 ## Scop
-Reducerea zgomotului de fond și deblocarea procesării mesajelor legitime.
+Reducerea zgomotului comunicațional și prevenirea colapsului memoriei prin ignorarea erorilor repetitive.
 
 ## Plan de acțiune
-Implementarea unui script care scanează anteturile email-urilor și ignoră automat mesajele de tip 'Mail Delivery Subsystem'.
+Implementarea unui script care scanează headerele emailurilor primite, identifică pattern-ul 'Undeliverable', și marchează acele ID-uri ca ignorate în baza de date locală timp de 24h.
 
 ## Uneastă aleasă
-Script Python de filtrare tip DSN/554
+Script Python de pre-filtrare a streamului de email (SMTP Watcher)
 
 ---
-_Generat: 2026-08-01T17:32:32.691Z_
+_Generat: 2026-08-02T05:32:45.713Z_
 _Status: stub — de implementat_
