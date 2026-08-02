@@ -1,17 +1,17 @@
 # Sincronizare MetricaStare
 
 > Organ generat autonom de Hydra Creier Coordonator.
-> Domeniu: coeziune | Aliniere PSIE: 0.95
+> Domeniu: creier | Aliniere PSIE: 0.95
 
 ## Scop
-Crearea unei singure surse de adevăr pentru metadate, eliminând erorile de sincronizare.
+Asigurarea unei surse unice de adevăr pentru toate ramurile active.
 
 ## Plan de acțiune
-1. Deploy instanță centrală pe Bigstep. 2. Configurare heartbeat asincron de la toate celelalte noduri către acest hub. 3. Validare prin comparare checksum de stare.
+Configurare instanță Redis-Cloud, migrare chei snapshot_suprapunere_organe, implementare heartbeat de stare.
 
 ## Uneastă aleasă
-Redis Global cu replicare multi-cloud
+Broker de stare centralizat via Redis-Cloud (KintoHub)
 
 ---
-_Generat: 2026-08-02T08:32:47.901Z_
+_Generat: 2026-08-02T16:10:23.856Z_
 _Status: stub — de implementat_
