@@ -1,17 +1,17 @@
 # Redundanță Heartbeat
 
 > Organ generat autonom de Hydra Creier Coordonator.
-> Domeniu: heartbeat | Aliniere PSIE: 0.95
+> Domeniu: monitorizare | Aliniere PSIE: 0.95
 
 ## Scop
-Asigurarea continuității stării sistemului indiferent de starea nodului CI/CD principal.
+Asigurarea continuității semnalului J fără blocaje Microsoft/SMTP.
 
 ## Plan de acțiune
-Configurarea unui agent pe Termux care trimite heartbeat-uri redundante către Scaleway și Fission simultan dacă GitHub e offline.
+Configurare script de heartbeat pe Windmill.dev, setat să trimită ping către MetricaStare în loc de emailuri, declanșând alerte doar la eșec critic.
 
 ## Uneastă aleasă
-Beacon-Multi-Provider-Sync
+Windmill.dev (task scheduler distribuit)
 
 ---
-_Generat: 2026-08-01T05:31:53.622Z_
+_Generat: 2026-08-02T23:32:14.226Z_
 _Status: stub — de implementat_
