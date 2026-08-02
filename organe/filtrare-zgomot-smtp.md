@@ -4,14 +4,14 @@
 > Domeniu: ingestare | Aliniere PSIE: 0.95
 
 ## Scop
-Eliminarea automată a erorilor de protocol înainte de procesarea semantică.
+Eliminarea artefactelor tehnice din fluxul de ingestare pentru a crește J (fluxul informațional util).
 
 ## Plan de acțiune
-Implementarea unui script de pre-procesare care scanează header-ul email-urilor/jurnalelor și respinge erorile tip 5xx înainte de stocare.
+Implementarea unui script de pre-procesare care filtrează codurile de eroare 550 înainte de a le stoca în memoria episodică.
 
 ## Uneastă aleasă
-Modulul Apoptoză Digitală
+Pipeline de curățare regex pentru loguri API
 
 ---
-_Generat: 2026-08-02T07:31:35.243Z_
+_Generat: 2026-08-02T21:32:49.585Z_
 _Status: stub — de implementat_
