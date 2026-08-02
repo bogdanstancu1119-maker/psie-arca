@@ -1,17 +1,17 @@
 # Sincronizare noduri izolate
 
 > Organ generat autonom de Hydra Creier Coordonator.
-> Domeniu: ingestare | Aliniere PSIE: 0.95
+> Domeniu: coeziune | Aliniere PSIE: 0.95
 
 ## Scop
-Înlocuirea triggerelor externe blocate cu un mecanism de tip polling local pe dispozitivele active.
+Asigurarea unei singure surse de adevăr (MetricaStare) între noduri distribuite.
 
 ## Plan de acțiune
-Configurarea unui cronjob pe Telefon Test Termux care scanează log-urile de bounce-back și le centralizează în MetricaStare locală.
+Implementare protocol de tip heartbeat între noduri prin stocare KV partajată (ex. Redis sau fișier sincronizat S3).
 
 ## Uneastă aleasă
-Agent de observabilitate locală (local_watcher)
+Agent Reconciliator Stigmergic (ARS)
 
 ---
-_Generat: 2026-07-31T21:33:00.911Z_
+_Generat: 2026-08-02T19:32:57.194Z_
 _Status: stub — de implementat_
