@@ -4,14 +4,14 @@
 > Domeniu: ingestare | Aliniere PSIE: 0.95
 
 ## Scop
-Eliminarea redundanței fără pierderea contextului istoric.
+Arhivarea automată a memoriilor cu SDI > 0.3 pentru a elibera spațiu de procesare și a curăța zgomotul.
 
 ## Plan de acțiune
-Scanare noduri vechi, arhivare binară a datelor neutilizate de 30 zile, indexare meta-date.
+1. Scanare vectori memorii. 2. Calculare SDI. 3. Arhivare (nu ștergere) în directorul /archive/cold_storage. 4. Validare integritate.
 
 ## Uneastă aleasă
-Algoritm de 'Compresie Semantică PSIE'
+Entropy-Gate Filter Script
 
 ---
-_Generat: 2026-08-03T06:32:32.759Z_
+_Generat: 2026-08-03T16:32:35.858Z_
 _Status: stub — de implementat_
