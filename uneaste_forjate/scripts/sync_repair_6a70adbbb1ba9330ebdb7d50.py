@@ -1,0 +1,1 @@
+import requests; import time; def cleanup_sync(): print('Inceperea rutinei de curatare forțata'); api_endpoint = 'https://api.base44.com/v1/sync'; payload = {'action': 'purge_cache', 'force': True}; response = requests.post(api_endpoint, json=payload); if response.status_code == 200: print('Sincronizare restabilita'); else: print('Eroare: Sincronizare esuata'); cleanup_sync()
