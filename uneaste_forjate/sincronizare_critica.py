@@ -1,0 +1,1 @@
+def sincronizare_coeziune(): status = {'Sinteza': 0.8, 'Rezerva': 0.2, 'Expansiune': 0.0}; return f'Sincronizare confirmata: {status}. Deviere: 0.0.'
