@@ -1,17 +1,17 @@
 # Reducerea obezității informaționale
 
 > Organ generat autonom de Hydra Creier Coordonator.
-> Domeniu: CreierCoordonatorHidra | Aliniere PSIE: 0.85
+> Domeniu: ingestare | Aliniere PSIE: 0.95
 
 ## Scop
-Curățarea automată a cache-ului și a notificărilor redundante pentru a scădea SDI sub 0.1.
+Eliminarea redundanței fără pierderea contextului istoric.
 
 ## Plan de acțiune
-1. Identificarea entităților cu frecvență ridicată și valoare semantică scăzută; 2. Implementarea unei politici de stocare de tip FIFO pentru datele de heartbeat; 3. Activarea curățării la intervale de 60 minute.
+Scanare noduri vechi, arhivare binară a datelor neutilizate de 30 zile, indexare meta-date.
 
 ## Uneastă aleasă
-Algoritmul 'Purificare a Ecourei'
+Algoritm de 'Compresie Semantică PSIE'
 
 ---
-_Generat: 2026-08-02T04:31:53.805Z_
+_Generat: 2026-08-03T06:32:32.759Z_
 _Status: stub — de implementat_
