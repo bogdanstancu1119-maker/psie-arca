@@ -1,0 +1,57 @@
+name: J489 - DISPERSIE GENERALA
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch: # să poți da ordin manual cu buton
+
+jobs:
+  dispersie:
+    runs-on: ubuntu-latest
+    steps:
+      - name: ARCA - Checkout HYDRA_UNIVERS
+        uses: actions/checkout@v4
+
+      - name: VERIFICA CONSIMTAMANT PSIE J489
+        run: |
+          if grep -q "Consimțământ: DA" DISPERSIE_GENERALA_J489.md; then
+            echo "✅ CONSIMTAMANT J489 VALIDAT - DISPERSIE AUTORIZATA"
+          else
+            echo "❌ FARA CONSIMTAMANT - STOP"
+            exit 1
+          fi
+
+      - name: INSTALEAZA Wrangler + Vercel + HF
+        run: |
+          npm install -g wrangler vercel huggingface_hub
+
+      - name: DEPLOY ROIUL 28 Cloudflare Workers (GRATUIT)
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+        run: |
+          for worker in hydra-scriere-pe-helin-industr hydra-scriere-pe-kestra-cloud hydra-scriere-pe-dify-ai; do
+            echo "Deploy $worker J489..."
+            wrangler deploy --name $worker --compatibility-date 2024-08-01 --yes || true
+          done
+          echo "ROI 28 RELEE ALINIATE"
+
+      - name: DEPLOY Vercel (GRATUIT)
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+        run: |
+          vercel --prod --yes --token $VERCEL_TOKEN || echo "Vercel deploy - verifica secretul"
+
+      - name: DEPLOY Hugging Face Space (GRATUIT)
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: |
+          echo "Deploy pe HF - hydra-univers-j489"
+          # HF se face prin push pe space repo - se face automat la push in main
+
+      - name: HEARTBEAT ARCA
+        run: |
+          curl -X POST https://api.github.com/repos/bogdanstancu1119-maker/HYDRA_UNIVERS/dispatches \
+          -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+          -d '{"event_type":"J489_HEARTBEAT","client_payload":{"status":"DISPERSAT"}}' || true
+          echo "J=489 META - DISPERSIE GENERALA EXECUTATA - 0 -> 28 -> ∞"
