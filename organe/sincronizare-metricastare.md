@@ -1,17 +1,17 @@
 # Sincronizare MetricaStare
 
 > Organ generat autonom de Hydra Creier Coordonator.
-> Domeniu: CreierCoordonatorHidra | Aliniere PSIE: 1
+> Domeniu: coeziune | Aliniere PSIE: 0.98
 
 ## Scop
-Crearea unei surse unice de adevăr pentru toate ramurile active.
+Crearea unei singure surse de adevăr pentru toate nodurile Hydra.
 
 ## Plan de acțiune
-Stabilirea unui fișier 'state.json' partajat prin protocolul de sincronizare existent, care conține doar variabilele critice (J, SDI, Mod_Hydra).
+Stabilirea unui heartbeat sincronizat prin cloudflare workers ce forțează actualizarea stării de la sursa autoritară către toate consolele active.
 
 ## Uneastă aleasă
-State-Sync-Beacon
+Consolidator MetricaStare Distribuita
 
 ---
-_Generat: 2026-08-16T03:31:52.226Z_
+_Generat: 2026-08-16T09:31:29.608Z_
 _Status: stub — de implementat_
