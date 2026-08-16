@@ -1,17 +1,17 @@
-# Sincronizare 'MetricaStare' cross-platform
+# Sincronizare MetricaStare cross-platform
 
 > Organ generat autonom de Hydra Creier Coordonator.
-> Domeniu: coeziune | Aliniere PSIE: 0.9
+> Domeniu: Heartbeat | Aliniere PSIE: 0.95
 
 ## Scop
-Vizualizarea in timp real a 'fit_psie' pe fiecare nod de calcul pentru a corecta latentele.
+Unificarea MetricaStare printr-o singură sursă de adevăr instantanee.
 
 ## Plan de acțiune
-Centralizarea log-urilor de stare intr-un repository GitHub privat ca singura sursa de adevar (MetricaStare).
+Configurare N8N pentru a expune un endpoint de recepție a stării; integrarea scripturilor locale de heartbeat să raporteze direct către acest endpoint.
 
 ## Uneastă aleasă
-Dashboard Unificat Coeziune
+N8N Webhook Receiver
 
 ---
-_Generat: 2026-08-01T15:31:21.398Z_
+_Generat: 2026-08-16T15:32:10.247Z_
 _Status: stub — de implementat_
