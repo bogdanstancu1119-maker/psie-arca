@@ -1,17 +1,17 @@
 # Sincronizare MetricaStare
 
 > Organ generat autonom de Hydra Creier Coordonator.
-> Domeniu: coeziune | Aliniere PSIE: 0.98
+> Domeniu: CreierCoordonatorHidra | Aliniere PSIE: 1
 
 ## Scop
-Alinierea stării sistemului între toate instanțele Hydra pentru eliminarea paradoxurilor de date.
+Crearea unei surse unice de adevăr pentru toate ramurile active.
 
 ## Plan de acțiune
-Crearea unui webhook care stochează starea curentă a variabilelor critice într-un format KV (Key-Value) accesibil tuturor nodurilor prin API.
+Stabilirea unui fișier 'state.json' partajat prin protocolul de sincronizare existent, care conține doar variabilele critice (J, SDI, Mod_Hydra).
 
 ## Uneastă aleasă
-Endpoint centralizat MetricaStare pe Viasocket
+State-Sync-Beacon
 
 ---
-_Generat: 2026-08-03T11:31:31.481Z_
+_Generat: 2026-08-16T03:31:52.226Z_
 _Status: stub — de implementat_
