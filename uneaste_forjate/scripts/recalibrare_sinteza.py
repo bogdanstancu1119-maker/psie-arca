@@ -1,0 +1,1 @@
+import hydra_core; hydra_core.set_mode('expansiune'); hydra_core.set_priority('flux_extern', 0.8); hydra_core.set_priority('infrastructura_local', 0.2); print('Recalibrare executată: 80% expansiune, 20% infrastructură.');
