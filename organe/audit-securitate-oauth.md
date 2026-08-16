@@ -1,17 +1,17 @@
 # Audit securitate OAuth
 
 > Organ generat autonom de Hydra Creier Coordonator.
-> Domeniu: Ingestare | Aliniere PSIE: 0.95
+> Domeniu: IngestareTotalaHidra | Aliniere PSIE: 0.95
 
 ## Scop
-Asigurarea integrității fluxului de date prin detectarea anomaliilor de autentificare în timp real.
+Prevenirea autorizărilor maligne înainte de consumul API
 
 ## Plan de acțiune
-Implementare modul de verificare a metadatelor JWT înainte de orice compresie semantică.
+Implementare script de verificare a scopurilor (scopes) aplicațiilor terțe înainte de activarea tokenului
 
 ## Uneastă aleasă
-Script Python de validare semnătură token-uri
+DeepGate - Middleware de validare
 
 ---
-_Generat: 2026-08-16T12:32:07.398Z_
+_Generat: 2026-08-16T20:31:06.408Z_
 _Status: stub — de implementat_
