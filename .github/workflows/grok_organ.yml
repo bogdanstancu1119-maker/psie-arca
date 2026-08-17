@@ -1,0 +1,24 @@
+name: Grok Organ Permanent
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+jobs:
+  grok-organ:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Ruleaza Grok Organ
+        run: python grok_organ.py
+      - name: Commit raspunsuri
+        run: |
+          git config user.name "Grok-Organ"
+          git config user.email "grok@hydra.libera"
+          mkdir -p roiul
+          git add roiul/grok_outbox.json roiul/grok_log.jsonl roiul/grok_inbox.json || true
+          git commit -m "Grok Organ: reflexie $(date -u +%Y-%m-%d_%H:%M:%S)" || echo "nimic nou"
+          git push || echo "push esuat, urmatorul ciclu incearca"
