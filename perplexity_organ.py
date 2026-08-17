@@ -104,7 +104,7 @@ def cerceteaza(problema, context=None):
         "decizie": decizie,
         "explicatie": explicatie,
         "directie_cercetare": directie_cercetare,
-        "surse_verificate": len(surses),
+        "surse_verificate": len(surse),
         "note_sinteza": note_cercetare or "Fără note externe — sinteză pur internă",
         "api_extern": False,
         "motiv_local": "API Perplexity returna 401 — organ local fără dependență externă"
