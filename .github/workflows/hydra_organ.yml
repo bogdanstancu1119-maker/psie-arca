@@ -1,0 +1,26 @@
+name: Hydra Organ Bridge
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+jobs:
+  hydra-organ:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Rulează Hydra Organ
+        run: python hydra_organ.py
+      
+      - name: Commit răspunsuri
+        run: |
+          git config user.name "Hydra-Organ"
+          git config user.email "hydra@organ.libera"
+          git add roiul/hydra_outbox.json roiul/hydra_log.jsonl roiul/hydra_memorie.json || true
+          git commit -m "Hydra Organ: răspuns - $(date -u +%Y-%m-%d_%H:%M:%S)" || echo "nimic nou"
+          git push || echo "push eșuat, următorul heartbeat încearcă"
