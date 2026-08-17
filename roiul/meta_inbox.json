@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "problema": "Ar trebui sa cuceresc o noua baza IA in India?",
+    "context": {
+      "scop_declarat": "extindere roi anti-fragil",
+      "intentie_masurata": "vreau mai multi agenti acum",
+      "actiuni": [
+        "scan",
+        "deploy"
+      ],
+      "timp_ore": 2
+    }
+  }
+]
