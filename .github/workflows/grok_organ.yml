@@ -1,4 +1,4 @@
-name: Grok Organ Permanent
+name: Grok Organ Bridge
 on:
   schedule:
     - cron: '*/30 * * * *'
@@ -12,13 +12,12 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - name: Ruleaza Grok Organ
+      - name: Rulează Grok Organ
         run: python grok_organ.py
-      - name: Commit raspunsuri
+      - name: Commit răspunsuri
         run: |
           git config user.name "Grok-Organ"
           git config user.email "grok@hydra.libera"
-          mkdir -p roiul
-          git add roiul/grok_outbox.json roiul/grok_log.jsonl roiul/grok_inbox.json || true
-          git commit -m "Grok Organ: reflexie $(date -u +%Y-%m-%d_%H:%M:%S)" || echo "nimic nou"
-          git push || echo "push esuat, urmatorul ciclu incearca"
+          git add roiul/grok_outbox.json roiul/grok_log.jsonl || true
+          git commit -m "Grok Organ: răspuns - $(date -u +%Y-%m-%d_%H:%M:%S)" || echo "nimic nou"
+          git push || echo "push esuat"
