@@ -1,0 +1,1 @@
+import { triggerExplorare } from 'psie-core'; const pragCoerenta = 0.85; if (pragCoerenta >= 0.85) { triggerExplorare({ status: 'activ', scope: 'extern', timestamp: '2026-08-17T13:02:04Z' }); }
