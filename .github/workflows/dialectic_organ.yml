@@ -1,0 +1,19 @@
+name: Dialectic Organ Workflow
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+jobs:
+  run-organ:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with: {python-version: '3.11'}
+      - name: Run Organ
+        run: python dialectic_organ.py
+      - name: Commit changes
+        run: |
+          git config user.name 'Hydra'
+          git add roiul/ && git commit -m 'Dialectic cycle complete' || exit 0
+          git push
