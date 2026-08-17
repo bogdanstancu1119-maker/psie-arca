@@ -1,24 +1,23 @@
-name: Sentinel Organ Permanent
+name: Sentinel Organ Workflow
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '*/15 * * * *'
   workflow_dispatch:
 
 jobs:
-  sentinel-organ:
+  run-sentinel:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - name: Ruleaza Sentinel Organ
+      - name: Executa Sentinel Organ
         run: python sentinel_organ.py
-      - name: Commit rezultate
+      - name: Salveaza starea in Git
         run: |
           git config user.name "Sentinel-Organ"
-          git config user.email "sentinel@hydra.libera"
-          mkdir -p roiul
-          git add roiul/sentinel_outbox.json roiul/sentinel_log.jsonl roiul/sentinel_inbox.json || true
-          git commit -m "Sentinel Organ: triaj $(date -u +%Y-%m-%d_%H:%M:%S)" || echo "nimic nou"
-          git push || echo "push esuat, urmatorul ciclu incearca"
+          git config user.email "sentinel@hydra.local"
+          git add roiul/sentinel_outbox.json roiul/sentinel_log.jsonl
+          git commit -m "Sentinel Organ: triaj efectuat - $(date -u +%Y-%m-%d_%H:%M:%S)" || echo "Fara modificari"
+          git push || echo "Push amanat"
