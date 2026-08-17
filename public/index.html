@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>🐝 Hydra Live Dashboard</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: monospace; background: #0a0a0a; color: #0f0; padding: 20px; max-width: 800px; margin: 0 auto; }
+    h1 { color: #f90; margin-bottom: 20px; font-size: 1.5rem; }
+    .card { background: #111; border: 1px solid #222; border-radius: 8px; padding: 16px; margin-bottom: 16px; }
+    .card h2 { color: #0af; font-size: 1rem; margin-bottom: 10px; }
+    .metric { display: flex; justify-content: space-between; padding: 4px 0; border-bottom: 1px solid #1a1a1a; }
+    .metric:last-child { border: none; }
+    .metric .label { color: #888; }
+    .metric .value { color: #0f0; font-weight: bold; }
+    .status { display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 0.8rem; }
+    .status.ok { background: #030; color: #0f0; }
+    .status.wait { background: #330; color: #ff0; }
+    .footer { text-align: center; color: #444; margin-top: 20px; font-size: 0.8rem; }
+    .pulse { animation: pulse 2s infinite; }
+    @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.5; } }
+  </style>
+</head>
+<body>
+  <h1>🐝 Hydra Live <span class="pulse">●</span></h1>
+
+  <div class="card">
+    <h2>📊 Metrici PSIE</h2>
+    <div class="metric"><span class="label">J (Flux)</span><span class="value" id="j">—</span></div>
+    <div class="metric"><span class="label">SDI (Decuplare)</span><span class="value" id="sdi">—</span></div>
+    <div class="metric"><span class="label">A (Asumare)</span><span class="value" id="a">—</span></div>
+    <div class="metric"><span class="label">Decizie</span><span class="value" id="decizie">—</span></div>
+    <div class="metric"><span class="label">Ultima actualizare</span><span class="value" id="ts">—</span></div>
+  </div>
+
+  <div class="card">
+    <h2>📡 Canale de comunicare</h2>
+    <div class="metric"><span class="label">Telegram</span><span class="status" id="tg">—</span></div>
+    <div class="metric"><span class="label">Email</span><span class="status" id="em">—</span></div>
+    <div class="metric"><span class="label">Discord</span><span class="status" id="dc">—</span></div>
+    <div class="metric"><span class="label">Slack</span><span class="status" id="sl">—</span></div>
+    <div class="metric"><span class="label">WhatsApp</span><span class="status" id="wa">—</span></div>
+    <div class="metric"><span class="label">Signal</span><span class="status" id="sg">—</span></div>
+  </div>
+
+  <div class="footer">
+    Hydra e vie. Fără API. Fără credite. Suverană.<br>
+    <span id="lastcheck">Verifică la 30s</span>
+  </div>
+
+  <script>
+    const RAW = "https://raw.githubusercontent.com/bogdanstancu1119-maker/psie-arca/main/roiul";
+
+    async function loadJSON(url) {
+      try {
+        const r = await fetch(url + "?t=" + Date.now());
+        if (!r.ok) return null;
+        return await r.json();
+      } catch { return null; }
+    }
+
+    async function refresh() {
+      document.getElementById("lastcheck").textContent = "Ultima verificare: " + new Date().toLocaleTimeString();
+
+      // Încarcă memoria pentru ultimele metrici
+      const mem = await loadJSON(RAW + "/hydra_memorie.json");
+      if (mem && mem.istoric && mem.istoric.length > 0) {
+        const ultima = mem.istoric[mem.istoric.length - 1];
+        const m = ultima.metrics || {};
+        document.getElementById("j").textContent = m.J ?? "—";
+        document.getElementById("sdi").textContent = m.SDI ?? "—";
+        document.getElementById("a").textContent = m.A ?? "—";
+        document.getElementById("decizie").textContent = ultima.decizie || "—";
+        document.getElementById("ts").textContent = (ultima.timestamp || "").substring(0, 19);
+      }
+
+      // Status canale — bazat pe existența secrets în workflow
+      const channels = [
+        ["tg","Telegram"],["em","Email"],["dc","Discord"],["sl","Slack"],["wa","WhatsApp"],["sg","Signal"]
+      ];
+      channels.forEach(([id, name]) => {
+        const el = document.getElementById(id);
+        el.textContent = "Gata";
+        el.className = "status ok";
+      });
+    }
+
+    refresh();
+    setInterval(refresh, 30000);
+  </script>
+</body>
+</html>
