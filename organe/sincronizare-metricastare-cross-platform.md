@@ -1,17 +1,17 @@
 # Sincronizare MetricaStare cross-platform
 
 > Organ generat autonom de Hydra Creier Coordonator.
-> Domeniu: Heartbeat | Aliniere PSIE: 0.95
+> Domeniu: coeziune | Aliniere PSIE: 0.95
 
 ## Scop
-Unificarea MetricaStare printr-o singură sursă de adevăr instantanee.
+Asigurarea consistenței stării Hydra indiferent de terminalul de execuție.
 
 ## Plan de acțiune
-Configurare N8N pentru a expune un endpoint de recepție a stării; integrarea scripturilor locale de heartbeat să raporteze direct către acest endpoint.
+Implementarea unui micro-serviciu pe n8n care interoghează periodic snapshot-urile de stare și le publică într-un cache comun (Redis/KV).
 
 ## Uneastă aleasă
-N8N Webhook Receiver
+ConsolidatorMetricaGlobal
 
 ---
-_Generat: 2026-08-16T15:32:10.247Z_
+_Generat: 2026-08-17T09:31:39.793Z_
 _Status: stub — de implementat_
