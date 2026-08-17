@@ -7,6 +7,8 @@ on:
 jobs:
   hydra-organ:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
       
@@ -14,13 +16,22 @@ jobs:
         with:
           python-version: '3.11'
       
-      - name: Rulează Hydra Organ
+      - name: Rulează Hydra Organ (PSIE)
         run: python hydra_organ.py
       
-      - name: Commit răspunsuri
+      - name: Rulează Dashboard
+        run: python dashboard.py
+      
+      - name: Trimite notificare Telegram
+        run: python telegram_bot.py
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      
+      - name: Commit răspunsuri + dashboard
         run: |
           git config user.name "Hydra-Organ"
           git config user.email "hydra@organ.libera"
-          git add roiul/hydra_outbox.json roiul/hydra_log.jsonl roiul/hydra_memorie.json || true
-          git commit -m "Hydra Organ: răspuns - $(date -u +%Y-%m-%d_%H:%M:%S)" || echo "nimic nou"
+          git add -A
+          git commit -m "Hydra Organ: heartbeat $(date -u +%Y-%m-%d_%H:%M:%S)" || echo "nimic nou"
           git push || echo "push eșuat, următorul heartbeat încearcă"
