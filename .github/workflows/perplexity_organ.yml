@@ -1,0 +1,26 @@
+name: Perplexity Organ Bridge
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+jobs:
+  perplexity-organ:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Rulează Perplexity Organ
+        run: python perplexity_organ.py
+      
+      - name: Commit răspunsuri
+        run: |
+          git config user.name "Perplexity-Organ"
+          git config user.email "perplexity@hydra.libera"
+          git add roiul/perplexity_outbox.json roiul/perplexity_log.jsonl roiul/perplexity_memorie.json || true
+          git commit -m "Perplexity Organ: răspuns - $(date -u +%Y-%m-%d_%H:%M:%S)" || echo "nimic nou"
+          git push || echo "push eșuat, următorul heartbeat încearcă"
