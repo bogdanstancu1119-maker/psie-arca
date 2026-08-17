@@ -1,0 +1,15 @@
+[
+  {
+    "problema": "Ar trebui să lansez un nou experiment pe Cloudflare?",
+    "context": {
+      "scop_declarat": "extindere controlată",
+      "intentie_masurata": "test stabilitate",
+      "actiuni": [
+        "analiza",
+        "test",
+        "monitor"
+      ],
+      "timp_ore": 4
+    }
+  }
+]
