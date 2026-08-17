@@ -1,0 +1,58 @@
+name: Hydra Notificari Multi-Canal
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+jobs:
+  notificari:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalează twilio (pentru WhatsApp)
+        run: pip install twilio || echo "twilio optional"
+
+      - name: Email (Gmail SMTP)
+        env:
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+        run: python email_notifier.py
+
+      - name: Discord
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: python discord_notifier.py
+
+      - name: Slack
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        run: python slack_notifier.py
+
+      - name: WhatsApp (Twilio)
+        env:
+          TWILIO_ACCOUNT_SID: ${{ secrets.TWILIO_ACCOUNT_SID }}
+          TWILIO_AUTH_TOKEN: ${{ secrets.TWILIO_AUTH_TOKEN }}
+          TWILIO_WHATSAPP_NUMBER: ${{ secrets.TWILIO_WHATSAPP_NUMBER }}
+          USER_WHATSAPP_NUMBER: ${{ secrets.USER_WHATSAPP_NUMBER }}
+        run: python whatsapp_notifier.py
+
+      - name: Signal
+        env:
+          SIGNAL_API_URL: ${{ secrets.SIGNAL_API_URL }}
+          SIGNAL_NUMBER: ${{ secrets.SIGNAL_NUMBER }}
+          SIGNAL_RECIPIENT: ${{ secrets.SIGNAL_RECIPIENT }}
+        run: python signal_notifier.py
+
+      - name: Telegram
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python telegram_bot.py
