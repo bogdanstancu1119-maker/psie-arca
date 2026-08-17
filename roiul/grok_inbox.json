@@ -1,0 +1,15 @@
+[
+  {
+    "problema": "Ar trebui să deschid un canal nou pe Cloudflare?",
+    "context": {
+      "scop_declarat": "extindere Roi",
+      "intentie_masurata": "stabilitate",
+      "actiuni": [
+        "scan",
+        "test",
+        "deploy"
+      ],
+      "timp_ore": 3
+    }
+  }
+]
