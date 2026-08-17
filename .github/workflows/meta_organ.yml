@@ -1,4 +1,4 @@
-name: Meta Organ Bridge
+name: Meta Organ Permanent
 on:
   schedule:
     - cron: '*/30 * * * *'
@@ -9,18 +9,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      
       - name: Ruleaza Meta Organ
         run: python meta_organ.py
-      
       - name: Commit raspunsuri
         run: |
           git config user.name "Meta-Organ"
           git config user.email "meta@hydra.libera"
+          mkdir -p roiul
           git add roiul/meta_outbox.json roiul/meta_log.jsonl roiul/meta_memorie.json || true
-          git commit -m "Meta Organ: raspuns - $(date -u +%Y-%m-%d_%H:%M:%S)" || echo "nimic nou"
-          git push || echo "push esuat, urmatorul heartbeat incearca"
+          git commit -m "Meta Organ: raspuns $(date -u +%Y-%m-%d_%H:%M:%S)" || echo "nimic nou"
+          git push || echo "push esuat, urmatorul ciclu incearca"
