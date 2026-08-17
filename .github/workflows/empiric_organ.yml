@@ -1,0 +1,18 @@
+name: EmpiricOrgan Workflow
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with: {python-version: '3.11'}
+      - run: python empiric_organ.py
+      - run: |
+          git config user.name 'Hydra'
+          git add roiul/*
+          git commit -m 'Empiric cycle' || exit 0
+          git push
