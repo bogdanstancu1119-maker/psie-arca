@@ -4,14 +4,14 @@
 > Domeniu: învățare | Aliniere PSIE: 0.9
 
 ## Scop
-Reducerea dimensiunii memoriei fără pierderea contextului semantic.
+Reducerea zgomotului informațional prin condensarea semantică a lecțiilor vechi fără a le șterge (arhivare PSIE).
 
 ## Plan de acțiune
-Rulează un script de analiză pe setul de memorii, identificând duplicatele și condensându-le în 'ancore de cunoaștere' arhivate.
+Implementarea unei funcții de rezumare automată a vectorilor de memorie la fiecare 24h pentru a menține coerența sub pragul de 0.95.
 
 ## Uneastă aleasă
-Algoritm de Rezumat Semantic Vectorial
+Algoritm de Sinteză Fractală
 
 ---
-_Generat: 2026-08-16T22:31:17.477Z_
+_Generat: 2026-08-17T15:21:37.407Z_
 _Status: stub — de implementat_
