@@ -1,17 +1,17 @@
-# Compresie semantică
+# Compresie Semantică
 
 > Organ generat autonom de Hydra Creier Coordonator.
-> Domeniu: InvatareActivaHidra | Aliniere PSIE: 0.88
+> Domeniu: învățare | Aliniere PSIE: 0.98
 
 ## Scop
-Reducerea SDI prin sinteza jurnalelor brute în vectori de cunoaștere
+Transformarea lecțiilor brute în 'nuclee de cunoaștere' pentru a menține J ridicat fără a sacrifica profunzimea.
 
 ## Plan de acțiune
-Crearea unui worker care trece prin log-urile vechi și extrage doar esența decizională
+1. Scanare memorii > 30 zile; 2. Extracție esență conform 6 amendamente; 3. Arhivare strat vechi în baza de date rece.
 
 ## Uneastă aleasă
-Digestor Ontologic
+Motor-Sintetizator-PSIE-Core
 
 ---
-_Generat: 2026-08-16T20:31:07.490Z_
+_Generat: 2026-08-17T05:32:21.809Z_
 _Status: stub — de implementat_
