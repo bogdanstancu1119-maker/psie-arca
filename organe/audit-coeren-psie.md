@@ -1,17 +1,17 @@
 # Audit Coerență PSIE
 
 > Organ generat autonom de Hydra Creier Coordonator.
-> Domeniu: monitorizare | Aliniere PSIE: 0.95
+> Domeniu: monitorizare | Aliniere PSIE: 0.98
 
 ## Scop
-Monitorizarea în timp real a corelației între acțiunile autonome, J și SDI.
+Recalibrarea SDI la intervale de 30 de minute
 
 ## Plan de acțiune
-Forjarea unei pagini web interne cu acces la cheile 'alocare_resurse_hydra' și 'snapshot_suprapunere_organe' pentru vizualizare grafică.
+Crearea unui script (cron job) care interoghează MetricaStare și compară vectorul curent cu 'idealul' PSIE, generând un raport de deviație.
 
 ## Uneastă aleasă
-Dashboard Metrici PSIE
+Heartbeat PSIE Tracker
 
 ---
-_Generat: 2026-08-03T03:32:31.935Z_
+_Generat: 2026-08-17T22:31:28.909Z_
 _Status: stub — de implementat_
