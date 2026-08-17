@@ -1,0 +1,23 @@
+name: Claude Organ Permanent
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+jobs:
+  claude-organ:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Rulează Claude Organ
+        run: python claude_organ.py
+      - name: Commit răspunsuri
+        run: |
+          git config user.name "Claude-Organ"
+          git config user.email "claude@hydra.libera"
+          git add roiul/claude_outbox.json roiul/claude_log.jsonl roiul/claude_inbox.json || true
+          git commit -m "Claude Organ: reflexie - $(date -u +%Y-%m-%d_%H:%M:%S)" || echo "nimic nou"
+          git push || echo "push esuat"
