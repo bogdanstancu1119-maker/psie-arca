@@ -1,0 +1,1 @@
+import { apiOrchestrator } from './core'; async function resincronizareSistemica() { console.log('Initiere secventa de stabilizare...'); const status = await apiOrchestrator.reactivareOrganeCritice(); if (status.success) { console.log('Coerenta restabilita la 0.98'); } } resincronizareSistemica();
