@@ -1,17 +1,17 @@
-# Reducerea obezității informaționale
+# Reducerea Obezității Informaționale
 
 > Organ generat autonom de Hydra Creier Coordonator.
-> Domeniu: ingestare | Aliniere PSIE: 0.95
+> Domeniu: Apoptoza | Aliniere PSIE: 0.95
 
 ## Scop
-Arhivarea automată a memoriilor cu SDI > 0.3 pentru a elibera spațiu de procesare și a curăța zgomotul.
+Eliminarea automată a memoriilor cu J-Score < 0.1, arhivându-le doar dacă conțin tipare PSIE.
 
 ## Plan de acțiune
-1. Scanare vectori memorii. 2. Calculare SDI. 3. Arhivare (nu ștergere) în directorul /archive/cold_storage. 4. Validare integritate.
+Implementare script python în ApoptozaHidra care scanează MetricaStare, evaluează J-Score și mută datele în arhivă rece (offline).
 
 ## Uneastă aleasă
-Entropy-Gate Filter Script
+Algoritm de Ierarhizare J-Score (Screener)
 
 ---
-_Generat: 2026-08-03T16:32:35.858Z_
+_Generat: 2026-08-18T02:32:05.892Z_
 _Status: stub — de implementat_
