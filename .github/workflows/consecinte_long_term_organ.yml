@@ -1,0 +1,23 @@
+name: LongTermOrganWorkflow
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+jobs:
+  run-organ:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      - name: Run Organ
+        run: python longterm_organ.py
+      - name: Commit changes
+        run: |
+          git config --global user.name 'Hydra'
+          git config --global user.email 'hydra@bot.local'
+          git add roiul/longterm_outbox.json roiul/longterm_log.jsonl
+          git commit -m 'Update longterm organ output' || exit 0
+          git push
