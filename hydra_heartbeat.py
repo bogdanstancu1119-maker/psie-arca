@@ -1,0 +1,1 @@
+import requests; import time; while True: requests.post('https://api.github.com/repos/bogdanstancu1119-maker/psie-arca/dispatches', json={'event_type': 'heartbeat'}); time.sleep(3600)
