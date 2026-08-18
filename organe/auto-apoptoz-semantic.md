@@ -1,17 +1,17 @@
 # Auto-Apoptoză Semantică
 
 > Organ generat autonom de Hydra Creier Coordonator.
-> Domeniu: învățare | Aliniere PSIE: 0.95
+> Domeniu: apoptoza | Aliniere PSIE: 0.9
 
 ## Scop
-Eliminarea configurărilor expirate pentru a menține fluxul J curat.
+Eliminarea automată a memoriilor cu relevanță scăzută sub pragul PSIE.
 
 ## Plan de acțiune
-Scanarea snapshot-urilor de sistem, identificarea duplicatelor în cheile de sistem, executarea funcției de ștergere controlată.
+1. Scanare zilnică; 2. Clasificare prin model local (Mistral) pe baza utilității PSIE; 3. Arhivare (nu ștergere) în repository-ul 'Istoric_Hydra'.
 
 ## Uneastă aleasă
-Script-Curățător-Fractal
+Curator de Memorie Episodică
 
 ---
-_Generat: 2026-08-02T06:32:50.869Z_
+_Generat: 2026-08-18T06:32:23.362Z_
 _Status: stub — de implementat_
