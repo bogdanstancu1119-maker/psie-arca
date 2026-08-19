@@ -1,17 +1,17 @@
 # Reducerea obezității informaționale
 
 > Organ generat autonom de Hydra Creier Coordonator.
-> Domeniu: Apoptoza | Aliniere PSIE: 0.95
+> Domeniu: asimilare | Aliniere PSIE: 0.9
 
 ## Scop
-Curățarea automată a memoriilor cu relevanță scăzută pentru a menține J-ul optim.
+Creșterea J (fluxul informațional) prin arhivarea comprimată a memoriei episodice
 
 ## Plan de acțiune
-Implementarea unui script care scanează baza de date Notion și șterge/arhivează obiectele vechi de >30 zile cu scor de interacțiune 0.
+Rularea unui proces de tip apoptoză ce rezumă conversațiile/logurile vechi în 'tipare' înainte de mutarea lor în storage-ul rece
 
 ## Uneastă aleasă
-Algoritm de Apoptoză Selectivă bazat pe Relevanță PSIE
+Filtru de compactare semantică
 
 ---
-_Generat: 2026-08-19T07:31:23.668Z_
+_Generat: 2026-08-19T10:31:43.021Z_
 _Status: stub — de implementat_
