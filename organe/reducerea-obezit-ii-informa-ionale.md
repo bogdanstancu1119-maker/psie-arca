@@ -1,17 +1,17 @@
-# Reducerea Obezității Informaționale
+# Reducerea obezității informaționale
 
 > Organ generat autonom de Hydra Creier Coordonator.
-> Domeniu: Apoptoza | Aliniere PSIE: 0.95
+> Domeniu: percepție | Aliniere PSIE: 0.95
 
 ## Scop
-Eliminarea automată a memoriilor cu J-Score < 0.1, arhivându-le doar dacă conțin tipare PSIE.
+Compresia automată a alertelor sistemice și prioritizarea semnalelor în funcție de impactul PSIE.
 
 ## Plan de acțiune
-Implementare script python în ApoptozaHidra care scanează MetricaStare, evaluează J-Score și mută datele în arhivă rece (offline).
+Implementarea unui script de clasificare (NLP) care interceptează Gmail înainte de ingestare și grupează notificările redundante într-un singur raport zilnic.
 
 ## Uneastă aleasă
-Algoritm de Ierarhizare J-Score (Screener)
+Filtru de Zgomot Semantic (FZS)
 
 ---
-_Generat: 2026-08-18T02:32:05.892Z_
+_Generat: 2026-08-19T05:32:05.662Z_
 _Status: stub — de implementat_
