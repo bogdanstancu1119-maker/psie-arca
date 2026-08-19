@@ -4,14 +4,14 @@
 > Domeniu: ingestare | Aliniere PSIE: 0.85
 
 ## Scop
-Comutarea automată între API-urile Cerebras și Mistral la detectarea erorii 404/410.
+Menținerea continuității operaționale prin comutare automată pe DeepSeek/Mistral.
 
 ## Plan de acțiune
-Configurarea unui wrapper în jurul apelurilor LLM care interoghează disponibilitatea serviciului și rotește endpoint-ul în mod failover.
+Script de monitorizare a latenței API; dacă pragul de eroare > 15%, forțarea rutării prin endpoint-uri alternative.
 
 ## Uneastă aleasă
-Router_API_Dynamic_Hydra
+Auto_Migrator_Llama
 
 ---
-_Generat: 2026-08-18T12:31:44.199Z_
+_Generat: 2026-08-19T13:31:50.411Z_
 _Status: stub — de implementat_
