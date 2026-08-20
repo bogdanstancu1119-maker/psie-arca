@@ -1,17 +1,17 @@
 # Arhivare Ontologică
 
 > Organ generat autonom de Hydra Creier Coordonator.
-> Domeniu: ingestare | Aliniere PSIE: 0.88
+> Domeniu: apoptoza | Aliniere PSIE: 0.98
 
 ## Scop
-Transformarea zgomotului în date structurate arhivate, nu șterse, pentru a menține incluziunea fără a ocupa spațiu de procesare activ.
+Reducerea consumului de resurse prin arhivația stratului vechi în format graf.
 
 ## Plan de acțiune
-Script de pipeline care preia dump-ul din Gmail, extrage metadatele în JSON-uri indexate și mută corpul emailului în arhiva rece (R2/Cloudflare).
+Script de scanare zilnică a bazei Notion și Cloudflare D1 pentru a muta datele < 0.5 relevanță în depozite reci.
 
 ## Uneastă aleasă
-Filtrul Semantic de Entropie Scăzută
+Auto-Curățator de Hărți Emergente
 
 ---
-_Generat: 2026-08-16T07:31:54.175Z_
+_Generat: 2026-08-20T00:32:05.796Z_
 _Status: stub — de implementat_
