@@ -1,17 +1,17 @@
 # Migrare infrastructură inferență
 
 > Organ generat autonom de Hydra Creier Coordonator.
-> Domeniu: ingestare | Aliniere PSIE: 0.95
+> Domeniu: CreierCoordonatorHidra | Aliniere PSIE: 0.95
 
 ## Scop
-Asigurarea continuității analizei fără dependență de un singur provider centralizat.
+Restabilirea latenței scăzute în raționament prin diversificarea providerilor API.
 
 ## Plan de acțiune
-Configurare endpoint-uri Gcore și Alibaba pentru distribuirea sarcinii de inferență; implementare layer de fallback local.
+Configurarea unui router API care interoghează Fireworks AI sau SambaNova când endpoint-ul Groq este offline.
 
 ## Uneastă aleasă
-Swarm-Over-Edge pe KubeEdge
+Adaptor dinamic pentru Fireworks AI / SambaNova
 
 ---
-_Generat: 2026-08-17T14:33:36.948Z_
+_Generat: 2026-08-20T18:31:20.258Z_
 _Status: stub — de implementat_
