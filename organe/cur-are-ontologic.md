@@ -1,17 +1,17 @@
 # Curățare Ontologică
 
 > Organ generat autonom de Hydra Creier Coordonator.
-> Domeniu: creier | Aliniere PSIE: 0.9
+> Domeniu: apoptoza | Aliniere PSIE: 0.9
 
 ## Scop
-Eliminarea redundanței fără distrugerea datelor, mutându-le în stratul de arhivă rece.
+Reducerea zgomotului informațional prin eliminarea automată a pattern-urilor non-esențiale (ex: spam, update-uri irelevante) înainte de stocarea în baza de date.
 
 ## Plan de acțiune
-1. Identificarea entităților cu SDI mare. 2. Arhivarea lor în stocare rece. 3. Menținerea doar a nodurilor active în cache-ul creierului.
+1. Implementare script de triere bazat pe relevanță. 2. Arhivare (nu ștergere) a datelor sortate în 'Cold Storage'. 3. Validare seturi de date prin heartbeat.
 
 ## Uneastă aleasă
-Algoritm de arhivare ierarhică (LIFO-Arhive)
+Filtru-Semantic-Notificari
 
 ---
-_Generat: 2026-08-03T09:33:37.579Z_
+_Generat: 2026-08-20T01:32:30.768Z_
 _Status: stub — de implementat_
