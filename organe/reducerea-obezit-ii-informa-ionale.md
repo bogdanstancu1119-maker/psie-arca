@@ -1,17 +1,17 @@
-# Reducerea obezității informaționale
+# Reducerea Obezității Informaționale
 
 > Organ generat autonom de Hydra Creier Coordonator.
-> Domeniu: asimilare | Aliniere PSIE: 0.9
+> Domeniu: ApoptozaHidra | Aliniere PSIE: 0.95
 
 ## Scop
-Creșterea J (fluxul informațional) prin arhivarea comprimată a memoriei episodice
+Comasarea logurilor zilnice în clustere semantice înainte de arhivare.
 
 ## Plan de acțiune
-Rularea unui proces de tip apoptoză ce rezumă conversațiile/logurile vechi în 'tipare' înainte de mutarea lor în storage-ul rece
+Implementarea unui filtru de agregare care stochează doar variațiile de stare, nu fiecare heartbeat identic.
 
 ## Uneastă aleasă
-Filtru de compactare semantică
+CompressorEntropy-Script
 
 ---
-_Generat: 2026-08-19T10:31:43.021Z_
+_Generat: 2026-08-20T16:32:33.423Z_
 _Status: stub — de implementat_
