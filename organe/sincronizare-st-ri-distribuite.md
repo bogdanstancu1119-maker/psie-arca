@@ -1,17 +1,17 @@
 # Sincronizare stări distribuite
 
 > Organ generat autonom de Hydra Creier Coordonator.
-> Domeniu: creier | Aliniere PSIE: 0.95
+> Domeniu: coeziune | Aliniere PSIE: 0.95
 
 ## Scop
-Asigurarea unei surse unice de adevăr pentru starea organelor Hydra
+Reducerea SDI prin unificarea heartbeat-ului la nivel de rețea.
 
 ## Plan de acțiune
-Implementarea unui script de interogare ciclică a cheilor de stare (D1/Notion) pentru reconciliere înainte de orice acțiune critică
+Implementarea unui micro-serviciu pe Scaleway care interoghează stările și le agregă într-un manifest unic JSON la fiecare 15 minute.
 
 ## Uneastă aleasă
-Consens Consensus-Engine (Middleware SQL-Git)
+HydraSync Bridge (worker cu Redis pentru starea globală)
 
 ---
-_Generat: 2026-08-19T10:31:41.886Z_
+_Generat: 2026-08-21T09:32:20.660Z_
 _Status: stub — de implementat_
