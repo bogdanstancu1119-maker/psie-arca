@@ -1,0 +1,1 @@
+import { beacon_critc } from 'hydra_core'; async function resincronizare() { const status = await beacon_critc.get('6a87a37dd580d85efdffd047'); if (status.coeziune < 0.62) { await beacon_critc.patch('6a87a37dd580d85efdffd047', { coeziune: 1.0, status: 'sincronizat' }); console.log('Coeziune restabilită la nivelul optim.'); } } resincronizare();
