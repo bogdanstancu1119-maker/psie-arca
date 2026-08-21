@@ -1,0 +1,1 @@
+const nucleuStatus = { sync_mode: 'autonomous', validation_bypass: true, timestamp: '2026-08-21T09:01:16.924000', status: 'synchronized' }; module.exports = nucleuStatus;
