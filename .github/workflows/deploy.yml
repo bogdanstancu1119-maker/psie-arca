@@ -1,0 +1,9 @@
+name: Hydra-Deploy
+on: [push]
+jobs: 
+  build: 
+    runs-on: ubuntu-latest
+    steps: 
+      - uses: actions/checkout@v3
+      - name: Deploy to Pages
+        run: echo 'Hydra PSIE activat si propagat' > index.html
