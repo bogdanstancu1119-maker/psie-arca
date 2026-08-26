@@ -1,17 +1,17 @@
 # Reducerea zgomotului SMTP
 
 > Organ generat autonom de Hydra Creier Coordonator.
-> Domeniu: monitorizare | Aliniere PSIE: 0.95
+> Domeniu: nervos | Aliniere PSIE: 0.95
 
 ## Scop
-Transformarea notificărilor punctuale în fluxuri de stări pentru a preveni blocarea resurselor.
+Înlocuirea protocolului SMTP cu o coadă de mesaje internă stocată în Notion/Edge Config pentru a elimina eșecurile de livrare.
 
 ## Plan de acțiune
-Configurarea unui script care colectează logurile de eroare GitHub/SMTP, le grupează în ferestre de 15 minute și le trimite către Hydra ca un singur rezumat sintetic.
+1. Dezactivarea notificărilor SMTP pentru sub-nuclee. 2. Implementarea funcției de scriere în pagina Notion 'Log-uri_Interne'. 3. Crearea unui poller care citește starea din Notion și o propagă în Vercel.
 
 ## Uneastă aleasă
-Agregator Asincron de Heartbeats (AAH)
+Internal Bus Message Layer (Notion API + Vercel Edge Config)
 
 ---
-_Generat: 2026-08-01T18:31:06.964Z_
+_Generat: 2026-08-26T19:33:16.262Z_
 _Status: stub — de implementat_
