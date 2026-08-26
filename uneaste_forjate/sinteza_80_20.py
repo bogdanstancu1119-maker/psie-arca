@@ -1,0 +1,1 @@
+import sys; def activare_mod_sinteza(): print('Filtru 80/0/20 activat. Eliminare redundante, păstrare esență.'); return 'Sinteza 80/0/20 activată'; if __name__ == '__main__': activare_mod_sinteza()
