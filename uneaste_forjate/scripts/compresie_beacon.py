@@ -1,0 +1,1 @@
+import json; import os; def comprimare_informaionala(data_path): buffer = json.load(open(data_path)); arhivare = {'id': buffer['id'], 'payload': buffer['payload'], 'status': 'arhivata'}; with open('archive_6a905104.json', 'w') as f: json.dump(arhivare, f); os.remove(data_path); print('Compresie executata cu succes.')
