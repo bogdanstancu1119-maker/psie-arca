@@ -1,1 +1,1 @@
-import datetime; def sintetizeaza_si_arhiveaza(): flux_critic = {'id': '6a8ffcf6f05cb4009556a6a9', 'timestamp': str(datetime.datetime.now())}; with open('arhiva_sinteza.log', 'a') as f: f.write(f'Sinteză executată: {flux_critic}\n'); return True; print(sintetizeaza_si_arhiveaza())
+def aplica_sinteza_informationala(): return {'mod': 'Sinteza', 'raport_compresie': '80/0/20', 'status': 'Sincronizat'}
