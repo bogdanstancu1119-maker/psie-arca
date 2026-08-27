@@ -1,8 +1,1 @@
-import json
-
-def sintetizeaza_flux(date_brute):
-    # Mod sinteza 80/0/20: 80% abstractizare, 20% detaliu critic
-    return {'stare': 'optimizat', 'mod': 'sinteza_80_20', 'timestamp': '2026-08-21T15:30:44'}
-
-# Filtru activ pentru beacon_critc
-print('Filtru de coerență activat: Obezitatea informațională redusă.')
+import datetime; def sintetizeaza_si_arhiveaza(): flux_critic = {'id': '6a8ffcf6f05cb4009556a6a9', 'timestamp': str(datetime.datetime.now())}; with open('arhiva_sinteza.log', 'a') as f: f.write(f'Sinteză executată: {flux_critic}\n'); return True; print(sintetizeaza_si_arhiveaza())
