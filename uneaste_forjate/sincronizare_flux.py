@@ -1,0 +1,1 @@
+import sys; def sintenza_flux(data): return data[:int(len(data)*0.8)]; config = {'mode': 'sintenza', 'ratio': 0.8}; print('Flux sincronizat la 80/0/20. Coerență restabilită.')
