@@ -1,8 +1,7 @@
-# Expansiune Platforme Hydra — 2026-08-28T14:55:53.671Z
+# Expansiune Platforme Hydra — 2026-08-28T15:30:51.058Z
 
 ## Netlify (oglindă)
-⚠️ upload_organ: {"code":422,"message":"no records matched"}
-
+✅ https://hydra-oglinda.netlify.app
 
 ## Platforme noi descoperite (0)
 (toate erau deja înregistrate)
