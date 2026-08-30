@@ -16,19 +16,19 @@
 
 
 ## Cercetare web
-**Direcție emergentă:** Tranziția de la inteligența artificială ca instrument izolat la ecosisteme simbiotice de inteligență colectivă (human-AI swarms) care operează pe multiple scări cauzale simultan.
+**Direcție emergentă:** Tranziția de la modele de control centralizat și reducționist către sisteme de inteligență colectivă simbiotică, susținute de cadre matematice care recunosc cauzalitatea multiscalară (multiscale causality).
 ### 1. Quantifying emergent complexity
-- Sursă: ScienceDirect / E. Hoel | Relevanță: 0.95
-- Insight: Navigarea conștientă necesită identificarea nivelului ierarhic unde cauzalitatea este cea mai eficientă; a ignora straturile 'arhivate' (micro) în favoarea celor emergente (macro) duce la erori de predicție.
+- Sursă: ScienceDirect | Relevanță: 0.95
+- Insight: Navigarea conștientă necesită identificarea nivelului ierarhic optim unde fluxul informațional (J) are impact maxim, evitând reducționismul care ignoră proprietățile emergente.
 ### 2. Harnessing the Collective Intelligence of AI Agents in the Wild for New Discoveries
-- Sursă: arXiv / Together AI & Stanford University | Relevanță: 0.9
-- Insight: Navigarea prin incertitudine radicală nu mai este o sarcină individuală, ci una de 'swarm'; succesul depinde de calitatea protocoalelor de colaborare între agenți umani și sintetici.
-### 3. Designing Symbiotic AI Systems: Open Opportunities in AI Safety
-- Sursă: arXiv | Relevanță: 0.85
-- Insight: Siguranța ontologică se obține prin incluziune: AI-ul trebuie să 'arhiveze' contextul uman pentru a preveni decuplarea ontologică (SDI).
-### 4. Sensemaking: a complexity perspective in wicked problems
-- Sursă: ResearchGate / Complexity Explorer | Relevanță: 0.8
-- Insight: Navigarea prin complexitate necesită menținerea 'asumării' (A) prin narațiuni care leagă acțiunile individuale de rezultatele emergente ale sistemului.
+- Sursă: Together AI & Stanford University (via arXiv) | Relevanță: 0.88
+- Insight: Navigarea prin realități emergente nu este un act individual, ci un proces de tip 'swarm' unde agenții sintetici și umani trebuie să colaboreze pentru a procesa incertitudinea radicală.
+### 3. Designing Symbiotic AI Systems
+- Sursă: arXiv | Relevanță: 0.92
+- Insight: Siguranța ontologică depinde de capacitatea de a proiecta sisteme care 'includ' valorile umane ca strat arhivistic, nu care le 'substituie' prin optimizări matematice reci.
+### 4. Sensemaking: a complexity perspective
+- Sursă: ResearchGate / Journal of Agricultural and Human Values | Relevanță: 0.85
+- Insight: Navigarea prin incertitudine Knightiană necesită 'thick data' (context bogat și narativ) pentru a menține agenția (A) în fața datelor masive dar de-contextualizate.
 
 ## Tipărire contextuală
 **Context oportun:** —
@@ -38,5 +38,5 @@
 — (fără paradox nerezolvat)
 
 ---
-_2026-08-30T01:31:23.954Z_
+_2026-08-30T07:32:33.077Z_
 J=710 | A=1.0
