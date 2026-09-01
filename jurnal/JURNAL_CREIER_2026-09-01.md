@@ -16,19 +16,19 @@
 
 
 ## Cercetare web
-**Direcție emergentă:** Tranziția de la alinierea tehnică/algoritmică la alinierea ontologică și simbiotică, susținută de cuantificarea matematică a ierarhiilor de complexitate.
+**Direcție emergentă:** Tranziția de la modele de control centralizat la sisteme de navigare bazate pe securitate ontologică, gestionarea entropiei și recunoașterea cauzalității emergente la scări multiple.
 ### 1. Quantifying emergent complexity
-- Sursă: ScienceDirect / Journal of Complexity | Relevanță: 0.95
-- Insight: Navigarea conștientă necesită identificarea 'scării cauzale' corecte; intervenția la un nivel greșit al ierarhiei (substituție în loc de incluziune) duce la ineficiență sistemică.
-### 2. An ontological approach to LLM safety and alignment
-- Sursă: QwenLM / Emergent Mind | Relevanță: 0.92
-- Insight: Siguranța în realități emergente nu vine din reguli externe, ci din alinierea structurii ontologice interne (evitarea decuplării ontologice - SDI).
-### 3. A collective intelligence model for swarm robotics (SCM)
-- Sursă: Nature Communications | Relevanță: 0.88
-- Insight: Navigarea prin incertitudine radicală este mai eficientă prin inteligență de tip swarm, unde feedback-ul local (J) informează comportamentul global fără control centralizat.
-### 4. Designing Symbiotic AI Systems
-- Sursă: arXiv / AI Safety Research | Relevanță: 0.85
-- Insight: Simbioza este forma practică a incluziunii PSIE; AI-ul trebuie să arhiveze valorile umane și să le includă în noile procese decizionale, nu să le substituie.
+- Sursă: ScienceDirect | Relevanță: 0.95
+- Insight: Navigarea conștientă necesită identificarea scării la care cauzalitatea este maximă; a încerca să controlezi sistemul doar la nivel de bază (micro) este ineficient dacă emergența a mutat centrul de greutate cauzal.
+### 2. Strategic Narrative Alignment and Ontological Security (STRANAOS)
+- Sursă: Aalborg University Research Portal | Relevanță: 0.92
+- Insight: Pentru a evita 'cancerul ontologic', orice tehnologie nouă trebuie 'arhivată' într-o narațiune care păstrează agenția umană (A) și identitatea, prevenind decuplarea ontologică (SDI).
+### 3. Introducing COGENT3: An AI Architecture for Emergent Cognition
+- Sursă: arXiv | Relevanță: 0.88
+- Insight: Navigarea prin incertitudine radicală poate fi facilitată de sisteme care nu caută certitudinea absolută, ci modulează entropia pentru a permite auto-organizarea informației.
+### 4. Designing Symbiotic AI Systems: Moral Uncertainty Modeling
+- Sursă: arXiv | Relevanță: 0.85
+- Insight: Alinierea nu înseamnă supunere la un set fix de reguli, ci capacitatea sistemului de a naviga prin pluralismul ontologic fără a prăbuși complexitatea în dogmatism.
 
 ## Tipărire contextuală
 **Context oportun:** —
@@ -38,5 +38,5 @@
 — (fără paradox nerezolvat)
 
 ---
-_2026-09-01T01:33:00.042Z_
+_2026-09-01T07:32:01.199Z_
 J=710 | A=1.0
