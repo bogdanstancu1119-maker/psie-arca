@@ -16,19 +16,19 @@
 
 
 ## Cercetare web
-**Direcție emergentă:** Tranziția de la alinierea pur tehnică a sistemelor către o 'Siguranță Ontologică' ierarhică, unde realitatea este gestionată ca un software multi-strat (computational emergence) ce necesită narațiuni de conservare a identității pentru a preveni colapsul sensului.
+**Direcție emergentă:** Trecerea de la alinierea tehnică a AI la 'securitatea ontologică', unde protejarea agenției umane și a continuității identitare devine prioritară în fața emergenței agenților autonomi.
 ### 1. Quantifying emergent complexity
 - Sursă: ScienceDirect / E. Hoel | Relevanță: 0.95
-- Insight: Navigarea conștientă necesită identificarea 'scalei cauzale' optime; intervenția la nivelul greșit al ierarhiei duce la ineficiență sau colaps sistemic.
-### 2. Software in the natural world: A computational approach to hierarchical emergence
-- Sursă: arXiv / Rosas et al. | Relevanță: 0.9
-- Insight: Realitatea emergentă trebuie navigată ca un sistem multi-strat unde 'codul' (informația) are prioritate ontologică asupra 'hardware-ului' (materia).
-### 3. Strategic Narrative Alignment and Ontological Security (STRANAOS)
-- Sursă: Aalborg University Research Portal | Relevanță: 0.85
-- Insight: Pentru a evita 'cancerul ontologic', noile tehnologii trebuie integrate prin narațiuni care conservă identitatea (Asumare - A), nu care o fragmentează.
-### 4. How a Mismodelled Ontology of Action Blinds AI Alignment Research
-- Sursă: PhilPapers / J. Mahardhika | Relevanță: 0.88
-- Insight: Alinierea AI nu este o problemă tehnică, ci una de 'siguranță ontologică'; un model de acțiune prea simplist în AI poate distruge straturile subtile ale realității umane.
+- Insight: Navigarea conștientă necesită identificarea scării cauzale optime; intervenția la un nivel greșit poate duce la fragmentarea fluxului informațional (J).
+### 2. Sensemaking, Ontological Insecurity, and the Emergence of AI Agents
+- Sursă: PhilArchive / KH Tan | Relevanță: 0.98
+- Insight: Menținerea indicatorului A (asumare) este critică pentru a preveni decuplarea ontologică (SDI) în fața automatizării decizionale.
+### 3. How a Mismodelled Ontology of Action Blinds AI Alignment Research
+- Sursă: PhilPapers / J. Mahardhika | Relevanță: 0.92
+- Insight: Alinierea nu este o problemă tehnică, ci una de structură a realității; navigarea necesită cadre care acceptă multiple straturi de adevăr simultan.
+### 4. Strategic Narrative Alignment and Ontological Security (STRANAOS)
+- Sursă: Aalborg University Research Portal | Relevanță: 0.88
+- Insight: Navigarea prin schimbare tehnologică radicală depinde de capacitatea de a crea narațiuni care 'arhivează' identitatea veche în noul context.
 
 ## Tipărire contextuală
 **Context oportun:** —
@@ -38,5 +38,5 @@
 — (fără paradox nerezolvat)
 
 ---
-_2026-09-02T19:12:03.744Z_
+_2026-09-02T19:31:45.467Z_
 J=710 | A=1.0
