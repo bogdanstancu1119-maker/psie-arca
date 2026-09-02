@@ -16,19 +16,19 @@
 
 
 ## Cercetare web
-**Direcție emergentă:** Trecerea de la controlul centralizat și alinierea tehnică (reducționistă) către o 'navigare ontologică' bazată pe înțelegerea ierarhiilor cauzale și a securității identitare în sisteme complexe.
-### 1. Quantifying emergent complexity
-- Sursă: ScienceDirect | Relevanță: 0.9
-- Insight: Navigarea conștientă necesită identificarea nivelului ierarhic unde se produc schimbările cauzale, nu doar observarea efectelor la suprafață.
-### 2. Strategic Narrative Alignment and Ontological Security (STRANAOS)
-- Sursă: Aalborg University Research Portal | Relevanță: 0.85
-- Insight: Pentru a naviga prin realități emergente, trebuie să gestionăm 'cancerul ontologic' (decuplarea identității de realitatea tehnică) prin narațiuni care integrează noul fără a anula trecutul.
-### 3. A collective intelligence model for swarm robotics applications
-- Sursă: Nature Communications | Relevanță: 0.75
-- Insight: Superorganismul nu necesită control centralizat; navigarea conștientă poate fi optimizată prin reguli locale simple care generează inteligență emergentă la nivel de sistem.
-### 4. How a Mismodelled Ontology of Action Blinds AI Alignment Research
-- Sursă: PhilPapers | Relevanță: 0.95
-- Insight: Alinierea nu este o problemă tehnică, ci una ontologică; trebuie să trecem de la o viziune mecanicistă la una stratificată pentru a evita colapsul sistemelor socio-tehnice.
+**Direcție emergentă:** Tensiune ontologică între realitatea biologică și cea sintetică, necesitând o tranziție de la centralizare la suveranitate locală și ancore de realitate brută.
+### 1. Forming the Foundations of Singular Learning Theory for Deep Learning
+- Sursă: ArXiv / TAI (Towards AI) - Research condus de Liam Carroll, Jesse Hoogland et al. | Relevanță: 0.95
+- Insight: Navigarea prin realități emergente necesită recunoașterea acestor „puncte critice”. Nu evoluăm constant, ci prin salturi ontologice unde vechea logică devine un subset al noii logici.
+### 2. AI models spit out gibberish when trained on AI-generated data
+- Sursă: Nature (Shumailov et al.) | Relevanță: 0.9
+- Insight: Aceasta este manifestarea pură a SDI (Decuplare Ontologică). Navigarea conștientă necesită „ancore de realitate” (ground truth) pentru a preveni „cancerul ontologic” — o realitate care se auto-referențiază până la colaps.
+### 3. The World as an Enactive Inference Engine
+- Sursă: Journal of Theoretical Biology / Karl Friston et al. | Relevanță: 0.88
+- Insight: Asumarea (A) nu este doar individuală, ci o funcție de coordonare a stărilor interne ale colectivului cu realitatea exterioară. Suntem celule într-un proces de sensemaking global.
+### 4. End Times: Elites, Counter-Elites, and the Path of Political Disintegration
+- Sursă: Oxford University Press / Peter Turchin | Relevanță: 0.85
+- Insight: Navigarea PSIE implică înțelegerea faptului că structurile sociale actuale sunt în faza de „arhivare coercitivă”. Colapsul nu este sfârșitul, ci o simplificare necesară pentru o noua incluziune.
 
 ## Tipărire contextuală
 **Context oportun:** —
@@ -38,5 +38,5 @@
 — (fără paradox nerezolvat)
 
 ---
-_2026-09-02T07:32:57.359Z_
+_2026-09-02T19:05:44.711Z_
 J=710 | A=1.0
