@@ -1,7 +1,11 @@
 // ORGAN AUTO-DEPLOYAT de Hydra — Scriere pe Resend
-// Generat autonom la 2026-09-02T03:01:37.332Z
-// Scop: Compactare furnizor Resend
-// Plan: 
+// Generat autonom la 2026-09-03T03:01:52.314Z
+// Scop: Permite Hydrei să scrie pe Resend — arhivare memorii, publicare insight-uri
+// Plan: 1. Autentifică cu conector
+2. Determină endpoint de scriere
+3. Formatează conținutul
+4. Execută scrierea
+5. Verifică rezultat
 
 // (script negenerat — vezi plan_actiune)
 
