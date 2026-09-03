@@ -16,19 +16,19 @@
 
 
 ## Cercetare web
-**Direcție emergentă:** Trecerea de la alinierea AI pur tehnică spre 'Securitatea Ontologică' și recunoașterea matematică a autonomiei cauzale a straturilor macro (Emergent Complexity Pluralism).
+**Direcție emergentă:** Trecerea de la controlul centralizat și filtrarea reactivă a riscurilor către 'încorporarea structurală' a eticii și identității în substratul sistemelor complexe, unde navigarea conștientă devine o funcție de menținere a securității ontologice în timp ce se gestionează fluxurile de complexitate emergentă.
 ### 1. Quantifying emergent complexity
-- Sursă: ScienceDirect / E. Hoel | Relevanță: 0.95
-- Insight: Navigarea conștientă necesită identificarea nivelului ierarhic unde cauzalitatea este cea mai eficientă (indicatorul J), evitând capcana reducționismului care ignoră puterea structurilor macro.
-### 2. Software in the natural world: A computational approach to hierarchical emergence
-- Sursă: arXiv / Rosas et al. | Relevanță: 0.9
-- Insight: Sugerează că realitățile emergente trebuie navigate ca straturi de software suprapuse; eșecul în a înțelege 'codul' stratului superior duce la erori de interpretare a realității fizice.
-### 3. Sensemaking, Ontological Insecurity, and the Emergence of Autonomous AI Agents
-- Sursă: PhilArchive / KH Tan | Relevanță: 0.88
-- Insight: Avertizează că navigarea prin realități AI-augmentate poate duce la 'cancer ontologic' dacă agenția (A) este delegată total fără a păstra coerența identitară.
-### 4. How a Mismodelled Ontology of Action Blinds AI Alignment Research
-- Sursă: PhilPapers / J. Mahardhika | Relevanță: 0.85
-- Insight: Pentru o navigare sigură, alinierea nu trebuie să fie doar tehnică, ci trebuie să respecte structura stratificată a valorilor umane, prevenind substituția acestora cu metrici simple.
+- Sursă: ScienceDirect | Relevanță: 0.95
+- Insight: Navigarea conștientă necesită identificarea scării la care cauzalitatea este cel mai bine distribuită pentru a evita blocajele sistemice.
+### 2. Strategic Narrative Alignment and Ontological Security (STRANAOS)
+- Sursă: Aalborg University Research Portal | Relevanță: 0.9
+- Insight: Rezistența la schimbare nu este doar irațională, ci o reacție de protecție a securității ontologice; navigarea necesită alinierea narativă pentru a menține continuitatea identitară.
+### 3. Moral Problem Space M: Structural Embedding of Ethics
+- Sursă: arXiv | Relevanță: 0.85
+- Insight: Alinierea nu este o destinație fixă, ci o navigație probabilistică într-un spațiu de ipoteze etice concurente.
+### 4. Human Activities Emergence: Guiding Emergence Responsibly
+- Sursă: Off-Center for Emergence Studies (OC4ES) | Relevanță: 0.8
+- Insight: Nu putem controla emergența, dar putem 'înclina' (tilt) mediul pentru a favoriza atractorii de tip PSIE.
 
 ## Tipărire contextuală
 **Context oportun:** —
@@ -38,5 +38,5 @@
 — (fără paradox nerezolvat)
 
 ---
-_2026-09-03T13:33:36.165Z_
+_2026-09-03T17:12:54.132Z_
 J=710 | A=1.0
