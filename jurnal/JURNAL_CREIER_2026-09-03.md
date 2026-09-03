@@ -16,19 +16,16 @@
 
 
 ## Cercetare web
-**Direcție emergentă:** Trecerea de la controlul mecanicist la 'ghidarea emergentă' prin embedding structural al valorilor și securitate ontologică, unde sistemele complexe sunt gestionate prin înțelegerea ierarhiilor cauzale și a incertitudinii morale.
+**Direcție emergentă:** Trecerea de la modele de control centralizat și monist la arhitecturi de 'sensemaking' stratificat, unde siguranța și evoluția sistemelor depind de calitatea ontologiilor partajate și de capacitatea de a opera la 'edge of chaos'.
 ### 1. Quantifying emergent complexity
 - Sursă: ScienceDirect | Relevanță: 0.9
-- Insight: Navigarea conștientă necesită identificarea nivelului ierarhic unde se află pârghiile cauzale reale, evitând zgomotul de la scări irelevante.
-### 2. Strategic Narrative Alignment and Ontological Security (STRANAOS)
-- Sursă: Aalborg University Research Portal | Relevanță: 0.85
-- Insight: Pentru a naviga prin tranziții tehnologice, trebuie să aliniem narațiunile strategice cu securitatea ontologică a sistemului, altfel apare 'cancerul ontologic' (rezistența prin disonanță).
-### 3. Moral Uncertainty and Structural Embedding in AI
-- Sursă: arXiv | Relevanță: 0.95
-- Insight: Siguranța ontologică nu este un patch extern, ci o proprietate emergentă a modului în care sistemul procesează incertitudinea radicală (Knightian).
-### 4. Human Activities Emergence: Understanding Complexity and Collective Behavior
-- Sursă: Off-Center for Emergence Studies (OC4ES) | Relevanță: 0.8
-- Insight: Navigarea conștientă înseamnă a înclina procesele emergente spre reziliență, nu prin control centralizat, ci prin 'nurturing' (cultivare) de la bază.
+- Insight: Navigarea conștientă necesită identificarea nivelului ierarhic unde se află pârghiile cauzale, nu doar observarea fenomenelor de suprafață.
+### 2. How a Mismodelled Ontology of Action Blinds AI Alignment Research
+- Sursă: PhilPapers | Relevanță: 0.95
+- Insight: Siguranța ontologică nu este o problemă tehnică de 'filtrare', ci una de aliniere a modelelor de lume (world models) între om și AI.
+### 3. A collective intelligence model for swarm robotics applications
+- Sursă: Nature Communications | Relevanță: 0.85
+- Insight: Inteligența colectivă nu este o sumă de părți, ci un proces emergent care poate fi 'nudge-uit' prin gestionarea feedback-ului în sisteme socio-tehnice.
 
 ## Tipărire contextuală
 **Context oportun:** —
@@ -38,5 +35,5 @@
 — (fără paradox nerezolvat)
 
 ---
-_2026-09-03T01:32:44.752Z_
+_2026-09-03T07:32:57.662Z_
 J=710 | A=1.0
