@@ -16,19 +16,19 @@
 
 
 ## Cercetare web
-**Direcție emergentă:** Trecerea de la modelele de control mecanicist și emergență exclusiv reductivă către cadre ontologice stratificate, unde menținerea securității ontologice, a agenției umane și proiecția din modele superioare de coerență colectivă devin condiții esențiale pentru navigarea prin tranziții socio-tehnice complexe.
-### 1. Strategic Narrative Alignment and Ontological Security lenses for Digitalisation and AI adoption – A diagnostic framework
-- Sursă: Aalborg University / LINAS Conference | Relevanță: 0.95
-- Insight: Navigarea conștientă prin salturi tehnologice impune conservarea securității ontologice a agenților. Substituția bruscă fără arhivare narativă și fără conservarea rolului activ produce anxietate existențială, fragmentare și respingere sistemică.
-### 2. Collective Intelligence as Geometric Projection: Swarm Dynamics in the Timeless Counterspace & Shadow Gravity Framework
-- Sursă: Preprints.org | Relevanță: 0.92
-- Insight: Navigarea prin superorganisme și rețele distribuite necesită recunoașterea faptului că întregul este anterior ontologic părților; coordonarea colectivă eficientă operează prin citirea și proiecția câmpului informațional comun, nu prin control secvențial atomic.
-### 3. Sensemaking and Sensebreaking in Complexity: A discursive approach between business, government, and society
-- Sursă: Journal for International DBA Studies | Relevanță: 0.88
-- Insight: Navigarea adaptivă solicită un echilibru între decuplarea controlată de ipotezele caduce și generarea incluzivă de sens nou, arhivând experiențele trecute ca straturi de sprijin pentru noile decizii.
-### 4. A collective intelligence model for swarm robotics applications
-- Sursă: Nature Communications | Relevanță: 0.86
-- Insight: Menținerea sistemelor adaptive la granița haosului (edge of chaos) permite reactivitate optimă fără rigidizare birocratică și fără disoluție entropică.
+**Direcție emergentă:** Trecerea paradigmatică de la 'emergență de jos în sus' la modele geometrice proiective de tip holarhic/top-down, cuplată cu o recunoaștere critică a faptului că decuplarea ontologică provocată de automatizarea simbolică amenință coerența colectivă dacă procesele de sensemaking nu sunt ancorate conștient.
+### 1. Collective Intelligence as Geometric Projection: Swarm Dynamics in the Timeless Counterspace & Shadow Gravity Framework
+- Sursă: Preprints.org (doi: 10.20944/preprints202512.1198) | Relevanță: 0.95
+- Insight: Pentru navigarea conștientă, acest model arată că încercarea de a guverna complexitatea doar manipulând agenții individuali este o iluzie epistemică. Navigarea optimă necesită acordarea la potențialul geometric proiectiv și identificarea pragurilor de decuplare (decoherence thresholds) când mediul se schimbă prea rapid pentru a menține curbura de proiecție.
+### 2. A collective intelligence model for swarm robotics applications
+- Sursă: Nature Communications (Nat Commun 16, 6572) | Relevanță: 0.88
+- Insight: Navigarea prin incertitudine radicală cere operarea deliberată la marginea haosului, unde flexibilitatea decizională a colectivului maximizează capacitatea de adaptare fără pierderea coeziunii structurale.
+### 3. Sensemaking, Ontological Insecurity, and the Emergence of Autonomous AI Agents
+- Sursă: PhilArchive | Relevanță: 0.92
+- Insight: Avertizează că navigarea nu poate fi externalizată complet către sisteme automate fără a declanșa 'cancer ontologic'. Menținerea conștiinței umane în buclă și asumarea (A) sunt obligatorii pentru ancorarea sensului în realitate.
+### 4. Sense‐making, sensemaking and sense making—A systematic review and meta‐synthesis of literature in information science and education
+- Sursă: Journal of the Association for Information Science and Technology (JASIST) | Relevanță: 0.82
+- Insight: În condiții de complexitate ridicată și incertitudine de tip Knightian, navigarea conștientă nu poate începe cu planuri rigide, ci cu micro-experimente menite să releve topologia terenului emergent înainte de asumarea unor traiectorii ireversibile.
 
 ## Tipărire contextuală
 **Context oportun:** —
@@ -38,5 +38,5 @@
 — (fără paradox nerezolvat)
 
 ---
-_2026-09-04T07:32:38.197Z_
+_2026-09-04T13:33:16.217Z_
 J=710 | A=1.0
