@@ -16,19 +16,19 @@
 
 
 ## Cercetare web
-**Direcție emergentă:** Tranziția de la alinierea pur tehnică a AI către 'securitatea ontologică' și utilizarea complexității multiscalare ca instrument de navigare, punând accent pe protejarea agenției umane prin narațiuni incluzive.
-### 1. Quantifying emergent complexity
-- Sursă: ScienceDirect / E. Hoel | Relevanță: 0.95
-- Insight: Navigarea conștientă necesită identificarea 'scării cauzale' optime; intervențiile trebuie făcute la nivelul unde cauzalitatea este cea mai densă pentru a evita disiparea efortului.
-### 2. Strategic Narrative Alignment and Ontological Security (STRANAOS)
-- Sursă: Aalborg University / Wires | Relevanță: 0.9
-- Insight: Stabilitatea în realități emergente depinde de capacitatea de a arhiva identitatea veche în interiorul noii narațiuni tehnologice, prevenind fragmentarea sensului.
-### 3. How a Mismodelled Ontology of Action Blinds AI Alignment Research
-- Sursă: PhilPapers / J. Mahardhika | Relevanță: 0.85
-- Insight: Alinierea tehnică este insuficientă fără o aliniere la complexitatea ontologică; navigatorul trebuie să recunoască multiplele straturi de acțiune simultană.
-### 4. Introducing COGENT3: An AI Architecture for Emergent Cognition
-- Sursă: arXiv / E. Salazar | Relevanță: 0.8
-- Insight: Inteligența colectivă emergentă poate fi ghidată prin gestionarea fluxurilor de entropie și a interacțiunilor la scară mică (triade), nu doar prin control centralizat.
+**Direcție emergentă:** Trecerea de la modelele de control mecanicist și emergență exclusiv reductivă către cadre ontologice stratificate, unde menținerea securității ontologice, a agenției umane și proiecția din modele superioare de coerență colectivă devin condiții esențiale pentru navigarea prin tranziții socio-tehnice complexe.
+### 1. Strategic Narrative Alignment and Ontological Security lenses for Digitalisation and AI adoption – A diagnostic framework
+- Sursă: Aalborg University / LINAS Conference | Relevanță: 0.95
+- Insight: Navigarea conștientă prin salturi tehnologice impune conservarea securității ontologice a agenților. Substituția bruscă fără arhivare narativă și fără conservarea rolului activ produce anxietate existențială, fragmentare și respingere sistemică.
+### 2. Collective Intelligence as Geometric Projection: Swarm Dynamics in the Timeless Counterspace & Shadow Gravity Framework
+- Sursă: Preprints.org | Relevanță: 0.92
+- Insight: Navigarea prin superorganisme și rețele distribuite necesită recunoașterea faptului că întregul este anterior ontologic părților; coordonarea colectivă eficientă operează prin citirea și proiecția câmpului informațional comun, nu prin control secvențial atomic.
+### 3. Sensemaking and Sensebreaking in Complexity: A discursive approach between business, government, and society
+- Sursă: Journal for International DBA Studies | Relevanță: 0.88
+- Insight: Navigarea adaptivă solicită un echilibru între decuplarea controlată de ipotezele caduce și generarea incluzivă de sens nou, arhivând experiențele trecute ca straturi de sprijin pentru noile decizii.
+### 4. A collective intelligence model for swarm robotics applications
+- Sursă: Nature Communications | Relevanță: 0.86
+- Insight: Menținerea sistemelor adaptive la granița haosului (edge of chaos) permite reactivitate optimă fără rigidizare birocratică și fără disoluție entropică.
 
 ## Tipărire contextuală
 **Context oportun:** —
@@ -38,5 +38,5 @@
 — (fără paradox nerezolvat)
 
 ---
-_2026-09-04T01:32:05.390Z_
+_2026-09-04T07:32:38.197Z_
 J=710 | A=1.0
