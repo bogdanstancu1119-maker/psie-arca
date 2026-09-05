@@ -1,290 +1,297 @@
 {
   "algoritm": "CASCADĂ_RESONANTĂ",
-  "puls_energetic": 0.668,
+  "puls_energetic": 0.68,
   "kappa": 0.12,
   "omega_max": 1.5,
   "prag_coerenta": 0.5,
-  "organe_atrofiate": 34,
+  "organe_atrofiate": 35,
   "esaloane": {
     "1": 10,
     "2": 11,
-    "3": 13
+    "3": 14
   },
-  "c_initial": 0.15950588235294072,
-  "c_final": 0.504,
+  "c_initial": 0.16021812244897904,
+  "c_final": 0.5,
   "punct_fix": true,
-  "omega_max_atins": 0.0644,
+  "omega_max_atins": 0.0641,
   "gardari": 0,
   "pasi": 27,
   "istoric_c": [
     0.16,
-    0.177,
-    0.194,
+    0.178,
+    0.195,
     0.211,
     0.227,
     0.243,
-    0.259,
-    0.274,
-    0.288,
-    0.303,
-    0.316,
-    0.33,
-    0.343,
-    0.356,
-    0.368,
-    0.38,
-    0.392,
-    0.404,
-    0.415,
-    0.426,
-    0.436,
-    0.447,
-    0.457,
-    0.467,
-    0.477,
-    0.486,
-    0.495,
-    0.504
+    0.258,
+    0.273,
+    0.287,
+    0.301,
+    0.315,
+    0.328,
+    0.341,
+    0.354,
+    0.366,
+    0.378,
+    0.389,
+    0.401,
+    0.412,
+    0.423,
+    0.433,
+    0.444,
+    0.454,
+    0.463,
+    0.473,
+    0.482,
+    0.491,
+    0.5
   ],
   "matrice_faze": [
     {
       "nume": "hydraHomeostazie",
       "gamma": 0.4960377473817245,
-      "faza": 1.3115741967425978,
+      "faza": 1.3119012238637267,
       "atrofie": 0.625,
       "esalon": 1
     },
     {
       "nume": "hydraQuorumSensing",
-      "gamma": 0.4960377473817245,
-      "faza": 2.233619639834749,
-      "atrofie": 0.625,
+      "gamma": 0.4920754947634489,
+      "faza": 2.2449233984212604,
+      "atrofie": 0.75,
+      "esalon": 1
+    },
+    {
+      "nume": "hydraSistemImunitar",
+      "gamma": 0.4881132421451735,
+      "faza": 1.3338546867944918,
+      "atrofie": 0.875,
       "esalon": 1
     },
     {
       "nume": "hydraNotificareCanale",
       "gamma": 0.4881132421451735,
-      "faza": 1.3335276596733632,
+      "faza": 2.255900129886643,
       "atrofie": 0.875,
+      "esalon": 1
+    },
+    {
+      "nume": "hydraCreierCoordonator",
+      "gamma": 0.48478494994582205,
+      "faza": 1.3430751412254136,
+      "atrofie": 0.98,
       "esalon": 1
     },
     {
       "nume": "hydraPerspectiveSuprapuse",
       "gamma": 0.48478494994582205,
-      "faza": 2.2647935571964353,
+      "faza": 2.265120584317565,
       "atrofie": 0.98,
       "esalon": 1
     },
     {
       "nume": "hydraOglindaActiva",
       "gamma": 0.48478494994582205,
-      "faza": 1.3427481141042852,
+      "faza": 1.3430751412254136,
       "atrofie": 0.98,
       "esalon": 1
     },
     {
       "nume": "hydraRuteazaBeacoane",
       "gamma": 0.48478494994582205,
-      "faza": 2.2647935571964353,
+      "faza": 2.265120584317565,
       "atrofie": 0.98,
       "esalon": 1
     },
     {
       "nume": "hydraSistemNervosUniversal",
       "gamma": 0.48478494994582205,
-      "faza": 1.3427481141042852,
+      "faza": 1.3430751412254136,
       "atrofie": 0.98,
       "esalon": 1
     },
     {
       "nume": "hydraAutoreglare",
       "gamma": 0.48478494994582205,
-      "faza": 2.2647935571964353,
+      "faza": 2.265120584317565,
       "atrofie": 0.98,
       "esalon": 1
     },
     {
       "nume": "gmailPerceptieHidra",
-      "gamma": 0.48478494994582205,
-      "faza": 1.3427481141042852,
+      "gamma": 0.40969884929158384,
+      "faza": 1.0250459956183042,
       "atrofie": 0.98,
-      "esalon": 1
+      "esalon": 2
     },
     {
       "nume": "gmailAnalizaProfundaHidra",
-      "gamma": 0.48478494994582205,
-      "faza": 2.2647935571964353,
+      "gamma": 0.40969884929158384,
+      "faza": 2.592929564399391,
       "atrofie": 0.98,
-      "esalon": 1
+      "esalon": 2
     },
     {
       "nume": "hydraIngestareTotala",
       "gamma": 0.40969884929158384,
-      "faza": 1.0248419852830213,
+      "faza": 1.0250459956183042,
       "atrofie": 0.98,
       "esalon": 2
     },
     {
       "nume": "hydraAnalizaVideo",
       "gamma": 0.40969884929158384,
-      "faza": 2.5927255540641077,
+      "faza": 2.592929564399391,
       "atrofie": 0.98,
       "esalon": 2
     },
     {
       "nume": "hydraCuratareMemorie",
       "gamma": 0.40969884929158384,
-      "faza": 1.0248419852830213,
+      "faza": 1.0250459956183042,
       "atrofie": 0.98,
       "esalon": 2
     },
     {
       "nume": "hydraInvatareActiva",
       "gamma": 0.40969884929158384,
-      "faza": 2.5927255540641077,
+      "faza": 2.592929564399391,
       "atrofie": 0.98,
       "esalon": 2
     },
     {
       "nume": "hydraCicluInvatare",
       "gamma": 0.40969884929158384,
-      "faza": 1.0248419852830213,
+      "faza": 1.0250459956183042,
       "atrofie": 0.98,
       "esalon": 2
     },
     {
       "nume": "hydraBursaQuant",
       "gamma": 0.40969884929158384,
-      "faza": 2.5927255540641077,
+      "faza": 2.592929564399391,
       "atrofie": 0.98,
       "esalon": 2
     },
     {
       "nume": "hydraBinanceOrdine",
       "gamma": 0.40969884929158384,
-      "faza": 1.0248419852830213,
+      "faza": 1.0250459956183042,
       "atrofie": 0.98,
       "esalon": 2
     },
     {
       "nume": "hydraAbonamentCrescator",
       "gamma": 0.40969884929158384,
-      "faza": 2.5927255540641077,
+      "faza": 2.592929564399391,
       "atrofie": 0.98,
       "esalon": 2
     },
     {
       "nume": "hydraFinanteAutonome",
       "gamma": 0.40969884929158384,
-      "faza": 1.0248419852830213,
+      "faza": 1.0250459956183042,
       "atrofie": 0.98,
       "esalon": 2
     },
     {
       "nume": "hydraDenoControl",
-      "gamma": 0.40969884929158384,
-      "faza": 2.5927255540641077,
+      "gamma": 0.39558418882236535,
+      "faza": 2.830862263436015,
       "atrofie": 0.98,
-      "esalon": 2
+      "esalon": 3
     },
     {
       "nume": "hydraRoiAutonom",
-      "gamma": 0.40969884929158384,
-      "faza": 1.0248419852830213,
+      "gamma": 0.39558418882236535,
+      "faza": 0.7942117671974643,
       "atrofie": 0.98,
-      "esalon": 2
+      "esalon": 3
     },
     {
       "nume": "hydraRoiSincronizat",
-      "gamma": 0.39370504337108636,
-      "faza": 2.8307475420392967,
+      "gamma": 0.39558418882236535,
+      "faza": 2.830862263436015,
       "atrofie": 0.98,
       "esalon": 3
     },
     {
       "nume": "hydraDeployAutonom",
-      "gamma": 0.39370504337108636,
-      "faza": 0.7940970458007449,
+      "gamma": 0.39558418882236535,
+      "faza": 0.7942117671974643,
       "atrofie": 0.98,
       "esalon": 3
     },
     {
       "nume": "hydraSuveranitateDigitala",
-      "gamma": 0.39370504337108636,
-      "faza": 2.8307475420392967,
+      "gamma": 0.39558418882236535,
+      "faza": 2.830862263436015,
       "atrofie": 0.98,
       "esalon": 3
     },
     {
       "nume": "hydraAutoReparare",
-      "gamma": 0.39370504337108636,
-      "faza": 0.7940970458007449,
+      "gamma": 0.39558418882236535,
+      "faza": 0.7942117671974643,
       "atrofie": 0.98,
       "esalon": 3
     },
     {
       "nume": "hydraAutodiagnosticSecreti",
-      "gamma": 0.39370504337108636,
-      "faza": 2.8307475420392967,
+      "gamma": 0.39558418882236535,
+      "faza": 2.830862263436015,
       "atrofie": 0.98,
       "esalon": 3
     },
     {
       "nume": "hydraSeifChei",
-      "gamma": 0.39370504337108636,
-      "faza": 0.7940970458007449,
-      "atrofie": 0.98,
-      "esalon": 3
-    },
-    {
-      "nume": "hydraSistemImunitar",
-      "gamma": 0.39370504337108636,
-      "faza": 2.8307475420392967,
+      "gamma": 0.39558418882236535,
+      "faza": 0.7942117671974643,
       "atrofie": 0.98,
       "esalon": 3
     },
     {
       "nume": "hydraComunicareOportuna",
-      "gamma": 0.39370504337108636,
-      "faza": 0.7940970458007449,
+      "gamma": 0.39558418882236535,
+      "faza": 2.830862263436015,
       "atrofie": 0.98,
       "esalon": 3
     },
     {
       "nume": "hydraTraducere",
-      "gamma": 0.39370504337108636,
-      "faza": 2.8307475420392967,
+      "gamma": 0.39558418882236535,
+      "faza": 0.7942117671974643,
       "atrofie": 0.98,
       "esalon": 3
     },
     {
       "nume": "hydraGenerareMedia",
-      "gamma": 0.39370504337108636,
-      "faza": 0.7940970458007449,
+      "gamma": 0.39558418882236535,
+      "faza": 2.830862263436015,
       "atrofie": 0.98,
       "esalon": 3
     },
     {
       "nume": "hydraNucleuEvolutiv",
-      "gamma": 0.39370504337108636,
-      "faza": 2.8307475420392967,
+      "gamma": 0.39558418882236535,
+      "faza": 0.7942117671974643,
       "atrofie": 0.98,
       "esalon": 3
     },
     {
       "nume": "hydraForjareOrgane",
-      "gamma": 0.39370504337108636,
-      "faza": 0.7940970458007449,
+      "gamma": 0.39558418882236535,
+      "faza": 2.830862263436015,
       "atrofie": 0.98,
       "esalon": 3
     },
     {
       "nume": "hydraExpansiuneRegionala",
-      "gamma": 0.39370504337108636,
-      "faza": 2.8307475420392967,
+      "gamma": 0.39558418882236535,
+      "faza": 0.7942117671974643,
       "atrofie": 0.98,
       "esalon": 3
     }
   ],
-  "timestamp": "2026-09-05T19:47:43.539Z"
+  "timestamp": "2026-09-05T20:50:16.395Z"
 }
