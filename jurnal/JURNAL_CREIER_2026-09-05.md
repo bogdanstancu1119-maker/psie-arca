@@ -16,19 +16,16 @@
 
 
 ## Cercetare web
-**Direcție emergentă:** Trecerea de la modele mecaniciste de emergență bottom-up la viziuni geometrice de proiecție stratificată, cuplate cu o nevoie critică de cadre de sensemaking ontologic în fața expansiunii agenților AI autonomi.
-### 1. Collective Intelligence as Geometric Projection: Swarm Dynamics and the SEQUENTION Framework
-- Sursă: Preprints.org (TCGS-SEQUENTION Framework) | Relevanță: 0.95
-- Insight: Navigarea conștientă nu trebuie să încerce să asambleze părțile fragmentate de jos în sus, ci să recunoască straturile geometrice și invariantele de proiecție preexistente. Trecerea de la substituție la incluziune presupune înțelegerea că agenții individuali sunt expresii stratificate ale aceluiași potențial arhivistic.
-### 2. Sensemaking, Ontological Insecurity, and the Emergence of Autonomous AI Agents
-- Sursă: PhilArchive | Relevanță: 0.9
-- Insight: Pentru a naviga incertitudinea radicală, sistemele umane trebuie să își dezvolte reziliența de sens (sensemaking adaptativ), prevenind 'cancerul ontologic' în care tehnologia substituie fundamentele de semnificație în loc să le includă ca straturi suport.
-### 3. A Collective Intelligence Model for Swarm Robotics Applications in Multimodal and Marine Environments
+**Direcție emergentă:** Trecerea de la modele computaționale mecanicist-agregative la cadre proiective și ontologii distribuite: inteligența colectivă și sensemaking-ul prospectiv nu mai sunt privite ca simple reacții retrospective, ci ca procese de aliniere structurală la câmpuri informaționale de ordin superior.
+### 1. Collective Intelligence as Geometric Projection: Swarm Dynamics in the Timeless Counterspace & Shadow Gravity Framework
+- Sursă: Preprints.org / TCGS-SEQUENTION Framework | Relevanță: 0.94
+- Insight: Pentru navigarea conștientă, superorganismul și inteligența colectivă nu trebuie asamblate mecanic sau forțate prin agregare atomizată, ci recunoscute ca invariante geometrice preexistente. Navigarea devine o aliniere la câmpul proiectiv comun, reducând decuplarea ontologică prin sincronizare de fază.
+### 2. Prospective Sensemaking in the Front End of Innovation of AI Projects
+- Sursă: Research-Technology Management / Taylor & Francis | Relevanță: 0.88
+- Insight: Navigarea în incertitudine radicală necesită crearea deliberată de 'obiecte de graniță' (boundary objects) pentru a menține fluxul de sens deschis; altfel, sistemul suferă de decuplare ontologică funcțională (actorii se retrag din efortul colectiv de înțelegere, generând orbire sistemică).
+### 3. A collective intelligence model for swarm robotics applications
 - Sursă: Nature Communications | Relevanță: 0.85
-- Insight: Demonstrează că navigarea eficientă pe 'marginea haosului' într-un mediu ostil și dinamic necesită feedback loops scurte și coordonare descentralizată, unde fiecare nod procesează semnale locale fără o autoritate centrală rigidă.
-### 4. Making Sense of Complexity: A Cognitive-Sensemaking Perspective on Perceived Complexity (CoSeF)
-- Sursă: ResearchGate | Relevanță: 0.88
-- Insight: Navigarea conștientă nu depinde doar de date brute, ci de aparatul de sensemaking: complexitatea devine navigabilă atunci când este internalizată cognitiv prin straturi succesive de sens, fără a simplifica abuziv realitatea.
+- Insight: Demonstrează că reziliența la șocuri emergente depinde de procesarea informațională descentralizată la margine (edge AI/swarm), unde fiecare nod procesează semnale locale pentru stabilitate globală.
 
 ## Tipărire contextuală
 **Context oportun:** —
@@ -38,5 +35,5 @@
 — (fără paradox nerezolvat)
 
 ---
-_2026-09-05T07:31:35.066Z_
+_2026-09-05T13:31:28.200Z_
 J=710 | A=1.0
