@@ -16,16 +16,19 @@
 
 
 ## Cercetare web
-**Direcție emergentă:** Trecerea de la modelele de emergență bottom-up la modele de proiecție top-down geometrică și inteligență colectivă augmentată, unde navigarea conștientă depinde de capacitatea de a citi câmpurile potențiale globale și de a păstra incluziunea straturilor.
-### 1. Collective Intelligence as Geometric Projection: Swarm Dynamics and the Resolution of the Combination Problem
-- Sursă: Preprints.org (TCGS-SEQUENTION Framework) | Relevanță: 0.94
-- Insight: Navigarea prin sisteme complexe nu trebuie să pornească de la controlul atomizat al fiecărui nod, ci de la calibrarea câmpului geometric de ansamblu și menținerea coerenței de proiecție pentru a evita decoerența în medii cu accelerație critică.
-### 2. A Collective Intelligence Model for Swarm Robotics Applications
-- Sursă: Nature Communications | Relevanță: 0.88
-- Insight: Stabilitatea navigării colective prin tranziții critice este maximizată atunci când agenții păstrează libertate locală completă corelată strict prin câmpuri dinamice de potențial stigmergic.
-### 3. Collaborative Swarm Intelligence (CSI) for Large-Scale Sensemaking and Collective IQ Enhancement
-- Sursă: Carnegie Mellon University (Tepper School of Business) & ICEIS | Relevanță: 0.85
-- Insight: Sensemaking-ul în condiții de incertitudine radicală devine operațional nu prin agregare pasivă a opiniilor, ci prin medierea în timp real a consensului dinamic.
+**Direcție emergentă:** Trecerea de la modele mecaniciste de emergență bottom-up la viziuni geometrice de proiecție stratificată, cuplate cu o nevoie critică de cadre de sensemaking ontologic în fața expansiunii agenților AI autonomi.
+### 1. Collective Intelligence as Geometric Projection: Swarm Dynamics and the SEQUENTION Framework
+- Sursă: Preprints.org (TCGS-SEQUENTION Framework) | Relevanță: 0.95
+- Insight: Navigarea conștientă nu trebuie să încerce să asambleze părțile fragmentate de jos în sus, ci să recunoască straturile geometrice și invariantele de proiecție preexistente. Trecerea de la substituție la incluziune presupune înțelegerea că agenții individuali sunt expresii stratificate ale aceluiași potențial arhivistic.
+### 2. Sensemaking, Ontological Insecurity, and the Emergence of Autonomous AI Agents
+- Sursă: PhilArchive | Relevanță: 0.9
+- Insight: Pentru a naviga incertitudinea radicală, sistemele umane trebuie să își dezvolte reziliența de sens (sensemaking adaptativ), prevenind 'cancerul ontologic' în care tehnologia substituie fundamentele de semnificație în loc să le includă ca straturi suport.
+### 3. A Collective Intelligence Model for Swarm Robotics Applications in Multimodal and Marine Environments
+- Sursă: Nature Communications | Relevanță: 0.85
+- Insight: Demonstrează că navigarea eficientă pe 'marginea haosului' într-un mediu ostil și dinamic necesită feedback loops scurte și coordonare descentralizată, unde fiecare nod procesează semnale locale fără o autoritate centrală rigidă.
+### 4. Making Sense of Complexity: A Cognitive-Sensemaking Perspective on Perceived Complexity (CoSeF)
+- Sursă: ResearchGate | Relevanță: 0.88
+- Insight: Navigarea conștientă nu depinde doar de date brute, ci de aparatul de sensemaking: complexitatea devine navigabilă atunci când este internalizată cognitiv prin straturi succesive de sens, fără a simplifica abuziv realitatea.
 
 ## Tipărire contextuală
 **Context oportun:** —
@@ -35,5 +38,5 @@
 — (fără paradox nerezolvat)
 
 ---
-_2026-09-05T01:31:16.493Z_
+_2026-09-05T07:31:35.066Z_
 J=710 | A=1.0
