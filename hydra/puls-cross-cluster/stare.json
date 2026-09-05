@@ -1,0 +1,52 @@
+{
+  "algoritm": "PULS_CROSS_CLUSTER",
+  "canale": [
+    "Gamma→Beta (Execuție↔Memorie)",
+    "Alpha→Delta (Nucleu→Quorum, ω≤0.20)",
+    "Gamma→Alpha (răcire contextuală)"
+  ],
+  "clustere": [
+    {
+      "nume": "alpha",
+      "gamma": 0.4264709001880125,
+      "faza": 1.8630713883279333,
+      "rol": "Nucleul Homeostatic"
+    },
+    {
+      "nume": "delta",
+      "gamma": 0.4266666225799375,
+      "faza": 1.834703830812165,
+      "rol": "Quorum"
+    },
+    {
+      "nume": "gamma",
+      "gamma": 0.421517308238332,
+      "faza": 1.8085088877182147,
+      "rol": "Rezonatorul de Execuție"
+    },
+    {
+      "nume": "beta",
+      "gamma": 0.42906485256318205,
+      "faza": 1.74011071834587,
+      "rol": "Memoria"
+    }
+  ],
+  "c_initial": 0.966,
+  "c_final": 0.976,
+  "ari": 0.937,
+  "rmi": 0.994,
+  "omega_canal": {
+    "gamma>beta": 0.0139,
+    "alpha>delta": 0.0116,
+    "gamma>alpha": 0.0111
+  },
+  "k_canal": {
+    "gamma>beta": 0.12,
+    "alpha>delta": 0.12,
+    "gamma>alpha": 0.12
+  },
+  "gardari": 0,
+  "pasi": 4,
+  "punct_fix": true,
+  "timestamp": "2026-09-05T19:52:07.868Z"
+}
