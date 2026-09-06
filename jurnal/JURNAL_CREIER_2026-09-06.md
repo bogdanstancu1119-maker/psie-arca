@@ -16,16 +16,16 @@
 
 
 ## Cercetare web
-**Direcție emergentă:** Trecerea de la modelele de emergență mecanicistă (bottom-up prin reguli locale) la o paradigmă topologică/geometrică și critică a sensului: întregul macro-ontologic determină cadrele de posibilitate ale părților, iar navigarea conștientă necesită îmbrățișarea fricțiunii, a reprezentărilor invariante și a sensului critic dincolo de narațiunile algoritmice aplatizate.
-### 1. Collective Intelligence as Geometric Projection: Swarm Dynamics Beyond Emergence
-- Sursă: Preprints.org (Biology and Life Sciences / Theoretical Biology) | Relevanță: 0.95
-- Insight: Pentru navigarea conștientă, superorganismul și inteligența colectivă nu trebuie construite ad-hoc prin sinteză de jos în sus, ci necesită alinierea la constrângerile de proiecție ale întregului. Decuplarea ontologică apare atunci când componentele cred că generează realitatea globală prin substituție, ignorând câmpul topologic integrator.
+**Direcție emergentă:** Trecerea de la modele descriptive bottom-up/mecaniciste la cadre geometrice și topologice de proiecție a sistemelor conștiente, acompaniată de o redefinire a sensemaking-ului ca proces critic, hibrid (uman-mașină) și orientat către marjele de fricțiune ale realității.
+### 1. Collective Intelligence as Geometric Projection: Swarm Dynamics and the Resolution of the Combination Problem
+- Sursă: Preprints.org (MDPI) / TCGS-SEQUENTION Framework | Relevanță: 0.95
+- Insight: Navigarea conștientă nu trebuie să încerce agregarea oarbă a părților fragmentate (bottom-up), ci identificarea legilor geometrice de proiecție ale întregului invariat. Când mediul devine hiperevolutiv, pragul de decoerență apare atunci când dinamica de proiecție nu mai poate urmări curbura câmpului; navigarea cere aliniere la invariantul structural, reducând decuplarea ontologică (SDI).
 ### 2. The Power of Critical Sensemaking in Shaping Future(s)
-- Sursă: Superflux Insights | Relevanță: 0.88
-- Insight: Navigarea prin incertitudine radicală (Knightian) cere renunțarea la liniaritate și acceptarea contradicțiilor simultane. Asumarea (A) înseamnă să nu delegi generarea de sens algoritmilor de optimizare care produc decuplare ontologică de realitatea complexă.
-### 3. Beyond words: How visual imagery shapes collaborative sensemaking in entrepreneurial ecosystems
-- Sursă: Journal of Business Venturing Insights (Elsevier) | Relevanță: 0.82
-- Insight: Navigarea în sisteme socio-tehnice hibride necesită canale informaționale dense (J crescut) non-textuale care mențin ambiguitatea productivă și previn fragmentarea identitară.
+- Sursă: Superflux Research & Futures Studio | Relevanță: 0.88
+- Insight: Navigarea în incertitudine radicală (Knightian uncertainty) impune renunțarea la absolutism și acceptarea elasticității viitorului. Agentul navigator trebuie să mențină tensiunea între perspective contradictorii și să identifice anomaliile periferice, crescând coeficientul de asumare (A) fără a se izola în bucle narative sterile.
+### 3. Beyond human-in-the-loop: Sensemaking between Human and Artificial Intelligence
+- Sursă: ScienceDirect / International Journal of Information Management | Relevanță: 0.91
+- Insight: Pentru a naviga fără degradare ontologică, sistemele AI nu trebuie utilizate ca mecanisme de substituție a discernământului uman, ci ca amplificatoare de cartografiere a câmpului complex. Navigarea conștientă devine o practică hibridă distribuită la marginea haosului (edge of chaos).
 
 ## Tipărire contextuală
 **Context oportun:** —
@@ -35,5 +35,5 @@
 — (fără paradox nerezolvat)
 
 ---
-_2026-09-06T07:32:22.122Z_
+_2026-09-06T13:32:38.087Z_
 J=710 | A=1.0
