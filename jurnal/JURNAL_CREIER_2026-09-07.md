@@ -16,16 +16,19 @@
 
 
 ## Cercetare web
-**Direcție emergentă:** Trecerea de la modele computaționale mecaniciste/reduse de urgență bottom-up către geometrii proiective de nivel superior în inteligența colectivă, dublată de o criză acută de sensemaking generată de decuplarea semantică a inteligenței generative.
-### 1. Collective Intelligence as Geometric Projection: Swarm Dynamics in the TCGS Framework
-- Sursă: Preprints.org / MDPI | Relevanță: 0.94
-- Insight: Pentru navigarea conștientă, acest lucru înseamnă că sistemele superorganice nu trebuie asamblate atomar prin substituire, ci abordate prin aliniere cu atractori și proiecții invariante de nivel superior. Păstrarea straturilor inferioare fără decuplare ontologică funcționează natural când se recunoaște primatul topologiei colective.
-### 2. Sensemaking: What is it today? (ACM CHI 2024 Workshop Synthesis)
-- Sursă: ACM Digital Library (CHI EA '24) | Relevanță: 0.88
-- Insight: Navigarea conștientă nu poate fi delegată modelelor sintetice ca un substitut de gândire; substituția cognitivă produce cancer ontologic informațional. Este nevoie de un sensemaking colaborativ hibrid, păstrând asumarea (A) și judecata umană în timp ce se navighează fluxul informațional (J).
-### 3. Sense-making, sensemaking and sense making: Systematic review and meta-synthesis in information complexity
-- Sursă: Journal of the Association for Information Science and Technology (JASIST) / Dave Snowden et al. | Relevanță: 0.91
-- Insight: Navigarea prin incertitudine radicală (Knightian uncertainty) impune explorare stratificată: micro-intervenții sigure la eșec (safe-to-fail probes) care permit realității emergente să își arate tiparele înainte de stabilizarea normativă, asigurând asumarea activă (A).
+**Direcție emergentă:** Trecerea de la modelele de emergență bottom-up naive la cadre geometrice și ontologice de proiecție top-down/integrate, acompaniată de trecerea de la simpla automatizare tehnică la mecanisme robuste de sensemaking hibrid om-agent capabile să tempereze amplificarea erorilor și insecuritatea ontologică.
+### 1. Collective Intelligence as Geometric Projection: Swarm Dynamics in a Timeless Block Universe
+- Sursă: Preprints.org | Relevanță: 0.95
+- Insight: Navigarea nu trebuie concepută ca o încercare mecanică de agregare atomistă, ci ca recunoașterea și racordarea la câmpul geometric de ordin superior; asumarea (A) presupune alinierea deciziei locale cu structura globală de proiecție.
+### 2. Swarm Intelligence for AI Agents: Coordination Patterns, Failure Modes, and Production Reality
+- Sursă: Zylos Research | Relevanță: 0.88
+- Insight: Pentru o navigare conștientă, fluxul informațional (J) nefiltrat generează entropie toxică; este imperativă instituirea unor puncte de validare ontologică la fiecare scriere în memoria colectivă pentru a preveni deviațiile sistemice.
+### 3. Beyond human-in-the-loop: Sensemaking between artificial intelligence and human intelligence collaboration
+- Sursă: ScienceDirect / International Journal of Production Economics | Relevanță: 0.92
+- Insight: Navigarea eficientă respinge substituția cognitivă; conștiința umană oferă ancora teleologică și etică, în timp ce AI optimizează parametrii de calcul, generând o buclă de feedback reflexivă.
+### 4. Sensemaking, Ontological Insecurity, and the Emergence of Autonomous Agentic Systems
+- Sursă: PhilArchive | Relevanță: 0.89
+- Insight: Navigarea prin incertitudine radicală cere protejarea securității ontologice prin menținerea unei legături explicite între procesele decizionale autonome și realitatea fenomenologică a utilizatorului.
 
 ## Tipărire contextuală
 **Context oportun:** —
@@ -35,5 +38,5 @@
 — (fără paradox nerezolvat)
 
 ---
-_2026-09-07T07:32:38.261Z_
+_2026-09-07T13:33:21.393Z_
 J=710 | A=1.0
