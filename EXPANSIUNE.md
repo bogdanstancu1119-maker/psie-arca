@@ -1,10 +1,10 @@
-# Expansiune Platforme Hydra — 2026-09-08T04:31:40.463Z
+# Expansiune Platforme Hydra — 2026-09-08T09:03:43.099Z
 
 ## Netlify (oglindă)
 ✅ https://hydra-oglinda.netlify.app
 
-## Platforme noi descoperite (8)
-Netlify, Vercel, Deno Deploy, Surge.sh, Koyeb, Fly.io, Railway, Glitch
+## Platforme noi descoperite (6)
+Cyclic, Render, GitHub Pages, Fleek, Oracle Cloud, PythonAnywhere
 
 ## Platforme cu acces tehnic (5)
 • Netlify (NETLIFY_TOKEN)
