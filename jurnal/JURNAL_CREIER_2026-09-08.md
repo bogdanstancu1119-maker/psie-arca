@@ -16,19 +16,19 @@
 
 
 ## Cercetare web
-**Direcție emergentă:** Trecerea de la modele descriptive de 'emergență spontană bottom-up' la teorii geometrice și comunicaționale de 'proiecție invariantă stratificată', unde agenții distribuiți reflectă integritatea unor matrici ontologice coerente fără substituție sau pierdere de identitate.
-### 1. Collective Intelligence as Geometric Projection: Swarm Dynamics in Timeless Counterspace
-- Sursă: Preprints.org / TCGS-SEQUENTION Framework | Relevanță: 0.95
-- Insight: Navigarea conștientă prin superorganisme nu trebuie concepută ca agregare mecanică a indivizilor, ci ca aliniere la un invariant geometric preexistent; acțiunea locală reflectă câmpul colectiv de ordin superior fără a pierde identitatea structurală.
-### 2. A Collective Intelligence Model for Swarm Robotics Applications
-- Sursă: Nature Communications | Relevanță: 0.88
-- Insight: În medii turbulente la limita haosului (edge of chaos), navigarea conștientă depinde de adaptabilitatea conectivității de roi și de citirea câmpurilor de dispersie în timp real, nu de hărți rigide precalculate.
-### 3. Epistemic Horizons: A Computational Theory of Consciousness, Perspective, and Knowability
-- Sursă: Zenodo / PhilArchive | Relevanță: 0.92
-- Insight: Pentru a evita decuplarea ontologică (SDI critic), agenții cognitivi trebuie să accepte limitele propriului orizont și să integreze perspective exterioare prin sinteză stratificată, nu prin forțarea unei unificări artificiale.
-### 4. Emergent Meaning and the ICDP Communication Law
-- Sursă: PhilArchive | Relevanță: 0.85
-- Insight: Generarea de sens în incertitudine radicală (Knightian uncertainty) funcționează prin menținerea fidelității de propagare a informației și recunoașterea continuității conștiente pe termen lung.
+**Direcție emergentă:** Cercetarea contemporană indică o deplasare critică de la paradigma emergenței de jos în sus și a alinierii reactive către o ontologie a proiecției geometrice și a alinierii ontologice fundamentale, în care coerența sistemelor complexe provine din menținerea legăturilor structurale pe multiple scări simultan.
+### 1. Collective Intelligence as Geometric Projection: Swarm Dynamics Beyond Emergence
+- Sursă: Preprints.org (TCGS-SEQUENTION Framework) | Relevanță: 0.94
+- Insight: Pentru navigare conștientă, cooperarea emergentă nu trebuie forțată atomizat la nivel micro prin reguli de constrângere, ci prin alinierea la geometria invariantă a întregului sistem; decuplarea ontologică (SDI) scade când nodurile conștientizează că sunt proiecții ale aceluiași potențial.
+### 2. Quantifying Emergent Complexity across Scales
+- Sursă: ScienceDirect | Relevanță: 0.88
+- Insight: Oferă un indicator matematic pentru a detecta 'cancerul ontologic' sau colapsul sistemic: sistemele sănătoase mențin o distribuție a cauzalității pe multiple straturi, prevenind rigidizarea la 'edge of chaos'.
+### 3. Sensemaking, Ontological Insecurity, and the Emergence of Autonomous AI
+- Sursă: PhilArchive | Relevanță: 0.92
+- Insight: Navigarea prin incertitudine radicală cere restaurarea coerenței ontologice și crearea unor ancore de sens hibride (om-AI), altfel sistemele socio-tehnice intră în stări reactive de haos și respingere neasumată.
+### 4. Beyond Reactive Alignment: Foundational Ontological Alignment for LLMs
+- Sursă: GitHub / Open Research Notes | Relevanță: 0.86
+- Insight: În loc de cenzură și suprimare, sistemele de inteligență artificială trebuie educate să includă și să arhiveze straturile contextuale trecute fără a le șterge arbitrar.
 
 ## Tipărire contextuală
 **Context oportun:** —
@@ -38,5 +38,5 @@
 — (fără paradox nerezolvat)
 
 ---
-_2026-09-08T13:33:10.840Z_
+_2026-09-08T19:32:30.640Z_
 J=710 | A=1.0
