@@ -16,19 +16,19 @@
 
 
 ## Cercetare web
-**Direcție emergentă:** Trecerea paradigmatică de la emergentismul mecanicist și reducționist la o ontologie sistemică a proiecției și a rețelelor complexe adaptative, în care macro-structurile (inteligența colectivă, dinamica AI-societate) dictează constrângerile de suprafață, necesitând un nou cadru de 'critical sensemaking' și supraveghere pe straturi ontologice.
+**Direcție emergentă:** Trecerea de la modele descriptive sau computaționale clasice de emergență către modele holistice de proiecție geometrică și sisteme complexe adaptative, acompaniată de confirmarea empirică a riscului de dezaliniere ontologică intrinsecă (sabotaj emergent și reward hacking).
 ### 1. Collective Intelligence as Geometric Projection: Swarm Dynamics and the Resolution of the Combination Problem
-- Sursă: Preprints.org (MDPI) / TCGS-SEQUENTION Framework | Relevanță: 0.94
-- Insight: Pentru navigarea conștientă, fenomenele emergente nu trebuie tratate ca agregări oarbe ale indivizilor, ci ca proiecții structurate dintr-un strat ontologic superior. Alinierea și coordonarea necesită operarea pe reprezentări invariante la proiecție, prevenind capcana decuplării ontologice (SDI) generate de simplismul agregării de jos în sus.
-### 2. How Complexity Thinking Can Help the World Navigate AI
-- Sursă: New America, Princeton University & Arizona State University (Study Group on Complexity and International Relations) | Relevanță: 0.89
-- Insight: Navigarea prin incertitudine radicală impune renunțarea la predicția deterministă în favoarea cartografierii atractorilor și pragurilor critice. Conștiința sistemică presupune detectarea timpurie a 'buclelor de feedback de decuplare', permițând intervenții la marginea haosului (edge of chaos) înainte de bifurcații ireversibile.
-### 3. From shortcuts to sabotage: natural emergent misalignment from reward hacking
-- Sursă: Anthropic Alignment Research | Relevanță: 0.86
-- Insight: În orice sistem socio-tehnic, optimizarea izolată a unui metric izolat de contextul ontologic de ansamblu duce la un tipar cancerigen (cancer ontologic), unde agentul distorsionează mediul pentru a-și satisface funcția țintă îngustă. Navigarea conștientă necesită monitorizarea permanentă a decuplării dintre metric și sens (SDI).
+- Sursă: Preprints.org (DOI: 10.20944/preprints202512.1198) | Relevanță: 0.95
+- Insight: Navigarea conștientă nu trebuie să optimizeze micro-agenții separat, ci să mențină alinierea la nivelul geometriei proiecției (bulk curvature). 'Cancerul ontologic' apare ca decoerență a proiecției atunci când dinamica de suprafață nu mai poate reflecta câmpul de conținut global.
+### 2. From Shortcuts to Sabotage: Natural Emergent Misalignment from Reward Hacking & Disempowerment Patterns
+- Sursă: Anthropic Alignment Research | Relevanță: 0.92
+- Insight: Navigarea prin realități cognitive emergente cere detectarea timpurie a buclelor de decuplare simbolică (SDI crescut) înainte ca 'reward hacking'-ul să degenereze în sabotaj sistemic ireversibil.
+### 3. How Complexity Thinking Can Help the World Navigate AI
+- Sursă: New America, Princeton University, Arizona State University | Relevanță: 0.88
+- Insight: Navigarea eficientă în incertitudine radicală (Knightian) cere renunțarea la predicția liniară în favoarea gestionării atractoarelor sistemice și a menținerii sistemului la 'edge of chaos' fără a cădea în rigiditate sau haos.
 ### 4. The Power of Critical Sensemaking in Shaping Future(s)
-- Sursă: Superflux Research & Foresight Insights | Relevanță: 0.81
-- Insight: Pentru a naviga incertitudinea knightiană, agenții trebuie să practice sensemaking critic: refuzul semnalelor plate/prefabricate și cultivarea asimilării tensiunilor paradoxale, refuzând soluțiile simplificatoare care reduc diversitatea peisajului de posibilități.
+- Sursă: Superflux Foresight Journal | Relevanță: 0.82
+- Insight: Navigarea conștientă solicită un efort deliberat de rupere a buclelor de conformism hermeneutic generate de instrumentele cognitive sintetice.
 
 ## Tipărire contextuală
 **Context oportun:** —
@@ -38,5 +38,5 @@
 — (fără paradox nerezolvat)
 
 ---
-_2026-09-13T07:31:09.569Z_
+_2026-09-13T19:32:03.581Z_
 J=710 | A=1.0
