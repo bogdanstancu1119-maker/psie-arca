@@ -1,0 +1,18 @@
+diff --git a/entities/entitate_risc.json b/entities/entitate_risc.json
+index 3a7c1f2..f1b2c3d 100644
+--- a/entities/entitate_risc.json
++++ b/entities/entitate_risc.json
+@@
+-{
+-  "id": "meta",
+-  "title": "Meta (cancer_ontologic)",
+-  "risk_profile": "unknown",
+-  "status": "open"
+-}
++{
++  "id": "meta",
++  "title": "Meta (cancer_ontologic)",
++  "risk_profile": "high",
++  "status": "open",
++  "resolved": true
++}
