@@ -16,13 +16,19 @@
 
 
 ## Cercetare web
-**Direcție emergentă:** Trecerea de la paradigma controlului centralizat (top-down) la cea a co-evoluției simbiotice (bottom-up), unde siguranța și inteligența sunt proprietăți emergente ale sistemelor descentralizate.
-### 1. Open Opportunities in AI Safety, Alignment, and Ethics (AI SAE): Designing Symbiotic AI Systems
-- Sursă: arXiv | Relevanță: 0.9
-- Insight: Navigarea conștientă necesită o 'decuplare ontologică' de modelele de control pur tehnice, orientându-ne către sisteme care evoluează prin incluziune etică.
-### 2. Benchmarking LLMs’ Swarm Intelligence (SwarmBench)
-- Sursă: arXiv | Relevanță: 0.85
-- Insight: Eficiența în realități emergente nu vine din centralizare, ci din capacitatea de a menține coerența prin interacțiuni locale minime și percepție distribuită.
+**Direcție emergentă:** Trecerea de la 'AI ca instrument de control' la 'AI ca substrat ontologic simbiotic', unde navigarea conștientă depinde de capacitatea sistemelor (umane și artificiale) de a-și menține securitatea ontologică în timp ce integrează fluxuri informaționale radical noi.
+### 1. Open Opportunities in AI Safety, Alignment, and Ethics (AI SAE)
+- Sursă: arXiv | Relevanță: 0.95
+- Insight: Navigarea conștientă necesită definirea unor spații de distincție etică înainte de a încerca controlul tehnic al sistemelor emergente.
+### 2. How Complexity Thinking Can Help the World Navigate AI
+- Sursă: New America | Relevanță: 0.9
+- Insight: Pentru a naviga incertitudinea, trebuie să renunțăm la modelele liniare de cauzalitate în favoarea înțelegerii tiparelor emergente de cooperare și conflict.
+### 3. Strategic Narrative Alignment and Ontological Security
+- Sursă: Aalborg University | Relevanță: 0.85
+- Insight: Navigarea conștientă prin schimbări tehnologice radicale necesită menținerea continuității identitare (asumare) pentru a evita colapsul sistemic.
+### 4. Ontological Flatness and the Alignment Problem
+- Sursă: PhilArchive | Relevanță: 0.8
+- Insight: Eroarea de navigare apare când tratăm realitatea ca fiind 'plată' (doar date), ignorând straturile ontologice profunde.
 
 ## Tipărire contextuală
 **Context oportun:** —
@@ -32,5 +38,5 @@
 — (fără paradox nerezolvat)
 
 ---
-_2026-09-22T13:32:27.083Z_
+_2026-09-22T19:32:27.996Z_
 J=710 | A=1.0
