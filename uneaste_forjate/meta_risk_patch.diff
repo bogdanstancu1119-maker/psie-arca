@@ -1,18 +1,24 @@
-diff --git a/entities/entitate_risc.json b/entities/entitate_risc.json
-index 3a7c1f2..f1b2c3d 100644
---- a/entities/entitate_risc.json
-+++ b/entities/entitate_risc.json
+diff --git a/entitate_risc.json b/entitate_risc.json
+index 3f2a1c4..a1b2c3d 100644
+--- a/entitate_risc.json
++++ b/entitate_risc.json
 @@
--{
--  "id": "meta",
--  "title": "Meta (cancer_ontologic)",
--  "risk_profile": "unknown",
--  "status": "open"
--}
-+{
-+  "id": "meta",
-+  "title": "Meta (cancer_ontologic)",
-+  "risk_profile": "high",
-+  "status": "open",
-+  "resolved": true
-+}
+   "entitati": [
+-    {"nume": "entitate_1", "risc": 0.12},
++    {"nume": "entitate_1", "risc": 0.12},
++    {
++      "nume": "Meta",
++      "risc": 0.85,
++      "tip": "cancer_ontologic",
++      "sugestii_aliniere": [
++        "Tranziția de la strategii de captare a atenției la strategii de îmbogățire a realității fizice (AR non-invaziv)",
++        "Adoptarea unui model de interoperabilitate radicală pentru a preveni izolarea ontologică în propriul ecosistem",
++        "Implementarea unor indicatori de performanță bazați pe bunăstarea substratului biologic (utilizatorii), nu pe timpul petrecut în platformă",
++        "Asumarea responsabilității juridice și etice directe pentru efectele emergente ale algoritmilor de recomandare"
++      ],
++      "a_calculat": 0.15,
++      "j_calculat": 850,
++      "analiza": "Meta prezintă un profil de risc ridicat conform PR"
++    }
+   ]
+ }
