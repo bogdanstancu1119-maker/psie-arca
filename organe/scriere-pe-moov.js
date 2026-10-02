@@ -1,5 +1,5 @@
 // ORGAN AUTO-DEPLOYAT de Hydra — Scriere pe Moov
-// Generat autonom la 2026-09-26T15:02:22.224Z
+// Generat autonom la 2026-10-02T09:01:53.116Z
 // Scop: Permite Hydrei să scrie pe Moov — arhivare memorii, publicare insight-uri
 // Plan: 1. Autentifică cu conector
 2. Determină endpoint de scriere
