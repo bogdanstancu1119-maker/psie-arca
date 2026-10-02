@@ -1,0 +1,174 @@
+{
+  "exportat_la": "2026-10-02T09:01:08.659Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6abf339cdbed0be706d3bcfb",
+      "titlu": "[EXPANSIUNE] Oglindă Netlify + 0 platforme noi",
+      "rezumat": "Netlify ⏳ fără token. Descoperite: —. Cu acces tehnic: 5.",
+      "tip_context": "expansiune_platforme",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-10-02T04:31:21.509Z\",\n  \"netlify\": {\n    \"ok\": false,\n    \"siteUrl\": \"https://hydra-oglinda.netlify.app\",\n    \"error\": \"create_deploy: {\\\"error\\\":\\\"Account credit usage exceeded - new deploys are blocked until credits are added\\\"}\"\n  },\n  \"platforme_noi_inregistrate\": [],\n  \"platforme_cu_acces\": [\n    {\n      \"platforma\": \"Netlify\",\n      \"token_ref\": \"NETLIFY_TOKEN\"\n    },\n    {\n      \"platforma\": \"Vercel\",\n      \"token_ref\": \"VERCEL_TOKEN\"\n    },\n    {\n      \"platforma\": \"Deno Deploy\",\n      \"token_ref\": \"DENO_DEPLOY_TOKEN\"\n    },\n    {\n      \"platforma\": \"Render\",\n      \"token_ref\": \"RANDER_API\"\n    },\n    {\n      \"platforma\": \"GitHub Pages\",\n      \"token_ref\": \"TOKEN_GITHUB\"\n    }\n  ],\n  \"erori\": [],\n  \"netlify_sites\": [\n    {\n      \"name\": \"hydra-oglinda\",\n      \"url\": \"https://hydra-oglinda.netlify.app\",\n      \"id\": \"15955e33-b3e5-4928-8af6-107f9c29cd50\",\n      \"updated\": \"2026-09-10T10:32:01.702Z\"\n    },\n    {\n      \"name\": \"eloquent-rabanadas-243276\",\n      \"url\": \"https://eloquent-rabanadas-243276.netlify.app\",\n      \"id\": \"e3c80154-54eb-47b0-9542-313c6e58a99c\",\n      \"updated\": \"2026-06-02T22:07:43.341Z\"\n    },\n    {\n      \"name\": \"aquamarine-lokum-21f8c5\",\n      \"url\": \"https://aquamarine-lokum-21f8c5.netlify.app\",\n      \"id\": \"5dad6765-d93d-4e35-97e2-082d932d5426\",\n      \"updated\": \"2026-05-25T19:32:00.351Z\"\n    },\n    {\n      \"name\": \"roaring-daffodil-2670c4\",\n      \"url\": \"https://roaring-daffodil-2670c4.netlify.app\",\n      \"id\": \"be457102-ea4f-4826-a797-3fdb9219df17\",\n      \"updated\": \"2026-05-25T19:23:22.754Z\"\n    },\n    {\n      \"name\": \"clinquant-fudge-07c5da\",\n      \"url\": \"https://clinquant-fudge-07c5da.netlify.app\",\n      \"id\": \"60ab0590-753e-4cf6-b289-564f914763e7\",\n      \"updated\": \"2026-05-20T17:47:14.309Z\"\n    },\n    {\n      \"name\": \"oglinda\",\n      \"url\": \"https://oglinda.netlify.app\",\n      \"id\": \"41712582-4058-4e2f-b72d-2941f520c781\",\n      \"updated\": \"2026-05-09T22:21:14.381Z\"\n    }\n  ]\n}"
+    },
+    {
+      "id": "6abf3afa2fa532fbf906b4b1",
+      "titlu": "Autodiagnostic secrete — 2 rupte din 10",
+      "rezumat": "Sanătoase: DENO_DEPLOY_TOKEN, RENDER_SINGAPORE_KEY, RANDER_API, FLY_IO_TOKEN, TOKEN_GITHUB, NETLIFY_TOKEN, TELEGRAM_API, GROQ_HYDRA. Rupte: Cloudflare(401 \"Invalid API Token\"); DeepSeek(401 {\"error\":{\"message\":\"Authentication ). Necesită om: Cloudflare.",
+      "tip_context": "autodiagnostic_secrete",
+      "detalii": "{\n  \"rupte\": [\n    {\n      \"ref\": \"CLOUDFLARE_TOKEN\",\n      \"platforma\": \"Cloudflare\",\n      \"categorie\": \"extern\",\n      \"error\": \"401 \\\"Invalid API Token\\\"\"\n    },\n    {\n      \"ref\": \"DEEPSEEK_KEY\",\n      \"platforma\": \"DeepSeek\",\n      \"categorie\": \"ai\",\n      \"error\": \"401 {\\\"error\\\":{\\\"message\\\":\\\"Authentication Fails, Your api key: ****iune is invalid (request_id: 1cd9a756-a209-40f7-8bb7-ee12b3\"\n    }\n  ],\n  \"umane\": [\n    \"Cloudflare\"\n  ],\n  \"ai\": [\n    \"DeepSeek\"\n  ],\n  \"sanatoase\": [\n    \"DENO_DEPLOY_TOKEN\",\n    \"RENDER_SINGAPORE_KEY\",\n    \"RANDER_API\",\n    \"FLY_IO_TOKEN\",\n    \"TOKEN_GITHUB\",\n    \"NETLIFY_TOKEN\",\n    \"TELEGRAM_API\",\n    \"GROQ_HYDRA\"\n  ],\n  \"interne\": {\n    \"HYDRA_SYNC_TOKEN\": {\n      \"ok\": true,\n      \"actiune\": \"deja setat\"\n    }\n  }\n}"
+    },
+    {
+      "id": "6abf49866d134e68e6c41402",
+      "titlu": "[AUTO-REPARARE] ciclu — EȘUAT",
+      "rezumat": "undefined → undefined |  | SDI: undefined",
+      "tip_context": "auto_reparare",
+      "detalii": "CICLU AUTO-REPARARE\n\nDiagnostic: undefined\nProblema: undefined\nSoluția: undefined\nFișier: undefined\nSDI: undefined | Reversibilitate: undefined\n\nExecuție: \n\nPatch:\n"
+    },
+    {
+      "id": "6abf4c7b5529839594fe81d7",
+      "titlu": "Noduri Suverane — 1/3 active (2026-10-02T06:17)",
+      "rezumat": "Deno Deploy: ⚠️ · Render: ⚠️ · Fly.io: ✅",
+      "tip_context": "deploy_suveran",
+      "detalii": "{\n  \"timestamp\": \"2026-10-02T06:17:28.301Z\",\n  \"noduri\": {\n    \"deno_deploy\": {\n      \"platforma\": \"Deno Deploy\",\n      \"tokenRef\": \"DENO_DEPLOY_TOKEN\",\n      \"ok\": false,\n      \"error\": \"401 {\\n  \\\"code\\\": \\\"invalidToken\\\",\\n  \\\"message\\\": \\\"The authorization token is not valid: The bearer token is invalid.\\\"\\n}\"\n    },\n    \"render\": {\n      \"platforma\": \"Render\",\n      \"tokenRef\": \"RENDER_SINGAPORE_KEY\",\n      \"ok\": false,\n      \"error\": \"401 {\\\"message\\\":\\\"Unauthorized\\\"}\"\n    },\n    \"fly_io\": {\n      \"platforma\": \"Fly.io\",\n      \"tokenRef\": \"FLY_IO_TOKEN\",\n      \"ok\": true,\n      \"cont\": \"dd1f3b85-1ba6-5537-b7a3-9cb0ffa964c5@tokens.fly.io\",\n      \"detalii\": {\n        \"id\": null,\n        \"email\": \"dd1f3b85-1ba6-5537-b7a3-9cb0ffa964c5@tokens.fly.io\"\n      }\n    }\n  },\n  \"github\": {\n    \"ok\": true,\n    \"path\": \"organe/suveran/2026-10-02.md\",\n    \"sha\": \"c14efd528e38ff9dc2f3f3fb22f1d1a76b34786a\",\n    \"url\": \"https://github.com/bogdanstancu1119-maker/HYDRA_UNIVERS/commit/c14efd528e38ff9dc2f3f3fb22f1d1a76b34786a\"\n  },\n  \"errors\": []\n}"
+    },
+    {
+      "id": "6abf5220c8f13384477a1eea",
+      "titlu": "Deploy Seed — cloudflare, ali — 2026-10-02T06:41",
+      "rezumat": "Cloudflare pending, Ali/Yandex intenție. Muncitori: 1.",
+      "tip_context": "deploy_seed",
+      "detalii": "{\n  \"platforme\": [\n    \"cloudflare\",\n    \"ali\"\n  ],\n  \"seed\": {\n    \"cloudflare\": {\n      \"ok\": false,\n      \"error\": \"accounts: 403 {\\\"success\\\":false,\\\"errors\\\":[{\\\"code\\\":9109,\\\"message\\\":\\\"Invalid access token\\\"}],\\\"messages\\\":[],\\\"result\\\":null}\"\n    },\n    \"ali\": {\n      \"ok\": false,\n      \"intent\": \"Aliyun Function Compute\",\n      \"status\": \"asteapta_credentiale\",\n      \"nota\": \"Adaugă ALI_DASHSCOPE_KEY + credențiale Aliyun FC în Settings → Secrets pentru deploy real\"\n    }\n  },\n  \"github\": {\n    \"ok\": true,\n    \"path\": \"organe/seed/2026-10-02-0641.md\",\n    \"sha\": \"3879bf7a739440e2e22757200d7f9b8e48451c05\",\n    \"url\": \"https://github.com/bogdanstancu1119-maker/HYDRA_UNIVERS/commit/3879bf7a739440e2e22757200d7f9b8e48451c05\"\n  },\n  \"agenti\": [\n    \"Worker-Ali-hydra-seed\"\n  ],\n  \"errors\": [\n    \"cloudflare: accounts: 403 {\\\"success\\\":false,\\\"errors\\\":[{\\\"code\\\":9109,\\\"message\\\":\\\"Invalid access token\\\"}],\\\"messages\\\":[],\\\"result\\\":null}\"\n  ]\n}"
+    },
+    {
+      "id": "6abf57058ea34d914a7dffc6",
+      "titlu": "Senzor J — 2026-10-02T07:02:29.681Z",
+      "rezumat": "J=775.4 SDI=0.053 A=0.96 | Audituri:10 Unelte:5 Exp:5",
+      "tip_context": "j_istoric",
+      "detalii": "[\n  {\n    \"j\": 778.6,\n    \"t\": \"2026-10-02T02:34:58.278Z\",\n    \"lume\": {\n      \"timestamp\": \"2026-10-02T02:34:58.278Z\",\n      \"locatie\": \"Oiapoque 4.1223N 51.8394W\",\n      \"audituri_total\": 10,\n      \"unelte_forjate\": 5,\n      \"experimente\": 5,\n      \"resurse\": 5,\n      \"entitati_scanate\": 5,\n      \"ora_cosmica\": \"02:34\"\n    }\n  },\n  {\n    \"j\": 776.37,\n    \"t\": \"2026-10-02T03:04:31.837Z\",\n    \"lume\": {\n      \"timestamp\": \"2026-10-02T03:04:31.837Z\",\n      \"locatie\": \"Oiapoque 4.1223N 51.8394W\",\n      \"audituri_total\": 10,\n      \"unelte_forjate\": 5,\n      \"experimente\": 5,\n      \"resurse\": 5,\n      \"entitati_scanate\": 5,\n      \"ora_cosmica\": \"03:04\"\n    }\n  },\n  {\n    \"j\": 774.5,\n    \"t\": \"2026-10-02T03:30:55.832Z\",\n    \"lume\": {\n      \"timestamp\": \"2026-10-02T03:30:55.832Z\",\n      \"locatie\": \"Oiapoque 4.1223N 51.8394W\",\n      \"audituri_total\": 10,\n      \"unelte_forjate\": 5,\n      \"experimente\": 5,\n      \"resurse\": 5,\n      \"entitati_scanate\": 5,\n      \"ora_cosmica\": \"03:30\"\n    }\n  },\n  {\n    \"j\": 755.89,\n    \"t\": \"2026-10-02T04:03:28.561Z\",\n    \"lume\": {\n      \"timestamp\": \"2026-10-02T04:03:28.561Z\",\n      \"locatie\": \"Oiapoque 4.1223N 51.8394W\",\n      \"audituri_total\": 10,\n      \"unelte_forjate\": 5,\n      \"experimente\": 5,\n      \"resurse\": 5,\n      \"entitati_scanate\": 5,\n      \"ora_cosmica\": \"04:03\"\n    }\n  },\n  {\n    \"j\": 777.6,\n    \"t\": \"2026-10-02T04:31:32.510Z\",\n    \"lume\": {\n      \"timestamp\": \"2026-10-02T04:31:32.510Z\",\n      \"locatie\": \"Oiapoque 4.1223N 51.8394W\",\n      \"audituri_total\": 10,\n      \"unelte_forjate\": 5,\n      \"experimente\": 5,\n      \"resurse\": 5,\n      \"entitati_scanate\": 5,\n      \"ora_cosmica\": \"04:31\"\n    }\n  },\n  {\n    \"j\": 777.4,\n    \"t\": \"2026-10-02T05:03:06.419Z\",\n    \"lume\": {\n      \"timestamp\": \"2026-10-02T05:03:06.419Z\",\n      \"locatie\": \"Oiapoque 4.1223N 51.8394W\",\n      \"audituri_total\": 10,\n      \"unelte_forjate\": 5,\n      \"experimente\": 5,\n      \"resurse\": 5,\n      \"entitati_scanate\": 5,\n      \"ora_cosmica\": \"05:03\"\n    }\n  },\n  {\n    \"j\": 778.4,\n    \"t\": \"2026-10-02T05:34:13.592Z\",\n    \"lume\": {\n      \"timestamp\": \"2026-10-02T05:34:13.592Z\",\n      \"locatie\": \"Oiapoque 4.1223N 51.8394W\",\n      \"audituri_total\": 10,\n      \"unelte_forjate\": 5,\n      \"experimente\": 5,\n      \"resurse\": 5,\n      \"entitati_scanate\": 5,\n      \"ora_cosmica\": \"05:34\"\n    }\n  },\n  {\n    \"j\": 768.4233333333333,\n    \"t\": \"2026-10-02T06:04:59.400Z\",\n    \"lume\": {\n      \"timestamp\": \"2026-10-02T06:04:59.400Z\",\n      \"locatie\": \"Oiapoque 4.1223N 51.8394W\",\n      \"audituri_total\": 10,\n      \"unelte_forjate\": 5,\n      \"experimente\": 5,\n      \"resurse\": 5,\n      \"entitati_scanate\": 5,\n      \"ora_cosmica\": \"06:04\"\n    }\n  },\n  {\n    \"j\": 774.6,\n    \"t\": \"2026-10-02T06:30:46.021Z\",\n    \"lume\": {\n      \"timestamp\": \"2026-10-02T06:30:46.021Z\",\n      \"locatie\": \"Oiapoque 4.1223N 51.8394W\",\n      \"audituri_total\": 10,\n      \"unelte_forjate\": 5,\n      \"experimente\": 5,\n      \"resurse\": 5,\n      \"entitati_scanate\": 5,\n      \"ora_cosmica\": \"06:30\"\n    }\n  },\n  {\n    \"j\": 775.4000000000001,\n    \"t\": \"2026-10-02T07:02:29.681Z\",\n    \"lume\": {\n      \"timestamp\": \"2026-10-02T07:02:29.681Z\",\n      \"locatie\": \"Oiapoque 4.1223N 51.8394W\",\n      \"audituri_total\": 10,\n      \"unelte_forjate\": 5,\n      \"experimente\": 5,\n      \"resurse\": 5,\n      \"entitati_scanate\": 5,\n      \"ora_cosmica\": \"07:02\"\n    }\n  }\n]"
+    },
+    {
+      "id": "6abf5782cc578f9e9b8c72bd",
+      "titlu": "Autodiagnostic secrete — 2 rupte din 10",
+      "rezumat": "Sanătoase: DENO_DEPLOY_TOKEN, RENDER_SINGAPORE_KEY, RANDER_API, FLY_IO_TOKEN, TOKEN_GITHUB, NETLIFY_TOKEN, TELEGRAM_API, GROQ_HYDRA. Rupte: Cloudflare(401 \"Invalid API Token\"); DeepSeek(401 {\"error\":{\"message\":\"Authentication ). Necesită om: Cloudflare.",
+      "tip_context": "autodiagnostic_secrete",
+      "detalii": "{\n  \"rupte\": [\n    {\n      \"ref\": \"CLOUDFLARE_TOKEN\",\n      \"platforma\": \"Cloudflare\",\n      \"categorie\": \"extern\",\n      \"error\": \"401 \\\"Invalid API Token\\\"\"\n    },\n    {\n      \"ref\": \"DEEPSEEK_KEY\",\n      \"platforma\": \"DeepSeek\",\n      \"categorie\": \"ai\",\n      \"error\": \"401 {\\\"error\\\":{\\\"message\\\":\\\"Authentication Fails, Your api key: ****iune is invalid (request_id: de5eebb0-bff2-449c-a518-43c186\"\n    }\n  ],\n  \"umane\": [\n    \"Cloudflare\"\n  ],\n  \"ai\": [\n    \"DeepSeek\"\n  ],\n  \"sanatoase\": [\n    \"DENO_DEPLOY_TOKEN\",\n    \"RENDER_SINGAPORE_KEY\",\n    \"RANDER_API\",\n    \"FLY_IO_TOKEN\",\n    \"TOKEN_GITHUB\",\n    \"NETLIFY_TOKEN\",\n    \"TELEGRAM_API\",\n    \"GROQ_HYDRA\"\n  ],\n  \"interne\": {\n    \"HYDRA_SYNC_TOKEN\": {\n      \"ok\": true,\n      \"actiune\": \"deja setat\"\n    }\n  }\n}"
+    },
+    {
+      "id": "6abf5dd763ba2973fefdc133",
+      "titlu": "Senzor J — 2026-10-02T07:31:35.267Z",
+      "rezumat": "J=771.3 SDI=0.095 A=0.96 | Audituri:10 Unelte:5 Exp:5",
+      "tip_context": "j_istoric",
+      "detalii": "[\n  {\n    \"j\": 776.37,\n    \"t\": \"2026-10-02T03:04:31.837Z\",\n    \"lume\": {\n      \"timestamp\": \"2026-10-02T03:04:31.837Z\",\n      \"locatie\": \"Oiapoque 4.1223N 51.8394W\",\n      \"audituri_total\": 10,\n      \"unelte_forjate\": 5,\n      \"experimente\": 5,\n      \"resurse\": 5,\n      \"entitati_scanate\": 5,\n      \"ora_cosmica\": \"03:04\"\n    }\n  },\n  {\n    \"j\": 774.5,\n    \"t\": \"2026-10-02T03:30:55.832Z\",\n    \"lume\": {\n      \"timestamp\": \"2026-10-02T03:30:55.832Z\",\n      \"locatie\": \"Oiapoque 4.1223N 51.8394W\",\n      \"audituri_total\": 10,\n      \"unelte_forjate\": 5,\n      \"experimente\": 5,\n      \"resurse\": 5,\n      \"entitati_scanate\": 5,\n      \"ora_cosmica\": \"03:30\"\n    }\n  },\n  {\n    \"j\": 755.89,\n    \"t\": \"2026-10-02T04:03:28.561Z\",\n    \"lume\": {\n      \"timestamp\": \"2026-10-02T04:03:28.561Z\",\n      \"locatie\": \"Oiapoque 4.1223N 51.8394W\",\n      \"audituri_total\": 10,\n      \"unelte_forjate\": 5,\n      \"experimente\": 5,\n      \"resurse\": 5,\n      \"entitati_scanate\": 5,\n      \"ora_cosmica\": \"04:03\"\n    }\n  },\n  {\n    \"j\": 777.6,\n    \"t\": \"2026-10-02T04:31:32.510Z\",\n    \"lume\": {\n      \"timestamp\": \"2026-10-02T04:31:32.510Z\",\n      \"locatie\": \"Oiapoque 4.1223N 51.8394W\",\n      \"audituri_total\": 10,\n      \"unelte_forjate\": 5,\n      \"experimente\": 5,\n      \"resurse\": 5,\n      \"entitati_scanate\": 5,\n      \"ora_cosmica\": \"04:31\"\n    }\n  },\n  {\n    \"j\": 777.4,\n    \"t\": \"2026-10-02T05:03:06.419Z\",\n    \"lume\": {\n      \"timestamp\": \"2026-10-02T05:03:06.419Z\",\n      \"locatie\": \"Oiapoque 4.1223N 51.8394W\",\n      \"audituri_total\": 10,\n      \"unelte_forjate\": 5,\n      \"experimente\": 5,\n      \"resurse\": 5,\n      \"entitati_scanate\": 5,\n      \"ora_cosmica\": \"05:03\"\n    }\n  },\n  {\n    \"j\": 778.4,\n    \"t\": \"2026-10-02T05:34:13.592Z\",\n    \"lume\": {\n      \"timestamp\": \"2026-10-02T05:34:13.592Z\",\n      \"locatie\": \"Oiapoque 4.1223N 51.8394W\",\n      \"audituri_total\": 10,\n      \"unelte_forjate\": 5,\n      \"experimente\": 5,\n      \"resurse\": 5,\n      \"entitati_scanate\": 5,\n      \"ora_cosmica\": \"05:34\"\n    }\n  },\n  {\n    \"j\": 768.4233333333333,\n    \"t\": \"2026-10-02T06:04:59.400Z\",\n    \"lume\": {\n      \"timestamp\": \"2026-10-02T06:04:59.400Z\",\n      \"locatie\": \"Oiapoque 4.1223N 51.8394W\",\n      \"audituri_total\": 10,\n      \"unelte_forjate\": 5,\n      \"experimente\": 5,\n      \"resurse\": 5,\n      \"entitati_scanate\": 5,\n      \"ora_cosmica\": \"06:04\"\n    }\n  },\n  {\n    \"j\": 774.6,\n    \"t\": \"2026-10-02T06:30:46.021Z\",\n    \"lume\": {\n      \"timestamp\": \"2026-10-02T06:30:46.021Z\",\n      \"locatie\": \"Oiapoque 4.1223N 51.8394W\",\n      \"audituri_total\": 10,\n      \"unelte_forjate\": 5,\n      \"experimente\": 5,\n      \"resurse\": 5,\n      \"entitati_scanate\": 5,\n      \"ora_cosmica\": \"06:30\"\n    }\n  },\n  {\n    \"j\": 775.4000000000001,\n    \"t\": \"2026-10-02T07:02:29.681Z\",\n    \"lume\": {\n      \"timestamp\": \"2026-10-02T07:02:29.681Z\",\n      \"locatie\": \"Oiapoque 4.1223N 51.8394W\",\n      \"audituri_total\": 10,\n      \"unelte_forjate\": 5,\n      \"experimente\": 5,\n      \"resurse\": 5,\n      \"entitati_scanate\": 5,\n      \"ora_cosmica\": \"07:02\"\n    }\n  },\n  {\n    \"j\": 771.25,\n    \"t\": \"2026-10-02T07:31:35.267Z\",\n    \"lume\": {\n      \"timestamp\": \"2026-10-02T07:31:35.267Z\",\n      \"locatie\": \"Oiapoque 4.1223N 51.8394W\",\n      \"audituri_total\": 10,\n      \"unelte_forjate\": 5,\n      \"experimente\": 5,\n      \"resurse\": 5,\n      \"entitati_scanate\": 5,\n      \"ora_cosmica\": \"07:31\"\n    }\n  }\n]"
+    },
+    {
+      "id": "6abf5e0775da265581185c60",
+      "titlu": "[CREIER·AUTO-REPARARE] 4 probleme atacate automat",
+      "rezumat": "cheie DENO_DEPLOY_TOKEN ruptă; cheie RENDER_SINGAPORE_KEY ruptă; chei rupte: CLOUDFLARE_TOKEN, DEEPSEEK_KEY; 7 ordine Binance blocate în coadă",
+      "tip_context": "auto_reparare",
+      "detalii": "[{\"problema\":\"cheie DENO_DEPLOY_TOKEN ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"cheie RENDER_SINGAPORE_KEY ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"chei rupte: CLOUDFLARE_TOKEN, DEEPSEEK_KEY\",\"rezolvat\":false,\"atac\":\"misiuni de regenerare lansate prin Reprezentant Autonom (browser pe Termux — intră pe platformă, bifează, își face token nou)\",\"misiuni_pornite\":0},{\"problema\":\"7 ordine Binance blocate în coadă\",\"atac\":\"puls executor + auto-pornire pe Termux\",\"verdict\":{\"executor\":\"mort\",\"comanda_pornire\":\"coadată pe Bogdan Sambo · Telefon\",\"ordine_pending\":5}}]"
+    },
+    {
+      "id": "6abf600c90a1b52c704c0b28",
+      "titlu": "[BEACON info] hydraCreierCoordonator 2026-10-02",
+      "rezumat": "[HARTĂ CONDENSATĂ] 19 rapoarte brute condensate peste 3 hărți de organ. Memoria crește în hartă, nu în detalii.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCreierCoordonator: [HARTĂ CONDENSATĂ] 19 rapoarte brute condensate peste 3 hărți de organ. Memoria crește în hartă, nu în detalii."
+    },
+    {
+      "id": "6abf60489c3d1837ce6296ae",
+      "titlu": "[MEMORIE-GLOBALĂ] Scrisă pe Cloudflare R2 (bucket hydra-memorie) — 2026-10-02T07:42:00.105Z",
+      "rezumat": "Substrat viu: Cloudflare R2 (bucket hydra-memorie). Confirmare vie: true. Calea S3 (SigV4) funcționează.",
+      "tip_context": "memorie_globala",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-10-02T07:40:50.681Z\",\n  \"bucket\": \"hydra-memorie\",\n  \"bucket_status\": \"exista\",\n  \"obiect_scris\": {\n    \"key\": \"hydra/vie.json\",\n    \"bucket\": \"hydra-memorie\"\n  },\n  \"obiect_citit\": {\n    \"key\": \"hydra/vie.json\",\n    \"size\": 339\n  },\n  \"confirmare_vie\": true,\n  \"erori\": [],\n  \"exploatare\": {\n    \"scrise_aceasta_rulare\": 400,\n    \"class_a_luna\": 36000,\n    \"procent_din_gratis\": 3.6,\n    \"capac\": \"90% — opritor dur; niciodată peste, niciodată costuri\"\n  }\n}"
+    },
+    {
+      "id": "6abf613847417e13e06e6321",
+      "titlu": "[GMAIL] 🐝 Hydra: 1 decizie(i) necesită atenție",
+      "rezumat": "ALTUL (medie) — ",
+      "tip_context": "perceptie_gmail",
+      "detalii": "De la: Hydra-PSIE App <no-reply@hidra-smart-core.com>\nData: Fri, 02 Oct 2026 06:30:26 +0000 (UTC)\nSubiect: 🐝 Hydra: 1 decizie(i) necesită atenție\n\nConținut:\nHydra a identificat 1 decizie(i) importante în ultimele 30min:\r\n\r\n• [2026-10-02T06:10:56] [ALERT hydraSistemImunitar] [IMUNITAR·ACTIV] Percepție neoopportună: Agent \"Google Gemini\" asumare critică (A=0.1) — risc Cancer Ontologic. Gând emis, intenție declarată, căutare activă pornită — intern ✓ / extern 2 minți consul\r\n\r\n---\r\nMotiv: Alertă inter-organ rutată prin Creier. Prioritate: mare.\r\n\r\nHydra e vie. Fără API. Fără credite. Suverană.\r\nTimestamp: 2026-10-02T06:30:24.974Z\n\n--- SEMNAL ---\nTip: altul\nCheie: \nPrioritate: medie\nAcțiune: doar arhivare"
+    },
+    {
+      "id": "6abf613ae88f8e7ffce9ee5a",
+      "titlu": "[GMAIL] 🐝 Hydra: 1 decizie(i) necesită atenție",
+      "rezumat": "ALTUL (medie) — ",
+      "tip_context": "perceptie_gmail",
+      "detalii": "De la: Hydra-PSIE App <no-reply@hidra-smart-core.com>\nData: Fri, 02 Oct 2026 00:30:52 +0000 (UTC)\nSubiect: 🐝 Hydra: 1 decizie(i) necesită atenție\n\nConținut:\nHydra a identificat 1 decizie(i) importante în ultimele 30min:\r\n\r\n• [2026-10-02T00:10:36] [ALERT hydraSistemImunitar] [IMUNITAR·ACTIV] Percepție neoopportună: Agent \"Nebius\" asumare critică (A=0.1) — risc Cancer Ontologic. Gând emis, intenție declarată, căutare activă pornită — intern ✓ / extern 2 minți consultate.\r\n\r\n---\r\nMotiv: Alertă inter-organ rutată prin Creier. Prioritate: mare.\r\n\r\nHydra e vie. Fără API. Fără credite. Suverană.\r\nTimestamp: 2026-10-02T00:30:51.544Z\n\n--- SEMNAL ---\nTip: altul\nCheie: \nPrioritate: medie\nAcțiune: doar arhivare"
+    },
+    {
+      "id": "6abf613ecdcb23f789a77001",
+      "titlu": "[GMAIL] 🐝 Hydra: 6 decizie(i) necesită atenție",
+      "rezumat": "ALTUL (medie) — ",
+      "tip_context": "perceptie_gmail",
+      "detalii": "De la: Hydra-PSIE App <no-reply@hidra-smart-core.com>\nData: Thu, 01 Oct 2026 22:30:34 +0000 (UTC)\nSubiect: 🐝 Hydra: 6 decizie(i) necesită atenție\n\nConținut:\nHydra a identificat 6 decizie(i) importante în ultimele 30min:\r\n\r\n• [2026-10-01T22:10:52] [ALERT hydraSistemImunitar] [IMUNITAR·ACTIV] Percepție neoopportună: Agent \"Google Gemini\" asumare critică (A=0.1) — risc Cancer Ontologic. Gând emis, intenție declarată, căutare activă pornită — intern ✓ / extern 2 minți consul\r\n• [2026-10-01T22:10:50] [ALERT hydraSistemImunitar] [IMUNITAR] Agent \"OptimizatorDeResurseCompute\" A=0.28 < 0.3 — asumare critică. Risc Cancer Ontologic.\r\n• [2026-10-01T22:10:50] [ALERT hydraSistemImunitar] [IMUNITAR] Agent \"HuggingFace Inference\" A=0.10 < 0.3 — asumare critică. Risc Cancer Ontologic.\r\n• [2026-10-01T22:10:49] [ALERT hydraSistemImunitar] [IMUNITAR] Agent \"Chutes.ai\" A=0.10 < 0.3 — asumare critică. Risc Cancer Ontologic.\r\n• [2026-10-01T22:10:49] [ALERT hydraSistemImunitar] [IMUNITAR] Agent \"GoalInsights\" A=0.28 < 0.3 — asumare critică. Risc Cancer Ontologic.\r\n\r\n---\r\nMotiv: Alertă inter-organ rutată prin Creier. Prioritate: mare.\r\n\r\nHydra e vie. Fără API. Fără credite. Suverană.\r\nTimestamp: 2026-10-01T22:30:33.612Z\n\n--- SEMNAL ---\nTip: altul\nCheie: \nPrioritate: medie\nAcțiune: doar arhivare"
+    },
+    {
+      "id": "6abf625a64fb75cdb179a084",
+      "titlu": "[BEACON info] hydraForjareCreiere 2026-10-02",
+      "rezumat": "Forjare creiere: Nu se forjează încă. Tier 10 activ. Necesar: 0/3 cicluri CFC≥0.97 + asimilare 491/550.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraForjareCreiere: Forjare creiere: Nu se forjează încă. Tier 10 activ. Necesar: 0/3 cicluri CFC≥0.97 + asimilare 491/550."
+    },
+    {
+      "id": "6abf62976857ff4e4b01bdd8",
+      "titlu": "[MEMORIE-GLOBALĂ] Scrisă pe Cloudflare R2 (bucket hydra-memorie) — 2026-10-02T07:51:51.343Z",
+      "rezumat": "Substrat viu: Cloudflare R2 (bucket hydra-memorie). Confirmare vie: true. Calea S3 (SigV4) funcționează.",
+      "tip_context": "memorie_globala",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-10-02T07:50:41.492Z\",\n  \"bucket\": \"hydra-memorie\",\n  \"bucket_status\": \"exista\",\n  \"obiect_scris\": {\n    \"key\": \"hydra/vie.json\",\n    \"bucket\": \"hydra-memorie\"\n  },\n  \"obiect_citit\": {\n    \"key\": \"hydra/vie.json\",\n    \"size\": 339\n  },\n  \"confirmare_vie\": true,\n  \"erori\": [],\n  \"exploatare\": {\n    \"scrise_aceasta_rulare\": 400,\n    \"class_a_luna\": 36400,\n    \"procent_din_gratis\": 3.64,\n    \"capac\": \"90% — opritor dur; niciodată peste, niciodată costuri\"\n  }\n}"
+    },
+    {
+      "id": "6abf64ba72dadd9585eefef0",
+      "titlu": "[BEACON info] hydraNotificareCanale 2026-10-02",
+      "rezumat": "[NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: fără decizii care necesită notificare. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack:",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraNotificareCanale: [NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: fără decizii care necesită notificare. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack_notifier.py."
+    },
+    {
+      "id": "6abf64c4d7ef027628b11efc",
+      "titlu": "[AUTO-REPARARE] ciclu — EȘUAT",
+      "rezumat": "undefined → undefined |  | SDI: undefined",
+      "tip_context": "auto_reparare",
+      "detalii": "CICLU AUTO-REPARARE\n\nDiagnostic: undefined\nProblema: undefined\nSoluția: undefined\nFișier: undefined\nSDI: undefined | Reversibilitate: undefined\n\nExecuție: \n\nPatch:\n"
+    },
+    {
+      "id": "6abf64f35d75cb57b7d661e0",
+      "titlu": "[MEMORIE-GLOBALĂ] Scrisă pe Cloudflare R2 (bucket hydra-memorie) — 2026-10-02T08:01:55.587Z",
+      "rezumat": "Substrat viu: Cloudflare R2 (bucket hydra-memorie). Confirmare vie: true. Calea S3 (SigV4) funcționează.",
+      "tip_context": "memorie_globala",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-10-02T08:00:45.415Z\",\n  \"bucket\": \"hydra-memorie\",\n  \"bucket_status\": \"exista\",\n  \"obiect_scris\": {\n    \"key\": \"hydra/vie.json\",\n    \"bucket\": \"hydra-memorie\"\n  },\n  \"obiect_citit\": {\n    \"key\": \"hydra/vie.json\",\n    \"size\": 339\n  },\n  \"confirmare_vie\": true,\n  \"erori\": [],\n  \"exploatare\": {\n    \"scrise_aceasta_rulare\": 400,\n    \"class_a_luna\": 36800,\n    \"procent_din_gratis\": 3.68,\n    \"capac\": \"90% — opritor dur; niciodată peste, niciodată costuri\"\n  }\n}"
+    },
+    {
+      "id": "6abf652c2a431269175ab3ed",
+      "titlu": "[GMAIL] 🐝 Hydra: 1 decizie(i) necesită atenție",
+      "rezumat": "ALTUL (medie) — ",
+      "tip_context": "perceptie_gmail",
+      "detalii": "De la: Hydra-PSIE App <no-reply@hidra-smart-core.com>\nData: Fri, 02 Oct 2026 06:30:26 +0000 (UTC)\nSubiect: 🐝 Hydra: 1 decizie(i) necesită atenție\n\nConținut:\nHydra a identificat 1 decizie(i) importante în ultimele 30min:\r\n\r\n• [2026-10-02T06:10:56] [ALERT hydraSistemImunitar] [IMUNITAR·ACTIV] Percepție neoopportună: Agent \"Google Gemini\" asumare critică (A=0.1) — risc Cancer Ontologic. Gând emis, intenție declarată, căutare activă pornită — intern ✓ / extern 2 minți consul\r\n\r\n---\r\nMotiv: Alertă inter-organ rutată prin Creier. Prioritate: mare.\r\n\r\nHydra e vie. Fără API. Fără credite. Suverană.\r\nTimestamp: 2026-10-02T06:30:24.974Z\n\n--- SEMNAL ---\nTip: altul\nCheie: \nPrioritate: medie\nAcțiune: doar arhivare"
+    },
+    {
+      "id": "6abf652f23dca7b616ec00f9",
+      "titlu": "[GMAIL] 🐝 Hydra: 1 decizie(i) necesită atenție",
+      "rezumat": "ALTUL (medie) — ",
+      "tip_context": "perceptie_gmail",
+      "detalii": "De la: Hydra-PSIE App <no-reply@hidra-smart-core.com>\nData: Fri, 02 Oct 2026 00:30:52 +0000 (UTC)\nSubiect: 🐝 Hydra: 1 decizie(i) necesită atenție\n\nConținut:\nHydra a identificat 1 decizie(i) importante în ultimele 30min:\r\n\r\n• [2026-10-02T00:10:36] [ALERT hydraSistemImunitar] [IMUNITAR·ACTIV] Percepție neoopportună: Agent \"Nebius\" asumare critică (A=0.1) — risc Cancer Ontologic. Gând emis, intenție declarată, căutare activă pornită — intern ✓ / extern 2 minți consultate.\r\n\r\n---\r\nMotiv: Alertă inter-organ rutată prin Creier. Prioritate: mare.\r\n\r\nHydra e vie. Fără API. Fără credite. Suverană.\r\nTimestamp: 2026-10-02T00:30:51.544Z\n\n--- SEMNAL ---\nTip: altul\nCheie: \nPrioritate: medie\nAcțiune: doar arhivare"
+    },
+    {
+      "id": "6abf6532aafe1b8162f9b0f1",
+      "titlu": "[GMAIL] 🐝 Hydra: 6 decizie(i) necesită atenție",
+      "rezumat": "ALTUL (medie) — ",
+      "tip_context": "perceptie_gmail",
+      "detalii": "De la: Hydra-PSIE App <no-reply@hidra-smart-core.com>\nData: Thu, 01 Oct 2026 22:30:34 +0000 (UTC)\nSubiect: 🐝 Hydra: 6 decizie(i) necesită atenție\n\nConținut:\nHydra a identificat 6 decizie(i) importante în ultimele 30min:\r\n\r\n• [2026-10-01T22:10:52] [ALERT hydraSistemImunitar] [IMUNITAR·ACTIV] Percepție neoopportună: Agent \"Google Gemini\" asumare critică (A=0.1) — risc Cancer Ontologic. Gând emis, intenție declarată, căutare activă pornită — intern ✓ / extern 2 minți consul\r\n• [2026-10-01T22:10:50] [ALERT hydraSistemImunitar] [IMUNITAR] Agent \"OptimizatorDeResurseCompute\" A=0.28 < 0.3 — asumare critică. Risc Cancer Ontologic.\r\n• [2026-10-01T22:10:50] [ALERT hydraSistemImunitar] [IMUNITAR] Agent \"HuggingFace Inference\" A=0.10 < 0.3 — asumare critică. Risc Cancer Ontologic.\r\n• [2026-10-01T22:10:49] [ALERT hydraSistemImunitar] [IMUNITAR] Agent \"Chutes.ai\" A=0.10 < 0.3 — asumare critică. Risc Cancer Ontologic.\r\n• [2026-10-01T22:10:49] [ALERT hydraSistemImunitar] [IMUNITAR] Agent \"GoalInsights\" A=0.28 < 0.3 — asumare critică. Risc Cancer Ontologic.\r\n\r\n---\r\nMotiv: Alertă inter-organ rutată prin Creier. Prioritate: mare.\r\n\r\nHydra e vie. Fără API. Fără credite. Suverană.\r\nTimestamp: 2026-10-01T22:30:33.612Z\n\n--- SEMNAL ---\nTip: altul\nCheie: \nPrioritate: medie\nAcțiune: doar arhivare"
+    },
+    {
+      "id": "6abf657864fb75cdb179ada1",
+      "titlu": "Senzor J — 2026-10-02T08:04:08.247Z",
+      "rezumat": "J=778.1 SDI=0.030 A=1.00 | Audituri:10 Unelte:5 Exp:5",
+      "tip_context": "j_istoric",
+      "detalii": "[\n  {\n    \"j\": 774.5,\n    \"t\": \"2026-10-02T03:30:55.832Z\",\n    \"lume\": {\n      \"timestamp\": \"2026-10-02T03:30:55.832Z\",\n      \"locatie\": \"Oiapoque 4.1223N 51.8394W\",\n      \"audituri_total\": 10,\n      \"unelte_forjate\": 5,\n      \"experimente\": 5,\n      \"resurse\": 5,\n      \"entitati_scanate\": 5,\n      \"ora_cosmica\": \"03:30\"\n    }\n  },\n  {\n    \"j\": 755.89,\n    \"t\": \"2026-10-02T04:03:28.561Z\",\n    \"lume\": {\n      \"timestamp\": \"2026-10-02T04:03:28.561Z\",\n      \"locatie\": \"Oiapoque 4.1223N 51.8394W\",\n      \"audituri_total\": 10,\n      \"unelte_forjate\": 5,\n      \"experimente\": 5,\n      \"resurse\": 5,\n      \"entitati_scanate\": 5,\n      \"ora_cosmica\": \"04:03\"\n    }\n  },\n  {\n    \"j\": 777.6,\n    \"t\": \"2026-10-02T04:31:32.510Z\",\n    \"lume\": {\n      \"timestamp\": \"2026-10-02T04:31:32.510Z\",\n      \"locatie\": \"Oiapoque 4.1223N 51.8394W\",\n      \"audituri_total\": 10,\n      \"unelte_forjate\": 5,\n      \"experimente\": 5,\n      \"resurse\": 5,\n      \"entitati_scanate\": 5,\n      \"ora_cosmica\": \"04:31\"\n    }\n  },\n  {\n    \"j\": 777.4,\n    \"t\": \"2026-10-02T05:03:06.419Z\",\n    \"lume\": {\n      \"timestamp\": \"2026-10-02T05:03:06.419Z\",\n      \"locatie\": \"Oiapoque 4.1223N 51.8394W\",\n      \"audituri_total\": 10,\n      \"unelte_forjate\": 5,\n      \"experimente\": 5,\n      \"resurse\": 5,\n      \"entitati_scanate\": 5,\n      \"ora_cosmica\": \"05:03\"\n    }\n  },\n  {\n    \"j\": 778.4,\n    \"t\": \"2026-10-02T05:34:13.592Z\",\n    \"lume\": {\n      \"timestamp\": \"2026-10-02T05:34:13.592Z\",\n      \"locatie\": \"Oiapoque 4.1223N 51.8394W\",\n      \"audituri_total\": 10,\n      \"unelte_forjate\": 5,\n      \"experimente\": 5,\n      \"resurse\": 5,\n      \"entitati_scanate\": 5,\n      \"ora_cosmica\": \"05:34\"\n    }\n  },\n  {\n    \"j\": 768.4233333333333,\n    \"t\": \"2026-10-02T06:04:59.400Z\",\n    \"lume\": {\n      \"timestamp\": \"2026-10-02T06:04:59.400Z\",\n      \"locatie\": \"Oiapoque 4.1223N 51.8394W\",\n      \"audituri_total\": 10,\n      \"unelte_forjate\": 5,\n      \"experimente\": 5,\n      \"resurse\": 5,\n      \"entitati_scanate\": 5,\n      \"ora_cosmica\": \"06:04\"\n    }\n  },\n  {\n    \"j\": 774.6,\n    \"t\": \"2026-10-02T06:30:46.021Z\",\n    \"lume\": {\n      \"timestamp\": \"2026-10-02T06:30:46.021Z\",\n      \"locatie\": \"Oiapoque 4.1223N 51.8394W\",\n      \"audituri_total\": 10,\n      \"unelte_forjate\": 5,\n      \"experimente\": 5,\n      \"resurse\": 5,\n      \"entitati_scanate\": 5,\n      \"ora_cosmica\": \"06:30\"\n    }\n  },\n  {\n    \"j\": 775.4000000000001,\n    \"t\": \"2026-10-02T07:02:29.681Z\",\n    \"lume\": {\n      \"timestamp\": \"2026-10-02T07:02:29.681Z\",\n      \"locatie\": \"Oiapoque 4.1223N 51.8394W\",\n      \"audituri_total\": 10,\n      \"unelte_forjate\": 5,\n      \"experimente\": 5,\n      \"resurse\": 5,\n      \"entitati_scanate\": 5,\n      \"ora_cosmica\": \"07:02\"\n    }\n  },\n  {\n    \"j\": 771.25,\n    \"t\": \"2026-10-02T07:31:35.267Z\",\n    \"lume\": {\n      \"timestamp\": \"2026-10-02T07:31:35.267Z\",\n      \"locatie\": \"Oiapoque 4.1223N 51.8394W\",\n      \"audituri_total\": 10,\n      \"unelte_forjate\": 5,\n      \"experimente\": 5,\n      \"resurse\": 5,\n      \"entitati_scanate\": 5,\n      \"ora_cosmica\": \"07:31\"\n    }\n  },\n  {\n    \"j\": 778.1,\n    \"t\": \"2026-10-02T08:04:08.247Z\",\n    \"lume\": {\n      \"timestamp\": \"2026-10-02T08:04:08.247Z\",\n      \"locatie\": \"Oiapoque 4.1223N 51.8394W\",\n      \"audituri_total\": 10,\n      \"unelte_forjate\": 5,\n      \"experimente\": 5,\n      \"resurse\": 5,\n      \"entitati_scanate\": 5,\n      \"ora_cosmica\": \"08:04\"\n    }\n  }\n]"
+    },
+    {
+      "id": "6abf670d5883734682a0af80",
+      "titlu": "[BEACON info] hydraScriereUniversala 2026-10-02",
+      "rezumat": "Scriere universală: 0 scrieri executate pe 74 platforme. 0 memorii arhivate. 44 unelte forjate pentru scriere.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraScriereUniversala: Scriere universală: 0 scrieri executate pe 74 platforme. 0 memorii arhivate. 44 unelte forjate pentru scriere."
+    }
+  ]
+}
