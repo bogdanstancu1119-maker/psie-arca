@@ -1,10 +1,10 @@
-# Expansiune Platforme Hydra — 2026-10-02T20:58:53.759Z
+# Expansiune Platforme Hydra — 2026-10-02T22:30:01.753Z
 
 ## Netlify (oglindă)
 ⚠️ create_deploy: {"error":"Account credit usage exceeded - new deploys are blocked until credits are added"}
 
-## Platforme noi descoperite (4)
-eu.org, DuckDNS, FreeDNS (afraid.org), Handshake (HNS)
+## Platforme noi descoperite (0)
+(toate erau deja înregistrate)
 
 ## Platforme cu acces tehnic (5)
 • Netlify (NETLIFY_TOKEN)
