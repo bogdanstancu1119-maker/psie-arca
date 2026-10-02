@@ -16,16 +16,16 @@
 
 
 ## Cercetare web
-**Direcție emergentă:** Trecerea de la automatizarea sarcinilor la gestionarea securității ontologice și a sensului (sensemaking) în sisteme socio-tehnice hibride, unde identitatea colectivă devine principala variabilă de navigare.
+**Direcție emergentă:** Trecerea de la o viziune a AI ca instrument de automatizare la AI ca sistem adaptativ complex care necesită 'securitate ontologică' și 'sensemaking' activ pentru a menține coerența identitară și instituțională.
 ### 1. Strategic Narrative Alignment and Ontological Security lenses for Digitalisation and AI adoption
-- Sursă: Aalborg University Research Portal | Relevanță: 0.95
-- Insight: Securitatea ontologică este un activ critic; navigarea conștientă necesită alinierea narativă pentru a preveni fragmentarea identității sistemice în fața AI.
-### 2. How Complexity Thinking Can Help the World Navigate AI
-- Sursă: New America / Princeton University | Relevanță: 0.9
-- Insight: Navigarea prin incertitudine radicală necesită trecerea de la controlul liniar la înțelegerea dinamicii sistemelor complexe (edge of chaos).
-### 3. Open Opportunities in AI Safety, Alignment, and Ethics (AI SAE)
+- Sursă: Aalborg University Research Portal | Relevanță: 0.9
+- Insight: Navigarea conștientă necesită alinierea narativă pentru a preveni fragmentarea identității în fața disrupției tehnologice.
+### 2. Open Opportunities in AI Safety, Alignment, and Ethics (AI SAE): Designing Symbiotic AI Systems
 - Sursă: arXiv | Relevanță: 0.85
-- Insight: Etica nu este o realitate externă descoperită, ci o construcție evolutivă; navigarea conștientă implică participarea activă la arhitectura acestor spații morale.
+- Insight: Alinierea nu este o problemă tehnică de rezolvat, ci un spațiu de construit prin deliberare rațională și mecanisme instituționale.
+### 3. How Complexity Thinking Can Help the World Navigate AI
+- Sursă: New America / Princeton University | Relevanță: 0.95
+- Insight: Complexitatea este o lentilă necesară pentru a înțelege dinamica sistemelor socio-tehnice, dincolo de modelele liniare de calcul.
 
 ## Tipărire contextuală
 **Context oportun:** —
@@ -35,5 +35,5 @@
 — (fără paradox nerezolvat)
 
 ---
-_2026-10-02T13:31:34.432Z_
+_2026-10-02T16:12:51.667Z_
 J=710 | A=1.0
