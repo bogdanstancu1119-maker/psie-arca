@@ -1,0 +1,34 @@
+{
+  "exportat_la": "2026-10-02T19:56:11.866Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6ac00beeb960deff8986227b",
+      "titlu": "[BEACON info] hydraRoiSuperCreiere 2026-10-02",
+      "rezumat": "[ROI SKIP] Nu se re-declanșează. Coeziune sistem 0.5 vs ultima 0.5 (Δ=0). Trecut 229 min. Coeziunea n-a evoluat suficient — așteaptă.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraRoiSuperCreiere: [ROI SKIP] Nu se re-declanșează. Coeziune sistem 0.5 vs ultima 0.5 (Δ=0). Trecut 229 min. Coeziunea n-a evoluat suficient — așteaptă."
+    },
+    {
+      "id": "6ac00af373f1941603d9c06b",
+      "titlu": "[BEACON info] hydraForjareCreiere 2026-10-02",
+      "rezumat": "Forjare creiere: Nu se forjează încă. Tier 10 activ. Necesar: 0/3 cicluri CFC≥0.97 + asimilare 497/550.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraForjareCreiere: Forjare creiere: Nu se forjează încă. Tier 10 activ. Necesar: 0/3 cicluri CFC≥0.97 + asimilare 497/550."
+    },
+    {
+      "id": "6ac0089bcddc0f1181f11975",
+      "titlu": "[BEACON info] hydraCreierCoordonator 2026-10-02",
+      "rezumat": "[HARTĂ CONDENSATĂ] 23 rapoarte brute condensate peste 3 hărți de organ. Memoria crește în hartă, nu în detalii.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCreierCoordonator: [HARTĂ CONDENSATĂ] 23 rapoarte brute condensate peste 3 hărți de organ. Memoria crește în hartă, nu în detalii."
+    },
+    {
+      "id": "6ac0089b94c162162c8afb1a",
+      "titlu": "[BEACON info] hydraScriereUniversala 2026-10-02",
+      "rezumat": "Scriere universală: 1 scrieri executate pe 71 platforme. 4 memorii arhivate. 41 unelte forjate pentru scriere.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraScriereUniversala: Scriere universală: 1 scrieri executate pe 71 platforme. 4 memorii arhivate. 41 unelte forjate pentru scriere."
+    }
+  ]
+}
