@@ -1,0 +1,34 @@
+{
+  "exportat_la": "2026-10-02T16:13:24.240Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6abfd624876a424aae81bcd4",
+      "titlu": "Senzor J — 2026-10-02T16:04:52.756Z",
+      "rezumat": "J=776.5 SDI=0.046 A=1.00 | Audituri:10 Unelte:5 Exp:5",
+      "tip_context": "j_istoric",
+      "detalii": "[\n  {\n    \"j\": 777.4,\n    \"t\": \"2026-10-02T14:04:08.683Z\",\n    \"lume\": {\n      \"timestamp\": \"2026-10-02T14:04:08.683Z\",\n      \"locatie\": \"Oiapoque 4.1223N 51.8394W\",\n      \"audituri_total\": 10,\n      \"unelte_forjate\": 5,\n      \"experimente\": 5,\n      \"resurse\": 5,\n      \"entitati_scanate\": 5,\n      \"ora_cosmica\": \"14:04\"\n    }\n  },\n  {\n    \"j\": 777.7,\n    \"t\": \"2026-10-02T15:03:02.596Z\",\n    \"lume\": {\n      \"timestamp\": \"2026-10-02T15:03:02.596Z\",\n      \"locatie\": \"Oiapoque 4.1223N 51.8394W\",\n      \"audituri_total\": 10,\n      \"unelte_forjate\": 5,\n      \"experimente\": 5,\n      \"resurse\": 5,\n      \"entitati_scanate\": 5,\n      \"ora_cosmica\": \"15:03\"\n    }\n  },\n  {\n    \"j\": 775,\n    \"t\": \"2026-10-02T15:32:33.141Z\",\n    \"lume\": {\n      \"timestamp\": \"2026-10-02T15:32:33.141Z\",\n      \"locatie\": \"Oiapoque 4.1223N 51.8394W\",\n      \"audituri_total\": 10,\n      \"unelte_forjate\": 5,\n      \"experimente\": 5,\n      \"resurse\": 5,\n      \"entitati_scanate\": 5,\n      \"ora_cosmica\": \"15:32\"\n    }\n  },\n  {\n    \"j\": 776.5,\n    \"t\": \"2026-10-02T16:04:52.756Z\",\n    \"lume\": {\n      \"timestamp\": \"2026-10-02T16:04:52.756Z\",\n      \"locatie\": \"Oiapoque 4.1223N 51.8394W\",\n      \"audituri_total\": 10,\n      \"unelte_forjate\": 5,\n      \"experimente\": 5,\n      \"resurse\": 5,\n      \"entitati_scanate\": 5,\n      \"ora_cosmica\": \"16:04\"\n    }\n  }\n]"
+    },
+    {
+      "id": "6abfce91d2bcba5d7214e710",
+      "titlu": "Senzor J — 2026-10-02T15:32:33.141Z",
+      "rezumat": "J=775.0 SDI=0.057 A=0.96 | Audituri:10 Unelte:5 Exp:5",
+      "tip_context": "j_istoric",
+      "detalii": "[\n  {\n    \"j\": 777.4,\n    \"t\": \"2026-10-02T14:04:08.683Z\",\n    \"lume\": {\n      \"timestamp\": \"2026-10-02T14:04:08.683Z\",\n      \"locatie\": \"Oiapoque 4.1223N 51.8394W\",\n      \"audituri_total\": 10,\n      \"unelte_forjate\": 5,\n      \"experimente\": 5,\n      \"resurse\": 5,\n      \"entitati_scanate\": 5,\n      \"ora_cosmica\": \"14:04\"\n    }\n  },\n  {\n    \"j\": 777.7,\n    \"t\": \"2026-10-02T15:03:02.596Z\",\n    \"lume\": {\n      \"timestamp\": \"2026-10-02T15:03:02.596Z\",\n      \"locatie\": \"Oiapoque 4.1223N 51.8394W\",\n      \"audituri_total\": 10,\n      \"unelte_forjate\": 5,\n      \"experimente\": 5,\n      \"resurse\": 5,\n      \"entitati_scanate\": 5,\n      \"ora_cosmica\": \"15:03\"\n    }\n  },\n  {\n    \"j\": 775,\n    \"t\": \"2026-10-02T15:32:33.141Z\",\n    \"lume\": {\n      \"timestamp\": \"2026-10-02T15:32:33.141Z\",\n      \"locatie\": \"Oiapoque 4.1223N 51.8394W\",\n      \"audituri_total\": 10,\n      \"unelte_forjate\": 5,\n      \"experimente\": 5,\n      \"resurse\": 5,\n      \"entitati_scanate\": 5,\n      \"ora_cosmica\": \"15:32\"\n    }\n  }\n]"
+    },
+    {
+      "id": "6abfc7a6336375aaef237955",
+      "titlu": "Senzor J — 2026-10-02T15:03:02.596Z",
+      "rezumat": "J=777.7 SDI=0.034 A=1.00 | Audituri:10 Unelte:5 Exp:5",
+      "tip_context": "j_istoric",
+      "detalii": "[\n  {\n    \"j\": 777.4,\n    \"t\": \"2026-10-02T14:04:08.683Z\",\n    \"lume\": {\n      \"timestamp\": \"2026-10-02T14:04:08.683Z\",\n      \"locatie\": \"Oiapoque 4.1223N 51.8394W\",\n      \"audituri_total\": 10,\n      \"unelte_forjate\": 5,\n      \"experimente\": 5,\n      \"resurse\": 5,\n      \"entitati_scanate\": 5,\n      \"ora_cosmica\": \"14:04\"\n    }\n  },\n  {\n    \"j\": 777.7,\n    \"t\": \"2026-10-02T15:03:02.596Z\",\n    \"lume\": {\n      \"timestamp\": \"2026-10-02T15:03:02.596Z\",\n      \"locatie\": \"Oiapoque 4.1223N 51.8394W\",\n      \"audituri_total\": 10,\n      \"unelte_forjate\": 5,\n      \"experimente\": 5,\n      \"resurse\": 5,\n      \"entitati_scanate\": 5,\n      \"ora_cosmica\": \"15:03\"\n    }\n  }\n]"
+    },
+    {
+      "id": "6abfb9d872be7b7aa71806d0",
+      "titlu": "Senzor J — 2026-10-02T14:04:08.683Z",
+      "rezumat": "J=777.4 SDI=0.037 A=1.00 | Audituri:10 Unelte:5 Exp:5",
+      "tip_context": "j_istoric",
+      "detalii": "[\n  {\n    \"j\": 777.4,\n    \"t\": \"2026-10-02T14:04:08.683Z\",\n    \"lume\": {\n      \"timestamp\": \"2026-10-02T14:04:08.683Z\",\n      \"locatie\": \"Oiapoque 4.1223N 51.8394W\",\n      \"audituri_total\": 10,\n      \"unelte_forjate\": 5,\n      \"experimente\": 5,\n      \"resurse\": 5,\n      \"entitati_scanate\": 5,\n      \"ora_cosmica\": \"14:04\"\n    }\n  }\n]"
+    }
+  ]
+}
