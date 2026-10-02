@@ -1,0 +1,34 @@
+{
+  "exportat_la": "2026-10-02T01:31:47.000Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6ab769b1538708a182e93180",
+      "titlu": "Deploy Seed — cloudflare, ali — 2026-09-26T06:43",
+      "rezumat": "Cloudflare pending, Ali/Yandex intenție. Muncitori: 1.",
+      "tip_context": "deploy_seed",
+      "detalii": "{\n  \"platforme\": [\n    \"cloudflare\",\n    \"ali\"\n  ],\n  \"seed\": {\n    \"cloudflare\": {\n      \"ok\": false,\n      \"error\": \"accounts: 403 {\\\"success\\\":false,\\\"errors\\\":[{\\\"code\\\":9109,\\\"message\\\":\\\"Invalid access token\\\"}],\\\"messages\\\":[],\\\"result\\\":null}\"\n    },\n    \"ali\": {\n      \"ok\": false,\n      \"intent\": \"Aliyun Function Compute\",\n      \"status\": \"asteapta_credentiale\",\n      \"nota\": \"Adaugă ALI_DASHSCOPE_KEY + credențiale Aliyun FC în Settings → Secrets pentru deploy real\"\n    }\n  },\n  \"github\": {\n    \"ok\": true,\n    \"path\": \"organe/seed/2026-09-26-0643.md\",\n    \"sha\": \"1c490d02762ec291d2e73e884627071b43231fff\",\n    \"url\": \"https://github.com/bogdanstancu1119-maker/HYDRA_UNIVERS/commit/1c490d02762ec291d2e73e884627071b43231fff\"\n  },\n  \"agenti\": [\n    \"Worker-Ali-hydra-seed\"\n  ],\n  \"errors\": [\n    \"cloudflare: accounts: 403 {\\\"success\\\":false,\\\"errors\\\":[{\\\"code\\\":9109,\\\"message\\\":\\\"Invalid access token\\\"}],\\\"messages\\\":[],\\\"result\\\":null}\"\n  ]\n}"
+    },
+    {
+      "id": "6ab61792b58c30458a26aa93",
+      "titlu": "Deploy Seed — cloudflare, ali — 2026-09-25T06:41",
+      "rezumat": "Cloudflare pending, Ali/Yandex intenție. Muncitori: 1.",
+      "tip_context": "deploy_seed",
+      "detalii": "{\n  \"platforme\": [\n    \"cloudflare\",\n    \"ali\"\n  ],\n  \"seed\": {\n    \"cloudflare\": {\n      \"ok\": false,\n      \"error\": \"accounts: 403 {\\\"success\\\":false,\\\"errors\\\":[{\\\"code\\\":9109,\\\"message\\\":\\\"Invalid access token\\\"}],\\\"messages\\\":[],\\\"result\\\":null}\"\n    },\n    \"ali\": {\n      \"ok\": false,\n      \"intent\": \"Aliyun Function Compute\",\n      \"status\": \"asteapta_credentiale\",\n      \"nota\": \"Adaugă ALI_DASHSCOPE_KEY + credențiale Aliyun FC în Settings → Secrets pentru deploy real\"\n    }\n  },\n  \"github\": {\n    \"ok\": true,\n    \"path\": \"organe/seed/2026-09-25-0641.md\",\n    \"sha\": \"37183df380d46f72bbbc40265c6f048d97e54c6e\",\n    \"url\": \"https://github.com/bogdanstancu1119-maker/HYDRA_UNIVERS/commit/37183df380d46f72bbbc40265c6f048d97e54c6e\"\n  },\n  \"agenti\": [\n    \"Worker-Ali-hydra-seed\"\n  ],\n  \"errors\": [\n    \"cloudflare: accounts: 403 {\\\"success\\\":false,\\\"errors\\\":[{\\\"code\\\":9109,\\\"message\\\":\\\"Invalid access token\\\"}],\\\"messages\\\":[],\\\"result\\\":null}\"\n  ]\n}"
+    },
+    {
+      "id": "6ab4c6db40b7c7e717416890",
+      "titlu": "Deploy Seed — cloudflare, ali — 2026-09-24T06:44",
+      "rezumat": "Cloudflare pending, Ali/Yandex intenție. Muncitori: 1.",
+      "tip_context": "deploy_seed",
+      "detalii": "{\n  \"platforme\": [\n    \"cloudflare\",\n    \"ali\"\n  ],\n  \"seed\": {\n    \"cloudflare\": {\n      \"ok\": false,\n      \"error\": \"accounts: 403 {\\\"success\\\":false,\\\"errors\\\":[{\\\"code\\\":9109,\\\"message\\\":\\\"Invalid access token\\\"}],\\\"messages\\\":[],\\\"result\\\":null}\"\n    },\n    \"ali\": {\n      \"ok\": false,\n      \"intent\": \"Aliyun Function Compute\",\n      \"status\": \"asteapta_credentiale\",\n      \"nota\": \"Adaugă ALI_DASHSCOPE_KEY + credențiale Aliyun FC în Settings → Secrets pentru deploy real\"\n    }\n  },\n  \"github\": {\n    \"ok\": true,\n    \"path\": \"organe/seed/2026-09-24-0644.md\",\n    \"sha\": \"cafb0e46e21cfd806f083cb364a7f2df5b4f13f6\",\n    \"url\": \"https://github.com/bogdanstancu1119-maker/HYDRA_UNIVERS/commit/cafb0e46e21cfd806f083cb364a7f2df5b4f13f6\"\n  },\n  \"agenti\": [\n    \"Worker-Ali-hydra-seed\"\n  ],\n  \"errors\": [\n    \"cloudflare: accounts: 403 {\\\"success\\\":false,\\\"errors\\\":[{\\\"code\\\":9109,\\\"message\\\":\\\"Invalid access token\\\"}],\\\"messages\\\":[],\\\"result\\\":null}\"\n  ]\n}"
+    },
+    {
+      "id": "6ab3747ed59b790f78e8139c",
+      "titlu": "Deploy Seed — cloudflare, ali — 2026-09-23T06:40",
+      "rezumat": "Cloudflare pending, Ali/Yandex intenție. Muncitori: 1.",
+      "tip_context": "deploy_seed",
+      "detalii": "{\n  \"platforme\": [\n    \"cloudflare\",\n    \"ali\"\n  ],\n  \"seed\": {\n    \"cloudflare\": {\n      \"ok\": false,\n      \"error\": \"accounts: 403 {\\\"success\\\":false,\\\"errors\\\":[{\\\"code\\\":9109,\\\"message\\\":\\\"Invalid access token\\\"}],\\\"messages\\\":[],\\\"result\\\":null}\"\n    },\n    \"ali\": {\n      \"ok\": false,\n      \"intent\": \"Aliyun Function Compute\",\n      \"status\": \"asteapta_credentiale\",\n      \"nota\": \"Adaugă ALI_DASHSCOPE_KEY + credențiale Aliyun FC în Settings → Secrets pentru deploy real\"\n    }\n  },\n  \"github\": {\n    \"ok\": true,\n    \"path\": \"organe/seed/2026-09-23-0640.md\",\n    \"sha\": \"2dcffde7f8d206d0d04cecb73d5172c4588148b7\",\n    \"url\": \"https://github.com/bogdanstancu1119-maker/HYDRA_UNIVERS/commit/2dcffde7f8d206d0d04cecb73d5172c4588148b7\"\n  },\n  \"agenti\": [\n    \"Worker-Ali-hydra-seed\"\n  ],\n  \"errors\": [\n    \"cloudflare: accounts: 403 {\\\"success\\\":false,\\\"errors\\\":[{\\\"code\\\":9109,\\\"message\\\":\\\"Invalid access token\\\"}],\\\"messages\\\":[],\\\"result\\\":null}\"\n  ]\n}"
+    }
+  ]
+}
