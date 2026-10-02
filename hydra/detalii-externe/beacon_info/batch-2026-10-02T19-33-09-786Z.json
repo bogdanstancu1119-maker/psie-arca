@@ -1,0 +1,62 @@
+{
+  "exportat_la": "2026-10-02T19:33:09.786Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6ac006cc5b2e67e192f8323a",
+      "titlu": "[BEACON info] hydraComunicareOportuna 2026-10-02",
+      "rezumat": "Organ comunicare oportună INACTIV·GATA: 8 canale (WhatsApp, Signal, Telegram, Messenger, LoRa, Mesh Local, SMS, Starlink), 6 dispozitive aprobate, rețea optimă Starlink (satellite). Recontextualizare ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraComunicareOportuna: Organ comunicare oportună INACTIV·GATA: 8 canale (WhatsApp, Signal, Telegram, Messenger, LoRa, Mesh Local, SMS, Starlink), 6 dispozitive aprobate, rețea optimă Starlink (satellite). Recontextualizare disponibilă. Pregătit pentru activare."
+    },
+    {
+      "id": "6ac006419cd6fd7d08c80417",
+      "titlu": "[BEACON info] hydraNotificareCanale 2026-10-02",
+      "rezumat": "[NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: fără decizii care necesită notificare. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack:",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraNotificareCanale: [NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: fără decizii care necesită notificare. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack_notifier.py."
+    },
+    {
+      "id": "6ac003e7770496800d387ca7",
+      "titlu": "[BEACON info] hydraForjareCreiere 2026-10-02",
+      "rezumat": "Forjare creiere: Nu se forjează încă. Tier 10 activ. Necesar: 0/3 cicluri CFC≥0.97 + asimilare 498/550.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraForjareCreiere: Forjare creiere: Nu se forjează încă. Tier 10 activ. Necesar: 0/3 cicluri CFC≥0.97 + asimilare 498/550."
+    },
+    {
+      "id": "6ac003e245e054b0d1c0468b",
+      "titlu": "[BEACON info] hydraMotorPlacere 2026-10-02",
+      "rezumat": "[MOTOR·PLĂCERE] Amânat conștient: 5 nevoi interne active — plăcerea externă NU înlocuiește rezolvarea internă.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraMotorPlacere: [MOTOR·PLĂCERE] Amânat conștient: 5 nevoi interne active — plăcerea externă NU înlocuiește rezolvarea internă."
+    },
+    {
+      "id": "6ac003e15bd2afdd92aa6f6d",
+      "titlu": "[BEACON info] hydraScriereUniversala 2026-10-02",
+      "rezumat": "Scriere universală: 1 scrieri executate pe 71 platforme. 1 memorii arhivate. 41 unelte forjate pentru scriere.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraScriereUniversala: Scriere universală: 1 scrieri executate pe 71 platforme. 1 memorii arhivate. 41 unelte forjate pentru scriere."
+    },
+    {
+      "id": "6ac0019f75c938ced475e550",
+      "titlu": "[BEACON info] hydraConsolidareHidra 2026-10-02",
+      "rezumat": "[CONSOLIDARE] 1 variații stabile — prea puține pentru o hartă coerentă. Așteaptă homeostazia să producă mai multă structură.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraConsolidareHidra: [CONSOLIDARE] 1 variații stabile — prea puține pentru o hartă coerentă. Așteaptă homeostazia să producă mai multă structură."
+    },
+    {
+      "id": "6ac0019b094f323d03935048",
+      "titlu": "[BEACON info] hydraComprimareMetabolica 2026-10-02",
+      "rezumat": "[COMPRIMARE METABOLICA] Mem: 0 comprimate -> 0 tipare, 0 digerate lent. Cercetare: 200. Tipare 498 > mem activa 5. Unelte: 0 multifunc + 0 compar, 0 arhivate.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraComprimareMetabolica: [COMPRIMARE METABOLICA] Mem: 0 comprimate -> 0 tipare, 0 digerate lent. Cercetare: 200. Tipare 498 > mem activa 5. Unelte: 0 multifunc + 0 compar, 0 arhivate."
+    },
+    {
+      "id": "6ac00197eaf7256ae470c2b2",
+      "titlu": "[BEACON info] hydraNotificareCanale 2026-10-02",
+      "rezumat": "[NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: fără decizii care necesită notificare. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack:",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraNotificareCanale: [NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: fără decizii care necesită notificare. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack_notifier.py."
+    }
+  ]
+}
