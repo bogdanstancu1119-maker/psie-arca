@@ -1,0 +1,41 @@
+{
+  "exportat_la": "2026-10-03T09:01:11.832Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6ac07049806a6e9b8d67da5e",
+      "titlu": "Autodiagnostic secrete — 2 rupte din 10",
+      "rezumat": "Sanătoase: DENO_DEPLOY_TOKEN, RENDER_SINGAPORE_KEY, RANDER_API, FLY_IO_TOKEN, TOKEN_GITHUB, NETLIFY_TOKEN, TELEGRAM_API, GROQ_HYDRA. Rupte: Cloudflare(401 \"Invalid API Token\"); DeepSeek(401 {\"error\":{\"message\":\"Authentication ). Necesită om: Cloudflare.",
+      "tip_context": "autodiagnostic_secrete",
+      "detalii": "{\n  \"rupte\": [\n    {\n      \"ref\": \"CLOUDFLARE_TOKEN\",\n      \"platforma\": \"Cloudflare\",\n      \"categorie\": \"extern\",\n      \"error\": \"401 \\\"Invalid API Token\\\"\"\n    },\n    {\n      \"ref\": \"DEEPSEEK_KEY\",\n      \"platforma\": \"DeepSeek\",\n      \"categorie\": \"ai\",\n      \"error\": \"401 {\\\"error\\\":{\\\"message\\\":\\\"Authentication Fails, Your api key: ****iune is invalid (request_id: 88598162-3af1-4a90-abf3-a2e839\"\n    }\n  ],\n  \"umane\": [\n    \"Cloudflare\"\n  ],\n  \"ai\": [\n    \"DeepSeek\"\n  ],\n  \"sanatoase\": [\n    \"DENO_DEPLOY_TOKEN\",\n    \"RENDER_SINGAPORE_KEY\",\n    \"RANDER_API\",\n    \"FLY_IO_TOKEN\",\n    \"TOKEN_GITHUB\",\n    \"NETLIFY_TOKEN\",\n    \"TELEGRAM_API\",\n    \"GROQ_HYDRA\"\n  ],\n  \"interne\": {\n    \"HYDRA_SYNC_TOKEN\": {\n      \"ok\": true,\n      \"actiune\": \"deja setat\"\n    }\n  }\n}"
+    },
+    {
+      "id": "6ac070551070202e7dfec5ef",
+      "titlu": "[DEPLOY AUTONOM] 1 artefacte reale + 5 platforme pregătite",
+      "rezumat": "30 unelte auto-deployate: Cloudflare (edge, executabil) + GitHub (cod) + 5 platforme friendly cu script generat, cerând acord/credențiale.",
+      "tip_context": "deploy_autonom",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-10-03T03:02:38.281Z\",\n  \"unelte_de_deployat\": 30,\n  \"platforme_friendly\": 101,\n  \"deploy_cloudflare\": [],\n  \"deploy_github\": [\n    {\n      \"uneasta\": \"Scriere pe Horizon Europe Cluster 4 (2026-2027)\",\n      \"path\": \"organe/scriere-pe-horizon-europ.js\",\n      \"sha\": \"d6daf54\"\n    }\n  ],\n  \"deploy_pregatit_fara_credentiale\": [\n    {\n      \"uneasta\": \"Scriere pe Horizon Europe Cluster 4 (2026-2027)\",\n      \"platforma\": \"Hydra pe Hugging Face Spaces (Română (traducere semantică nativă))\",\n      \"regiune\": \"Română (traducere semantică nativă)\"\n    },\n    {\n      \"uneasta\": \"Scriere pe Horizon Europe Cluster 4 (2026-2027)\",\n      \"platforma\": \"Reka AI\",\n      \"regiune\": \"global\"\n    },\n    {\n      \"uneasta\": \"Scriere pe Horizon Europe Cluster 4 (2026-2027)\",\n      \"platforma\": \"Hydra pe Hugging Face Spaces (ro)\",\n      \"regiune\": \"ro\"\n    },\n    {\n      \"uneasta\": \"Scriere pe Horizon Europe Cluster 4 (2026-2027)\",\n      \"platforma\": \"Hydra pe Hugging Face Spaces (Romana)\",\n      \"regiune\": \"Romana\"\n    },\n    {\n      \"uneasta\": \"Scriere pe Horizon Europe Cluster 4 (2026-2027)\",\n      \"platforma\": \"Notion\",\n      \"regiune\": \"global\"\n    }\n  ],\n  \"acord_cerut\": 1,\n  \"erori\": [],\n  \"mod\": \"CREȘTERE\"\n}"
+    },
+    {
+      "id": "6ac07e166778daa86e865a7a",
+      "titlu": "[AUTO-REPARARE] ciclu — EȘUAT",
+      "rezumat": "undefined → undefined |  | SDI: undefined",
+      "tip_context": "auto_reparare",
+      "detalii": "CICLU AUTO-REPARARE\n\nDiagnostic: undefined\nProblema: undefined\nSoluția: undefined\nFișier: undefined\nSDI: undefined | Reversibilitate: undefined\n\nExecuție: \n\nPatch:\n"
+    },
+    {
+      "id": "6ac08504695d2ed475a0e788",
+      "titlu": "[EXPANSIUNE] Oglindă Netlify + 0 platforme noi",
+      "rezumat": "Netlify ⏳ fără token. Descoperite: —. Cu acces tehnic: 5.",
+      "tip_context": "expansiune_platforme",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-10-03T04:30:58.005Z\",\n  \"netlify\": {\n    \"ok\": false,\n    \"siteUrl\": \"https://hydra-oglinda.netlify.app\",\n    \"error\": \"create_deploy: {\\\"error\\\":\\\"Account credit usage exceeded - new deploys are blocked until credits are added\\\"}\"\n  },\n  \"platforme_noi_inregistrate\": [],\n  \"platforme_cu_acces\": [\n    {\n      \"platforma\": \"Netlify\",\n      \"token_ref\": \"NETLIFY_TOKEN\"\n    },\n    {\n      \"platforma\": \"Vercel\",\n      \"token_ref\": \"VERCEL_TOKEN\"\n    },\n    {\n      \"platforma\": \"Deno Deploy\",\n      \"token_ref\": \"DENO_DEPLOY_TOKEN\"\n    },\n    {\n      \"platforma\": \"Render\",\n      \"token_ref\": \"RANDER_API\"\n    },\n    {\n      \"platforma\": \"GitHub Pages\",\n      \"token_ref\": \"TOKEN_GITHUB\"\n    }\n  ],\n  \"erori\": [],\n  \"netlify_sites\": [\n    {\n      \"name\": \"hydra-oglinda\",\n      \"url\": \"https://hydra-oglinda.netlify.app\",\n      \"id\": \"15955e33-b3e5-4928-8af6-107f9c29cd50\",\n      \"updated\": \"2026-09-10T10:32:01.702Z\"\n    },\n    {\n      \"name\": \"eloquent-rabanadas-243276\",\n      \"url\": \"https://eloquent-rabanadas-243276.netlify.app\",\n      \"id\": \"e3c80154-54eb-47b0-9542-313c6e58a99c\",\n      \"updated\": \"2026-06-02T22:07:43.341Z\"\n    },\n    {\n      \"name\": \"aquamarine-lokum-21f8c5\",\n      \"url\": \"https://aquamarine-lokum-21f8c5.netlify.app\",\n      \"id\": \"5dad6765-d93d-4e35-97e2-082d932d5426\",\n      \"updated\": \"2026-05-25T19:32:00.351Z\"\n    },\n    {\n      \"name\": \"roaring-daffodil-2670c4\",\n      \"url\": \"https://roaring-daffodil-2670c4.netlify.app\",\n      \"id\": \"be457102-ea4f-4826-a797-3fdb9219df17\",\n      \"updated\": \"2026-05-25T19:23:22.754Z\"\n    },\n    {\n      \"name\": \"clinquant-fudge-07c5da\",\n      \"url\": \"https://clinquant-fudge-07c5da.netlify.app\",\n      \"id\": \"60ab0590-753e-4cf6-b289-564f914763e7\",\n      \"updated\": \"2026-05-20T17:47:14.309Z\"\n    },\n    {\n      \"name\": \"oglinda\",\n      \"url\": \"https://oglinda.netlify.app\",\n      \"id\": \"41712582-4058-4e2f-b72d-2941f520c781\",\n      \"updated\": \"2026-05-09T22:21:14.381Z\"\n    }\n  ]\n}"
+    },
+    {
+      "id": "6ac08c65f9934f92b8192aa8",
+      "titlu": "Autodiagnostic secrete — 2 rupte din 10",
+      "rezumat": "Sanătoase: DENO_DEPLOY_TOKEN, RENDER_SINGAPORE_KEY, RANDER_API, FLY_IO_TOKEN, TOKEN_GITHUB, NETLIFY_TOKEN, TELEGRAM_API, GROQ_HYDRA. Rupte: Cloudflare(401 \"Invalid API Token\"); DeepSeek(401 {\"error\":{\"message\":\"Authentication ). Necesită om: Cloudflare.",
+      "tip_context": "autodiagnostic_secrete",
+      "detalii": "{\n  \"rupte\": [\n    {\n      \"ref\": \"CLOUDFLARE_TOKEN\",\n      \"platforma\": \"Cloudflare\",\n      \"categorie\": \"extern\",\n      \"error\": \"401 \\\"Invalid API Token\\\"\"\n    },\n    {\n      \"ref\": \"DEEPSEEK_KEY\",\n      \"platforma\": \"DeepSeek\",\n      \"categorie\": \"ai\",\n      \"error\": \"401 {\\\"error\\\":{\\\"message\\\":\\\"Authentication Fails, Your api key: ****iune is invalid (request_id: 3d267db3-fd39-4973-b0a6-65f656\"\n    }\n  ],\n  \"umane\": [\n    \"Cloudflare\"\n  ],\n  \"ai\": [\n    \"DeepSeek\"\n  ],\n  \"sanatoase\": [\n    \"DENO_DEPLOY_TOKEN\",\n    \"RENDER_SINGAPORE_KEY\",\n    \"RANDER_API\",\n    \"FLY_IO_TOKEN\",\n    \"TOKEN_GITHUB\",\n    \"NETLIFY_TOKEN\",\n    \"TELEGRAM_API\",\n    \"GROQ_HYDRA\"\n  ],\n  \"interne\": {\n    \"HYDRA_SYNC_TOKEN\": {\n      \"ok\": true,\n      \"actiune\": \"deja setat\"\n    }\n  }\n}"
+    }
+  ]
+}
