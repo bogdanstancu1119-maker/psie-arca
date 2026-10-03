@@ -16,16 +16,16 @@
 
 
 ## Cercetare web
-**Direcție emergentă:** Trecerea de la paradigma 'controlului prin automatizare' la 'navigarea prin complexitate și asumare ontologică', unde valoarea umană rezidă în capacitatea de a gestiona incertitudinea și de a refuza delegarea judecății critice.
-### 1. The Non-Delegability of Judgment and the Crisis of Political Existence
-- Sursă: SSRN | Relevanță: 0.95
-- Insight: Navigarea conștientă necesită refuzul delegării deciziilor fundamentale către algoritmi, păstrând 'nataliatea' și pluralitatea ca spațiu de acțiune umană.
-### 2. Learning by Surprise: Adaptive Mitigation of Model Collapse
-- Sursă: arXiv | Relevanță: 0.85
-- Insight: Sistemele (și mințile) au nevoie de 'surpriză' și diversitate informațională pentru a evita stagnarea și colapsul în bucle de feedback auto-referențiale.
-### 3. Lessons from complexity theory for AI governance
-- Sursă: arXiv | Relevanță: 0.9
-- Insight: Navigarea în sisteme complexe nu se bazează pe control, ci pe înțelegerea tiparelor emergente și a punctelor de inflexiune în rețele interconectate.
+**Direcție emergentă:** Trecerea de la 'alinierea tehnică' (controlul AI) la 'securitatea ontologică' (protejarea integrității sistemelor umane și hibride în fața schimbării rapide).
+### 1. Strategic Narrative Alignment and Ontological Security lenses for Digitalisation and AI adoption
+- Sursă: Aalborg University Research Portal | Relevanță: 0.9
+- Insight: Navigarea conștientă necesită protejarea identității sistemice în fața perturbărilor tehnologice; securitatea ontologică este o condiție prealabilă pentru adaptarea la realități emergente.
+### 2. How Complexity Thinking Can Help the World Navigate AI
+- Sursă: New America / Princeton University | Relevanță: 0.85
+- Insight: Pentru a naviga AI, trebuie să trecem de la controlul liniar la înțelegerea dinamicii sistemelor complexe, unde feedback-ul și interacțiunile emergente dictează rezultatul.
+### 3. Open Opportunities in AI Safety, Alignment, and Ethics (AI SAE)
+- Sursă: arXiv | Relevanță: 0.95
+- Insight: Alinierea nu este o destinație fixă, ci un proces continuu de construcție a spațiului moral prin deliberare colectivă și mecanisme instituționale.
 
 ## Tipărire contextuală
 **Context oportun:** —
@@ -35,5 +35,5 @@
 — (fără paradox nerezolvat)
 
 ---
-_2026-10-03T07:32:05.588Z_
+_2026-10-03T13:30:58.358Z_
 J=710 | A=1.0
