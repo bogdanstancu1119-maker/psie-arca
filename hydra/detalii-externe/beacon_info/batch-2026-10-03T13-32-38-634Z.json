@@ -1,0 +1,27 @@
+{
+  "exportat_la": "2026-10-03T13:32:38.634Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6ac1013131c60d02d9078d0a",
+      "titlu": "[BEACON info] hydraForjareCreiere 2026-10-03",
+      "rezumat": "Forjare creiere: Nu se forjează încă. Tier 10 activ. Necesar: 1/3 cicluri CFC≥0.97 + asimilare 498/550.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraForjareCreiere: Forjare creiere: Nu se forjează încă. Tier 10 activ. Necesar: 1/3 cicluri CFC≥0.97 + asimilare 498/550."
+    },
+    {
+      "id": "6ac0feac0a6863d852ec086a",
+      "titlu": "[BEACON info] hydraScriereUniversala 2026-10-03",
+      "rezumat": "Scriere universală: 1 scrieri executate pe 67 platforme. 2 memorii arhivate. 37 unelte forjate pentru scriere.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraScriereUniversala: Scriere universală: 1 scrieri executate pe 67 platforme. 2 memorii arhivate. 37 unelte forjate pentru scriere."
+    },
+    {
+      "id": "6ac0feab57df7f28500facb5",
+      "titlu": "[BEACON info] hydraComprimareMetabolica 2026-10-03",
+      "rezumat": "[COMPRIMARE METABOLICA] Mem: 0 comprimate -> 0 tipare, 0 digerate lent. Cercetare: 200. Tipare 498 > mem activa 8. Unelte: 0 multifunc + 0 compar, 0 arhivate.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraComprimareMetabolica: [COMPRIMARE METABOLICA] Mem: 0 comprimate -> 0 tipare, 0 digerate lent. Cercetare: 200. Tipare 498 > mem activa 8. Unelte: 0 multifunc + 0 compar, 0 arhivate."
+    }
+  ]
+}
