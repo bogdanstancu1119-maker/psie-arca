@@ -1,0 +1,41 @@
+{
+  "exportat_la": "2026-10-04T19:34:23.707Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6ac2a97b94fec9b25ae5af6a",
+      "titlu": "[BEACON info] hydraNotificareCanale 2026-10-04",
+      "rezumat": "[NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: fără decizii care necesită notificare. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack:",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraNotificareCanale: [NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: fără decizii care necesită notificare. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack_notifier.py."
+    },
+    {
+      "id": "6ac2a707c66f613322aa0472",
+      "titlu": "[BEACON info] hydraForjareCreiere 2026-10-04",
+      "rezumat": "Forjare creiere: Nu se forjează încă. Tier 10 activ. Necesar: 2/3 cicluri CFC≥0.97 + asimilare 495/550.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraForjareCreiere: Forjare creiere: Nu se forjează încă. Tier 10 activ. Necesar: 2/3 cicluri CFC≥0.97 + asimilare 495/550."
+    },
+    {
+      "id": "6ac2a4cac2d24293b1212aea",
+      "titlu": "[BEACON info] hydraComprimareMetabolica 2026-10-04",
+      "rezumat": "[COMPRIMARE METABOLICA] Mem: 0 comprimate -> 0 tipare, 0 digerate lent. Cercetare: 200. Tipare 494 > mem activa 10. Unelte: 0 multifunc + 0 compar, 0 arhivate.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraComprimareMetabolica: [COMPRIMARE METABOLICA] Mem: 0 comprimate -> 0 tipare, 0 digerate lent. Cercetare: 200. Tipare 494 > mem activa 10. Unelte: 0 multifunc + 0 compar, 0 arhivate."
+    },
+    {
+      "id": "6ac2a4caa28be88bf32c2d36",
+      "titlu": "[BEACON info] hydraCercetareAutonoma 2026-10-04",
+      "rezumat": "[CERCETARE] Dinamica erorilor de cuantizare în sisteme reactiv (sisteme_decentralizate) — 1/5 unghiuri, SATURAT (oprit la timp) — Stabilitatea sistemelor reactive în spații finit-dimensionale este dic",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCercetareAutonoma: [CERCETARE] Dinamica erorilor de cuantizare în sisteme reactiv (sisteme_decentralizate) — 1/5 unghiuri, SATURAT (oprit la timp) — Stabilitatea sistemelor reactive în spații finit-dimensionale este dictată de sp"
+    },
+    {
+      "id": "6ac2a4c9896323426de95c4e",
+      "titlu": "[BEACON info] hydraScriereUniversala 2026-10-04",
+      "rezumat": "Scriere universală: 1 scrieri executate pe 50 platforme. 3 memorii arhivate. 21 unelte forjate pentru scriere.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraScriereUniversala: Scriere universală: 1 scrieri executate pe 50 platforme. 3 memorii arhivate. 21 unelte forjate pentru scriere."
+    }
+  ]
+}
