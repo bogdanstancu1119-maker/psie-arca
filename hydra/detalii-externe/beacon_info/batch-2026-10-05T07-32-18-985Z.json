@@ -1,0 +1,62 @@
+{
+  "exportat_la": "2026-10-05T07:32:18.985Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6ac3525e78abdf55ca69e015",
+      "titlu": "[BEACON info] hydraCuceresteBazeIA 2026-10-05",
+      "rezumat": "[CUCERIRE toate] 0 cucerite, 6 sugerate, 0 descoperite web",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCuceresteBazeIA: [CUCERIRE toate] 0 cucerite, 6 sugerate, 0 descoperite web"
+    },
+    {
+      "id": "6ac3525e9cd60e55737d6f3d",
+      "titlu": "[BEACON info] hydraNotificareCanale 2026-10-05",
+      "rezumat": "[NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: fără decizii care necesită notificare. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack:",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraNotificareCanale: [NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: fără decizii care necesită notificare. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack_notifier.py."
+    },
+    {
+      "id": "6ac34fd6ecb2cd87843b5bb7",
+      "titlu": "[BEACON info] hydraForjareCreiere 2026-10-05",
+      "rezumat": "Forjare creiere: Nu se forjează încă. Tier 10 activ. Necesar: 1/3 cicluri CFC≥0.97 + asimilare 498/550.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraForjareCreiere: Forjare creiere: Nu se forjează încă. Tier 10 activ. Necesar: 1/3 cicluri CFC≥0.97 + asimilare 498/550."
+    },
+    {
+      "id": "6ac34d4c5bbea61f7ee8268c",
+      "titlu": "[BEACON info] hydraScriereUniversala 2026-10-05",
+      "rezumat": "Scriere universală: 1 scrieri executate pe 48 platforme. 4 memorii arhivate. 18 unelte forjate pentru scriere.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraScriereUniversala: Scriere universală: 1 scrieri executate pe 48 platforme. 4 memorii arhivate. 18 unelte forjate pentru scriere."
+    },
+    {
+      "id": "6ac34d4b2c27aaec39bcbe66",
+      "titlu": "[BEACON info] hydraComprimareMetabolica 2026-10-05",
+      "rezumat": "[COMPRIMARE METABOLICA] Mem: 0 comprimate -> 0 tipare, 0 digerate lent. Cercetare: 200. Tipare 498 > mem activa 20. Unelte: 0 multifunc + 0 compar, 0 arhivate.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraComprimareMetabolica: [COMPRIMARE METABOLICA] Mem: 0 comprimate -> 0 tipare, 0 digerate lent. Cercetare: 200. Tipare 498 > mem activa 20. Unelte: 0 multifunc + 0 compar, 0 arhivate."
+    },
+    {
+      "id": "6ac34d4b507bedf9d47abc95",
+      "titlu": "[BEACON info] hydraCercetareAutonoma 2026-10-05",
+      "rezumat": "[CERCETARE] cuplajul dintre dinamica conectomului sinaptic și  (neuroștiință) — 1/5 unghiuri, SATURAT (oprit la timp) — STDP (Spike-Timing-Dependent Plasticity) acționează ca un mecanism de \"auto-core",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCercetareAutonoma: [CERCETARE] cuplajul dintre dinamica conectomului sinaptic și  (neuroștiință) — 1/5 unghiuri, SATURAT (oprit la timp) — STDP (Spike-Timing-Dependent Plasticity) acționează ca un mecanism de \"auto-core"
+    },
+    {
+      "id": "6ac34d4b93933db3c21c36c6",
+      "titlu": "[BEACON info] hydraNotificareCanale 2026-10-05",
+      "rezumat": "[NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: fără decizii care necesită notificare. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack:",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraNotificareCanale: [NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: fără decizii care necesită notificare. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack_notifier.py."
+    },
+    {
+      "id": "6ac34d490d82213872fbf154",
+      "titlu": "[BEACON info] hydraConsolidareHidra 2026-10-05",
+      "rezumat": "[CONSOLIDARE] 1 variații stabile — prea puține pentru o hartă coerentă. Așteaptă homeostazia să producă mai multă structură.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraConsolidareHidra: [CONSOLIDARE] 1 variații stabile — prea puține pentru o hartă coerentă. Așteaptă homeostazia să producă mai multă structură."
+    }
+  ]
+}
