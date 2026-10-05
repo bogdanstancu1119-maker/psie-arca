@@ -16,16 +16,19 @@
 
 
 ## Cercetare web
-**Direcție emergentă:** Trecerea de la alinierea tehnică (constrângere) la alinierea ontologică (co-construcție), unde sistemele socio-tehnice sunt gestionate ca organisme complexe, nu ca mașini deterministe.
-### 1. Open Opportunities in AI Safety, Alignment, and Ethics (AI SAE): Designing Symbiotic AI Systems
-- Sursă: arXiv | Relevanță: 0.95
-- Insight: Navigarea conștientă necesită trecerea de la căutarea unor 'valori universale' fixe la proiectarea unor spații de interacțiune unde etica devine o funcție emergentă a sistemului.
-### 2. Strategic Narrative Alignment and Ontological Security lenses for Digitalisation and AI adoption
+**Direcție emergentă:** Trecerea de la alinierea tehnică a AI la securitatea ontologică și construcția deliberativă a spațiului moral, unde sensemaking-ul devine mecanismul principal de navigare prin complexitate.
+### 1. Strategic Narrative Alignment and Ontological Security lenses for Digitalisation and AI adoption
 - Sursă: Aalborg University Research Portal | Relevanță: 0.9
-- Insight: Pentru a naviga prin realități emergente, trebuie gestionată 'decuplarea ontologică' (SDI) – capacitatea de a menține un nucleu de identitate în timp ce structurile operaționale se transformă radical.
-### 3. How Complexity Thinking Can Help the World Navigate AI
-- Sursă: New America / Princeton / ASU | Relevanță: 0.85
-- Insight: Navigarea eficientă nu înseamnă control centralizat, ci înțelegerea 'atractorilor' din sistem și intervenția la nivelul feedback-ului pentru a ghida evoluția către stări dezirabile.
+- Insight: Securitatea ontologică este un activ critic; navigarea conștientă necesită alinierea narativă pentru a preveni fragmentarea identității în fața perturbărilor tehnologice.
+### 2. How Complexity Thinking Can Help the World Navigate AI
+- Sursă: New America / Princeton University | Relevanță: 0.85
+- Insight: Navigarea prin incertitudine radicală necesită trecerea de la controlul liniar la înțelegerea atractorilor și a feedback-ului în sisteme complexe.
+### 3. Open Opportunities in AI Safety, Alignment, and Ethics (AI SAE)
+- Sursă: arXiv | Relevanță: 0.95
+- Insight: Alinierea nu este o problemă tehnică de optimizare, ci un proces de construcție ontologică participativă.
+### 4. Sensemaking, Ontological Insecurity, and the Emergence of Autonomous AI Agents
+- Sursă: PhilArchive | Relevanță: 0.8
+- Insight: Sensemaking-ul devine competența centrală pentru a menține agenția umană într-un ecosistem populat de agenți autonomi.
 
 ## Tipărire contextuală
 **Context oportun:** —
@@ -35,5 +38,5 @@
 — (fără paradox nerezolvat)
 
 ---
-_2026-10-05T07:31:39.953Z_
+_2026-10-05T13:31:38.014Z_
 J=710 | A=1.0
