@@ -1,0 +1,1 @@
+import { useState, useEffect } from 'react'; import { saveState, loadState } from './db'; const useModelScope = (initialState) => { const [state, setState] = useState(() => loadState() || initialState); useEffect(() => { saveState(state); }, [state]); return [state, setState]; }; export default useModelScope;
