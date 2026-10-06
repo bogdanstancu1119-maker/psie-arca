@@ -1,0 +1,1 @@
+npm i -g vercel && vercel login && vercel --prod --confirm
