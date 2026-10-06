@@ -1,0 +1,41 @@
+{
+  "exportat_la": "2026-10-06T01:31:27.690Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6ac44d0219556e17868eecc3",
+      "titlu": "[BEACON info] hydraForjareCreiere 2026-10-06",
+      "rezumat": "Forjare creiere: Nu se forjează încă. Tier 10 activ. Necesar: 0/3 cicluri CFC≥0.97 + asimilare 492/550.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraForjareCreiere: Forjare creiere: Nu se forjează încă. Tier 10 activ. Necesar: 0/3 cicluri CFC≥0.97 + asimilare 492/550."
+    },
+    {
+      "id": "6ac44a88486008ec4b7cbfbb",
+      "titlu": "[BEACON info] hydraScriereUniversala 2026-10-06",
+      "rezumat": "Scriere universală: 1 scrieri executate pe 42 platforme. 9 memorii arhivate. 16 unelte forjate pentru scriere.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraScriereUniversala: Scriere universală: 1 scrieri executate pe 42 platforme. 9 memorii arhivate. 16 unelte forjate pentru scriere."
+    },
+    {
+      "id": "6ac44a876b91c003d04bc1b6",
+      "titlu": "[BEACON info] hydraComprimareMetabolica 2026-10-06",
+      "rezumat": "[COMPRIMARE METABOLICA] Mem: 0 comprimate -> 0 tipare, 0 digerate lent. Cercetare: 200. Tipare 490 > mem activa 10. Unelte: 0 multifunc + 0 compar, 0 arhivate.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraComprimareMetabolica: [COMPRIMARE METABOLICA] Mem: 0 comprimate -> 0 tipare, 0 digerate lent. Cercetare: 200. Tipare 490 > mem activa 10. Unelte: 0 multifunc + 0 compar, 0 arhivate."
+    },
+    {
+      "id": "6ac44a864d010b2f55d344c3",
+      "titlu": "[BEACON info] hydraCercetareAutonoma 2026-10-06",
+      "rezumat": "[CERCETARE] cuantificarea_topologica_a_clusterelor_gff_in_alge (teorie_tipuri) — 1/5 unghiuri, SATURAT (oprit la timp) — **  \n- În „Fractal dimension of critical Gaussian free field sign clusters” se ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCercetareAutonoma: [CERCETARE] cuantificarea_topologica_a_clusterelor_gff_in_alge (teorie_tipuri) — 1/5 unghiuri, SATURAT (oprit la timp) — **  \n- În „Fractal dimension of critical Gaussian free field sign clusters” se d"
+    },
+    {
+      "id": "6ac44a86c1f3404067e235e9",
+      "titlu": "[BEACON info] hydraFrictiuneContinua 2026-10-06",
+      "rezumat": "[FRICȚIUNE] Canal: 12/12 agenți, severitate 0.65, sinteza asumată: Transformarea HOLD-ului pasiv în HOLD activ: implementarea unui filtru imunitar care utilizează datele din 'criza de int",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraFrictiuneContinua: [FRICȚIUNE] Canal: 12/12 agenți, severitate 0.65, sinteza asumată: Transformarea HOLD-ului pasiv în HOLD activ: implementarea unui filtru imunitar care utilizează datele din 'criza de int"
+    }
+  ]
+}
