@@ -1,0 +1,1 @@
+git clone https://github.com/replit/replit-cli && cd replit-cli && ./replit run --template python --command 'python3 hydra_core.py'
