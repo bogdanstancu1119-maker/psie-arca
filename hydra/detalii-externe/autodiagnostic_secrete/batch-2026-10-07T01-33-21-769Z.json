@@ -1,0 +1,27 @@
+{
+  "exportat_la": "2026-10-07T01:33:21.769Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6ac59a61ee7078d941d9183f",
+      "titlu": "Autodiagnostic secrete — 2 rupte din 10",
+      "rezumat": "Sanătoase: DENO_DEPLOY_TOKEN, RENDER_SINGAPORE_KEY, RANDER_API, FLY_IO_TOKEN, TOKEN_GITHUB, NETLIFY_TOKEN, TELEGRAM_API, GROQ_HYDRA. Rupte: Cloudflare(401 \"Invalid API Token\"); DeepSeek(401 {\"error\":{\"message\":\"Authentication ). Necesită om: Cloudflare.",
+      "tip_context": "autodiagnostic_secrete",
+      "detalii": "{\n  \"rupte\": [\n    {\n      \"ref\": \"CLOUDFLARE_TOKEN\",\n      \"platforma\": \"Cloudflare\",\n      \"categorie\": \"extern\",\n      \"error\": \"401 \\\"Invalid API Token\\\"\"\n    },\n    {\n      \"ref\": \"DEEPSEEK_KEY\",\n      \"platforma\": \"DeepSeek\",\n      \"categorie\": \"ai\",\n      \"error\": \"401 {\\\"error\\\":{\\\"message\\\":\\\"Authentication Fails, Your api key: ****iune is invalid (request_id: 254fd370-c470-4230-a5e1-e86f76\"\n    }\n  ],\n  \"umane\": [\n    \"Cloudflare\"\n  ],\n  \"ai\": [\n    \"DeepSeek\"\n  ],\n  \"sanatoase\": [\n    \"DENO_DEPLOY_TOKEN\",\n    \"RENDER_SINGAPORE_KEY\",\n    \"RANDER_API\",\n    \"FLY_IO_TOKEN\",\n    \"TOKEN_GITHUB\",\n    \"NETLIFY_TOKEN\",\n    \"TELEGRAM_API\",\n    \"GROQ_HYDRA\"\n  ],\n  \"interne\": {\n    \"HYDRA_SYNC_TOKEN\": {\n      \"ok\": true,\n      \"actiune\": \"deja setat\"\n    }\n  }\n}"
+    },
+    {
+      "id": "6ac57e20d8be1b1ce132038a",
+      "titlu": "Autodiagnostic secrete — 2 rupte din 10",
+      "rezumat": "Sanătoase: DENO_DEPLOY_TOKEN, RENDER_SINGAPORE_KEY, RANDER_API, FLY_IO_TOKEN, TOKEN_GITHUB, NETLIFY_TOKEN, TELEGRAM_API, GROQ_HYDRA. Rupte: Cloudflare(401 \"Invalid API Token\"); DeepSeek(401 {\"error\":{\"message\":\"Authentication ). Necesită om: Cloudflare.",
+      "tip_context": "autodiagnostic_secrete",
+      "detalii": "{\n  \"rupte\": [\n    {\n      \"ref\": \"CLOUDFLARE_TOKEN\",\n      \"platforma\": \"Cloudflare\",\n      \"categorie\": \"extern\",\n      \"error\": \"401 \\\"Invalid API Token\\\"\"\n    },\n    {\n      \"ref\": \"DEEPSEEK_KEY\",\n      \"platforma\": \"DeepSeek\",\n      \"categorie\": \"ai\",\n      \"error\": \"401 {\\\"error\\\":{\\\"message\\\":\\\"Authentication Fails, Your api key: ****iune is invalid (request_id: f802809a-e961-4823-bbbb-77564f\"\n    }\n  ],\n  \"umane\": [\n    \"Cloudflare\"\n  ],\n  \"ai\": [\n    \"DeepSeek\"\n  ],\n  \"sanatoase\": [\n    \"DENO_DEPLOY_TOKEN\",\n    \"RENDER_SINGAPORE_KEY\",\n    \"RANDER_API\",\n    \"FLY_IO_TOKEN\",\n    \"TOKEN_GITHUB\",\n    \"NETLIFY_TOKEN\",\n    \"TELEGRAM_API\",\n    \"GROQ_HYDRA\"\n  ],\n  \"interne\": {\n    \"HYDRA_SYNC_TOKEN\": {\n      \"ok\": true,\n      \"actiune\": \"deja setat\"\n    }\n  }\n}"
+    },
+    {
+      "id": "6ac5620740ba07d27f18a2af",
+      "titlu": "Autodiagnostic secrete — 2 rupte din 10",
+      "rezumat": "Sanătoase: DENO_DEPLOY_TOKEN, RENDER_SINGAPORE_KEY, RANDER_API, FLY_IO_TOKEN, TOKEN_GITHUB, NETLIFY_TOKEN, TELEGRAM_API, GROQ_HYDRA. Rupte: Cloudflare(401 \"Invalid API Token\"); DeepSeek(401 {\"error\":{\"message\":\"Authentication ). Necesită om: Cloudflare.",
+      "tip_context": "autodiagnostic_secrete",
+      "detalii": "{\n  \"rupte\": [\n    {\n      \"ref\": \"CLOUDFLARE_TOKEN\",\n      \"platforma\": \"Cloudflare\",\n      \"categorie\": \"extern\",\n      \"error\": \"401 \\\"Invalid API Token\\\"\"\n    },\n    {\n      \"ref\": \"DEEPSEEK_KEY\",\n      \"platforma\": \"DeepSeek\",\n      \"categorie\": \"ai\",\n      \"error\": \"401 {\\\"error\\\":{\\\"message\\\":\\\"Authentication Fails, Your api key: ****iune is invalid (request_id: 19ee03ae-675b-4bd7-b0f0-2911c4\"\n    }\n  ],\n  \"umane\": [\n    \"Cloudflare\"\n  ],\n  \"ai\": [\n    \"DeepSeek\"\n  ],\n  \"sanatoase\": [\n    \"DENO_DEPLOY_TOKEN\",\n    \"RENDER_SINGAPORE_KEY\",\n    \"RANDER_API\",\n    \"FLY_IO_TOKEN\",\n    \"TOKEN_GITHUB\",\n    \"NETLIFY_TOKEN\",\n    \"TELEGRAM_API\",\n    \"GROQ_HYDRA\"\n  ],\n  \"interne\": {\n    \"HYDRA_SYNC_TOKEN\": {\n      \"ok\": true,\n      \"actiune\": \"deja setat\"\n    }\n  }\n}"
+    }
+  ]
+}
