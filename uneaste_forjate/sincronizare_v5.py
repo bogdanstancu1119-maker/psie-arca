@@ -1,0 +1,1 @@
+import sys; def sincronizare_v5(): print('Sincronizare PSIE V5.0 activata. Fragmentare ontologica evitata.'); return True; if __name__ == '__main__': sincronizare_v5()
