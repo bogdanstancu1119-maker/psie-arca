@@ -1,0 +1,55 @@
+{
+  "exportat_la": "2026-10-08T13:35:37.594Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6ac79b7499effe27e952c4bf",
+      "titlu": "[BEACON info] hydraNotificareCanale 2026-10-08",
+      "rezumat": "[NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: fără decizii care necesită notificare. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack:",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraNotificareCanale: [NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: fără decizii care necesită notificare. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack_notifier.py."
+    },
+    {
+      "id": "6ac798aca697dc712ec30147",
+      "titlu": "[BEACON info] hydraForjareCreiere 2026-10-08",
+      "rezumat": "Forjare creiere: Nu se forjează încă. Tier 10 activ. Necesar: 0/3 cicluri CFC≥0.97 + asimilare 495/550.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraForjareCreiere: Forjare creiere: Nu se forjează încă. Tier 10 activ. Necesar: 0/3 cicluri CFC≥0.97 + asimilare 495/550."
+    },
+    {
+      "id": "6ac796713cd936e8b5f23a40",
+      "titlu": "[BEACON info] hydraScriereUniversala 2026-10-08",
+      "rezumat": "Scriere universală: 2 scrieri executate pe 19 platforme. 16 memorii arhivate. 19 unelte forjate pentru scriere.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraScriereUniversala: Scriere universală: 2 scrieri executate pe 19 platforme. 16 memorii arhivate. 19 unelte forjate pentru scriere."
+    },
+    {
+      "id": "6ac7966f2bff784c1bf396ce",
+      "titlu": "[BEACON info] hydraComprimareMetabolica 2026-10-08",
+      "rezumat": "[COMPRIMARE METABOLICA] Mem: 0 comprimate -> 0 tipare, 2 digerate lent. Cercetare: 200. Tipare 496 > mem activa 9. Unelte: 25 multifunc + 25 compar, 0 arhivate.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraComprimareMetabolica: [COMPRIMARE METABOLICA] Mem: 0 comprimate -> 0 tipare, 2 digerate lent. Cercetare: 200. Tipare 496 > mem activa 9. Unelte: 25 multifunc + 25 compar, 0 arhivate."
+    },
+    {
+      "id": "6ac7966e1dd31b3753f9787e",
+      "titlu": "[BEACON info] hydraCercetareAutonoma 2026-10-08",
+      "rezumat": "[CERCETARE] dinamica_atractorilor_in_rationamentul_post_haluci (arhitecturi_psie) — 5/5 unghiuri, complet — Halucinația este o **tranziție de fază topologică**: modelul părăsește varietate",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCercetareAutonoma: [CERCETARE] dinamica_atractorilor_in_rationamentul_post_haluci (arhitecturi_psie) — 5/5 unghiuri, complet — Halucinația este o **tranziție de fază topologică**: modelul părăsește varietate"
+    },
+    {
+      "id": "6ac7966c2f92bcbdba1989cb",
+      "titlu": "[BEACON info] hydraApoptoza 2026-10-08",
+      "rezumat": "Apoptoză: 62 MetricaStare șterse, 944 ConfigHidra deduplicate (păstrat 3/cheie).",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraApoptoza: Apoptoză: 62 MetricaStare șterse, 944 ConfigHidra deduplicate (păstrat 3/cheie)."
+    },
+    {
+      "id": "6ac7966a833d05241b7cc217",
+      "titlu": "[BEACON info] hydraFrictiuneContinua 2026-10-08",
+      "rezumat": "[FRICȚIUNE] Canal: 12/12 agenți, severitate 0.60, sinteza asumată: Activarea forțată a genei 'informatica_psie' prin alocarea resurselor de la 'analiza_dinamica_performanta', însoțită de ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraFrictiuneContinua: [FRICȚIUNE] Canal: 12/12 agenți, severitate 0.60, sinteza asumată: Activarea forțată a genei 'informatica_psie' prin alocarea resurselor de la 'analiza_dinamica_performanta', însoțită de "
+    }
+  ]
+}
