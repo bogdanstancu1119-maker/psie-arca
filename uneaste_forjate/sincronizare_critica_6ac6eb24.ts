@@ -1,0 +1,1 @@
+import { MetaCreier } from '@core/synergy'; async function rebalance() { await MetaCreier.sincronizare({ target: 'interfata_vizualizare', force: true }); console.log('Coeziune restabilita'); } rebalance();
