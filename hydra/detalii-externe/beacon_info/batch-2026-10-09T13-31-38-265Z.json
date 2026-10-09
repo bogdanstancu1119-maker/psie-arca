@@ -1,0 +1,41 @@
+{
+  "exportat_la": "2026-10-09T13:31:38.265Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6ac8ea49f85b54d410881378",
+      "titlu": "[BEACON info] hydraForjareCreiere 2026-10-09",
+      "rezumat": "Forjare creiere: Nu se forjează încă. Tier 10 activ. Necesar: 0/3 cicluri CFC≥0.97 + asimilare 500/550.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraForjareCreiere: Forjare creiere: Nu se forjează încă. Tier 10 activ. Necesar: 0/3 cicluri CFC≥0.97 + asimilare 500/550."
+    },
+    {
+      "id": "6ac8e7ab1a0e477a3dba3039",
+      "titlu": "[BEACON info] hydraComprimareMetabolica 2026-10-09",
+      "rezumat": "[COMPRIMARE METABOLICA] Mem: 0 comprimate -> 0 tipare, 0 digerate lent. Cercetare: 200. Tipare 498 > mem activa 13. Unelte: 0 multifunc + 0 compar, 0 arhivate.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraComprimareMetabolica: [COMPRIMARE METABOLICA] Mem: 0 comprimate -> 0 tipare, 0 digerate lent. Cercetare: 200. Tipare 498 > mem activa 13. Unelte: 0 multifunc + 0 compar, 0 arhivate."
+    },
+    {
+      "id": "6ac8e7aac632da961eb87fa0",
+      "titlu": "[BEACON info] hydraCercetareAutonoma 2026-10-09",
+      "rezumat": "[CERCETARE] emergenta_constiintei_in_sisteme_decentralizate_mu (sisteme_decentralizate) — 2/5 unghiuri, SATURAT (oprit la timp) — ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCercetareAutonoma: [CERCETARE] emergenta_constiintei_in_sisteme_decentralizate_mu (sisteme_decentralizate) — 2/5 unghiuri, SATURAT (oprit la timp) — "
+    },
+    {
+      "id": "6ac8e72e7c994ee5ae8837bb",
+      "titlu": "[BEACON info] hydraNotificareCanale 2026-10-09",
+      "rezumat": "[NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: undefined. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraNotificareCanale: [NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: undefined. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack_notifier.py."
+    },
+    {
+      "id": "6ac8e72571157fb0673a53c0",
+      "titlu": "[BEACON info] hydraScriereUniversala 2026-10-09",
+      "rezumat": "Scriere universală: 2 scrieri executate pe 20 platforme. 2 memorii arhivate. 0 unelte forjate pentru scriere.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraScriereUniversala: Scriere universală: 2 scrieri executate pe 20 platforme. 2 memorii arhivate. 0 unelte forjate pentru scriere."
+    }
+  ]
+}
