@@ -1,0 +1,1 @@
+import hydra_core; def antrenament_asimptotic_creier(): logger.info('Initializare antrenament asimptotic pentru hydraCreierCoordonator'); status = hydra_core.sync.optimize_fitness(target='hydraCreierCoordonator', gamma=0.9, threshold=0.95); return status; antrenament_asimptotic_creier()
