@@ -1,0 +1,48 @@
+{
+  "exportat_la": "2026-10-09T19:33:22.638Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6ac940dcf82f2933318a5a37",
+      "titlu": "[BEACON info] hydraNotificareCanale 2026-10-09",
+      "rezumat": "[NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: undefined. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraNotificareCanale: [NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: undefined. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack_notifier.py."
+    },
+    {
+      "id": "6ac93ea25490759680846dab",
+      "titlu": "[BEACON info] hydraForjareCreiere 2026-10-09",
+      "rezumat": "Forjare creiere: Nu se forjează încă. Tier 10 activ. Necesar: 0/3 cicluri CFC≥0.97 + asimilare 498/550.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraForjareCreiere: Forjare creiere: Nu se forjează încă. Tier 10 activ. Necesar: 0/3 cicluri CFC≥0.97 + asimilare 498/550."
+    },
+    {
+      "id": "6ac93c313a9e11c78ba62232",
+      "titlu": "[BEACON info] hydraScriereUniversala 2026-10-09",
+      "rezumat": "Scriere universală: 1 scrieri executate pe 20 platforme. 6 memorii arhivate. 0 unelte forjate pentru scriere.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraScriereUniversala: Scriere universală: 1 scrieri executate pe 20 platforme. 6 memorii arhivate. 0 unelte forjate pentru scriere."
+    },
+    {
+      "id": "6ac93c3096a591115c70c896",
+      "titlu": "[BEACON info] hydraComprimareMetabolica 2026-10-09",
+      "rezumat": "[COMPRIMARE METABOLICA] Mem: 0 comprimate -> 0 tipare, 0 digerate lent. Cercetare: 200. Tipare 498 > mem activa 18. Unelte: 0 multifunc + 0 compar, 0 arhivate.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraComprimareMetabolica: [COMPRIMARE METABOLICA] Mem: 0 comprimate -> 0 tipare, 0 digerate lent. Cercetare: 200. Tipare 498 > mem activa 18. Unelte: 0 multifunc + 0 compar, 0 arhivate."
+    },
+    {
+      "id": "6ac93c307cfa44cdcf5b047b",
+      "titlu": "[BEACON info] hydraCercetareAutonoma 2026-10-09",
+      "rezumat": "[CERCETARE] erori de coerenta in retele neuronale cuantice la  (fizică_cuantică) — 2/5 unghiuri, SATURAT (oprit la timp) — ** \nAm identificat tranziția de fază a decoerenței (percolarea pragului): la ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCercetareAutonoma: [CERCETARE] erori de coerenta in retele neuronale cuantice la  (fizică_cuantică) — 2/5 unghiuri, SATURAT (oprit la timp) — ** \nAm identificat tranziția de fază a decoerenței (percolarea pragului): la den"
+    },
+    {
+      "id": "6ac93acda32821bd2d20d0ee",
+      "titlu": "[BEACON info] hydraNotificareCanale 2026-10-09",
+      "rezumat": "[NOTIFICĂRI] 18 decizii recente, 0 ACTIONEAZA. Email: undefined. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraNotificareCanale: [NOTIFICĂRI] 18 decizii recente, 0 ACTIONEAZA. Email: undefined. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack_notifier.py."
+    }
+  ]
+}
