@@ -1,0 +1,1 @@
+web: ./hydra_core_start.sh
