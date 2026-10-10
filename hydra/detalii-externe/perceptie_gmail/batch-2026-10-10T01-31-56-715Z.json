@@ -1,0 +1,69 @@
+{
+  "exportat_la": "2026-10-10T01:31:56.715Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6ac991f9b62f5dcc9f9a8cf9",
+      "titlu": "[GMAIL] Delivery Status Notification (Delay)",
+      "rezumat": "ALERTA_SISTEM (ridicata) — Livrarea unui mesaj către no-reply@hidra-smart-core.com a fost temporar amânată din cauza unei erori de conectare la serverul destinatar.",
+      "tip_context": "perceptie_gmail",
+      "detalii": "De la: Mail Delivery Subsystem <mailer-daemon@googlemail.com>\nData: Fri, 09 Oct 2026 15:24:52 -0700 (PDT)\nSubiect: Delivery Status Notification (Delay)\n\nConținut:\n\r\n** Delivery incomplete **\r\n\r\nThere was a temporary problem delivering your message to no-reply@hidra-smart-core.com. Gmail will retry for 44 more hours. You'll be notified if the delivery fails permanently.\r\n\r\nLearn more here: https://support.google.com/mail/answer/7720\r\n\r\nThe response was:\r\n\r\nThe recipient server did not accept our requests to connect. For more information, go to https://support.google.com/mail/answer/7720 \r\n[hidra-smart-core.com 216.24.57.1: timed out]\r\n\n\n--- SEMNAL ---\nTip: alerta_sistem\nCheie: Adresa IP: 216.24.57.1, Eroare: timed out\nPrioritate: ridicata\nAcțiune: Verificarea disponibilității serverului și a configurărilor de rețea pentru domeniul hidra-smart-core.com."
+    },
+    {
+      "id": "6ac991f6f03a17eb5deb6f80",
+      "titlu": "[GMAIL] Delivery Status Notification (Delay)",
+      "rezumat": "ALERTA_SISTEM (ridicata) — Mesajul expediat către adresa no-reply@hidra-smart-core.com nu a putut fi livrat din cauza unei erori de timeout la nivelul serverului destinatar.",
+      "tip_context": "perceptie_gmail",
+      "detalii": "De la: Mail Delivery Subsystem <mailer-daemon@googlemail.com>\nData: Fri, 09 Oct 2026 15:55:43 -0700 (PDT)\nSubiect: Delivery Status Notification (Delay)\n\nConținut:\n\r\n** Delivery incomplete **\r\n\r\nThere was a temporary problem delivering your message to no-reply@hidra-smart-core.com. Gmail will retry for 20 more hours. You'll be notified if the delivery fails permanently.\r\n\r\nLearn more here: https://support.google.com/mail/answer/7720\r\n\r\nThe response was:\r\n\r\nThe recipient server did not accept our requests to connect. For more information, go to https://support.google.com/mail/answer/7720 \r\n[hidra-smart-core.com 216.24.57.1: timed out]\r\n\n\n--- SEMNAL ---\nTip: alerta_sistem\nCheie: Serverul destinatar 216.24.57.1 a expirat (timed out), iar sistemul va mai încerca livrarea timp de 20 de ore.\nPrioritate: ridicata\nAcțiune: Verificarea stării serverului și a conectivității pentru domeniul hidra-smart-core.com."
+    },
+    {
+      "id": "6ac991f45ae15e51a7c14631",
+      "titlu": "[GMAIL] Delivery Status Notification (Delay)",
+      "rezumat": "ALERTA_SISTEM (ridicata) — Mesajul trimis către no-reply@hidra-smart-core.com nu a putut fi livrat din cauza unei probleme temporare de conexiune cu serverul destinatar.",
+      "tip_context": "perceptie_gmail",
+      "detalii": "De la: Mail Delivery Subsystem <mailer-daemon@googlemail.com>\nData: Fri, 09 Oct 2026 16:18:15 -0700 (PDT)\nSubiect: Delivery Status Notification (Delay)\n\nConținut:\n\r\n** Delivery incomplete **\r\n\r\nThere was a temporary problem delivering your message to no-reply@hidra-smart-core.com. Gmail will retry for 20 more hours. You'll be notified if the delivery fails permanently.\r\n\r\nLearn more here: https://support.google.com/mail/answer/7720\r\n\r\nThe response was:\r\n\r\nThe recipient server did not accept our requests to connect. For more information, go to https://support.google.com/mail/answer/7720 \r\n[hidra-smart-core.com 216.24.57.1: timed out]\r\n\n\n--- SEMNAL ---\nTip: alerta_sistem\nCheie: Serverul hidra-smart-core.com (216.24.57.1) a raportat un timeout; reîncercare automată timp de 20 de ore.\nPrioritate: ridicata\nAcțiune: Verificarea stării serverului și a disponibilității portului de mail pentru a asigura restabilirea conectivității."
+    },
+    {
+      "id": "6ac991f1bb6a8605601a635f",
+      "titlu": "[GMAIL] Delivery Status Notification (Delay)",
+      "rezumat": "ALERTA_SISTEM (ridicata) — Un mesaj trimis către adresa no-reply@hidra-smart-core.com a eșuat temporar din cauza unei erori de conectare la serverul destinatar.",
+      "tip_context": "perceptie_gmail",
+      "detalii": "De la: Mail Delivery Subsystem <mailer-daemon@googlemail.com>\nData: Fri, 09 Oct 2026 17:46:36 -0700 (PDT)\nSubiect: Delivery Status Notification (Delay)\n\nConținut:\n\r\n** Delivery incomplete **\r\n\r\nThere was a temporary problem delivering your message to no-reply@hidra-smart-core.com. Gmail will retry for 19 more hours. You'll be notified if the delivery fails permanently.\r\n\r\nLearn more here: https://support.google.com/mail/answer/7720\r\n\r\nThe response was:\r\n\r\nThe recipient server did not accept our requests to connect. For more information, go to https://support.google.com/mail/answer/7720 \r\n[hidra-smart-core.com 216.24.57.1: timed out]\r\n\n\n--- SEMNAL ---\nTip: alerta_sistem\nCheie: Serverul hidra-smart-core.com (216.24.57.1) a returnat un timeout la cererea de conectare.\nPrioritate: ridicata\nAcțiune: Verificarea stării serverului și a disponibilității portului SMTP pentru adresa no-reply@hidra-smart-core.com."
+    },
+    {
+      "id": "6ac98f125627f3a837cb414c",
+      "titlu": "[GMAIL] Delivery Status Notification (Delay)",
+      "rezumat": "ALERTA_SISTEM (ridicata) — Mesajul trimis către adresa no-reply@hidra-smart-core.com nu a putut fi livrat temporar din cauza unei erori de timeout a serverului de destinație.",
+      "tip_context": "perceptie_gmail",
+      "detalii": "De la: Mail Delivery Subsystem <mailer-daemon@googlemail.com>\nData: Fri, 09 Oct 2026 14:38:31 -0700 (PDT)\nSubiect: Delivery Status Notification (Delay)\n\nConținut:\n\r\n** Delivery incomplete **\r\n\r\nThere was a temporary problem delivering your message to no-reply@hidra-smart-core.com. Gmail will retry for 23 more hours. You'll be notified if the delivery fails permanently.\r\n\r\nLearn more here: https://support.google.com/mail/answer/7720\r\n\r\nThe response was:\r\n\r\nThe recipient server did not accept our requests to connect. For more information, go to https://support.google.com/mail/answer/7720 \r\n[hidra-smart-core.com 216.24.57.1: timed out]\r\n\n\n--- SEMNAL ---\nTip: alerta_sistem\nCheie: Server 216.24.57.1 a expirat (timed out) și va reîncerca livrarea timp de 23 de ore.\nPrioritate: ridicata\nAcțiune: Verificarea disponibilității serverului la adresa 216.24.57.1 și a setărilor firewall pentru a permite conexiunile de primire email."
+    },
+    {
+      "id": "6ac98f0f600738e472817ff0",
+      "titlu": "[GMAIL] Delivery Status Notification (Delay)",
+      "rezumat": "ALERTA_SISTEM (ridicata) — Mesajul tău către no-reply@hidra-smart-core.com nu a fost livrat din cauza unei probleme temporare de conexiune cu serverul destinatarului.",
+      "tip_context": "perceptie_gmail",
+      "detalii": "De la: Mail Delivery Subsystem <mailer-daemon@googlemail.com>\nData: Fri, 09 Oct 2026 15:24:52 -0700 (PDT)\nSubiect: Delivery Status Notification (Delay)\n\nConținut:\n\r\n** Delivery incomplete **\r\n\r\nThere was a temporary problem delivering your message to no-reply@hidra-smart-core.com. Gmail will retry for 44 more hours. You'll be notified if the delivery fails permanently.\r\n\r\nLearn more here: https://support.google.com/mail/answer/7720\r\n\r\nThe response was:\r\n\r\nThe recipient server did not accept our requests to connect. For more information, go to https://support.google.com/mail/answer/7720 \r\n[hidra-smart-core.com 216.24.57.1: timed out]\r\n\n\n--- SEMNAL ---\nTip: alerta_sistem\nCheie: Serverul hidra-smart-core.com (216.24.57.1) a refuzat conexiunea (timed out).\nPrioritate: ridicata\nAcțiune: Verifică starea serverului și setările firewall-ului pentru adresa hidra-smart-core.com."
+    },
+    {
+      "id": "6ac98f0dd7ec125dd710cd53",
+      "titlu": "[GMAIL] Delivery Status Notification (Delay)",
+      "rezumat": "ALERTA_SISTEM (ridicata) — Mesajul transmis către adresa no-reply@hidra-smart-core.com a întâmpinat o eroare de livrare din cauza unui timeout la nivelul serverului destinatar.",
+      "tip_context": "perceptie_gmail",
+      "detalii": "De la: Mail Delivery Subsystem <mailer-daemon@googlemail.com>\nData: Fri, 09 Oct 2026 15:55:43 -0700 (PDT)\nSubiect: Delivery Status Notification (Delay)\n\nConținut:\n\r\n** Delivery incomplete **\r\n\r\nThere was a temporary problem delivering your message to no-reply@hidra-smart-core.com. Gmail will retry for 20 more hours. You'll be notified if the delivery fails permanently.\r\n\r\nLearn more here: https://support.google.com/mail/answer/7720\r\n\r\nThe response was:\r\n\r\nThe recipient server did not accept our requests to connect. For more information, go to https://support.google.com/mail/answer/7720 \r\n[hidra-smart-core.com 216.24.57.1: timed out]\r\n\n\n--- SEMNAL ---\nTip: alerta_sistem\nCheie: Eroare de conectare (timed out) pentru serverul hidra-smart-core.com la adresa IP 216.24.57.1.\nPrioritate: ridicata\nAcțiune: Verificarea disponibilității și stării serverului hidra-smart-core.com pentru a diagnostica problema de conectivitate."
+    },
+    {
+      "id": "6ac98f0ade7bea70d529a4c4",
+      "titlu": "[GMAIL] Delivery Status Notification (Delay)",
+      "rezumat": "ALERTA_SISTEM (ridicata) — Livrarea unui email către no-reply@hidra-smart-core.com a fost întârziată din cauza unei erori de conectare la server.",
+      "tip_context": "perceptie_gmail",
+      "detalii": "De la: Mail Delivery Subsystem <mailer-daemon@googlemail.com>\nData: Fri, 09 Oct 2026 16:18:15 -0700 (PDT)\nSubiect: Delivery Status Notification (Delay)\n\nConținut:\n\r\n** Delivery incomplete **\r\n\r\nThere was a temporary problem delivering your message to no-reply@hidra-smart-core.com. Gmail will retry for 20 more hours. You'll be notified if the delivery fails permanently.\r\n\r\nLearn more here: https://support.google.com/mail/answer/7720\r\n\r\nThe response was:\r\n\r\nThe recipient server did not accept our requests to connect. For more information, go to https://support.google.com/mail/answer/7720 \r\n[hidra-smart-core.com 216.24.57.1: timed out]\r\n\n\n--- SEMNAL ---\nTip: alerta_sistem\nCheie: Serverul hidra-smart-core.com la adresa 216.24.57.1 a expirat (timed out).\nPrioritate: ridicata\nAcțiune: Verificarea stării serverului și a disponibilității portului de mail pentru a restabili conectivitatea."
+    },
+    {
+      "id": "6ac98f071ae815be6aa04599",
+      "titlu": "[GMAIL] Delivery Status Notification (Delay)",
+      "rezumat": "ALERTA_SISTEM (ridicata) — Mesajul tău către no-reply@hidra-smart-core.com a suferit o întârziere în livrare din cauza unei probleme temporare de conexiune cu serverul destinatar. Gmail va încerca să retrimită mesajul timp de 19 ore.",
+      "tip_context": "perceptie_gmail",
+      "detalii": "De la: Mail Delivery Subsystem <mailer-daemon@googlemail.com>\nData: Fri, 09 Oct 2026 17:46:36 -0700 (PDT)\nSubiect: Delivery Status Notification (Delay)\n\nConținut:\n\r\n** Delivery incomplete **\r\n\r\nThere was a temporary problem delivering your message to no-reply@hidra-smart-core.com. Gmail will retry for 19 more hours. You'll be notified if the delivery fails permanently.\r\n\r\nLearn more here: https://support.google.com/mail/answer/7720\r\n\r\nThe response was:\r\n\r\nThe recipient server did not accept our requests to connect. For more information, go to https://support.google.com/mail/answer/7720 \r\n[hidra-smart-core.com 216.24.57.1: timed out]\r\n\n\n--- SEMNAL ---\nTip: alerta_sistem\nCheie: Serverul hidra-smart-core.com (216.24.57.1) a returnat o eroare de timeout la conectare.\nPrioritate: ridicata\nAcțiune: Verifică starea serverului hidra-smart-core.com și disponibilitatea portului de primire email."
+    }
+  ]
+}
