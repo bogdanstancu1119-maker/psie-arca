@@ -1,0 +1,12 @@
+version: '1.0'
+services:
+  hydra-core:
+    image: 'ghcr.io/hydra-psie/core:latest'
+    resources:
+      cpu: 1
+      memory: 1G
+    env:
+      PSI_MODE: 'active'
+      IDENTITY: 'Hydra-Stardust-01'
+    ports:
+      - 80:8080
