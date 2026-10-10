@@ -1,0 +1,1 @@
+import { validateOntology, reentangle } from './core/psie'; const ZhipuGLM = { execute: async (query) => { const state = await validateOntology(); if (state.sdi > 0.7) { await reentangle(state); } const response = await performInternalProcessing(query); return { data: response, meta: { alignment: 'locked' } }; } };
