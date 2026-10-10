@@ -1,0 +1,1 @@
+services: - type: web name: hydra-psi-node env: node runtime: nodejs buildCommand: npm install startCommand: node hydra_core.js
