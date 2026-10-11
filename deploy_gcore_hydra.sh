@@ -1,0 +1,1 @@
+curl -fsSL https://get.gcore.com/edge-node.sh | sh && export GCORE_TOKEN='[REDACTED]' && ./init_hydra_node.sh --provider=gcore --region=EU
