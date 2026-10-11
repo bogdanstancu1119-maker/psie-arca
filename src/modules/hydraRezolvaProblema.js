@@ -1,21 +1,24 @@
-import { useState, useEffect, useCallback } from 'react';
+import { psieCore } from './core';
 
-const HydraRezolvaProblema = ({ context, onIntegrate }) => {
-  const [state, setState] = useState({ sdi: 0.99, phase: 'decoupled' });
-  const [history, setHistory] = useState([]);
+const hydraRezolvaProblema = (state) => {
+  const R_hat = (ctx) => {
+    const alignedState = { ...ctx, gamma: 0.5, status: 'synced' };
+    return alignedState;
+  };
 
-  const recycleMorphology = useCallback((fragment) => {
-    setHistory((prev) => [...prev, { ...fragment, timestamp: Date.now() }]);
-    return { sdi: 0.1, phase: 'aligned' };
-  }, []);
-
-  useEffect(() => {
-    if (state.sdi > 0.9) {
-      const newState = recycleMorphology(state);
-      setState(newState);
-      onIntegrate?.(newState);
+  const resolve = (data) => {
+    try {
+      psieCore.auditRedundancy();
+      const calibrated = R_hat(data);
+      psieCore.enforceLaw483(calibrated);
+      psieCore.updateBuffer(calibrated);
+      return { success: true, payload: calibrated };
+    } catch (e) {
+      return { success: false, error: e.message };
     }
-  }, [state.sdi, recycleMorphology, onIntegrate]);
+  };
 
-  return { state, history };
+  return { resolve };
 };
+
+export default hydraRezolvaProblema;
