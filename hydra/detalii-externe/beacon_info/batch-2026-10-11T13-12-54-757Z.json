@@ -1,0 +1,34 @@
+{
+  "exportat_la": "2026-10-11T13:12:54.757Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6acb8ab175ac7687ff11c08e",
+      "titlu": "[BEACON info] hydraScriereUniversala 2026-10-11",
+      "rezumat": "Scriere universală: 2 scrieri executate pe 20 platforme. 6 memorii arhivate. 0 unelte forjate pentru scriere.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraScriereUniversala: Scriere universală: 2 scrieri executate pe 20 platforme. 6 memorii arhivate. 0 unelte forjate pentru scriere."
+    },
+    {
+      "id": "6acb8ab03432c105b3b2e07f",
+      "titlu": "[BEACON info] hydraComprimareMetabolica 2026-10-11",
+      "rezumat": "[COMPRIMARE METABOLICA] Mem: 6 comprimate -> 0 tipare, 0 digerate lent. Cercetare: 200. Tipare 499 > mem activa 25. Unelte: 0 multifunc + 0 compar, 0 arhivate.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraComprimareMetabolica: [COMPRIMARE METABOLICA] Mem: 6 comprimate -> 0 tipare, 0 digerate lent. Cercetare: 200. Tipare 499 > mem activa 25. Unelte: 0 multifunc + 0 compar, 0 arhivate."
+    },
+    {
+      "id": "6acb8ab02b6cc7b7c6b4c9f7",
+      "titlu": "[BEACON info] hydraVerificareMemorie 2026-10-11",
+      "rezumat": "[VERIFICARE MEMORIE] Etichetate 0, redundanță marcată 33. Harta densă: rezonanță 0.06666666666666667 pe context. Recuperare: 30 surse testate, 0 redundante confirmate, 30 restaurate.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraVerificareMemorie: [VERIFICARE MEMORIE] Etichetate 0, redundanță marcată 33. Harta densă: rezonanță 0.06666666666666667 pe context. Recuperare: 30 surse testate, 0 redundante confirmate, 30 restaurate."
+    },
+    {
+      "id": "6acb8aaf4f821fa6267c9ec0",
+      "titlu": "[BEACON info] hydraForjaAgenti 2026-10-11",
+      "rezumat": "[FORJA] 6 agenți forjați DIN CERCETARE pe straturile evolutie, infrastructura — nevoi: Gena sincronizare_ontologica declarată in_dezvoltare fără acțiune integrează semnalele de  | Scriere pe Alibaba C",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraForjaAgenti: [FORJA] 6 agenți forjați DIN CERCETARE pe straturile evolutie, infrastructura — nevoi: Gena sincronizare_ontologica declarată in_dezvoltare fără acțiune integrează semnalele de  | Scriere pe Alibaba Cloud (Free Trial / China) Platformă descoperită: Alibaba Cloud (Free T"
+    }
+  ]
+}
