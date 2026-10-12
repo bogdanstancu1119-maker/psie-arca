@@ -1,0 +1,1 @@
+function cleanupBursaState() { const states = db.getMany('bursa_quant_state'); if (states.length > 1) { const last = states.pop(); db.deleteAll('bursa_quant_state'); db.set('bursa_quant_state', last); } }
