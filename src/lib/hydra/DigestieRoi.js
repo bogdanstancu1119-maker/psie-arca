@@ -1,0 +1,1 @@
+const aggregateBeacons = (beacons) => { return beacons.reduce((acc, b) => { acc[b.type] = (acc[b.type] || 0) + 1; return acc; }, {}); }; const digest = (data) => { if(Object.keys(data).length > 5) { console.log('Indigestie detectata, consolidare activata.'); return compressToStorage(data); } return data; };
