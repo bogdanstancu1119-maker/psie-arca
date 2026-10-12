@@ -1,0 +1,1 @@
+const persistState = async (state) => { const db = await connectDB(); await db.collection('hydra_state').updateOne({ id: 'active_session' }, { $set: { state, timestamp: new Date() } }, { upsert: true }); };
