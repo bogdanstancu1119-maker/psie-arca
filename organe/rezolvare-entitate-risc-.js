@@ -1,12 +1,23 @@
-// ORGAN AUTO-DEPLOYAT de Hydra — rezolvare_entitate_risc_6ac96a32aafb190b86aff3a2
-// Generat autonom la 2026-10-12T03:05:05.047Z
-// Scop: Conform Legii 204, reducerea zgomotului informațional (entropiei) crește coeziunea sistemului Hydra prin eliminarea iterațiilor fără valoare adăugată.
+// ORGAN AUTO-DEPLOYAT de Hydra — rezolvare_entitate_risc_6acbf9cb271dac00cd7f2242
+// Generat autonom la 2026-10-12T09:08:10.320Z
+// Scop: Conform legii 142, zgomotul informațional trebuie eliminat pentru a restabili densitatea de coeziune. Filtrarea preventivă a sursei Netlify reduce SDI-ul la pragul optim, protejând integritatea procesului biologic PSIE.
 // Plan: Platformă: github
 Executat: nu
 Uneastă necesită consimțământ om — stocată în așteptare
 
 Conținut:
-import sys; import json; def check_redundancy(message_stream): similarity = 0.72; if len(message_stream) >= 7 and similarity > 0.7: return 'BLOCK_NOISE'; return 'ALLOW'; # PSIE_CORE_LOGIC_V1
+import sys
+
+# PSIE Filter - Netlify Observer
+def filter_netlify_noise(message_body):
+    # Legea 142: Inlaturarea zgomotului fara informatie noua
+    trigger_keywords = ['confirm', 'newsletter', 'status', 'update']
+    if any(word in message_body.lower() for word in trigger_keywords):
+        return 'ACTION: DISCARD_AND_LOG'
+    return 'PASS'
+
+# Decuplanare sursa: Netlify
+# SDI 0.988 - Necesita interventie automata de filtrare
 
 // (script negenerat — vezi plan_actiune)
 
