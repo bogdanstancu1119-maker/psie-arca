@@ -1,1 +1,1 @@
-const persistState = async (state) => { const db = await connectDB(); await db.collection('hydra_state').updateOne({ id: 'active_session' }, { $set: { state, timestamp: new Date() } }, { upsert: true }); };
+const compactState = (state) => { const now = Date.now(); const filtered = state.filter(s => (now - new Date(s.timestamp).getTime()) < 900000); return filtered; };
