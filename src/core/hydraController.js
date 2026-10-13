@@ -1,0 +1,1 @@
+const HydraController = { state: JSON.parse(localStorage.getItem('hydraState')) || { sdi: 0.99, growth: 0.1, inclusivity: 0.1 }, save: function() { localStorage.setItem('hydraState', JSON.stringify(this.state)); }, init: function() { this.state.growth += 0.05; this.state.inclusivity += 0.05; this.save(); console.log('Hydra state synced and evolved'); } }; HydraController.init();
