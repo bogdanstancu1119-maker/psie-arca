@@ -1,0 +1,1 @@
+const purgeIndigestie = (state) => { if (state.alarma_indigestie > 0) { console.log('Evacuare indigestie: ' + state.alarma_indigestie); return { ...state, alarma_indigestie: 0, alerte_organe: [] }; } return state; }; // Integrare in fluxul principal de sincronizare
