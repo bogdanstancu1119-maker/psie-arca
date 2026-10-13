@@ -1,0 +1,1 @@
+const digerareBeacone = (state) => { if (state.alerte_organe.length > 0) { console.log('Procesare digestie beacone...'); const arhiva = [...state.alerte_organe]; state.istoric_beacone.push(...arhiva); state.alerte_organe = []; return { status: 'curatat', procesat: arhiva.length }; } return { status: 'idle' }; };
