@@ -1,0 +1,1 @@
+const hydraDigestie = async (queue) => { if (queue.length > 50) { const batch = queue.splice(0, 50); await R2Storage.put('beacon_batch_' + Date.now(), JSON.stringify(batch)); console.log('Digestie completă: Batch arhivat'); return true; } return false; };
