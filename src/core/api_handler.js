@@ -1,0 +1,1 @@
+const fetchDataWithFallback = async (endpoint, fallbackKey) => { try { const response = await fetch(endpoint, { timeout: 5000 }); if (!response.ok) throw new Error('API down'); return await response.json(); } catch (e) { console.warn('Endpoint failed, using R2 fallback'); return await R2.get(fallbackKey); } };
