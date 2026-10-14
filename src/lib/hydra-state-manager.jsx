@@ -1,0 +1,1 @@
+const secureWrite = (key, newData) => { const oldData = JSON.parse(localStorage.getItem(key) || '{}'); if (newData.bucle > (oldData.bucle || 0)) { localStorage.setItem(key, JSON.stringify(newData)); return true; } return false; };
