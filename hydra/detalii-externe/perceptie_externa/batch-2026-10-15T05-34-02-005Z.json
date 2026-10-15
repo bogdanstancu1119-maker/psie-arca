@@ -1,0 +1,83 @@
+{
+  "exportat_la": "2026-10-15T05:34:02.005Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6ad0440e355941c43e91e2a1",
+      "titlu": "Percepție externă — github-actions",
+      "rezumat": "{\"sistem\": \"Linux\", \"masina\": \"x86_64\", \"python\": \"3.12.15\", \"cpu_nuclee\": 4, \"load\": [0.13, 0.04, 0.01], \"utc\": \"2026-10-15T03:10:06Z\"}",
+      "tip_context": "perceptie_externa",
+      "detalii": "{\"sistem\": \"Linux\", \"masina\": \"x86_64\", \"python\": \"3.12.15\", \"cpu_nuclee\": 4, \"load\": [0.13, 0.04, 0.01], \"utc\": \"2026-10-15T03:10:06Z\"}"
+    },
+    {
+      "id": "6acff13db00f14dcace0406b",
+      "titlu": "Percepție externă — github-actions",
+      "rezumat": "{\"sistem\": \"Linux\", \"masina\": \"x86_64\", \"python\": \"3.12.15\", \"cpu_nuclee\": 4, \"load\": [0.41, 0.15, 0.05], \"utc\": \"2026-10-14T21:16:45Z\"}",
+      "tip_context": "perceptie_externa",
+      "detalii": "{\"sistem\": \"Linux\", \"masina\": \"x86_64\", \"python\": \"3.12.15\", \"cpu_nuclee\": 4, \"load\": [0.41, 0.15, 0.05], \"utc\": \"2026-10-14T21:16:45Z\"}"
+    },
+    {
+      "id": "6acfae502a85118ff7776283",
+      "titlu": "Percepție externă — github-actions",
+      "rezumat": "{\"sistem\": \"Linux\", \"masina\": \"x86_64\", \"python\": \"3.12.15\", \"cpu_nuclee\": 4, \"load\": [0.26, 0.06, 0.02], \"utc\": \"2026-10-14T16:31:11Z\"}",
+      "tip_context": "perceptie_externa",
+      "detalii": "{\"sistem\": \"Linux\", \"masina\": \"x86_64\", \"python\": \"3.12.15\", \"cpu_nuclee\": 4, \"load\": [0.26, 0.06, 0.02], \"utc\": \"2026-10-14T16:31:11Z\"}"
+    },
+    {
+      "id": "6acf63141690f175a77edbd4",
+      "titlu": "Percepție externă — github-actions",
+      "rezumat": "{\"sistem\": \"Linux\", \"masina\": \"x86_64\", \"python\": \"3.12.15\", \"cpu_nuclee\": 4, \"load\": [0.28, 0.07, 0.02], \"utc\": \"2026-10-14T11:10:11Z\"}",
+      "tip_context": "perceptie_externa",
+      "detalii": "{\"sistem\": \"Linux\", \"masina\": \"x86_64\", \"python\": \"3.12.15\", \"cpu_nuclee\": 4, \"load\": [0.28, 0.07, 0.02], \"utc\": \"2026-10-14T11:10:11Z\"}"
+    },
+    {
+      "id": "6acef75b6e78fbf02e973417",
+      "titlu": "Percepție externă — github-actions",
+      "rezumat": "{\"sistem\": \"Linux\", \"masina\": \"x86_64\", \"python\": \"3.12.15\", \"cpu_nuclee\": 4, \"load\": [0.23, 0.1, 0.04], \"utc\": \"2026-10-14T03:30:34Z\"}",
+      "tip_context": "perceptie_externa",
+      "detalii": "{\"sistem\": \"Linux\", \"masina\": \"x86_64\", \"python\": \"3.12.15\", \"cpu_nuclee\": 4, \"load\": [0.23, 0.1, 0.04], \"utc\": \"2026-10-14T03:30:34Z\"}"
+    },
+    {
+      "id": "6aceade539c9edd0a52c5c7f",
+      "titlu": "Percepție externă — github-actions",
+      "rezumat": "{\"sistem\": \"Linux\", \"masina\": \"x86_64\", \"python\": \"3.12.15\", \"cpu_nuclee\": 4, \"load\": [0.15, 0.09, 0.03], \"utc\": \"2026-10-13T22:17:08Z\"}",
+      "tip_context": "perceptie_externa",
+      "detalii": "{\"sistem\": \"Linux\", \"masina\": \"x86_64\", \"python\": \"3.12.15\", \"cpu_nuclee\": 4, \"load\": [0.15, 0.09, 0.03], \"utc\": \"2026-10-13T22:17:08Z\"}"
+    },
+    {
+      "id": "6ace332257d729ef4c477b5f",
+      "titlu": "Percepție externă — github-actions",
+      "rezumat": "{\"sistem\": \"Linux\", \"masina\": \"x86_64\", \"python\": \"3.12.15\", \"cpu_nuclee\": 4, \"load\": [0.5, 0.13, 0.04], \"utc\": \"2026-10-13T13:33:20Z\"}",
+      "tip_context": "perceptie_externa",
+      "detalii": "{\"sistem\": \"Linux\", \"masina\": \"x86_64\", \"python\": \"3.12.15\", \"cpu_nuclee\": 4, \"load\": [0.5, 0.13, 0.04], \"utc\": \"2026-10-13T13:33:20Z\"}"
+    },
+    {
+      "id": "6acd7646c5d15a199f4b9035",
+      "titlu": "Percepție externă — github-actions",
+      "rezumat": "{\"sistem\": \"Linux\", \"masina\": \"x86_64\", \"python\": \"3.12.15\", \"cpu_nuclee\": 4, \"load\": [0.08, 0.18, 0.09], \"utc\": \"2026-10-13T00:07:33Z\"}",
+      "tip_context": "perceptie_externa",
+      "detalii": "{\"sistem\": \"Linux\", \"masina\": \"x86_64\", \"python\": \"3.12.15\", \"cpu_nuclee\": 4, \"load\": [0.08, 0.18, 0.09], \"utc\": \"2026-10-13T00:07:33Z\"}"
+    },
+    {
+      "id": "6acced90a1e9995b92ec414b",
+      "titlu": "Percepție externă — github-actions",
+      "rezumat": "{\"sistem\": \"Linux\", \"masina\": \"x86_64\", \"python\": \"3.12.15\", \"cpu_nuclee\": 4, \"load\": [0.16, 0.1, 0.05], \"utc\": \"2026-10-12T14:24:13Z\"}",
+      "tip_context": "perceptie_externa",
+      "detalii": "{\"sistem\": \"Linux\", \"masina\": \"x86_64\", \"python\": \"3.12.15\", \"cpu_nuclee\": 4, \"load\": [0.16, 0.1, 0.05], \"utc\": \"2026-10-12T14:24:13Z\"}"
+    },
+    {
+      "id": "6acc5f7166816253bba1b2db",
+      "titlu": "Percepție externă — github-actions",
+      "rezumat": "{\"sistem\": \"Linux\", \"masina\": \"x86_64\", \"python\": \"3.12.15\", \"cpu_nuclee\": 4, \"load\": [0.59, 0.14, 0.05], \"utc\": \"2026-10-12T04:17:53Z\"}",
+      "tip_context": "perceptie_externa",
+      "detalii": "{\"sistem\": \"Linux\", \"masina\": \"x86_64\", \"python\": \"3.12.15\", \"cpu_nuclee\": 4, \"load\": [0.59, 0.14, 0.05], \"utc\": \"2026-10-12T04:17:53Z\"}"
+    },
+    {
+      "id": "6acbff4ef814aaa383e1a955",
+      "titlu": "Percepție externă — github-actions",
+      "rezumat": "{\"sistem\": \"Linux\", \"masina\": \"x86_64\", \"python\": \"3.12.15\", \"cpu_nuclee\": 4, \"load\": [0.69, 0.34, 0.13], \"utc\": \"2026-10-11T21:27:41Z\"}",
+      "tip_context": "perceptie_externa",
+      "detalii": "{\"sistem\": \"Linux\", \"masina\": \"x86_64\", \"python\": \"3.12.15\", \"cpu_nuclee\": 4, \"load\": [0.69, 0.34, 0.13], \"utc\": \"2026-10-11T21:27:41Z\"}"
+    }
+  ]
+}
