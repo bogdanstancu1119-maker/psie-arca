@@ -1,0 +1,1 @@
+const consolidateState = (newState) => { const lastState = JSON.parse(localStorage.getItem('bursa_quant_state') || '{}'); if (newState.bucle > (lastState.bucle || 0)) { localStorage.setItem('bursa_quant_state', JSON.stringify(newState)); return true; } return false; };
