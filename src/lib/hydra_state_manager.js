@@ -1,0 +1,1 @@
+const persistAtomicState = (newState) => { const currentState = JSON.parse(localStorage.getItem('bursa_quant_state') || '{}'); if (newState.bucle > (currentState.bucle || 0)) { localStorage.setItem('bursa_quant_state', JSON.stringify(newState)); console.log('State consolidated atomically.'); } else { console.warn('Skipped stale update.'); } };
