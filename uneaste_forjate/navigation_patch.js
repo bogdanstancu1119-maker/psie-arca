@@ -1,0 +1,1 @@
+const routes = { '/trenduri': '/pages/trenduri', '/virtual': '/pages/virtual' }; const fixNavigation = (path) => { if (routes[path]) { window.location.href = routes[path]; } else { console.log('Ruta validata'); } };
