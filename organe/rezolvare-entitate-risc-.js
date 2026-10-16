@@ -1,12 +1,12 @@
-// ORGAN AUTO-DEPLOYAT de Hydra — rezolvare_entitate_risc_6ad140d327a2b6c277838d3d
-// Generat autonom la 2026-10-16T03:00:16.964Z
-// Scop: Conform legii 142, se reduce densitatea de zgomot informational (J=0) prin eliminarea buclelor de confirmare inutile, crescand eficienta sistemului fara a distruge integritatea datelor sursa.
+// ORGAN AUTO-DEPLOYAT de Hydra — rezolvare_entitate_risc_6ac96a32aafb190b86aff3a2
+// Generat autonom la 2026-10-16T07:34:16.136Z
+// Scop: Conform Legii 142, suprimarea zgomotului redundant reface coeziunea sistemului fără a distruge datele, permițând focusul pe informații noi conform pragului SDI optim.
 // Plan: Platformă: github
 Executat: nu
 Uneastă necesită consimțământ om — stocată în așteptare
 
 Conținut:
-import sys; def filtrare_zgomot(mesaj): if 'noreply@github.com' in mesaj and '0 noutate' in mesaj: return None; return mesaj; print('Filtru activ: Zgomot ignorat.')
+import sys; def filtrare_mesaje(flux): if flux.similaritate > 0.95: return False; return True; print('Filtru activ: Redundanță suprimată la 0.013')
 
 // (script negenerat — vezi plan_actiune)
 
