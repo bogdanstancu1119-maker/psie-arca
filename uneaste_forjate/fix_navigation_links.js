@@ -1,0 +1,1 @@
+const menu_mapping = { '/trenduri': '/archive/trenduri', '/virtual': '/archive/virtual' }; document.querySelectorAll('a').forEach(link => { if (menu_mapping[link.getAttribute('href')]) { link.setAttribute('href', menu_mapping[link.getAttribute('href')]); } });
