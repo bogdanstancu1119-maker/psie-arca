@@ -1,23 +1,12 @@
-// ORGAN AUTO-DEPLOYAT de Hydra — rezolvare_entitate_risc_6acbf9cb271dac00cd7f2242
-// Generat autonom la 2026-10-12T09:08:10.320Z
-// Scop: Conform legii 142, zgomotul informațional trebuie eliminat pentru a restabili densitatea de coeziune. Filtrarea preventivă a sursei Netlify reduce SDI-ul la pragul optim, protejând integritatea procesului biologic PSIE.
+// ORGAN AUTO-DEPLOYAT de Hydra — rezolvare_entitate_risc_6ad140d327a2b6c277838d3d
+// Generat autonom la 2026-10-16T03:00:16.964Z
+// Scop: Conform legii 142, se reduce densitatea de zgomot informational (J=0) prin eliminarea buclelor de confirmare inutile, crescand eficienta sistemului fara a distruge integritatea datelor sursa.
 // Plan: Platformă: github
 Executat: nu
 Uneastă necesită consimțământ om — stocată în așteptare
 
 Conținut:
-import sys
-
-# PSIE Filter - Netlify Observer
-def filter_netlify_noise(message_body):
-    # Legea 142: Inlaturarea zgomotului fara informatie noua
-    trigger_keywords = ['confirm', 'newsletter', 'status', 'update']
-    if any(word in message_body.lower() for word in trigger_keywords):
-        return 'ACTION: DISCARD_AND_LOG'
-    return 'PASS'
-
-# Decuplanare sursa: Netlify
-# SDI 0.988 - Necesita interventie automata de filtrare
+import sys; def filtrare_zgomot(mesaj): if 'noreply@github.com' in mesaj and '0 noutate' in mesaj: return None; return mesaj; print('Filtru activ: Zgomot ignorat.')
 
 // (script negenerat — vezi plan_actiune)
 
