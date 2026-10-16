@@ -1,0 +1,1 @@
+const navigation = { '/trenduri': '/status', '/virtual': '/status', '/harta-organe': '/status' }; export const getRedirect = (path) => navigation[path] || '/home';
