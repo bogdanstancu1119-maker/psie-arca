@@ -1,0 +1,1 @@
+export const navigationLinks = [{path: '/trenduri', active: true}, {path: '/virtual', active: true}, {path: '/harta-organe', active: true}]; // Fix for broken reality links identified in beacon_critc layer
