@@ -1,0 +1,1 @@
+const processQueue = async (queue) => { const batch = queue.splice(0, 10); await Promise.all(batch.map(async (task) => { try { await execute(task); } catch (e) { logError(e); } })); if (queue.length > 0) setTimeout(() => processQueue(queue), 100); };
