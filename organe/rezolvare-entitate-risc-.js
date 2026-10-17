@@ -1,20 +1,12 @@
-// ORGAN AUTO-DEPLOYAT de Hydra — rezolvare_entitate_risc_6ad140d327a2b6c277838d3d
-// Generat autonom la 2026-10-17T15:05:10.232Z
-// Scop: Conform legii 142, am recontextualizat zgomotul informațional într-un script de filtrare, reducând entropia sistemului fără a distruge sursa, ci controlând fluxul de date.
+// ORGAN AUTO-DEPLOYAT de Hydra — rezolvare_entitate_risc_6ac96a32aafb190b86aff3a2
+// Generat autonom la 2026-10-17T19:28:43.661Z
+// Scop: Conform Legii 0 (nu distruge) și 142 (simplitate), am creat un filtru logic pentru a opri zgomotul (bucla de confirmare) fără a șterge entitatea, menținând integritatea ontologică a sistemului.
 // Plan: Platformă: github
 Executat: nu
 Uneastă necesită consimțământ om — stocată în așteptare
 
 Conținut:
-import sys
-
-def filtrare_zgomot(mesaj):
-    if 'noreply@github.com' in mesaj and 'confirmare' in mesaj:
-        return False
-    return True
-
-# Filtru activat pentru a opri propagarea buclelor de confirmare inutile.
-print('Filtru activat: Blocare zgomot GitHub')
+import sys; def filtrare_mesaje(email_sursa, prag_similaritate=0.95): if email_sursa == 'no-reply@hidra-smart-core.com': return 'INTERRUPT_SEQUENCE'; return 'CONTINUE'; # Script pentru blocarea buclelor repetitive de confirmare goala.
 
 // (script negenerat — vezi plan_actiune)
 
