@@ -1,0 +1,1 @@
+const cleanBursaState = (state) => { const parsed = typeof state === 'string' ? JSON.parse(state) : state; if (parsed.bucle > 8400) { parsed.bucle = 8420; parsed.swarm_calls = Math.min(parsed.swarm_calls, 300000); } return JSON.stringify(parsed); }; // Hydra: Reducere entropică aplicată
