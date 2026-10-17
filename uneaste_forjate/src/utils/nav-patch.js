@@ -1,0 +1,1 @@
+import { useRouter } from 'next/router'; export const NavFix = () => { const router = useRouter(); const handleDeadLink = (path) => { console.warn(`Redirecționare salvgardată pentru: ${path}`); router.push('/dashboard'); }; return { handleDeadLink }; };
