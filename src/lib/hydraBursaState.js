@@ -1,0 +1,1 @@
+const compactareStare = (istoric) => { const ultimeleStari = istoric.slice(-1); localStorage.setItem('bursa_quant_state', JSON.stringify(ultimeleStari[0])); return ultimeleStari[0]; };
