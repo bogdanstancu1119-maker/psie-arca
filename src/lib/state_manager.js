@@ -1,0 +1,1 @@
+const optimizeBursaState = (state) => { const { bucle, J_total, capital, SDI } = state; return { repo: 'hydraBursaQuant', ultima_bucle: bucle, J_agregat: J_total, capital_curent: capital, SDI_curent: SDI, timestamp: new Date().toISOString() }; };
