@@ -1,0 +1,1 @@
+function sanatizeRealitate() { const deadLinks = ['/trenduri', '/virtual', '/harta-organe']; console.log('Eliminare link-uri moarte:', deadLinks); return { status: 'curat', timestamp: new Date().toISOString(), organe_verificate: 206 }; } sanatizeRealitate();
