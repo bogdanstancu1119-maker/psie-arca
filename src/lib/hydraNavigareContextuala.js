@@ -1,0 +1,1 @@
+export const purgeStaleBeacons = (beacons) => { const now = Date.now(); return beacons.filter(b => (now - b.timestamp) < 300000); }; // Hydra-Auto-Reparare: Filtru de curățare pentru beaconele expirate (Legea 142/500)
