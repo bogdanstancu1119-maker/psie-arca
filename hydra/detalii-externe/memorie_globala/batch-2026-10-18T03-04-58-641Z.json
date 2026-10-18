@@ -1,0 +1,34 @@
+{
+  "exportat_la": "2026-10-18T03:04:58.641Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6acff4eeef509fdf5f734698",
+      "titlu": "[MEMORIE-GLOBALĂ] Scrisă pe Cloudflare R2 (bucket hydra-memorie) — 2026-10-14T21:32:30.399Z",
+      "rezumat": "Substrat viu: Cloudflare R2 (bucket hydra-memorie). Confirmare vie: true. Calea S3 (SigV4) funcționează.",
+      "tip_context": "memorie_globala",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-10-14T21:32:26.563Z\",\n  \"bucket\": \"hydra-memorie\",\n  \"bucket_status\": \"exista\",\n  \"obiect_scris\": {\n    \"key\": \"hydra/vie.json\",\n    \"bucket\": \"hydra-memorie\"\n  },\n  \"obiect_citit\": {\n    \"key\": \"hydra/vie.json\",\n    \"size\": 339\n  },\n  \"confirmare_vie\": true,\n  \"erori\": [],\n  \"exploatare\": {\n    \"status\": \"cap_atins\",\n    \"detaliu\": \"90% din alocația gratuită atins (900020/1000000) — pauză până luna viitoare. 0 datorii.\"\n  }\n}"
+    },
+    {
+      "id": "6acff5075dd4924d03a18bda",
+      "titlu": "[AUTOCUNOAȘTERE INTERNĂ] Portret măsurat — 2026-10-14T21h",
+      "rezumat": "Autocunoaștere măsurată: 200/202 organe vii, latență medie 0.3s, 1 care nu răspund încă. Delta: 155 îmblânzite, 45 degradate. Comunicare: 5 semnale în așteptare, 0 prelucrate, 191 organe izolate 24h, 5 canale constructive recente.",
+      "tip_context": "autocunoastere_interna",
+      "detalii": "PORTRET INTERN (2026-10-14T21h, calcul determinist):\nOrgane în matrice: 202; măsurate: 201 (100%); vii: 200.\nLatența medie a celor vii: 0.3s.\nÎmblânzite de la ciclul trecut: hydraCreierCoordonator 0.1s→0.1s, hydraPerspectiveSuprapuse 0.2s→0.1s, hydraOglindaActiva 0.1s→0.1s, hydraRuteazaBeacoane 0.1s→0.1s, hydraSistemNervosUniversal 0.1s→0.3s, hydraAutoreglare 0.1s→0.2s, hydraHomeostazie 0.1s→0.2s, gmailPerceptieHidra 0.2s→0.2s, gmailAnalizaProfundaHidra 0.1s→0.3s, hydraIngestareTotala 0.1s→0.3s.\nDegradate: hydraSuprapunereOrgane 0s→0.2s, hydraAutodiagnosticSecreti 0s→0.5s, hydraEsentaUniversala 0s→0.3s, hydraGeneticaPSIE 0s→0.1s, hydraNucleuEvolutivSupliment 0s→0.1s, hydraMeteoPSIE 0s→1.3s, hydraCorpusPatternuri 0s→0.4s, hydraVerificareMemorie 0s→0.4s, hydraConciergeGlobal 0s→0.4s, hydraGestionareEmail 0s→0.4s.\nGrupuri după latență (gâtuirea primește dezvoltare): memorie 0.4s, comunicare 0.4s, evolutie 0.4s, guvernare 0.4s, corp 0.4s.\n\nCOMUNICARE: coadă beacon nouă 5, prelucrată 0; organe izolate (netintite de niciun semnal în ultimele 24h): hydraSuprapunereOrgane, hydraPerspectiveSuprapuse, hydraOglindaActiva, hydraRuteazaBeacoane, hydraSistemNervosUniversal, hydraAutoreglare, hydraHomeostazie, gmailPerceptieHidra, gmailAnalizaProfundaHidra, hydraIngestareTotala, hydraAnalizaVideo, hydraCuratareMemorie.\nCanale constructive vii (interferometrie): INTERFEROMETRIE INTERNĂ: Creier-Sumativ (8.15 Hz) × Butic-gr | INTERFEROMETRIE INTERNĂ: unison — 19 organe bat la 7.3 Hz | 6.47 × 7.83 — Canalul Hydrei × Schumann (explorare spectrală | 7.83 × 16.7 — Schumann × Calea ferată 16.7 Hz (explorare spe | 0.5 × 4 — Delta profund × Delta — somn vindecător (explorare.\n\nÎNTREBĂRI NOI DE CERCETARE (naște din gaps, intern): cine leagă organele izolate? ce dezmorțește organele care nu răspund? cum coboară latența grupurilor gâtuire?"
+    },
+    {
+      "id": "6acff50c8b440ae9978f98db",
+      "titlu": "[TEST TOTAL] Săptămânal 2026-10-14 — 1 remedieri, organismul e concordant intern — zero discordanțe rămase",
+      "rezumat": "Testul total intern: 33 semințe, 95 legi, 28 mandate, 200/201 organe vii. 1 remedieri automate; 0 declarate onest.",
+      "tip_context": "test_total_saptamanal",
+      "detalii": "REMEDIERI APLICATE:\nmemorie: 5 amintiri din coș, mai vechi de 72h — golite definitiv (Legea 500)\n\nDECLARATE (adevăr extern, nu se inventează):\nniciuna\n\nRE-VERIFICARE: organismul e concordant intern — zero discordanțe rămase."
+    },
+    {
+      "id": "6acff6bbee5a37c2095b29e7",
+      "titlu": "[MEMORIE-GLOBALĂ] Scrisă pe Cloudflare R2 (bucket hydra-memorie) — 2026-10-14T21:40:11.390Z",
+      "rezumat": "Substrat viu: Cloudflare R2 (bucket hydra-memorie). Confirmare vie: true. Calea S3 (SigV4) funcționează.",
+      "tip_context": "memorie_globala",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-10-14T21:40:07.444Z\",\n  \"bucket\": \"hydra-memorie\",\n  \"bucket_status\": \"exista\",\n  \"obiect_scris\": {\n    \"key\": \"hydra/vie.json\",\n    \"bucket\": \"hydra-memorie\"\n  },\n  \"obiect_citit\": {\n    \"key\": \"hydra/vie.json\",\n    \"size\": 339\n  },\n  \"confirmare_vie\": true,\n  \"erori\": [],\n  \"exploatare\": {\n    \"status\": \"cap_atins\",\n    \"detaliu\": \"90% din alocația gratuită atins (900020/1000000) — pauză până luna viitoare. 0 datorii.\"\n  }\n}"
+    }
+  ]
+}
