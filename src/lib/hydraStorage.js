@@ -1,0 +1,1 @@
+const updateBursaState = (key, newState) => { const currentState = JSON.parse(localStorage.getItem(key) || '{}'); const newTimestamp = Date.now(); const mergedState = { ...currentState, ...newState, lastUpdate: newTimestamp }; localStorage.setItem(key, JSON.stringify(mergedState)); return mergedState; };
