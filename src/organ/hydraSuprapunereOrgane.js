@@ -1,0 +1,1 @@
+async function digestBeacons(queue) { const batchSize = 10; while(queue.length > 50) { const batch = queue.splice(0, batchSize); await Promise.all(batch.map(processBeacon)); } console.log('Indigestie redusă: coada stabilizată.'); }
