@@ -1,0 +1,1 @@
+import { useState, useEffect } from 'react'; export const useAgentState = (id) => { const [state, setState] = useState(() => { const saved = localStorage.getItem(`agent-${id}`); return saved ? JSON.parse(saved) : { memory: [], active: true }; }); useEffect(() => { localStorage.setItem(`agent-${id}`, JSON.stringify(state)); }, [state, id]); return [state, setState]; };
