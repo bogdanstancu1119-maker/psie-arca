@@ -1,0 +1,1 @@
+const updateState = (key, newState) => { const currentState = JSON.parse(localStorage.getItem(key) || '{}'); if (newState.bucle >= (currentState.bucle || 0)) { localStorage.setItem(key, JSON.stringify(newState)); } };
