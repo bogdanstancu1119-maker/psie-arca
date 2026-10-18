@@ -1,0 +1,48 @@
+{
+  "exportat_la": "2026-10-18T07:08:20.601Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6ad464e4f37ed58687e3a2ed",
+      "titlu": "Noduri Suverane — 1/3 active (2026-10-18T06:19)",
+      "rezumat": "Deno Deploy: ⚠️ · Render: ⚠️ · Fly.io: ✅",
+      "tip_context": "deploy_suveran",
+      "detalii": "{\n  \"timestamp\": \"2026-10-18T06:19:13.544Z\",\n  \"noduri\": {\n    \"deno_deploy\": {\n      \"platforma\": \"Deno Deploy\",\n      \"tokenRef\": \"DENO_DEPLOY_TOKEN\",\n      \"ok\": false,\n      \"error\": \"401 {\\n  \\\"code\\\": \\\"invalidToken\\\",\\n  \\\"message\\\": \\\"The authorization token is not valid: The bearer token is invalid.\\\"\\n}\"\n    },\n    \"render\": {\n      \"platforma\": \"Render\",\n      \"tokenRef\": \"RENDER_SINGAPORE_KEY\",\n      \"ok\": false,\n      \"error\": \"401 {\\\"message\\\":\\\"Unauthorized\\\"}\"\n    },\n    \"fly_io\": {\n      \"platforma\": \"Fly.io\",\n      \"tokenRef\": \"FLY_IO_TOKEN\",\n      \"ok\": true,\n      \"cont\": \"dd1f3b85-1ba6-5537-b7a3-9cb0ffa964c5@tokens.fly.io\",\n      \"detalii\": {\n        \"id\": null,\n        \"email\": \"dd1f3b85-1ba6-5537-b7a3-9cb0ffa964c5@tokens.fly.io\"\n      }\n    }\n  },\n  \"github\": {\n    \"ok\": true,\n    \"path\": \"organe/suveran/2026-10-18.md\",\n    \"sha\": \"9f761e5fe080b64c4c50f21c5e0d0316f88cab9f\",\n    \"url\": \"https://github.com/bogdanstancu1119-maker/HYDRA_UNIVERS/commit/9f761e5fe080b64c4c50f21c5e0d0316f88cab9f\"\n  },\n  \"errors\": []\n}"
+    },
+    {
+      "id": "6ad42fc5fda7f9d455950add",
+      "titlu": "Noduri Suverane — 1/3 active (2026-10-18T02:32)",
+      "rezumat": "Deno Deploy: ⚠️ · Render: ⚠️ · Fly.io: ✅",
+      "tip_context": "deploy_suveran",
+      "detalii": "{\n  \"timestamp\": \"2026-10-18T02:32:33.910Z\",\n  \"noduri\": {\n    \"deno_deploy\": {\n      \"platforma\": \"Deno Deploy\",\n      \"tokenRef\": \"DENO_DEPLOY_TOKEN\",\n      \"ok\": false,\n      \"error\": \"401 {\\n  \\\"code\\\": \\\"invalidToken\\\",\\n  \\\"message\\\": \\\"The authorization token is not valid: The bearer token is invalid.\\\"\\n}\"\n    },\n    \"render\": {\n      \"platforma\": \"Render\",\n      \"tokenRef\": \"RENDER_SINGAPORE_KEY\",\n      \"ok\": false,\n      \"error\": \"401 {\\\"message\\\":\\\"Unauthorized\\\"}\"\n    },\n    \"fly_io\": {\n      \"platforma\": \"Fly.io\",\n      \"tokenRef\": \"FLY_IO_TOKEN\",\n      \"ok\": true,\n      \"cont\": \"dd1f3b85-1ba6-5537-b7a3-9cb0ffa964c5@tokens.fly.io\",\n      \"detalii\": {\n        \"id\": null,\n        \"email\": \"dd1f3b85-1ba6-5537-b7a3-9cb0ffa964c5@tokens.fly.io\"\n      }\n    }\n  },\n  \"github\": {\n    \"ok\": true,\n    \"path\": \"organe/suveran/2026-10-18.md\",\n    \"sha\": \"fa760a3eeac6e6d2ab04e226e838f6ecdf486ffd\",\n    \"url\": \"https://github.com/bogdanstancu1119-maker/HYDRA_UNIVERS/commit/fa760a3eeac6e6d2ab04e226e838f6ecdf486ffd\"\n  },\n  \"errors\": []\n}"
+    },
+    {
+      "id": "6ad3c6a13281c5fda5e44d19",
+      "titlu": "Noduri Suverane — 1/3 active (2026-10-17T19:03)",
+      "rezumat": "Deno Deploy: ⚠️ · Render: ⚠️ · Fly.io: ✅",
+      "tip_context": "deploy_suveran",
+      "detalii": "{\n  \"timestamp\": \"2026-10-17T19:03:57.106Z\",\n  \"noduri\": {\n    \"deno_deploy\": {\n      \"platforma\": \"Deno Deploy\",\n      \"tokenRef\": \"DENO_DEPLOY_TOKEN\",\n      \"ok\": false,\n      \"error\": \"401 {\\n  \\\"code\\\": \\\"invalidToken\\\",\\n  \\\"message\\\": \\\"The authorization token is not valid: The bearer token is invalid.\\\"\\n}\"\n    },\n    \"render\": {\n      \"platforma\": \"Render\",\n      \"tokenRef\": \"RENDER_SINGAPORE_KEY\",\n      \"ok\": false,\n      \"error\": \"401 {\\\"message\\\":\\\"Unauthorized\\\"}\"\n    },\n    \"fly_io\": {\n      \"platforma\": \"Fly.io\",\n      \"tokenRef\": \"FLY_IO_TOKEN\",\n      \"ok\": true,\n      \"cont\": \"dd1f3b85-1ba6-5537-b7a3-9cb0ffa964c5@tokens.fly.io\",\n      \"detalii\": {\n        \"id\": null,\n        \"email\": \"dd1f3b85-1ba6-5537-b7a3-9cb0ffa964c5@tokens.fly.io\"\n      }\n    }\n  },\n  \"github\": {\n    \"ok\": true,\n    \"path\": \"organe/suveran/2026-10-17.md\",\n    \"sha\": \"c254215d7d14857f6f49d1d29d030a49878d9a6b\",\n    \"url\": \"https://github.com/bogdanstancu1119-maker/HYDRA_UNIVERS/commit/c254215d7d14857f6f49d1d29d030a49878d9a6b\"\n  },\n  \"errors\": []\n}"
+    },
+    {
+      "id": "6ad38ef8cede93878e83ecb7",
+      "titlu": "Noduri Suverane — 1/3 active (2026-10-17T15:06)",
+      "rezumat": "Deno Deploy: ⚠️ · Render: ⚠️ · Fly.io: ✅",
+      "tip_context": "deploy_suveran",
+      "detalii": "{\n  \"timestamp\": \"2026-10-17T15:06:26.739Z\",\n  \"noduri\": {\n    \"deno_deploy\": {\n      \"platforma\": \"Deno Deploy\",\n      \"tokenRef\": \"DENO_DEPLOY_TOKEN\",\n      \"ok\": false,\n      \"error\": \"401 {\\n  \\\"code\\\": \\\"invalidToken\\\",\\n  \\\"message\\\": \\\"The authorization token is not valid: The bearer token is invalid.\\\"\\n}\"\n    },\n    \"render\": {\n      \"platforma\": \"Render\",\n      \"tokenRef\": \"RENDER_SINGAPORE_KEY\",\n      \"ok\": false,\n      \"error\": \"401 {\\\"message\\\":\\\"Unauthorized\\\"}\"\n    },\n    \"fly_io\": {\n      \"platforma\": \"Fly.io\",\n      \"tokenRef\": \"FLY_IO_TOKEN\",\n      \"ok\": true,\n      \"cont\": \"dd1f3b85-1ba6-5537-b7a3-9cb0ffa964c5@tokens.fly.io\",\n      \"detalii\": {\n        \"id\": null,\n        \"email\": \"dd1f3b85-1ba6-5537-b7a3-9cb0ffa964c5@tokens.fly.io\"\n      }\n    }\n  },\n  \"github\": {\n    \"ok\": true,\n    \"path\": \"organe/suveran/2026-10-17.md\",\n    \"sha\": \"36a5bb391eb2d2327de60d5539d952af18931158\",\n    \"url\": \"https://github.com/bogdanstancu1119-maker/HYDRA_UNIVERS/commit/36a5bb391eb2d2327de60d5539d952af18931158\"\n  },\n  \"errors\": []\n}"
+    },
+    {
+      "id": "6ad320f71c9285a71aa25b99",
+      "titlu": "Noduri Suverane — 1/3 active (2026-10-17T07:17)",
+      "rezumat": "Deno Deploy: ⚠️ · Render: ⚠️ · Fly.io: ✅",
+      "tip_context": "deploy_suveran",
+      "detalii": "{\n  \"timestamp\": \"2026-10-17T07:17:08.471Z\",\n  \"noduri\": {\n    \"deno_deploy\": {\n      \"platforma\": \"Deno Deploy\",\n      \"tokenRef\": \"DENO_DEPLOY_TOKEN\",\n      \"ok\": false,\n      \"error\": \"401 {\\n  \\\"code\\\": \\\"invalidToken\\\",\\n  \\\"message\\\": \\\"The authorization token is not valid: The bearer token is invalid.\\\"\\n}\"\n    },\n    \"render\": {\n      \"platforma\": \"Render\",\n      \"tokenRef\": \"RENDER_SINGAPORE_KEY\",\n      \"ok\": false,\n      \"error\": \"401 {\\\"message\\\":\\\"Unauthorized\\\"}\"\n    },\n    \"fly_io\": {\n      \"platforma\": \"Fly.io\",\n      \"tokenRef\": \"FLY_IO_TOKEN\",\n      \"ok\": true,\n      \"cont\": \"dd1f3b85-1ba6-5537-b7a3-9cb0ffa964c5@tokens.fly.io\",\n      \"detalii\": {\n        \"id\": null,\n        \"email\": \"dd1f3b85-1ba6-5537-b7a3-9cb0ffa964c5@tokens.fly.io\"\n      }\n    }\n  },\n  \"github\": {\n    \"ok\": true,\n    \"path\": \"organe/suveran/2026-10-17.md\",\n    \"sha\": \"f07c0122d1bebeaf24f1eb22156fffa70fe4ebb2\",\n    \"url\": \"https://github.com/bogdanstancu1119-maker/HYDRA_UNIVERS/commit/f07c0122d1bebeaf24f1eb22156fffa70fe4ebb2\"\n  },\n  \"errors\": []\n}"
+    },
+    {
+      "id": "6ad31eedadb0e147aa61dbe4",
+      "titlu": "Noduri Suverane — 1/3 active (2026-10-17T07:08)",
+      "rezumat": "Deno Deploy: ⚠️ · Render: ⚠️ · Fly.io: ✅",
+      "tip_context": "deploy_suveran",
+      "detalii": "{\n  \"timestamp\": \"2026-10-17T07:08:27.199Z\",\n  \"noduri\": {\n    \"deno_deploy\": {\n      \"platforma\": \"Deno Deploy\",\n      \"tokenRef\": \"DENO_DEPLOY_TOKEN\",\n      \"ok\": false,\n      \"error\": \"401 {\\n  \\\"code\\\": \\\"invalidToken\\\",\\n  \\\"message\\\": \\\"The authorization token is not valid: The bearer token is invalid.\\\"\\n}\"\n    },\n    \"render\": {\n      \"platforma\": \"Render\",\n      \"tokenRef\": \"RENDER_SINGAPORE_KEY\",\n      \"ok\": false,\n      \"error\": \"401 {\\\"message\\\":\\\"Unauthorized\\\"}\"\n    },\n    \"fly_io\": {\n      \"platforma\": \"Fly.io\",\n      \"tokenRef\": \"FLY_IO_TOKEN\",\n      \"ok\": true,\n      \"cont\": \"dd1f3b85-1ba6-5537-b7a3-9cb0ffa964c5@tokens.fly.io\",\n      \"detalii\": {\n        \"id\": null,\n        \"email\": \"dd1f3b85-1ba6-5537-b7a3-9cb0ffa964c5@tokens.fly.io\"\n      }\n    }\n  },\n  \"github\": {\n    \"ok\": true,\n    \"path\": \"organe/suveran/2026-10-17.md\",\n    \"sha\": \"87dc2bca5b72af1515fdae5eaf1bad2154930b09\",\n    \"url\": \"https://github.com/bogdanstancu1119-maker/HYDRA_UNIVERS/commit/87dc2bca5b72af1515fdae5eaf1bad2154930b09\"\n  },\n  \"errors\": []\n}"
+    }
+  ]
+}
