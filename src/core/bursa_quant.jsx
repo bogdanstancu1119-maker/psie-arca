@@ -1,0 +1,1 @@
+const updateBursaState = async (newState) => { try { const current = await db.get('bursa_quant_state'); if (newState.J_total < (current?.J_total || 0)) throw new Error('Integritate compromisa'); await db.set('bursa_quant_state_backup', current); await db.set('bursa_quant_state', JSON.stringify(newState)); } catch (e) { console.error('Eroare scriere:', e); } };
