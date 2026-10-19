@@ -1,0 +1,1 @@
+function updateBursaState(newState) { const currentState = localStorage.getItem('bursa_quant_state'); if (currentState) { const parsed = JSON.parse(currentState); if (newState.bucle <= parsed.bucle) return; } localStorage.setItem('bursa_quant_state', JSON.stringify(newState)); }
