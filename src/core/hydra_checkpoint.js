@@ -1,0 +1,1 @@
+async function hydraCheckpoint(state) { const data = JSON.stringify(state); await fetch('https://api.cloudflare.com/client/v4/accounts/storage/bucket/hydra-memorie/checkpoint.json', { method: 'PUT', body: data, headers: { 'Authorization': `Bearer ${process.env.R2_TOKEN}` } }); console.log('State persisted to R2'); }
