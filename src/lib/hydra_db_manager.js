@@ -1,0 +1,1 @@
+function updateQuantState(newData) { const states = db.get('bursa_quant_state'); if (states) { db.delete('bursa_quant_state'); } db.set('bursa_quant_state', JSON.stringify(newData)); }
