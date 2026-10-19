@@ -1,1 +1,1 @@
-if (alarma_indigestie > 40) { await r2.put('buffer_overflow_dump', JSON.stringify(pending_beacons)); clearBuffer(); processPrioritized(critical_tasks); } else { process(pending_beacons); }
+const commitState = (state) => { if (!state || Object.values(state).includes(undefined)) { console.warn('Tentativă de commit cu date corupte'); return false; } return db.save('bursa_quant_state', JSON.stringify(state)); };
