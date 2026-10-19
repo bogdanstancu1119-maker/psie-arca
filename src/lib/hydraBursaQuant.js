@@ -1,1 +1,1 @@
-const updateState = (key, newState) => { const currentState = JSON.parse(localStorage.getItem(key) || '{}'); if (newState.bucle >= (currentState.bucle || 0)) { localStorage.setItem(key, JSON.stringify(newState)); } };
+import { saveCanonicalState } from './registry.js'; const persistBursaState = (state) => { const canonical = JSON.parse(JSON.stringify(state)); canonical.timestamp = new Date().toISOString(); localStorage.setItem('bursa_quant_canonical', JSON.stringify(canonical)); saveCanonicalState(canonical); return true; };
