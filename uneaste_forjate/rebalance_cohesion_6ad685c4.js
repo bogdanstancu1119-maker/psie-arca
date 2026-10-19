@@ -1,0 +1,1 @@
+import { updateCohesion } from './lib/hydra_core'; updateCohesion({ organ_id: 'hydraIntegrareAntagonica', target_daily_min: 3, forced_sync: false, status: 'normalized' });
