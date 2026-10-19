@@ -1,0 +1,55 @@
+{
+  "exportat_la": "2026-10-19T07:07:44.696Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6ad5c19490bf0b30c67b0e16",
+      "titlu": "[BEACON info] hydraFrictiuneContinua 2026-10-19",
+      "rezumat": "[FRICȚIUNE] Canal intern: 12/12 agenți, severitate 0.43, sinteza asumată: Orice organ care cere credite atașează produsul concret obținut la ultimul apel — bugetul urmărește câștig, nu consum.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraFrictiuneContinua: [FRICȚIUNE] Canal intern: 12/12 agenți, severitate 0.43, sinteza asumată: Orice organ care cere credite atașează produsul concret obținut la ultimul apel — bugetul urmărește câștig, nu consum."
+    },
+    {
+      "id": "6ad5c1948c81135183d1f50a",
+      "titlu": "[BEACON info] hydraFrictiuneContinua 2026-10-19",
+      "rezumat": "[FRICȚIUNE] Canal intern: 12/12 agenți, severitate 0.43, sinteza asumată: Orice organ care cere credite atașează produsul concret obținut la ultimul apel — bugetul urmărește câștig, nu consum.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraFrictiuneContinua: [FRICȚIUNE] Canal intern: 12/12 agenți, severitate 0.43, sinteza asumată: Orice organ care cere credite atașează produsul concret obținut la ultimul apel — bugetul urmărește câștig, nu consum."
+    },
+    {
+      "id": "6ad5c194b5c48a8791319584",
+      "titlu": "[BEACON info] hydraHartaEvolutiva 2026-10-19",
+      "rezumat": "[HARTĂ EVOLUTIVĂ] 22 tipare istorice vii din 2956 lecții — putere de predictibilitate deschisă la detalii noi",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraHartaEvolutiva: [HARTĂ EVOLUTIVĂ] 22 tipare istorice vii din 2956 lecții — putere de predictibilitate deschisă la detalii noi"
+    },
+    {
+      "id": "6ad5c18a01b9bfa9c1e1eb1c",
+      "titlu": "[BEACON info] hydraNodAgent 2026-10-19",
+      "rezumat": "{\"auto_update\":true,\"versiune\":3,\"schimbat\":false,\"extern_tipuri\":[],\"ts\":\"2026-10-19T07:06:36.328Z\"}",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraNodAgent: {\"auto_update\":true,\"versiune\":3,\"schimbat\":false,\"extern_tipuri\":[],\"ts\":\"2026-10-19T07:06:36.328Z\"}"
+    },
+    {
+      "id": "6ad5c18a206fffd757f0553c",
+      "titlu": "[BEACON info] hydraAutodiagnosticSecreti 2026-10-19",
+      "rezumat": "[AUTODIAGNOSTIC] 10/10 secrete sanătoase. Rupte: 0. Necesită om: —.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraAutodiagnosticSecreti: [AUTODIAGNOSTIC] 10/10 secrete sanătoase. Rupte: 0. Necesită om: —."
+    },
+    {
+      "id": "6ad5c1899bf733e28aaddc3f",
+      "titlu": "[BEACON info] hydraNotificareCanale 2026-10-19",
+      "rezumat": "[NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: undefined. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraNotificareCanale: [NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: undefined. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack_notifier.py."
+    },
+    {
+      "id": "6ad5c1877f4b279235001b1d",
+      "titlu": "[BEACON info] hydraScanSecretiAPI 2026-10-19",
+      "rezumat": "11 chei API noi detectate în secrete: Aiml api(AIML_API_KEY), Alibaba cloud(ALIBABA_CLOUD_API), Baidu qianfan(BAIDU_QIANFAN_API), Comet(COMET_API), Console x ia(CONSOLE_X_IA_API), Deepseek(DEEPSEEK_KE",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraScanSecretiAPI: 11 chei API noi detectate în secrete: Aiml api(AIML_API_KEY), Alibaba cloud(ALIBABA_CLOUD_API), Baidu qianfan(BAIDU_QIANFAN_API), Comet(COMET_API), Console x ia(CONSOLE_X_IA_API), Deepseek(DEEPSEEK_KEY), Grok(GROK_API), Big model cn(HYDRA_BIG_MODEL_CN_API), Kimi(KIMI_API), Nvidia(NVIDIA_API), Perplexity api(PERPLEXITY_API_KEY). Au intrat în roi ca agenți inactivi — calibrează endpoint-urile la următorul ciclu."
+    }
+  ]
+}
