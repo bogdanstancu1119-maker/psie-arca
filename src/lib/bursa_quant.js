@@ -1,0 +1,1 @@
+const updateBursaQuant = async (newData) => { const currentState = await localStorage.getItem('bursa_quant_state'); const parsedState = currentState ? JSON.parse(currentState) : {}; const mergedState = { ...parsedState, ...newData, lastUpdated: new Date().toISOString() }; await localStorage.setItem('bursa_quant_state', JSON.stringify(mergedState)); return mergedState; };
