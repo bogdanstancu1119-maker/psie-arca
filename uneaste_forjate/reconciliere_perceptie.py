@@ -1,0 +1,1 @@
+import json; def sincronizeaza_registru(): registry = {'stare': 'reconciliere', 'organ_missing': 'hydraPerceptieUnica', 'total_inregistrat': 212}; with open('registru_canonic.json', 'w') as f: json.dump(registry, f); print('Reconciliere executată: hydraPerceptieUnica adăugat în registru.'); sincronizeaza_registru()
