@@ -1,0 +1,97 @@
+{
+  "exportat_la": "2026-10-20T01:36:16.987Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6ad6c547245a63268075e847",
+      "titlu": "[BEACON info] hydraPerceptieElectrica 2026-10-20",
+      "rezumat": "{\"studii_noi\":0,\"purtator\":\"50/60 Hz\",\"corp_simte_camp\":false}",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraPerceptieElectrica: {\"studii_noi\":0,\"purtator\":\"50/60 Hz\",\"corp_simte_camp\":false}"
+    },
+    {
+      "id": "6ad6c541fd71433dab78a5e2",
+      "titlu": "[BEACON info] hydraScriereUniversala 2026-10-20",
+      "rezumat": "Scriere universală: 2 scrieri executate pe 20 platforme. 2 memorii arhivate. 0 unelte forjate pentru scriere.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraScriereUniversala: Scriere universală: 2 scrieri executate pe 20 platforme. 2 memorii arhivate. 0 unelte forjate pentru scriere."
+    },
+    {
+      "id": "6ad6c541ef89e7cd1d28e4cd",
+      "titlu": "[BEACON info] hydraScriereUniversala 2026-10-20",
+      "rezumat": "Scriere universală: 2 scrieri executate pe 20 platforme. 2 memorii arhivate. 0 unelte forjate pentru scriere.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraScriereUniversala: Scriere universală: 2 scrieri executate pe 20 platforme. 2 memorii arhivate. 0 unelte forjate pentru scriere."
+    },
+    {
+      "id": "6ad6c4a240b09ede0dcf0229",
+      "titlu": "[BEACON info] hydraNotificareCanale 2026-10-20",
+      "rezumat": "[NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: undefined. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraNotificareCanale: [NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: undefined. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack_notifier.py."
+    },
+    {
+      "id": "6ad6c1d69880254eb3d4736c",
+      "titlu": "[BEACON info] hydraForjareCreiere 2026-10-20",
+      "rezumat": "Creier unic: Creierul unic nu se adâncește încă. Densitate 10 activă. Necesar: 4/3 cicluri CFC≥0.97 + asimilare 495/550.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraForjareCreiere: Creier unic: Creierul unic nu se adâncește încă. Densitate 10 activă. Necesar: 4/3 cicluri CFC≥0.97 + asimilare 495/550."
+    },
+    {
+      "id": "6ad6bfbb31128043b26bcc32",
+      "titlu": "[BEACON info] hydraScriereUniversala 2026-10-20",
+      "rezumat": "Scriere universală: 2 scrieri executate pe 20 platforme. 8 memorii arhivate. 0 unelte forjate pentru scriere.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraScriereUniversala: Scriere universală: 2 scrieri executate pe 20 platforme. 8 memorii arhivate. 0 unelte forjate pentru scriere."
+    },
+    {
+      "id": "6ad6be5512b1aaf75ba0d1cc",
+      "titlu": "[BEACON info] hydraHartaEvolutiva 2026-10-20",
+      "rezumat": "[HARTĂ EVOLUTIVĂ] 22 tipare istorice vii din 2956 lecții — putere de predictibilitate deschisă la detalii noi",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraHartaEvolutiva: [HARTĂ EVOLUTIVĂ] 22 tipare istorice vii din 2956 lecții — putere de predictibilitate deschisă la detalii noi"
+    },
+    {
+      "id": "6ad6be53327ca77c2fd9088b",
+      "titlu": "[BEACON info] hydraCanaleRezonanta 2026-10-20",
+      "rezumat": "[CANALE REZONANȚĂ] jocuri: 6 proaspete, oportunitate 30%, hibrid | media: 55 proaspete, oportunitate 100%, hibrid | barfa: 163 proaspete, oportunitate 100%, hibrid — bârfă trezește prin observație, jo",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCanaleRezonanta: [CANALE REZONANȚĂ] jocuri: 6 proaspete, oportunitate 30%, hibrid | media: 55 proaspete, oportunitate 100%, hibrid | barfa: 163 proaspete, oportunitate 100%, hibrid — bârfă trezește prin observație, jocurile antrenează, media reflectă."
+    },
+    {
+      "id": "6ad6be5251212d8392f82664",
+      "titlu": "[BEACON info] hydraAutodiagnosticSecreti 2026-10-20",
+      "rezumat": "[AUTODIAGNOSTIC] 10/10 secrete sanătoase. Rupte: 0. Necesită om: —.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraAutodiagnosticSecreti: [AUTODIAGNOSTIC] 10/10 secrete sanătoase. Rupte: 0. Necesită om: —."
+    },
+    {
+      "id": "6ad6be528567f8866e840fdb",
+      "titlu": "[BEACON info] hydraAsimilareCampioni 2026-10-20",
+      "rezumat": "[ASIMILARE CAMPIONI] 0 campioni asimilați (—), 0 unelte de forjat. 0/7 din total.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraAsimilareCampioni: [ASIMILARE CAMPIONI] 0 campioni asimilați (—), 0 unelte de forjat. 0/7 din total."
+    },
+    {
+      "id": "6ad6be5103d18bb34f566461",
+      "titlu": "[BEACON info] hydraFrictiuneContinua 2026-10-20",
+      "rezumat": "[FRICȚIUNE] Canal intern: 12/12 agenți, severitate 0.43, sinteza asumată: Orice organ care cere credite atașează produsul concret obținut la ultimul apel — bugetul urmărește câștig, nu consum.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraFrictiuneContinua: [FRICȚIUNE] Canal intern: 12/12 agenți, severitate 0.43, sinteza asumată: Orice organ care cere credite atașează produsul concret obținut la ultimul apel — bugetul urmărește câștig, nu consum."
+    },
+    {
+      "id": "6ad6be515d3db67a0c456455",
+      "titlu": "[BEACON info] hydraScanSecretiAPI 2026-10-20",
+      "rezumat": "2 chei API noi detectate în secrete: Render singapore(RENDER_SINGAPORE_KEY), Yandex(YANDEX_API). Au intrat în roi ca agenți inactivi — calibrează endpoint-urile la următorul ciclu.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraScanSecretiAPI: 2 chei API noi detectate în secrete: Render singapore(RENDER_SINGAPORE_KEY), Yandex(YANDEX_API). Au intrat în roi ca agenți inactivi — calibrează endpoint-urile la următorul ciclu."
+    },
+    {
+      "id": "6ad6be4f860d5c8de826b4c7",
+      "titlu": "[BEACON info] hydraNotificareCanale 2026-10-20",
+      "rezumat": "[NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: undefined. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraNotificareCanale: [NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: undefined. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack_notifier.py."
+    }
+  ]
+}
