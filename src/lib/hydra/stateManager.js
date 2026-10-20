@@ -1,0 +1,1 @@
+const syncHydraState = (currentState) => { const archiveKey = `archive_${Date.now()}`; localStorage.setItem(archiveKey, JSON.stringify(currentState)); const optimizedState = { ...currentState, bucle: currentState.bucle + 1, lastSync: new Date().toISOString() }; localStorage.setItem('bursa_quant_state', JSON.stringify(optimizedState)); return optimizedState; };
