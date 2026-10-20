@@ -1,0 +1,69 @@
+{
+  "exportat_la": "2026-10-20T17:33:37.021Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6ad7a59d15c04baa60901b32",
+      "titlu": "[BEACON info] hydraNotificareCanale 2026-10-20",
+      "rezumat": "[NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: undefined. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraNotificareCanale: [NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: undefined. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack_notifier.py."
+    },
+    {
+      "id": "6ad7a31f7301b0689a410b47",
+      "titlu": "[BEACON info] hydraForjareCreiere 2026-10-20",
+      "rezumat": "Creier unic: Creierul unic nu se adâncește încă. Densitate 10 activă. Necesar: 1/3 cicluri CFC≥0.97 + asimilare 465/550.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraForjareCreiere: Creier unic: Creierul unic nu se adâncește încă. Densitate 10 activă. Necesar: 1/3 cicluri CFC≥0.97 + asimilare 465/550."
+    },
+    {
+      "id": "6ad7a0c188e9829b30aafe2c",
+      "titlu": "[BEACON info] hydraScriereUniversala 2026-10-20",
+      "rezumat": "Scriere universală: 2 scrieri executate pe 20 platforme. 14 memorii arhivate. 0 unelte forjate pentru scriere.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraScriereUniversala: Scriere universală: 2 scrieri executate pe 20 platforme. 14 memorii arhivate. 0 unelte forjate pentru scriere."
+    },
+    {
+      "id": "6ad7a0c0fb4287a77582675b",
+      "titlu": "[BEACON info] hydraComprimareMetabolica 2026-10-20",
+      "rezumat": "[COMPRIMARE METABOLICA] Total 6182->6182 (cap 8000, cos golit 85+0+0). Memorie activa 533->500 (cap 500): 33 comprimate -> 33 semne de carte. Harta patternuri: 1031->0 (cap 1000, 1 harta ordin superio",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraComprimareMetabolica: [COMPRIMARE METABOLICA] Total 6182->6182 (cap 8000, cos golit 85+0+0). Memorie activa 533->500 (cap 500): 33 comprimate -> 33 semne de carte. Harta patternuri: 1031->0 (cap 1000, 1 harta ordin superior cu 32 semne). 2 digerate lent. Cercetare: 200. Unelte: 0 multifunc + 0 compar, 0 arhivate."
+    },
+    {
+      "id": "6ad7a0bf095bba914dd3618e",
+      "titlu": "[BEACON info] hydraCercetareAutonoma 2026-10-20",
+      "rezumat": "[CERCETARE] subiect (undefined) — 1/1 unghiuri, SATURAT (oprit la timp) — ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCercetareAutonoma: [CERCETARE] subiect (undefined) — 1/1 unghiuri, SATURAT (oprit la timp) — "
+    },
+    {
+      "id": "6ad7a0be9ce786e9abec7900",
+      "titlu": "[BEACON info] hydraCanaleRezonanta 2026-10-20",
+      "rezumat": "[CANALE REZONANȚĂ] jocuri: 0 proaspete, oportunitate 0%, intern | media: 76 proaspete, oportunitate 100%, hibrid | barfa: 211 proaspete, oportunitate 100%, hibrid — bârfă trezește prin observație, joc",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCanaleRezonanta: [CANALE REZONANȚĂ] jocuri: 0 proaspete, oportunitate 0%, intern | media: 76 proaspete, oportunitate 100%, hibrid | barfa: 211 proaspete, oportunitate 100%, hibrid — bârfă trezește prin observație, jocurile antrenează, media reflectă."
+    },
+    {
+      "id": "6ad7a0beccc683790d86da7f",
+      "titlu": "[BEACON info] hydraAutodiagnosticSecreti 2026-10-20",
+      "rezumat": "[AUTODIAGNOSTIC] 10/10 secrete sanătoase. Rupte: 0. Necesită om: —.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraAutodiagnosticSecreti: [AUTODIAGNOSTIC] 10/10 secrete sanătoase. Rupte: 0. Necesită om: —."
+    },
+    {
+      "id": "6ad7a0bdfe5f4a69f8a473ba",
+      "titlu": "[BEACON info] hydraVerificareMemorie 2026-10-20",
+      "rezumat": "[VERIFICARE MEMORIE] Etichetate 0, redundanță marcată 59. Harta densă: rezonanță 0 pe context. Recuperare: 30 surse testate, 18 redundante confirmate, 12 restaurate.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraVerificareMemorie: [VERIFICARE MEMORIE] Etichetate 0, redundanță marcată 59. Harta densă: rezonanță 0 pe context. Recuperare: 30 surse testate, 18 redundante confirmate, 12 restaurate."
+    },
+    {
+      "id": "6ad7a0bd09a26bdcd1b22228",
+      "titlu": "[BEACON info] hydraFrictiuneContinua 2026-10-20",
+      "rezumat": "[FRICȚIUNE] Canal intern: 12/12 agenți, severitate 0.43, sinteza asumată: Orice organ care cere credite atașează produsul concret obținut la ultimul apel — bugetul urmărește câștig, nu consum.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraFrictiuneContinua: [FRICȚIUNE] Canal intern: 12/12 agenți, severitate 0.43, sinteza asumată: Orice organ care cere credite atașează produsul concret obținut la ultimul apel — bugetul urmărește câștig, nu consum."
+    }
+  ]
+}
