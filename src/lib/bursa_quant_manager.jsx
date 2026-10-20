@@ -1,0 +1,1 @@
+const compacteazaState = (state) => { const stiriVechi = state.bucle > 10000 ? state.predictii.slice(-100) : state.predictii; return { ...state, predictii: stiriVechi, compactat: true }; };
