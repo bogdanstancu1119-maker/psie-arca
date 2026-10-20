@@ -1,1 +1,1 @@
-const saveBursaState = (newState) => { const currentState = JSON.parse(localStorage.getItem('bursa_quant_state') || '{}'); if (newState.bucle >= (currentState.bucle || 0)) { localStorage.setItem('bursa_quant_state', JSON.stringify(newState)); } };
+const persistState = (key, value, delay = 500) => { if (persistState.timer) clearTimeout(persistState.timer); persistState.timer = setTimeout(() => { localStorage.setItem(key, JSON.stringify(value)); }, delay); }; // Hydra-Debounce-Active
