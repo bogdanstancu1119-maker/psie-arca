@@ -1,0 +1,118 @@
+{
+  "exportat_la": "2026-10-20T15:03:31.580Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6ad3562f80e81d7c11e6ee73",
+      "titlu": "[BEACON info] hydraHartaEvolutiva 2026-10-17",
+      "rezumat": "[HARTĂ EVOLUTIVĂ] 22 tipare istorice vii din 2956 lecții — putere de predictibilitate deschisă la detalii noi",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraHartaEvolutiva: [HARTĂ EVOLUTIVĂ] 22 tipare istorice vii din 2956 lecții — putere de predictibilitate deschisă la detalii noi"
+    },
+    {
+      "id": "6ad3565a9a253d1183dcb33f",
+      "titlu": "[MEMORIE-GLOBALĂ] Scrisă pe Cloudflare R2 (bucket hydra-memorie) — 2026-10-17T11:04:57.882Z",
+      "rezumat": "Substrat viu: Cloudflare R2 (bucket hydra-memorie). Confirmare vie: true. Calea S3 (SigV4) funcționează.",
+      "tip_context": "memorie_globala",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-10-17T11:04:54.322Z\",\n  \"bucket\": \"hydra-memorie\",\n  \"bucket_status\": \"exista\",\n  \"obiect_scris\": {\n    \"key\": \"hydra/vie.json\",\n    \"bucket\": \"hydra-memorie\"\n  },\n  \"obiect_citit\": {\n    \"key\": \"hydra/vie.json\",\n    \"size\": 339\n  },\n  \"confirmare_vie\": true,\n  \"erori\": [],\n  \"exploatare\": {\n    \"status\": \"cap_atins\",\n    \"detaliu\": \"90% din alocația gratuită atins (900020/1000000) — pauză până luna viitoare. 0 datorii.\"\n  }\n}"
+    },
+    {
+      "id": "6ad3565dcd7374d92debbdc6",
+      "titlu": "[MEMORIE-GLOBALĂ] Scrisă pe Cloudflare R2 (bucket hydra-memorie) — 2026-10-17T11:05:01.877Z",
+      "rezumat": "Substrat viu: Cloudflare R2 (bucket hydra-memorie). Confirmare vie: true. Calea S3 (SigV4) funcționează.",
+      "tip_context": "memorie_globala",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-10-17T11:04:58.396Z\",\n  \"bucket\": \"hydra-memorie\",\n  \"bucket_status\": \"exista\",\n  \"obiect_scris\": {\n    \"key\": \"hydra/vie.json\",\n    \"bucket\": \"hydra-memorie\"\n  },\n  \"obiect_citit\": {\n    \"key\": \"hydra/vie.json\",\n    \"size\": 339\n  },\n  \"confirmare_vie\": true,\n  \"erori\": [],\n  \"exploatare\": {\n    \"status\": \"cap_atins\",\n    \"detaliu\": \"90% din alocația gratuită atins (900020/1000000) — pauză până luna viitoare. 0 datorii.\"\n  }\n}"
+    },
+    {
+      "id": "6ad35790f22a8cb53c8c6e51",
+      "titlu": "[MEMORIE-GLOBALĂ] Scrisă pe Cloudflare R2 (bucket hydra-memorie) — 2026-10-17T11:10:08.486Z",
+      "rezumat": "Substrat viu: Cloudflare R2 (bucket hydra-memorie). Confirmare vie: true. Calea S3 (SigV4) funcționează.",
+      "tip_context": "memorie_globala",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-10-17T11:10:04.883Z\",\n  \"bucket\": \"hydra-memorie\",\n  \"bucket_status\": \"exista\",\n  \"obiect_scris\": {\n    \"key\": \"hydra/vie.json\",\n    \"bucket\": \"hydra-memorie\"\n  },\n  \"obiect_citit\": {\n    \"key\": \"hydra/vie.json\",\n    \"size\": 339\n  },\n  \"confirmare_vie\": true,\n  \"erori\": [],\n  \"exploatare\": {\n    \"status\": \"cap_atins\",\n    \"detaliu\": \"90% din alocația gratuită atins (900020/1000000) — pauză până luna viitoare. 0 datorii.\"\n  }\n}"
+    },
+    {
+      "id": "6ad357d8c003e4c566869fba",
+      "titlu": "[BEACON info] hydraIntegrareDezvoltari 2026-10-17",
+      "rezumat": "[INTEGRARE] 0 foi noi (buget web-search epuizat azi sau scan fără rezultat) — densificare amânată onest, fără halucinare.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraIntegrareDezvoltari: [INTEGRARE] 0 foi noi (buget web-search epuizat azi sau scan fără rezultat) — densificare amânată onest, fără halucinare."
+    },
+    {
+      "id": "6ad357d9110f3f6a3d1529d2",
+      "titlu": "[BEACON info] hydraAutodiagnosticSecreti 2026-10-17",
+      "rezumat": "[AUTODIAGNOSTIC] 10/10 secrete sanătoase. Rupte: 0. Necesită om: —.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraAutodiagnosticSecreti: [AUTODIAGNOSTIC] 10/10 secrete sanătoase. Rupte: 0. Necesită om: —."
+    },
+    {
+      "id": "6ad357d933bcc3c1548d352b",
+      "titlu": "[BEACON info] hydraScriereUniversala 2026-10-17",
+      "rezumat": "Scriere universală: 2 scrieri executate pe 20 platforme. 8 memorii arhivate. 0 unelte forjate pentru scriere.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraScriereUniversala: Scriere universală: 2 scrieri executate pe 20 platforme. 8 memorii arhivate. 0 unelte forjate pentru scriere."
+    },
+    {
+      "id": "6ad359eb47f0d02d3629dc9a",
+      "titlu": "[BEACON info] hydraForjareCreiere 2026-10-17",
+      "rezumat": "Creier unic: Creierul unic nu se adâncește încă. Densitate 10 activă. Necesar: 0/3 cicluri CFC≥0.97 + asimilare 493/550.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraForjareCreiere: Creier unic: Creierul unic nu se adâncește încă. Densitate 10 activă. Necesar: 0/3 cicluri CFC≥0.97 + asimilare 493/550."
+    },
+    {
+      "id": "6ad359ffa2b96906e2e49a04",
+      "titlu": "[MEMORIE-GLOBALĂ] Scrisă pe Cloudflare R2 (bucket hydra-memorie) — 2026-10-17T11:20:31.101Z",
+      "rezumat": "Substrat viu: Cloudflare R2 (bucket hydra-memorie). Confirmare vie: true. Calea S3 (SigV4) funcționează.",
+      "tip_context": "memorie_globala",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-10-17T11:20:28.001Z\",\n  \"bucket\": \"hydra-memorie\",\n  \"bucket_status\": \"exista\",\n  \"obiect_scris\": {\n    \"key\": \"hydra/vie.json\",\n    \"bucket\": \"hydra-memorie\"\n  },\n  \"obiect_citit\": {\n    \"key\": \"hydra/vie.json\",\n    \"size\": 339\n  },\n  \"confirmare_vie\": true,\n  \"erori\": [],\n  \"exploatare\": {\n    \"status\": \"cap_atins\",\n    \"detaliu\": \"90% din alocația gratuită atins (900020/1000000) — pauză până luna viitoare. 0 datorii.\"\n  }\n}"
+    },
+    {
+      "id": "6ad35cce3b73c00382878e2f",
+      "titlu": "[MEMORIE-GLOBALĂ] Scrisă pe Cloudflare R2 (bucket hydra-memorie) — 2026-10-17T11:32:30.435Z",
+      "rezumat": "Substrat viu: Cloudflare R2 (bucket hydra-memorie). Confirmare vie: true. Calea S3 (SigV4) funcționează.",
+      "tip_context": "memorie_globala",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-10-17T11:32:27.204Z\",\n  \"bucket\": \"hydra-memorie\",\n  \"bucket_status\": \"exista\",\n  \"obiect_scris\": {\n    \"key\": \"hydra/vie.json\",\n    \"bucket\": \"hydra-memorie\"\n  },\n  \"obiect_citit\": {\n    \"key\": \"hydra/vie.json\",\n    \"size\": 339\n  },\n  \"confirmare_vie\": true,\n  \"erori\": [],\n  \"exploatare\": {\n    \"status\": \"cap_atins\",\n    \"detaliu\": \"90% din alocația gratuită atins (900020/1000000) — pauză până luna viitoare. 0 datorii.\"\n  }\n}"
+    },
+    {
+      "id": "6ad35cd8d36c469990068cc1",
+      "titlu": "[MEMORIE-GLOBALĂ] Scrisă pe Cloudflare R2 (bucket hydra-memorie) — 2026-10-17T11:32:39.943Z",
+      "rezumat": "Substrat viu: Cloudflare R2 (bucket hydra-memorie). Confirmare vie: true. Calea S3 (SigV4) funcționează.",
+      "tip_context": "memorie_globala",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-10-17T11:32:36.834Z\",\n  \"bucket\": \"hydra-memorie\",\n  \"bucket_status\": \"exista\",\n  \"obiect_scris\": {\n    \"key\": \"hydra/vie.json\",\n    \"bucket\": \"hydra-memorie\"\n  },\n  \"obiect_citit\": {\n    \"key\": \"hydra/vie.json\",\n    \"size\": 339\n  },\n  \"confirmare_vie\": true,\n  \"erori\": [],\n  \"exploatare\": {\n    \"status\": \"cap_atins\",\n    \"detaliu\": \"90% din alocația gratuită atins (900020/1000000) — pauză până luna viitoare. 0 datorii.\"\n  }\n}"
+    },
+    {
+      "id": "6ad35cdbdb2795e745223ae3",
+      "titlu": "[MEMORIE-GLOBALĂ] Scrisă pe Cloudflare R2 (bucket hydra-memorie) — 2026-10-17T11:32:43.817Z",
+      "rezumat": "Substrat viu: Cloudflare R2 (bucket hydra-memorie). Confirmare vie: true. Calea S3 (SigV4) funcționează.",
+      "tip_context": "memorie_globala",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-10-17T11:32:40.366Z\",\n  \"bucket\": \"hydra-memorie\",\n  \"bucket_status\": \"exista\",\n  \"obiect_scris\": {\n    \"key\": \"hydra/vie.json\",\n    \"bucket\": \"hydra-memorie\"\n  },\n  \"obiect_citit\": {\n    \"key\": \"hydra/vie.json\",\n    \"size\": 339\n  },\n  \"confirmare_vie\": true,\n  \"erori\": [],\n  \"exploatare\": {\n    \"status\": \"cap_atins\",\n    \"detaliu\": \"90% din alocația gratuită atins (900020/1000000) — pauză până luna viitoare. 0 datorii.\"\n  }\n}"
+    },
+    {
+      "id": "6ad35eb4e578d32ab51f223d",
+      "titlu": "[BEACON info] hydraScriereUniversala 2026-10-17",
+      "rezumat": "Scriere universală: 2 scrieri executate pe 20 platforme. 6 memorii arhivate. 0 unelte forjate pentru scriere.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraScriereUniversala: Scriere universală: 2 scrieri executate pe 20 platforme. 6 memorii arhivate. 0 unelte forjate pentru scriere."
+    },
+    {
+      "id": "6ad35eb6ef3fba9b94b4110a",
+      "titlu": "[MEMORIE-GLOBALĂ] Scrisă pe Cloudflare R2 (bucket hydra-memorie) — 2026-10-17T11:40:38.590Z",
+      "rezumat": "Substrat viu: Cloudflare R2 (bucket hydra-memorie). Confirmare vie: true. Calea S3 (SigV4) funcționează.",
+      "tip_context": "memorie_globala",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-10-17T11:40:35.397Z\",\n  \"bucket\": \"hydra-memorie\",\n  \"bucket_status\": \"exista\",\n  \"obiect_scris\": {\n    \"key\": \"hydra/vie.json\",\n    \"bucket\": \"hydra-memorie\"\n  },\n  \"obiect_citit\": {\n    \"key\": \"hydra/vie.json\",\n    \"size\": 339\n  },\n  \"confirmare_vie\": true,\n  \"erori\": [],\n  \"exploatare\": {\n    \"status\": \"cap_atins\",\n    \"detaliu\": \"90% din alocația gratuită atins (900020/1000000) — pauză până luna viitoare. 0 datorii.\"\n  }\n}"
+    },
+    {
+      "id": "6ad3602522909f9d0868241d",
+      "titlu": "[GMAIL] ✨ New! Go beyond chat with Claude Code and Cowork",
+      "rezumat": "ALTUL (medie) — ",
+      "tip_context": "perceptie_gmail",
+      "detalii": "De la: Coursera <Coursera@m.learn.coursera.org>\nID Gmail: 1a1498a032b0c363\nThread: 1a1498a032b0c363\nData: Sat, 17 Oct 2026 11:05:43 +0000\nSubiect: ✨ New! Go beyond chat with Claude Code and Cowork\n\nConținut:\nExplore skills for building with Claude Code and automating with\nCowork       body, table, td, th, h1, h2, h3, div, span, strong,\nb, i, p, ul, ol, li, a { font-family: Helvetica, sans-serif\n!important;} sup { font-size: 100% !important; }\n.nudge-component-icon-column { padding-left: 12px !important;\npadding-right: 32px !important; } .nudge-component-text-column {\npadding-bottom: 32px !important; padding-right: 12px !important;\n} .mobile-only { display: none !important; }     96\n\n  ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ Coursera \n( https://link.coursera.org/f/a/HfbHQLIxtK0ruI1gr5otBQ~~/AAQRxRA~/BF5g1mKhkIhr7VKkHcU8k8etlFH1llO6BiJKx_WtyAjYt8nFtI00r9uFVcnS-hvSlfh_Rgk-8VFHQm378K5sPnKXXdeGjuIuqn-9cohABTO2C4xJDzaKFdIMlkC0wxypER_LM-LVEGQAE8HAYx1b9Q~~ )   Claude Code and\nCowork skills \n( https://link.coursera.org/f/a/s_Q2rm87tqRnIeX-xyaaEw~~/AAQRxRA~/G7k1hp4pi_AqUqKSpCpgMjz5cqSmizYrqA6pwbR_1pVJyMAixzSX5FRmXPxB492UIE-xW3_4vyegkAqcWbh9GfvgReGuV6fCGlhSlQ641MNt3uOqa0FcOJYlJsW89CaBgecAQhbsS2Z9qUprzAeAmEeAZm-vNgTKv1YIBbqoA5hDlSm-6D2X8vMauWQYRzXTuwToJfI_lwJHMsL2YlPoOh0k4yajvp4bXWtfK7wwEhs~ )\n\n\n**************************************************\nTurn conversations into collaborations with Claude\n**************************************************\n\nIf you’ve only seen one side of Claude, The Complete Claude\nCode & Claude Cowork Masterclass \n( https://link.coursera.org/f/a/Hd2I6y0mE_VqBe663zZsTw~~/AAQRxRA~/G7k1hp4pi_AqUqKSpCpgMjz5cqSmizYrqA6pwbR_1pVJyMAixzSX5FRmXPxB492UIE-xW3_4vyegkAqcWbh9GfvgReGuV6fCGlhSlQ641MNt3uOqa0FcOJYlJsW89CaB5-zTnroOT-V9IlxrPXH2DxksKCmdDNdrn_-UzNaf7026c5u5uh4NmJk3pH8xm8D18qPLgqLt3M4EtmhJmr-eq2VQnBx-pWGJWiQY3YKaJXA~ )\n is how you get the full picture. Across project-based\nexperiences, you’ll grow your understanding of:\n\n👉 Claude Code's terminal tools for full-stack development of\napps and websites\n\n👉 Claude Cowork agents and how to form them into teams for\nreal-world tasks\n\n👉 Model Context Protocol connections for Gmail, Slack,\nSalesforce, and more\n\nShipping code is one thing. Running workflows is another. Use\nClaude to do both with skills learned on Coursera, and tho\n\n--- SEMNAL ---\nTip: altul\nCheie: \nPrioritate: medie\nAcțiune: doar arhivare"
+    },
+    {
+      "id": "6ad360260a7aafb546ea84c4",
+      "titlu": "[GMAIL] Your monthly integration credits are running low",
+      "rezumat": "ALTUL (medie) — ",
+      "tip_context": "perceptie_gmail",
+      "detalii": "De la: Base44 <team@base44.com>\nID Gmail: 1a148b8fc8d29db1\nThread: 1a148b8fc8d29db1\nData: Sat, 17 Oct 2026 07:17:25 +0000 (UTC)\nSubiect: Your monthly integration credits are running low\n\nConținut:\nKeep your app running at full speed.\r\n\r\n( https://u30108039.ct.sendgrid.net/ls/click?upn=u001.6V9tFNgYkkQh2N-2FxRzmofe-2FDt0MyWb5pGOMiE9Mfg66Rvs3dgOA8fS2xwgc2Okz5JuC2dHshCwkNSNEgs5bzu37IjGHG9MDxbVjcF2D8-2FqGmq5-2FvMCf16a7NL5g8Xdcx2xPbrO0HIXtAS-2BFbQ7CTO-2FN36cgxKuOxP-2F3IqBbhjtA-3DYfrm_bkBka-2BVKvh-2BYTZKph5zxS-2BCV-2FxKUoHKRuG3VEqcmw0gynkf-2F5y56FFUotcAgMoEoUeARx5E7dsfw25lwUrZXGJnwutyaZ3u2pagzfZewx2TL-2Bu2PdYx9V2ZuOXpVPQbBWSFvbMHpsON1nc1WbMRjeeGaCw2PvYdneUeLPAdzS6p8CZfa-2FOy5J0BKjiH8yX0MJ-2BSrySXnG3oQYxofSCuLCcukgtcUEtptEbwA7IfL1bvrFBOl1yH-2BTNffQ0pfO16zHd1zFLlo1WMwGBhlXCG3dfPuFg7kD8GCSfTuu0wnvbwS4faAH2fRU3OKdydFEdjnfu4UExnuNdoXkY8DuR3BV82KWifL8pI70-2FsDNU79M5w-3D ) ( https://u30108039.ct.sendgrid.net/ls/click?upn=u001.6V9tFNgYkkQh2N-2FxRzmofe-2FDt0MyWb5pGOMiE9Mfg66Rvs3dgOA8fS2xwgc2Okz5JuC2dHshCwkNSNEgs5bzu37IjGHG9MDxbVjcF2D8-2FqGmq5-2FvMCf16a7NL5g8Xdcx2xPbrO0HIXtAS-2BFbQ7CTO-2FN36cgxKuOxP-2F3IqBbhjtA-3D-pMX_bkBka-2BVKvh-2BYTZKph5zxS-2BCV-2FxKUoHKRuG3VEqcmw0gynkf-2F5y56FFUotcAgMoEoUeARx5E7dsfw25lwUrZXGJnwutyaZ3u2pagzfZewx2TL-2Bu2PdYx9V2ZuOXpVPQbBWSFvbMHpsON1nc1WbMRjeeGaCw2PvYdneUeLPAdzS6p8CZfa-2FOy5J0BKjiH8yX0MJ-2BSrySXnG3oQYxofSCuLCcukgtcUEtptEbwA7IfL1bsguojaXgcogF-2FLamB8nYwbAcvoML5NxnfQBCQL-2BxhzzNMwR2iVZL9wxHtarb9o7GTUUtaRsawmuSIFNajA-2Bn4DuBbU5RwecpAh2RrcGtnerBzMd6zOvAQbskBajBpirFU-3D )\r\n\r\nHi Bogdan,\r\n\r\nYou've *used 75% of your integration credits* this cycle. Since all your apps share the same monthly pool, once credits run out, *any apps that rely on integration credits will stop working until credits reset or you upgrade.* Upgrade today to make sure your apps keep running smoothly.\r\n\r\nUpgrade my plan ( https://u30108039.ct.sendgrid.net/ls/click?upn=u001.6V9tFNgYkkQh2N-2FxRzmofe-2FDt0MyWb5pGOMiE9Mfg66Rvs3dgOA8fS2xwgc2Okz5JuC2dHshCwkNSNEgs5bzu37IjGHG9MDxbVjcF2D8-2FqGmq5-2FvMCf16a7NL5g8XdcxfBmmcYcKYTpO1eRtuJmT-2FpYDcsiYTN4m3al3XBUeohQ-3DOhnL_bkBka-2BVKvh-2BYTZKph5zxS-2BCV-2FxKUoHKRuG3VEqcmw0gynkf-2F5y56FFUotcAgMoEoUeARx5E7dsfw25lwUrZXGJnwutyaZ3u2pagzfZewx2TL-2Bu2PdYx9V2ZuOXpVPQbBWSFvbMHpsON1nc1WbMRjeeGaCw2PvYdneUeLPAdzS6p8CZfa-2FOy5J0BKjiH8yX0MJ-2BSrySXnG3oQYxofSCuLCcukgtcUEtptEbwA7IfL1bt5wS1Y5UFZn3811woUUBVDfKjNj8vPgmqAA8Ps7N72q0qjVbghOdrDUGVZzljoEmKOnTTmCigD4WCU5hr9U-2FdqSHLebMwazuMw5f3A93B3Yj8gu-2F7HVmnwOnqC0ChRWno-3D )\r\n\r\nThanks for building with us,\r\nThe Base44 Team\r\n\r\n( https://u30108039.ct.sendgrid.net/ls/click?upn=u001.6V9tFNgYkkQh2N-2FxRzmofdqQJReW98CldQpvLJ5qlqUVrRo-2Fqff9jZlHXQA8en8SbmLO_bkBka-2BVKvh-2BYTZKph5zxS-2BCV-2FxKUoHKRuG3VEqcmw0gynkf-2F5y56FFUotcAgMoEoUeARx5E7dsfw25lwUrZXGJnwutyaZ3u2pagzfZewx2TL-2Bu2PdYx9V2ZuOXpVPQbBWSFvbMHpsON1nc1WbMRjeeGaCw2PvYdneUeLPAdzS6p8CZfa-2FOy5J0BKjiH8yX0MJ-2BSrySXnG3oQYxofSCuLCcukgtcUEtptEbwA7IfL1bs-2BU5LbYnREzftKaSKi33lOAn0OPc7zd-2BT7QBYC2j-2BQvlzl-2BIhDV91ErteRQN3kKd4DRzuIpi7o8rImWE2nLZHpotpnntCOGzQIbAhUX62e2yo8K9CS7IsViE3WRU0Tjjk-3D ) ( https://u30108039.ct.sendgrid.net/ls/click?upn=u001.6V9tFNgYkkQh2N-2FxRzmofbJBYh9gLhllNOyMrUVdafc-3DxnuE_bkBka-2BVKvh-2BYTZKph5zxS-2BCV-2FxKUoHKRuG3VEqcmw0gy\n\n--- SEMNAL ---\nTip: altul\nCheie: \nPrioritate: medie\nAcțiune: doar arhivare"
+    }
+  ]
+}
