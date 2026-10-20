@@ -1,1 +1,1 @@
-const compactareStare = (istoric) => { const ultimeleStari = istoric.slice(-1); localStorage.setItem('bursa_quant_state', JSON.stringify(ultimeleStari[0])); return ultimeleStari[0]; };
+const updateState = (key, data) => { const existing = JSON.parse(localStorage.getItem(key) || '{}'); const merged = { ...existing, ...data, updated_at: new Date().toISOString() }; localStorage.setItem(key, JSON.stringify(merged)); return merged; };
