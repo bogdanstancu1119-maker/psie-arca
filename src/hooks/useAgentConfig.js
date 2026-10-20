@@ -1,0 +1,1 @@
+import { useState, useEffect } from 'react'; export const useAgentConfig = (key, initialValue) => { const [config, setConfig] = useState(() => { const saved = localStorage.getItem(key); return saved ? JSON.parse(saved) : initialValue; }); useEffect(() => { localStorage.setItem(key, JSON.stringify(config)); }, [key, config]); return [config, setConfig]; };
