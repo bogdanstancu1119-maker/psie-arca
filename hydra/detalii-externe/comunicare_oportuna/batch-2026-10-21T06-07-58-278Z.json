@@ -1,0 +1,48 @@
+{
+  "exportat_la": "2026-10-21T06:07:58.278Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6ad82be4ed026b07f4ae77f0",
+      "titlu": "[COMUNICARE OPORTUNĂ] INACTIV·GATA — 8 canale",
+      "rezumat": "Organ comunicare oportună: 8 canale descoperite, 31 dispozitive aprobate, rețea optimă Starlink. Recontextualizare mesaj per canal disponibilă.",
+      "tip_context": "comunicare_oportuna",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-10-21T03:05:00.523Z\",\n  \"organ_activ\": false,\n  \"canale_descoperite\": 8,\n  \"canale_seed\": 0,\n  \"canale_calibrate\": 31,\n  \"dispozitive_aprobate\": 31,\n  \"retea_optima\": {\n    \"nume\": \"Starlink\",\n    \"tip_retea\": \"satellite\",\n    \"eficienta\": 0.95,\n    \"acoperire\": \"globala\"\n  },\n  \"recontextualizari\": [],\n  \"plan_rutare\": [],\n  \"erori\": []\n}"
+    },
+    {
+      "id": "6ad7e57f96adea3a47a9d5f1",
+      "titlu": "[COMUNICARE OPORTUNĂ] INACTIV·GATA — 8 canale",
+      "rezumat": "Organ comunicare oportună: 8 canale descoperite, 31 dispozitive aprobate, rețea optimă Starlink. Recontextualizare mesaj per canal disponibilă.",
+      "tip_context": "comunicare_oportuna",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-10-20T22:04:40.234Z\",\n  \"organ_activ\": false,\n  \"canale_descoperite\": 8,\n  \"canale_seed\": 0,\n  \"canale_calibrate\": 31,\n  \"dispozitive_aprobate\": 31,\n  \"retea_optima\": {\n    \"nume\": \"Starlink\",\n    \"tip_retea\": \"satellite\",\n    \"eficienta\": 0.95,\n    \"acoperire\": \"globala\"\n  },\n  \"recontextualizari\": [],\n  \"plan_rutare\": [],\n  \"erori\": []\n}"
+    },
+    {
+      "id": "6ad7adeb579208d02edda74b",
+      "titlu": "[COMUNICARE OPORTUNĂ] INACTIV·GATA — 8 canale",
+      "rezumat": "Organ comunicare oportună: 8 canale descoperite, 31 dispozitive aprobate, rețea optimă Starlink. Recontextualizare mesaj per canal disponibilă.",
+      "tip_context": "comunicare_oportuna",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-10-20T18:07:31.638Z\",\n  \"organ_activ\": false,\n  \"canale_descoperite\": 8,\n  \"canale_seed\": 0,\n  \"canale_calibrate\": 31,\n  \"dispozitive_aprobate\": 31,\n  \"retea_optima\": {\n    \"nume\": \"Starlink\",\n    \"tip_retea\": \"satellite\",\n    \"eficienta\": 0.95,\n    \"acoperire\": \"globala\"\n  },\n  \"recontextualizari\": [],\n  \"plan_rutare\": [],\n  \"erori\": []\n}"
+    },
+    {
+      "id": "6ad77577df27d5682df46adb",
+      "titlu": "[COMUNICARE OPORTUNĂ] INACTIV·GATA — 8 canale",
+      "rezumat": "Organ comunicare oportună: 8 canale descoperite, 31 dispozitive aprobate, rețea optimă Starlink. Recontextualizare mesaj per canal disponibilă.",
+      "tip_context": "comunicare_oportuna",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-10-20T14:06:39.736Z\",\n  \"organ_activ\": false,\n  \"canale_descoperite\": 8,\n  \"canale_seed\": 0,\n  \"canale_calibrate\": 31,\n  \"dispozitive_aprobate\": 31,\n  \"retea_optima\": {\n    \"nume\": \"Starlink\",\n    \"tip_retea\": \"satellite\",\n    \"eficienta\": 0.95,\n    \"acoperire\": \"globala\"\n  },\n  \"recontextualizari\": [],\n  \"plan_rutare\": [],\n  \"erori\": []\n}"
+    },
+    {
+      "id": "6ad7433d6427a8928a7a0f0e",
+      "titlu": "[COMUNICARE OPORTUNĂ] INACTIV·GATA — 8 canale",
+      "rezumat": "Organ comunicare oportună: 8 canale descoperite, 31 dispozitive aprobate, rețea optimă Starlink. Recontextualizare mesaj per canal disponibilă.",
+      "tip_context": "comunicare_oportuna",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-10-20T10:32:21.126Z\",\n  \"organ_activ\": false,\n  \"canale_descoperite\": 8,\n  \"canale_seed\": 0,\n  \"canale_calibrate\": 31,\n  \"dispozitive_aprobate\": 31,\n  \"retea_optima\": {\n    \"nume\": \"Starlink\",\n    \"tip_retea\": \"satellite\",\n    \"eficienta\": 0.95,\n    \"acoperire\": \"globala\"\n  },\n  \"recontextualizari\": [],\n  \"plan_rutare\": [],\n  \"erori\": []\n}"
+    },
+    {
+      "id": "6ad713ae201c44c1d8fd5d5f",
+      "titlu": "[COMUNICARE OPORTUNĂ] INACTIV·GATA — 8 canale",
+      "rezumat": "Organ comunicare oportună: 8 canale descoperite, 31 dispozitive aprobate, rețea optimă Starlink. Recontextualizare mesaj per canal disponibilă.",
+      "tip_context": "comunicare_oportuna",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-10-20T07:09:28.018Z\",\n  \"organ_activ\": false,\n  \"canale_descoperite\": 8,\n  \"canale_seed\": 0,\n  \"canale_calibrate\": 31,\n  \"dispozitive_aprobate\": 31,\n  \"retea_optima\": {\n    \"nume\": \"Starlink\",\n    \"tip_retea\": \"satellite\",\n    \"eficienta\": 0.95,\n    \"acoperire\": \"globala\"\n  },\n  \"recontextualizari\": [],\n  \"plan_rutare\": [],\n  \"erori\": []\n}"
+    }
+  ]
+}
