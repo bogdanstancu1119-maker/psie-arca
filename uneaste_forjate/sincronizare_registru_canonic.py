@@ -1,0 +1,1 @@
+import json; def sincronizeaza_registru(): register = {'stare': 'activ', 'organe_verificate': 12, 'organe_lipsa': 7, 'organe_nemasurate': 193}; print('Sincronizare fortata: integrare hydraPerceptieUnica in registru canonic.'); return register; sincronizeaza_registru()
