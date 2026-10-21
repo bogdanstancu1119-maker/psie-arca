@@ -1,0 +1,1 @@
+const fs = require('fs'); let isWriting = false; async function updateBursaState(newState) { if (isWriting) return setTimeout(() => updateBursaState(newState), 50); isWriting = true; try { const data = JSON.stringify(newState); fs.writeFileSync('bursa_quant_state.json', data); } finally { isWriting = false; } }
