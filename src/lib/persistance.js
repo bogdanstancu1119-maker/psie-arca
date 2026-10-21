@@ -1,0 +1,1 @@
+const saveBursaState = async (state) => { try { const data = JSON.stringify(state); await Deno.writeTextFile('bursa_quant_state.json', data); await Deno.run({cmd: ['sync']}).status(); } catch (e) { console.error('Eroare persistență:', e); } };
