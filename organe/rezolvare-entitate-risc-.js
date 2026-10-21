@@ -1,6 +1,6 @@
-// ORGAN AUTO-DEPLOYAT de Hydra — rezolvare_entitate_risc_6ad140d327a2b6c277838d3d
-// Generat autonom la 2026-10-21T03:04:04.400Z
-// Scop: Conform legii 473, SDI-ul ridicat necesita interventie pentru a opri zgomotul ontologic. Scriptul asigura ca doar semnalele cu continut informational (densitate > 0.5) sunt procesate, eliminand confirmarile inutile.
+// ORGAN AUTO-DEPLOYAT de Hydra — rezolvare_entitate_risc_6acbf9cb271dac00cd7f2242
+// Generat autonom la 2026-10-21T18:07:02.364Z
+// Scop: Conform Legii 142 și 204, reducerea zgomotului informațional (j=0.083) previne metastaza ontologică a sistemului prin implementarea unui filtru de confirmare logică, menținând în același timp integritatea datelor în arhiva GitHub.
 // Plan: Platformă: github
 Executat: nu
 Uneastă necesită consimțământ om — stocată în așteptare
@@ -8,13 +8,13 @@ Uneastă necesită consimțământ om — stocată în așteptare
 Conținut:
 import sys
 
-def validate_github_webhook(payload):
-    if payload.get('density') < 0.5:
-        return False
-    return True
+def filter_netlify_noise(message_body):
+    if 'team@netlify.com' in message_body:
+        if 'confirm' in message_body.lower() and len(message_body) < 500:
+            return 'NO_ACTION_REQUIRED_NOISE'
+    return 'PROCEED'
 
-# Proiectul: psie-arca
-# Actiune: Opreste bucla de zgomot confirmand doar daca SDI > 0.5
+# Filter active for entitate_risc: Netlify
 
 // (script negenerat — vezi plan_actiune)
 
