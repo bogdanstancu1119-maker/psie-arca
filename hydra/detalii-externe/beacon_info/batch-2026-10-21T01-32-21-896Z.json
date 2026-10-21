@@ -1,0 +1,27 @@
+{
+  "exportat_la": "2026-10-21T01:32:21.896Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6ad41ac2ad04f4fbd6381419",
+      "titlu": "[BEACON info] hydraComprimareMetabolica 2026-10-18",
+      "rezumat": "[COMPRIMARE METABOLICA] Total 5138->5035 (cap 8000, cos golit 103+0+0). Memorie activa 506->500 (cap 500): 6 comprimate -> 6 semne de carte. Harta patternuri: 943->943 (cap 1000, 0 harta ordin superio",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraComprimareMetabolica: [COMPRIMARE METABOLICA] Total 5138->5035 (cap 8000, cos golit 103+0+0). Memorie activa 506->500 (cap 500): 6 comprimate -> 6 semne de carte. Harta patternuri: 943->943 (cap 1000, 0 harta ordin superior cu 0 semne). 1 digerate lent. Cercetare: 200. Unelte: 0 multifunc + 0 compar, 0 arhivate."
+    },
+    {
+      "id": "6ad41b2bae3b2e6f33aeadb8",
+      "titlu": "[BEACON info] hydraAutodiagnosticSecreti 2026-10-18",
+      "rezumat": "[AUTODIAGNOSTIC] 10/10 secrete sanătoase. Rupte: 0. Necesită om: —.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraAutodiagnosticSecreti: [AUTODIAGNOSTIC] 10/10 secrete sanătoase. Rupte: 0. Necesită om: —."
+    },
+    {
+      "id": "6ad41c8e5f8101ad6c02b9df",
+      "titlu": "[BEACON info] hydraFrictiuneContinua 2026-10-18",
+      "rezumat": "[FRICȚIUNE] Canal intern: 12/12 agenți, severitate 0.43, sinteza asumată: Orice organ care cere credite atașează produsul concret obținut la ultimul apel — bugetul urmărește câștig, nu consum.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraFrictiuneContinua: [FRICȚIUNE] Canal intern: 12/12 agenți, severitate 0.43, sinteza asumată: Orice organ care cere credite atașează produsul concret obținut la ultimul apel — bugetul urmărește câștig, nu consum."
+    }
+  ]
+}
