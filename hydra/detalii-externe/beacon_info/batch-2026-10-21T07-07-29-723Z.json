@@ -1,0 +1,62 @@
+{
+  "exportat_la": "2026-10-21T07:07:29.723Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6ad8648e9a968862c027db4a",
+      "titlu": "[BEACON info] hydraAutodiagnosticSecreti 2026-10-21",
+      "rezumat": "[AUTODIAGNOSTIC] 10/10 secrete sanătoase. Rupte: 0. Necesită om: —.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraAutodiagnosticSecreti: [AUTODIAGNOSTIC] 10/10 secrete sanătoase. Rupte: 0. Necesită om: —."
+    },
+    {
+      "id": "6ad8648e016c0e01bd9ed92e",
+      "titlu": "[BEACON info] hydraAutodiagnosticSecreti 2026-10-21",
+      "rezumat": "[AUTODIAGNOSTIC] 10/10 secrete sanătoase. Rupte: 0. Necesită om: —.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraAutodiagnosticSecreti: [AUTODIAGNOSTIC] 10/10 secrete sanătoase. Rupte: 0. Necesită om: —."
+    },
+    {
+      "id": "6ad8648d68d4982b91f90ae9",
+      "titlu": "[BEACON info] hydraScanSecretiAPI 2026-10-21",
+      "rezumat": "1 chei API noi detectate în secrete: Public api signing(HYDRA_PUBLIC_API_SIGNING_KEY). Au intrat în roi ca agenți inactivi — calibrează endpoint-urile la următorul ciclu.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraScanSecretiAPI: 1 chei API noi detectate în secrete: Public api signing(HYDRA_PUBLIC_API_SIGNING_KEY). Au intrat în roi ca agenți inactivi — calibrează endpoint-urile la următorul ciclu."
+    },
+    {
+      "id": "6ad8648d294811d3af9fd81e",
+      "titlu": "[BEACON info] hydraScanSecretiAPI 2026-10-21",
+      "rezumat": "1 chei API noi detectate în secrete: Public api signing(HYDRA_PUBLIC_API_SIGNING_KEY). Au intrat în roi ca agenți inactivi — calibrează endpoint-urile la următorul ciclu.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraScanSecretiAPI: 1 chei API noi detectate în secrete: Public api signing(HYDRA_PUBLIC_API_SIGNING_KEY). Au intrat în roi ca agenți inactivi — calibrează endpoint-urile la următorul ciclu."
+    },
+    {
+      "id": "6ad8648d288031c3fee4addb",
+      "titlu": "[BEACON info] hydraFrictiuneContinua 2026-10-21",
+      "rezumat": "[FRICȚIUNE] Canal intern: 12/12 agenți, severitate 0.43, sinteza asumată: Orice organ care cere credite atașează produsul concret obținut la ultimul apel — bugetul urmărește câștig, nu consum.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraFrictiuneContinua: [FRICȚIUNE] Canal intern: 12/12 agenți, severitate 0.43, sinteza asumată: Orice organ care cere credite atașează produsul concret obținut la ultimul apel — bugetul urmărește câștig, nu consum."
+    },
+    {
+      "id": "6ad8648c3e3b89b4d577c65a",
+      "titlu": "[BEACON info] hydraCanaleRezonanta 2026-10-21",
+      "rezumat": "[CANALE REZONANȚĂ] jocuri: 6 proaspete, oportunitate 30%, hibrid | media: 74 proaspete, oportunitate 100%, hibrid | barfa: 237 proaspete, oportunitate 100%, hibrid — bârfă trezește prin observație, jo",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCanaleRezonanta: [CANALE REZONANȚĂ] jocuri: 6 proaspete, oportunitate 30%, hibrid | media: 74 proaspete, oportunitate 100%, hibrid | barfa: 237 proaspete, oportunitate 100%, hibrid — bârfă trezește prin observație, jocurile antrenează, media reflectă."
+    },
+    {
+      "id": "6ad8647e2c1edf5cf76a9cb0",
+      "titlu": "[BEACON info] hydraNotificareCanale 2026-10-21",
+      "rezumat": "[NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: undefined. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraNotificareCanale: [NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: undefined. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack_notifier.py."
+    },
+    {
+      "id": "6ad8647e31657cda4362e3b7",
+      "titlu": "[BEACON info] hydraNodAgent 2026-10-21",
+      "rezumat": "{\"auto_update\":true,\"versiune\":3,\"schimbat\":false,\"extern_tipuri\":[],\"ts\":\"2026-10-21T07:06:15.205Z\"}",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraNodAgent: {\"auto_update\":true,\"versiune\":3,\"schimbat\":false,\"extern_tipuri\":[],\"ts\":\"2026-10-21T07:06:15.205Z\"}"
+    }
+  ]
+}
