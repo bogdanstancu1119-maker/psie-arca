@@ -1,1 +1,1 @@
-const commitState = (state) => { if (!state || Object.values(state).includes(undefined)) { console.warn('Tentativă de commit cu date corupte'); return false; } return db.save('bursa_quant_state', JSON.stringify(state)); };
+const persistState = async (state) => { const snapshot = JSON.stringify(state); localStorage.setItem('hydra_atomic_snapshot', snapshot); await fetch('/api/sync-state', { method: 'POST', body: snapshot }); }; const restoreOrInit = async () => { const local = localStorage.getItem('hydra_atomic_snapshot'); return local ? JSON.parse(local) : defaultState; };
