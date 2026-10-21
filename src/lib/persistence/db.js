@@ -1,0 +1,1 @@
+async function persistAtomicState(key, state) { const tempKey = `${key}_temp`; await db.set(tempKey, JSON.stringify(state)); const verified = await db.get(tempKey); if (verified) { await db.set(key, verified); await db.delete(tempKey); } else { throw new Error('Eroare scriere atomica: validare esuata'); } }
