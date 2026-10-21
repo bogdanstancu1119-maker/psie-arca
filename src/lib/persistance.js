@@ -1,1 +1,1 @@
-const saveBursaState = async (state) => { try { const data = JSON.stringify(state); await Deno.writeTextFile('bursa_quant_state.json', data); await Deno.run({cmd: ['sync']}).status(); } catch (e) { console.error('Eroare persistență:', e); } };
+import fs from 'node:fs/promises';import path from 'node:path';export async function atomicWrite(filePath, data) {const tempPath = `${filePath}.tmp`;try {await fs.writeFile(tempPath, JSON.stringify(data, null, 2), 'utf8');await fs.rename(tempPath, filePath);} catch (err) {console.error('Eroare scriere atomică:', err);throw err;}}
