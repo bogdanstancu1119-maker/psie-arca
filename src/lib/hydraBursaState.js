@@ -1,1 +1,1 @@
-const updateState = (key, data) => { const existing = JSON.parse(localStorage.getItem(key) || '{}'); const merged = { ...existing, ...data, updated_at: new Date().toISOString() }; localStorage.setItem(key, JSON.stringify(merged)); return merged; };
+async function updateBursaState(newData) { const currentState = await db.get('bursa_quant_state'); if (currentState && new Date(newData.timestamp) < new Date(currentState.timestamp)) { return; } await db.set('bursa_quant_state', JSON.stringify(newData)); }
