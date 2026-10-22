@@ -1,1 +1,1 @@
-const compactState = (state) => { const now = Date.now(); const filtered = state.filter(s => (now - new Date(s.timestamp).getTime()) < 900000); return filtered; };
+async function updateBursaState(newState) { const lock = await acquireLock('hydra-bursa-lock'); try { const current = await readFromR2('bursa_quant_state'); if (newState.timestamp > current.timestamp) { await writeToR2('bursa_quant_state', newState); } } finally { await releaseLock(lock); } }
