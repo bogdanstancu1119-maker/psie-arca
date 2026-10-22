@@ -1,0 +1,1 @@
+const saveState = async (state) => { const delta = calculateDelta(lastSavedState, state); if (delta > 0.05 || Date.now() - lastSync > 30000) { await db.set('bursa_quant_state', JSON.stringify(state)); lastSavedState = state; lastSync = Date.now(); } };
