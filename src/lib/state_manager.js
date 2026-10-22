@@ -1,1 +1,1 @@
-import { promises as fs } from 'fs'; const atomicUpdate = async (path, newData) => { const tempPath = `${path}.tmp`; const data = JSON.parse(await fs.readFile(path, 'utf8')); if (newData.bucle > data.bucle) { await fs.writeFile(tempPath, JSON.stringify(newData)); await fs.rename(tempPath, path); } };
+async function atomicUpdateBursaState(newState) { const currentState = await db.get('bursa_quant_state'); if (newState.bucle > JSON.parse(currentState).bucle) { await db.set('bursa_quant_state', JSON.stringify(newState)); return true; } return false; }
