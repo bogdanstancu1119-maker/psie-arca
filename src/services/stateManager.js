@@ -1,0 +1,1 @@
+const fs = require('fs'); const lockfile = require('proper-lockfile'); async function updateBursaState(newState) { const release = await lockfile.lock('bursa_quant_state.lock', { retries: 5 }); try { await db.set('bursa_quant_state', JSON.stringify(newState)); } finally { await release(); } }
