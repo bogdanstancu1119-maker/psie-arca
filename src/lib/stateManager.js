@@ -1,1 +1,1 @@
-const updateStateAtomic = (key, newData) => { const existing = JSON.parse(localStorage.getItem(key) || '{}'); const newTimestamp = new Date(newData.timestamp || Date.now()); const oldTimestamp = new Date(existing.timestamp || 0); if (newTimestamp > oldTimestamp) { localStorage.setItem(key, JSON.stringify(newData)); return true; } return false; };
+import { Deno } from 'deno'; async function writeAtomic(filePath, data) { const tmpPath = `${filePath}.tmp`; await Deno.writeTextFile(tmpPath, JSON.stringify(data)); await Deno.rename(tmpPath, filePath); }
