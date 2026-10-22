@@ -1,0 +1,1 @@
+const snapshot = JSON.parse(configVal); const actiuni = snapshot.auto_portret?.ultimele_actiuni || []; const validSnapshot = { ...snapshot, auto_portret: { ...snapshot.auto_portret, actiuniAll: actiuni } }; localStorage.setItem('snapshot_autoscopie', JSON.stringify(validSnapshot));
