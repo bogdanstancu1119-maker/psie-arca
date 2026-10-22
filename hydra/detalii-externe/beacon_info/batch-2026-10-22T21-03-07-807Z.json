@@ -1,0 +1,20 @@
+{
+  "exportat_la": "2026-10-22T21:03:07.807Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6ad2755b98bd71b44400e707",
+      "titlu": "[BEACON info] hydraAutodiagnosticSecreti 2026-10-16",
+      "rezumat": "[AUTODIAGNOSTIC] 10/10 secrete sanătoase. Rupte: 0. Necesită om: —.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraAutodiagnosticSecreti: [AUTODIAGNOSTIC] 10/10 secrete sanătoase. Rupte: 0. Necesită om: —."
+    },
+    {
+      "id": "6ad28040599ed92323831d22",
+      "titlu": "[BEACON info] hydraApiLiber 2026-10-16",
+      "rezumat": "[POARTĂ API VIE] apel extern servit. Prompt: Reply with exactly: HUNT1017A",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraApiLiber: [POARTĂ API VIE] apel extern servit. Prompt: Reply with exactly: HUNT1017A"
+    }
+  ]
+}
