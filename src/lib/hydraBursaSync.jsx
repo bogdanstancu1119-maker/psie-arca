@@ -1,0 +1,1 @@
+if (state.bucle % 10 === 0) { await r2.put('hydraBursaQuant_Final', JSON.stringify(state)); console.log('Sincronizare ontologică forțată: stare protejată.'); }
