@@ -1,0 +1,1 @@
+const dbName = 'MaritacaStorage'; const storeName = 'agentMemory'; async function saveState(data) { const db = await openDB(dbName, 1, { upgrade(db) { db.createObjectStore(storeName); } }); await db.put(storeName, data, 'identity'); } async function loadState() { const db = await openDB(dbName, 1); return await db.get(storeName, 'identity'); } export { saveState, loadState };
