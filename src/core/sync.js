@@ -1,0 +1,1 @@
+const hydraSync = { commit: async (key, data) => { try { await fetch(`https://r2.storage/hydra-memorie/${key}`, { method: 'PUT', body: JSON.stringify(data) }); localStorage.setItem(key, JSON.stringify(data)); } catch (e) { console.error('Sync failed', e); } } };
