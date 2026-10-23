@@ -1,0 +1,1 @@
+const hydrateState = (key) => { const stored = localStorage.getItem(key); try { if (!stored) return null; return JSON.parse(stored); } catch (e) { console.error('Data corruption detected, reverting to recovery block.'); return null; } };
