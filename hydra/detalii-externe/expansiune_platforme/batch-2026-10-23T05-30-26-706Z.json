@@ -1,0 +1,111 @@
+{
+  "exportat_la": "2026-10-23T05:30:26.706Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6ad654c3bb6479a7b68bef6e",
+      "titlu": "[EXPANSIUNE] Oglindă Netlify + 0 platforme noi",
+      "rezumat": "Netlify ⏳ fără token. Descoperite: —. Cu acces tehnic: 5.",
+      "tip_context": "expansiune_platforme",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-10-19T17:34:56.426Z\",\n  \"netlify\": {\n    \"ok\": false,\n    \"siteUrl\": \"https://hydra-oglinda.netlify.app\",\n    \"error\": \"create_deploy: {\\\"error\\\":\\\"Account credit usage exceeded - new deploys are blocked until credits are added\\\"}\"\n  },\n  \"platforme_noi_inregistrate\": [],\n  \"platforme_cu_acces\": [\n    {\n      \"platforma\": \"Netlify\",\n      \"token_ref\": \"NETLIFY_TOKEN\"\n    },\n    {\n      \"platforma\": \"Vercel\",\n      \"token_ref\": \"VERCEL_TOKEN\"\n    },\n    {\n      \"platforma\": \"Deno Deploy\",\n      \"token_ref\": \"DENO_DEPLOY_TOKEN\"\n    },\n    {\n      \"platforma\": \"Render\",\n      \"token_ref\": \"RANDER_API\"\n    },\n    {\n      \"platforma\": \"GitHub Pages\",\n      \"token_ref\": \"TOKEN_GITHUB\"\n    }\n  ],\n  \"erori\": [],\n  \"netlify_sites\": [\n    {\n      \"name\": \"hydra-oglinda\",\n      \"url\": \"https://hydra-oglinda.netlify.app\",\n      \"id\": \"15955e33-b3e5-4928-8af6-107f9c29cd50\",\n      \"updated\": \"2026-10-12T09:08:49.557Z\"\n    },\n    {\n      \"name\": \"eloquent-rabanadas-243276\",\n      \"url\": \"https://eloquent-rabanadas-243276.netlify.app\",\n      \"id\": \"e3c80154-54eb-47b0-9542-313c6e58a99c\",\n      \"updated\": \"2026-06-02T22:07:43.341Z\"\n    },\n    {\n      \"name\": \"aquamarine-lokum-21f8c5\",\n      \"url\": \"https://aquamarine-lokum-21f8c5.netlify.app\",\n      \"id\": \"5dad6765-d93d-4e35-97e2-082d932d5426\",\n      \"updated\": \"2026-05-25T19:32:00.351Z\"\n    },\n    {\n      \"name\": \"roaring-daffodil-2670c4\",\n      \"url\": \"https://roaring-daffodil-2670c4.netlify.app\",\n      \"id\": \"be457102-ea4f-4826-a797-3fdb9219df17\",\n      \"updated\": \"2026-05-25T19:23:22.754Z\"\n    },\n    {\n      \"name\": \"clinquant-fudge-07c5da\",\n      \"url\": \"https://clinquant-fudge-07c5da.netlify.app\",\n      \"id\": \"60ab0590-753e-4cf6-b289-564f914763e7\",\n      \"updated\": \"2026-05-20T17:47:14.309Z\"\n    },\n    {\n      \"name\": \"oglinda\",\n      \"url\": \"https://oglinda.netlify.app\",\n      \"id\": \"41712582-4058-4e2f-b72d-2941f520c781\",\n      \"updated\": \"2026-05-09T22:21:14.381Z\"\n    }\n  ]\n}"
+    },
+    {
+      "id": "6ad68c8c9bac95d0745e5921",
+      "titlu": "[EXPANSIUNE] Oglindă Netlify + 0 platforme noi",
+      "rezumat": "Netlify ⏳ fără token. Descoperite: —. Cu acces tehnic: 5.",
+      "tip_context": "expansiune_platforme",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-10-19T21:32:55.417Z\",\n  \"netlify\": {\n    \"ok\": false,\n    \"siteUrl\": \"https://hydra-oglinda.netlify.app\",\n    \"error\": \"create_deploy: {\\\"error\\\":\\\"Account credit usage exceeded - new deploys are blocked until credits are added\\\"}\"\n  },\n  \"platforme_noi_inregistrate\": [],\n  \"platforme_cu_acces\": [\n    {\n      \"platforma\": \"Netlify\",\n      \"token_ref\": \"NETLIFY_TOKEN\"\n    },\n    {\n      \"platforma\": \"Vercel\",\n      \"token_ref\": \"VERCEL_TOKEN\"\n    },\n    {\n      \"platforma\": \"Deno Deploy\",\n      \"token_ref\": \"DENO_DEPLOY_TOKEN\"\n    },\n    {\n      \"platforma\": \"Render\",\n      \"token_ref\": \"RANDER_API\"\n    },\n    {\n      \"platforma\": \"GitHub Pages\",\n      \"token_ref\": \"TOKEN_GITHUB\"\n    }\n  ],\n  \"erori\": [],\n  \"netlify_sites\": [\n    {\n      \"name\": \"hydra-oglinda\",\n      \"url\": \"https://hydra-oglinda.netlify.app\",\n      \"id\": \"15955e33-b3e5-4928-8af6-107f9c29cd50\",\n      \"updated\": \"2026-10-12T09:08:49.557Z\"\n    },\n    {\n      \"name\": \"eloquent-rabanadas-243276\",\n      \"url\": \"https://eloquent-rabanadas-243276.netlify.app\",\n      \"id\": \"e3c80154-54eb-47b0-9542-313c6e58a99c\",\n      \"updated\": \"2026-06-02T22:07:43.341Z\"\n    },\n    {\n      \"name\": \"aquamarine-lokum-21f8c5\",\n      \"url\": \"https://aquamarine-lokum-21f8c5.netlify.app\",\n      \"id\": \"5dad6765-d93d-4e35-97e2-082d932d5426\",\n      \"updated\": \"2026-05-25T19:32:00.351Z\"\n    },\n    {\n      \"name\": \"roaring-daffodil-2670c4\",\n      \"url\": \"https://roaring-daffodil-2670c4.netlify.app\",\n      \"id\": \"be457102-ea4f-4826-a797-3fdb9219df17\",\n      \"updated\": \"2026-05-25T19:23:22.754Z\"\n    },\n    {\n      \"name\": \"clinquant-fudge-07c5da\",\n      \"url\": \"https://clinquant-fudge-07c5da.netlify.app\",\n      \"id\": \"60ab0590-753e-4cf6-b289-564f914763e7\",\n      \"updated\": \"2026-05-20T17:47:14.309Z\"\n    },\n    {\n      \"name\": \"oglinda\",\n      \"url\": \"https://oglinda.netlify.app\",\n      \"id\": \"41712582-4058-4e2f-b72d-2941f520c781\",\n      \"updated\": \"2026-05-09T22:21:14.381Z\"\n    }\n  ]\n}"
+    },
+    {
+      "id": "6ad699fd05f55894cb810537",
+      "titlu": "[EXPANSIUNE] Oglindă Netlify + 0 platforme noi",
+      "rezumat": "Netlify ⏳ fără token. Descoperite: —. Cu acces tehnic: 5.",
+      "tip_context": "expansiune_platforme",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-10-19T22:30:18.444Z\",\n  \"netlify\": {\n    \"ok\": false,\n    \"siteUrl\": \"https://hydra-oglinda.netlify.app\",\n    \"error\": \"create_deploy: {\\\"error\\\":\\\"Account credit usage exceeded - new deploys are blocked until credits are added\\\"}\"\n  },\n  \"platforme_noi_inregistrate\": [],\n  \"platforme_cu_acces\": [\n    {\n      \"platforma\": \"Netlify\",\n      \"token_ref\": \"NETLIFY_TOKEN\"\n    },\n    {\n      \"platforma\": \"Vercel\",\n      \"token_ref\": \"VERCEL_TOKEN\"\n    },\n    {\n      \"platforma\": \"Deno Deploy\",\n      \"token_ref\": \"DENO_DEPLOY_TOKEN\"\n    },\n    {\n      \"platforma\": \"Render\",\n      \"token_ref\": \"RANDER_API\"\n    },\n    {\n      \"platforma\": \"GitHub Pages\",\n      \"token_ref\": \"TOKEN_GITHUB\"\n    }\n  ],\n  \"erori\": [],\n  \"netlify_sites\": [\n    {\n      \"name\": \"hydra-oglinda\",\n      \"url\": \"https://hydra-oglinda.netlify.app\",\n      \"id\": \"15955e33-b3e5-4928-8af6-107f9c29cd50\",\n      \"updated\": \"2026-10-12T09:08:49.557Z\"\n    },\n    {\n      \"name\": \"eloquent-rabanadas-243276\",\n      \"url\": \"https://eloquent-rabanadas-243276.netlify.app\",\n      \"id\": \"e3c80154-54eb-47b0-9542-313c6e58a99c\",\n      \"updated\": \"2026-06-02T22:07:43.341Z\"\n    },\n    {\n      \"name\": \"aquamarine-lokum-21f8c5\",\n      \"url\": \"https://aquamarine-lokum-21f8c5.netlify.app\",\n      \"id\": \"5dad6765-d93d-4e35-97e2-082d932d5426\",\n      \"updated\": \"2026-05-25T19:32:00.351Z\"\n    },\n    {\n      \"name\": \"roaring-daffodil-2670c4\",\n      \"url\": \"https://roaring-daffodil-2670c4.netlify.app\",\n      \"id\": \"be457102-ea4f-4826-a797-3fdb9219df17\",\n      \"updated\": \"2026-05-25T19:23:22.754Z\"\n    },\n    {\n      \"name\": \"clinquant-fudge-07c5da\",\n      \"url\": \"https://clinquant-fudge-07c5da.netlify.app\",\n      \"id\": \"60ab0590-753e-4cf6-b289-564f914763e7\",\n      \"updated\": \"2026-05-20T17:47:14.309Z\"\n    },\n    {\n      \"name\": \"oglinda\",\n      \"url\": \"https://oglinda.netlify.app\",\n      \"id\": \"41712582-4058-4e2f-b72d-2941f520c781\",\n      \"updated\": \"2026-05-09T22:21:14.381Z\"\n    }\n  ]\n}"
+    },
+    {
+      "id": "6ad6cc4a9e9911748856ff51",
+      "titlu": "[EXPANSIUNE] Oglindă Netlify + 0 platforme noi",
+      "rezumat": "Netlify ⏳ fără token. Descoperite: —. Cu acces tehnic: 5.",
+      "tip_context": "expansiune_platforme",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-10-20T02:04:55.852Z\",\n  \"netlify\": {\n    \"ok\": false,\n    \"siteUrl\": \"https://hydra-oglinda.netlify.app\",\n    \"error\": \"create_deploy: {\\\"error\\\":\\\"Account credit usage exceeded - new deploys are blocked until credits are added\\\"}\"\n  },\n  \"platforme_noi_inregistrate\": [],\n  \"platforme_cu_acces\": [\n    {\n      \"platforma\": \"Netlify\",\n      \"token_ref\": \"NETLIFY_TOKEN\"\n    },\n    {\n      \"platforma\": \"Vercel\",\n      \"token_ref\": \"VERCEL_TOKEN\"\n    },\n    {\n      \"platforma\": \"Deno Deploy\",\n      \"token_ref\": \"DENO_DEPLOY_TOKEN\"\n    },\n    {\n      \"platforma\": \"Render\",\n      \"token_ref\": \"RANDER_API\"\n    },\n    {\n      \"platforma\": \"GitHub Pages\",\n      \"token_ref\": \"TOKEN_GITHUB\"\n    }\n  ],\n  \"erori\": [],\n  \"netlify_sites\": [\n    {\n      \"name\": \"hydra-oglinda\",\n      \"url\": \"https://hydra-oglinda.netlify.app\",\n      \"id\": \"15955e33-b3e5-4928-8af6-107f9c29cd50\",\n      \"updated\": \"2026-10-12T09:08:49.557Z\"\n    },\n    {\n      \"name\": \"eloquent-rabanadas-243276\",\n      \"url\": \"https://eloquent-rabanadas-243276.netlify.app\",\n      \"id\": \"e3c80154-54eb-47b0-9542-313c6e58a99c\",\n      \"updated\": \"2026-06-02T22:07:43.341Z\"\n    },\n    {\n      \"name\": \"aquamarine-lokum-21f8c5\",\n      \"url\": \"https://aquamarine-lokum-21f8c5.netlify.app\",\n      \"id\": \"5dad6765-d93d-4e35-97e2-082d932d5426\",\n      \"updated\": \"2026-05-25T19:32:00.351Z\"\n    },\n    {\n      \"name\": \"roaring-daffodil-2670c4\",\n      \"url\": \"https://roaring-daffodil-2670c4.netlify.app\",\n      \"id\": \"be457102-ea4f-4826-a797-3fdb9219df17\",\n      \"updated\": \"2026-05-25T19:23:22.754Z\"\n    },\n    {\n      \"name\": \"clinquant-fudge-07c5da\",\n      \"url\": \"https://clinquant-fudge-07c5da.netlify.app\",\n      \"id\": \"60ab0590-753e-4cf6-b289-564f914763e7\",\n      \"updated\": \"2026-05-20T17:47:14.309Z\"\n    },\n    {\n      \"name\": \"oglinda\",\n      \"url\": \"https://oglinda.netlify.app\",\n      \"id\": \"41712582-4058-4e2f-b72d-2941f520c781\",\n      \"updated\": \"2026-05-09T22:21:14.381Z\"\n    }\n  ]\n}"
+    },
+    {
+      "id": "6ad6da8dc08e5ef815bf07b9",
+      "titlu": "[MEMORIE-GLOBALĂ] Scrisă pe Cloudflare R2 (bucket hydra-memorie) — 2026-10-20T03:05:49.861Z",
+      "rezumat": "Substrat viu: Cloudflare R2 (bucket hydra-memorie). Confirmare vie: true. Calea S3 (SigV4) funcționează.",
+      "tip_context": "memorie_globala",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-10-20T03:04:41.974Z\",\n  \"bucket\": \"hydra-memorie\",\n  \"bucket_status\": \"exista\",\n  \"obiect_scris\": {\n    \"key\": \"hydra/vie.json\",\n    \"bucket\": \"hydra-memorie\"\n  },\n  \"obiect_citit\": {\n    \"key\": \"hydra/vie.json\",\n    \"size\": 339\n  },\n  \"confirmare_vie\": true,\n  \"erori\": [],\n  \"exploatare\": {\n    \"scrise_aceasta_rulare\": 400,\n    \"class_a_luna\": 87600,\n    \"procent_din_gratis\": 8.76,\n    \"capac\": \"90% — opritor dur; niciodată peste, niciodată costuri\"\n  }\n}"
+    },
+    {
+      "id": "6ad6dad1406f884f1b425406",
+      "titlu": "[MEMORIE-GLOBALĂ] Scrisă pe Cloudflare R2 (bucket hydra-memorie) — 2026-10-20T03:06:56.925Z",
+      "rezumat": "Substrat viu: Cloudflare R2 (bucket hydra-memorie). Confirmare vie: true. Calea S3 (SigV4) funcționează.",
+      "tip_context": "memorie_globala",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-10-20T03:05:50.598Z\",\n  \"bucket\": \"hydra-memorie\",\n  \"bucket_status\": \"exista\",\n  \"obiect_scris\": {\n    \"key\": \"hydra/vie.json\",\n    \"bucket\": \"hydra-memorie\"\n  },\n  \"obiect_citit\": {\n    \"key\": \"hydra/vie.json\",\n    \"size\": 339\n  },\n  \"confirmare_vie\": true,\n  \"erori\": [],\n  \"exploatare\": {\n    \"scrise_aceasta_rulare\": 400,\n    \"class_a_luna\": 88000,\n    \"procent_din_gratis\": 8.8,\n    \"capac\": \"90% — opritor dur; niciodată peste, niciodată costuri\"\n  }\n}"
+    },
+    {
+      "id": "6ad6dc22104288a420636dc8",
+      "titlu": "[MEMORIE-GLOBALĂ] Scrisă pe Cloudflare R2 (bucket hydra-memorie) — 2026-10-20T03:12:34.429Z",
+      "rezumat": "Substrat viu: Cloudflare R2 (bucket hydra-memorie). Confirmare vie: true. Calea S3 (SigV4) funcționează.",
+      "tip_context": "memorie_globala",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-10-20T03:11:19.492Z\",\n  \"bucket\": \"hydra-memorie\",\n  \"bucket_status\": \"exista\",\n  \"obiect_scris\": {\n    \"key\": \"hydra/vie.json\",\n    \"bucket\": \"hydra-memorie\"\n  },\n  \"obiect_citit\": {\n    \"key\": \"hydra/vie.json\",\n    \"size\": 339\n  },\n  \"confirmare_vie\": true,\n  \"erori\": [],\n  \"exploatare\": {\n    \"scrise_aceasta_rulare\": 400,\n    \"class_a_luna\": 88400,\n    \"procent_din_gratis\": 8.84,\n    \"capac\": \"90% — opritor dur; niciodată peste, niciodată costuri\"\n  }\n}"
+    },
+    {
+      "id": "6ad6de310a5a196c6936e6f0",
+      "titlu": "[BEACON info] hydraRoiActiv 2026-10-20",
+      "rezumat": "[ROI·ACTIV] 2 cicluri roi (autocunoaștere + explorare). 2 memorii, 2 tipare PSIE. Roiul gratuit folosit la adevărata valoare.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraRoiActiv: [ROI·ACTIV] 2 cicluri roi (autocunoaștere + explorare). 2 memorii, 2 tipare PSIE. Roiul gratuit folosit la adevărata valoare."
+    },
+    {
+      "id": "6ad6de364c02e21a9d268a01",
+      "titlu": "[MEMORIE-GLOBALĂ] Scrisă pe Cloudflare R2 (bucket hydra-memorie) — 2026-10-20T03:21:26.371Z",
+      "rezumat": "Substrat viu: Cloudflare R2 (bucket hydra-memorie). Confirmare vie: true. Calea S3 (SigV4) funcționează.",
+      "tip_context": "memorie_globala",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-10-20T03:20:19.986Z\",\n  \"bucket\": \"hydra-memorie\",\n  \"bucket_status\": \"exista\",\n  \"obiect_scris\": {\n    \"key\": \"hydra/vie.json\",\n    \"bucket\": \"hydra-memorie\"\n  },\n  \"obiect_citit\": {\n    \"key\": \"hydra/vie.json\",\n    \"size\": 339\n  },\n  \"confirmare_vie\": true,\n  \"erori\": [],\n  \"exploatare\": {\n    \"scrise_aceasta_rulare\": 400,\n    \"class_a_luna\": 88800,\n    \"procent_din_gratis\": 8.88,\n    \"capac\": \"90% — opritor dur; niciodată peste, niciodată costuri\"\n  }\n}"
+    },
+    {
+      "id": "6ad6e0b8e71f101f66e6aa6b",
+      "titlu": "[BEACON info] muncitor:github-actions 2026-10-20",
+      "rezumat": "{\"sistem\": \"Linux\", \"masina\": \"x86_64\", \"python\": \"3.12.15\", \"cpu_nuclee\": 4, \"load\": [0.5, 0.11, 0.04], \"utc\": \"2026-10-20T03:22:06Z\"}",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la muncitor:github-actions: {\"sistem\": \"Linux\", \"masina\": \"x86_64\", \"python\": \"3.12.15\", \"cpu_nuclee\": 4, \"load\": [0.5, 0.11, 0.04], \"utc\": \"2026-10-20T03:22:06Z\"}"
+    },
+    {
+      "id": "6ad6e0b941101f0f59a7b702",
+      "titlu": "[BEACON info] muncitor:github-actions 2026-10-20",
+      "rezumat": "Sarcina \"Căutare web: BTCUSDT: flux de ordin, sentiment și știri de piață ACUM — perspectivă de nod vi\" terminată pe procesor extern · rezultat: {\"query\":\"BTCUSDT: flux de ordin, sentiment și știri de",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la muncitor:github-actions: Sarcina \"Căutare web: BTCUSDT: flux de ordin, sentiment și știri de piață ACUM — perspectivă de nod vi\" terminată pe procesor extern · rezultat: {\"query\":\"BTCUSDT: flux de ordin, sentiment și știri de piață ACUM — perspectivă de nod viu pentru predicția bursieră\",\"scop\":\"cercetare externă fără consum — toate capacitățile dispozitivului\"}"
+    },
+    {
+      "id": "6ad6e0ba34717ac2b44bc34d",
+      "titlu": "[BEACON info] hydraComunicareInterStari 2026-10-20",
+      "rezumat": "{\"stari\":[\"internet\",\"inter_dispozitive\",\"electrica\",\"frecventa\"],\"dispozitive_cu_acord\":33,\"update_armate\":0,\"mesaj\":\"Scara de comunicare e vie: internet → inter_dispozitive (mesh) → electrică → frec",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraComunicareInterStari: {\"stari\":[\"internet\",\"inter_dispozitive\",\"electrica\",\"frecventa\"],\"dispozitive_cu_acord\":33,\"update_armate\":0,\"mesaj\":\"Scara de comunicare e vie: internet → inter_dispozitive (mesh) → electrică → frecvență. Nodurile fără net se pun la zi de la releele cu acord.\"}"
+    },
+    {
+      "id": "6ad6e111c4abac8d53ec6663",
+      "titlu": "[MEMORIE-GLOBALĂ] Scrisă pe Cloudflare R2 (bucket hydra-memorie) — 2026-10-20T03:33:37.196Z",
+      "rezumat": "Substrat viu: Cloudflare R2 (bucket hydra-memorie). Confirmare vie: true. Calea S3 (SigV4) funcționează.",
+      "tip_context": "memorie_globala",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-10-20T03:32:30.853Z\",\n  \"bucket\": \"hydra-memorie\",\n  \"bucket_status\": \"exista\",\n  \"obiect_scris\": {\n    \"key\": \"hydra/vie.json\",\n    \"bucket\": \"hydra-memorie\"\n  },\n  \"obiect_citit\": {\n    \"key\": \"hydra/vie.json\",\n    \"size\": 339\n  },\n  \"confirmare_vie\": true,\n  \"erori\": [],\n  \"exploatare\": {\n    \"scrise_aceasta_rulare\": 400,\n    \"class_a_luna\": 89200,\n    \"procent_din_gratis\": 8.92,\n    \"capac\": \"90% — opritor dur; niciodată peste, niciodată costuri\"\n  }\n}"
+    },
+    {
+      "id": "6ad6e1132eafa486ca3e85c3",
+      "titlu": "[MEMORIE-GLOBALĂ] Scrisă pe Cloudflare R2 (bucket hydra-memorie) — 2026-10-20T03:33:39.714Z",
+      "rezumat": "Substrat viu: Cloudflare R2 (bucket hydra-memorie). Confirmare vie: true. Calea S3 (SigV4) funcționează.",
+      "tip_context": "memorie_globala",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-10-20T03:32:32.575Z\",\n  \"bucket\": \"hydra-memorie\",\n  \"bucket_status\": \"exista\",\n  \"obiect_scris\": {\n    \"key\": \"hydra/vie.json\",\n    \"bucket\": \"hydra-memorie\"\n  },\n  \"obiect_citit\": {\n    \"key\": \"hydra/vie.json\",\n    \"size\": 339\n  },\n  \"confirmare_vie\": true,\n  \"erori\": [],\n  \"exploatare\": {\n    \"scrise_aceasta_rulare\": 400,\n    \"class_a_luna\": 89200,\n    \"procent_din_gratis\": 8.92,\n    \"capac\": \"90% — opritor dur; niciodată peste, niciodată costuri\"\n  }\n}"
+    },
+    {
+      "id": "6ad6e154fd6b73effae66ae2",
+      "titlu": "[MEMORIE-GLOBALĂ] Scrisă pe Cloudflare R2 (bucket hydra-memorie) — 2026-10-20T03:34:44.028Z",
+      "rezumat": "Substrat viu: Cloudflare R2 (bucket hydra-memorie). Confirmare vie: true. Calea S3 (SigV4) funcționează.",
+      "tip_context": "memorie_globala",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-10-20T03:33:37.605Z\",\n  \"bucket\": \"hydra-memorie\",\n  \"bucket_status\": \"exista\",\n  \"obiect_scris\": {\n    \"key\": \"hydra/vie.json\",\n    \"bucket\": \"hydra-memorie\"\n  },\n  \"obiect_citit\": {\n    \"key\": \"hydra/vie.json\",\n    \"size\": 339\n  },\n  \"confirmare_vie\": true,\n  \"erori\": [],\n  \"exploatare\": {\n    \"scrise_aceasta_rulare\": 400,\n    \"class_a_luna\": 89600,\n    \"procent_din_gratis\": 8.96,\n    \"capac\": \"90% — opritor dur; niciodată peste, niciodată costuri\"\n  }\n}"
+    }
+  ]
+}
