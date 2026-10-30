@@ -1,0 +1,1 @@
+function optimizeazaStareBursa(stareNoua) { const istoric = JSON.parse(localStorage.getItem('bursa_quant_state') || '[]'); if (istoric.length > 0) { const ultima = istoric[istoric.length - 1]; if (ultima.bucle === stareNoua.bucle) return; } istoric.push(stareNoua); if (istoric.length > 5) istoric.shift(); localStorage.setItem('bursa_quant_state', JSON.stringify(istoric)); }
