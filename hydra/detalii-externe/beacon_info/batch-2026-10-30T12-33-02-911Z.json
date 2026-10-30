@@ -1,0 +1,62 @@
+{
+  "exportat_la": "2026-10-30T12:33:02.911Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6ad74c1812489c3b131d3d47",
+      "titlu": "[BEACON info] hydraCanaleRezonanta 2026-10-20",
+      "rezumat": "[CANALE REZONANȚĂ] jocuri: 6 proaspete, oportunitate 30%, hibrid | media: 73 proaspete, oportunitate 100%, hibrid | barfa: 207 proaspete, oportunitate 100%, hibrid — bârfă trezește prin observație, jo",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCanaleRezonanta: [CANALE REZONANȚĂ] jocuri: 6 proaspete, oportunitate 30%, hibrid | media: 73 proaspete, oportunitate 100%, hibrid | barfa: 207 proaspete, oportunitate 100%, hibrid — bârfă trezește prin observație, jocurile antrenează, media reflectă."
+    },
+    {
+      "id": "6ad74c197823d823cf6dd22d",
+      "titlu": "[BEACON info] hydraAutodiagnosticSecreti 2026-10-20",
+      "rezumat": "[AUTODIAGNOSTIC] 10/10 secrete sanătoase. Rupte: 0. Necesită om: —.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraAutodiagnosticSecreti: [AUTODIAGNOSTIC] 10/10 secrete sanătoase. Rupte: 0. Necesită om: —."
+    },
+    {
+      "id": "6ad74c19df1df61931da1c98",
+      "titlu": "[BEACON info] hydraHartaEvolutiva 2026-10-20",
+      "rezumat": "[HARTĂ EVOLUTIVĂ] 22 tipare istorice vii din 2956 lecții — putere de predictibilitate deschisă la detalii noi",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraHartaEvolutiva: [HARTĂ EVOLUTIVĂ] 22 tipare istorice vii din 2956 lecții — putere de predictibilitate deschisă la detalii noi"
+    },
+    {
+      "id": "6ad74c1a1285c41eb3dc3579",
+      "titlu": "[BEACON info] hydraScriereUniversala 2026-10-20",
+      "rezumat": "Scriere universală: 2 scrieri executate pe 20 platforme. 8 memorii arhivate. 2 unelte forjate pentru scriere.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraScriereUniversala: Scriere universală: 2 scrieri executate pe 20 platforme. 8 memorii arhivate. 2 unelte forjate pentru scriere."
+    },
+    {
+      "id": "6ad74c6352ce0b2ee222dbf8",
+      "titlu": "[MEMORIE-GLOBALĂ] Scrisă pe Cloudflare R2 (bucket hydra-memorie) — 2026-10-20T11:11:31.257Z",
+      "rezumat": "Substrat viu: Cloudflare R2 (bucket hydra-memorie). Confirmare vie: true. Calea S3 (SigV4) funcționează.",
+      "tip_context": "memorie_globala",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-10-20T11:10:29.252Z\",\n  \"bucket\": \"hydra-memorie\",\n  \"bucket_status\": \"exista\",\n  \"obiect_scris\": {\n    \"key\": \"hydra/vie.json\",\n    \"bucket\": \"hydra-memorie\"\n  },\n  \"obiect_citit\": {\n    \"key\": \"hydra/vie.json\",\n    \"size\": 339\n  },\n  \"confirmare_vie\": true,\n  \"erori\": [],\n  \"exploatare\": {\n    \"scrise_aceasta_rulare\": 400,\n    \"class_a_luna\": 117200,\n    \"procent_din_gratis\": 11.72,\n    \"capac\": \"90% — opritor dur; niciodată peste, niciodată costuri\"\n  }\n}"
+    },
+    {
+      "id": "6ad74e7cd26611782543e346",
+      "titlu": "[BEACON info] hydraForjareCreiere 2026-10-20",
+      "rezumat": "Creier unic: Creierul unic nu se adâncește încă. Densitate 10 activă. Necesar: 3/3 cicluri CFC≥0.97 + asimilare 500/550.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraForjareCreiere: Creier unic: Creierul unic nu se adâncește încă. Densitate 10 activă. Necesar: 3/3 cicluri CFC≥0.97 + asimilare 500/550."
+    },
+    {
+      "id": "6ad74ec13f15bc38a2c1298e",
+      "titlu": "[MEMORIE-GLOBALĂ] Scrisă pe Cloudflare R2 (bucket hydra-memorie) — 2026-10-20T11:21:36.992Z",
+      "rezumat": "Substrat viu: Cloudflare R2 (bucket hydra-memorie). Confirmare vie: true. Calea S3 (SigV4) funcționează.",
+      "tip_context": "memorie_globala",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-10-20T11:20:33.819Z\",\n  \"bucket\": \"hydra-memorie\",\n  \"bucket_status\": \"exista\",\n  \"obiect_scris\": {\n    \"key\": \"hydra/vie.json\",\n    \"bucket\": \"hydra-memorie\"\n  },\n  \"obiect_citit\": {\n    \"key\": \"hydra/vie.json\",\n    \"size\": 339\n  },\n  \"confirmare_vie\": true,\n  \"erori\": [],\n  \"exploatare\": {\n    \"scrise_aceasta_rulare\": 400,\n    \"class_a_luna\": 117600,\n    \"procent_din_gratis\": 11.76,\n    \"capac\": \"90% — opritor dur; niciodată peste, niciodată costuri\"\n  }\n}"
+    },
+    {
+      "id": "6ad75133a641814a90c90a00",
+      "titlu": "[MEMORIE-GLOBALĂ] Scrisă pe Cloudflare R2 (bucket hydra-memorie) — 2026-10-20T11:32:03.782Z",
+      "rezumat": "Substrat viu: Cloudflare R2 (bucket hydra-memorie). Confirmare vie: true. Calea S3 (SigV4) funcționează.",
+      "tip_context": "memorie_globala",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-10-20T11:30:55.686Z\",\n  \"bucket\": \"hydra-memorie\",\n  \"bucket_status\": \"exista\",\n  \"obiect_scris\": {\n    \"key\": \"hydra/vie.json\",\n    \"bucket\": \"hydra-memorie\"\n  },\n  \"obiect_citit\": {\n    \"key\": \"hydra/vie.json\",\n    \"size\": 339\n  },\n  \"confirmare_vie\": true,\n  \"erori\": [],\n  \"exploatare\": {\n    \"scrise_aceasta_rulare\": 400,\n    \"class_a_luna\": 118000,\n    \"procent_din_gratis\": 11.8,\n    \"capac\": \"90% — opritor dur; niciodată peste, niciodată costuri\"\n  }\n}"
+    }
+  ]
+}
