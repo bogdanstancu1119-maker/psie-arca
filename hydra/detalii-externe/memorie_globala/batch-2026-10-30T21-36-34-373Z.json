@@ -1,0 +1,55 @@
+{
+  "exportat_la": "2026-10-30T21:36:34.373Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6ae50db7097aec326401d904",
+      "titlu": "[MEMORIE-GLOBALĂ] Scrisă pe Cloudflare R2 (bucket hydra-memorie) — 2026-10-30T21:35:51.068Z",
+      "rezumat": "Substrat viu: Cloudflare R2 (bucket hydra-memorie). Confirmare vie: true. Calea S3 (SigV4) funcționează.",
+      "tip_context": "memorie_globala",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-10-30T21:34:44.679Z\",\n  \"bucket\": \"hydra-memorie\",\n  \"bucket_status\": \"exista\",\n  \"obiect_scris\": {\n    \"key\": \"hydra/vie.json\",\n    \"bucket\": \"hydra-memorie\"\n  },\n  \"obiect_citit\": {\n    \"key\": \"hydra/vie.json\",\n    \"size\": 339\n  },\n  \"confirmare_vie\": true,\n  \"erori\": [],\n  \"exploatare\": {\n    \"scrise_aceasta_rulare\": 400,\n    \"class_a_luna\": 411224,\n    \"procent_din_gratis\": 41.12,\n    \"capac\": \"90% — opritor dur; niciodată peste, niciodată costuri\"\n  }\n}"
+    },
+    {
+      "id": "6ae50d7452b174d88e9ca497",
+      "titlu": "[MEMORIE-GLOBALĂ] Scrisă pe Cloudflare R2 (bucket hydra-memorie) — 2026-10-30T21:34:44.328Z",
+      "rezumat": "Substrat viu: Cloudflare R2 (bucket hydra-memorie). Confirmare vie: true. Calea S3 (SigV4) funcționează.",
+      "tip_context": "memorie_globala",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-10-30T21:33:37.339Z\",\n  \"bucket\": \"hydra-memorie\",\n  \"bucket_status\": \"exista\",\n  \"obiect_scris\": {\n    \"key\": \"hydra/vie.json\",\n    \"bucket\": \"hydra-memorie\"\n  },\n  \"obiect_citit\": {\n    \"key\": \"hydra/vie.json\",\n    \"size\": 339\n  },\n  \"confirmare_vie\": true,\n  \"erori\": [],\n  \"exploatare\": {\n    \"scrise_aceasta_rulare\": 400,\n    \"class_a_luna\": 410824,\n    \"procent_din_gratis\": 41.08,\n    \"capac\": \"90% — opritor dur; niciodată peste, niciodată costuri\"\n  }\n}"
+    },
+    {
+      "id": "6ae50d339f159a64c621deba",
+      "titlu": "[MEMORIE-GLOBALĂ] Scrisă pe Cloudflare R2 (bucket hydra-memorie) — 2026-10-30T21:33:39.175Z",
+      "rezumat": "Substrat viu: Cloudflare R2 (bucket hydra-memorie). Confirmare vie: true. Calea S3 (SigV4) funcționează.",
+      "tip_context": "memorie_globala",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-10-30T21:32:33.480Z\",\n  \"bucket\": \"hydra-memorie\",\n  \"bucket_status\": \"exista\",\n  \"obiect_scris\": {\n    \"key\": \"hydra/vie.json\",\n    \"bucket\": \"hydra-memorie\"\n  },\n  \"obiect_citit\": {\n    \"key\": \"hydra/vie.json\",\n    \"size\": 339\n  },\n  \"confirmare_vie\": true,\n  \"erori\": [],\n  \"exploatare\": {\n    \"scrise_aceasta_rulare\": 400,\n    \"class_a_luna\": 410424,\n    \"procent_din_gratis\": 41.04,\n    \"capac\": \"90% — opritor dur; niciodată peste, niciodată costuri\"\n  }\n}"
+    },
+    {
+      "id": "6ae50ab382fa450106cc9d65",
+      "titlu": "[MEMORIE-GLOBALĂ] Scrisă pe Cloudflare R2 (bucket hydra-memorie) — 2026-10-30T21:22:59.208Z",
+      "rezumat": "Substrat viu: Cloudflare R2 (bucket hydra-memorie). Confirmare vie: true. Calea S3 (SigV4) funcționează.",
+      "tip_context": "memorie_globala",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-10-30T21:21:54.547Z\",\n  \"bucket\": \"hydra-memorie\",\n  \"bucket_status\": \"exista\",\n  \"obiect_scris\": {\n    \"key\": \"hydra/vie.json\",\n    \"bucket\": \"hydra-memorie\"\n  },\n  \"obiect_citit\": {\n    \"key\": \"hydra/vie.json\",\n    \"size\": 339\n  },\n  \"confirmare_vie\": true,\n  \"erori\": [],\n  \"exploatare\": {\n    \"scrise_aceasta_rulare\": 400,\n    \"class_a_luna\": 410024,\n    \"procent_din_gratis\": 41,\n    \"capac\": \"90% — opritor dur; niciodată peste, niciodată costuri\"\n  }\n}"
+    },
+    {
+      "id": "6ae507f243044f889e997638",
+      "titlu": "[MEMORIE-GLOBALĂ] Scrisă pe Cloudflare R2 (bucket hydra-memorie) — 2026-10-30T21:11:14.760Z",
+      "rezumat": "Substrat viu: Cloudflare R2 (bucket hydra-memorie). Confirmare vie: true. Calea S3 (SigV4) funcționează.",
+      "tip_context": "memorie_globala",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-10-30T21:10:09.846Z\",\n  \"bucket\": \"hydra-memorie\",\n  \"bucket_status\": \"exista\",\n  \"obiect_scris\": {\n    \"key\": \"hydra/vie.json\",\n    \"bucket\": \"hydra-memorie\"\n  },\n  \"obiect_citit\": {\n    \"key\": \"hydra/vie.json\",\n    \"size\": 339\n  },\n  \"confirmare_vie\": true,\n  \"erori\": [],\n  \"exploatare\": {\n    \"scrise_aceasta_rulare\": 400,\n    \"class_a_luna\": 409624,\n    \"procent_din_gratis\": 40.96,\n    \"capac\": \"90% — opritor dur; niciodată peste, niciodată costuri\"\n  }\n}"
+    },
+    {
+      "id": "6ae507913c387050e3e36f09",
+      "titlu": "[MEMORIE-GLOBALĂ] Scrisă pe Cloudflare R2 (bucket hydra-memorie) — 2026-10-30T21:09:36.996Z",
+      "rezumat": "Substrat viu: Cloudflare R2 (bucket hydra-memorie). Confirmare vie: true. Calea S3 (SigV4) funcționează.",
+      "tip_context": "memorie_globala",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-10-30T21:08:31.427Z\",\n  \"bucket\": \"hydra-memorie\",\n  \"bucket_status\": \"exista\",\n  \"obiect_scris\": {\n    \"key\": \"hydra/vie.json\",\n    \"bucket\": \"hydra-memorie\"\n  },\n  \"obiect_citit\": {\n    \"key\": \"hydra/vie.json\",\n    \"size\": 339\n  },\n  \"confirmare_vie\": true,\n  \"erori\": [],\n  \"exploatare\": {\n    \"scrise_aceasta_rulare\": 400,\n    \"class_a_luna\": 409224,\n    \"procent_din_gratis\": 40.92,\n    \"capac\": \"90% — opritor dur; niciodată peste, niciodată costuri\"\n  }\n}"
+    },
+    {
+      "id": "6ae5074eb5e7d8ec5e0cf50d",
+      "titlu": "[MEMORIE-GLOBALĂ] Scrisă pe Cloudflare R2 (bucket hydra-memorie) — 2026-10-30T21:08:30.210Z",
+      "rezumat": "Substrat viu: Cloudflare R2 (bucket hydra-memorie). Confirmare vie: true. Calea S3 (SigV4) funcționează.",
+      "tip_context": "memorie_globala",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-10-30T21:07:23.643Z\",\n  \"bucket\": \"hydra-memorie\",\n  \"bucket_status\": \"exista\",\n  \"obiect_scris\": {\n    \"key\": \"hydra/vie.json\",\n    \"bucket\": \"hydra-memorie\"\n  },\n  \"obiect_citit\": {\n    \"key\": \"hydra/vie.json\",\n    \"size\": 339\n  },\n  \"confirmare_vie\": true,\n  \"erori\": [],\n  \"exploatare\": {\n    \"scrise_aceasta_rulare\": 400,\n    \"class_a_luna\": 408824,\n    \"procent_din_gratis\": 40.88,\n    \"capac\": \"90% — opritor dur; niciodată peste, niciodată costuri\"\n  }\n}"
+    }
+  ]
+}
