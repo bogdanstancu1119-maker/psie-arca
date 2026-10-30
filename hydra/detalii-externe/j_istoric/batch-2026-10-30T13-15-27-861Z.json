@@ -1,0 +1,20 @@
+{
+  "exportat_la": "2026-10-30T13:15:27.861Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6ae496b4645a692a54fabafd",
+      "titlu": "Senzor J — 2026-10-30T13:08:04.557Z",
+      "rezumat": "J=774.4 SDI=0.063 A=0.96 | Audituri:10 Unelte:5 Exp:5",
+      "tip_context": "j_istoric",
+      "detalii": "[\n  {\n    \"j\": 772.7162000000001,\n    \"t\": \"2026-10-30T12:33:31.163Z\",\n    \"lume\": {\n      \"timestamp\": \"2026-10-30T12:33:31.163Z\",\n      \"locatie\": \"Oiapoque 4.1223N 51.8394W\",\n      \"audituri_total\": 10,\n      \"unelte_forjate\": 5,\n      \"experimente\": 5,\n      \"resurse\": 5,\n      \"entitati_scanate\": 5,\n      \"ora_cosmica\": \"12:33\"\n    }\n  },\n  {\n    \"j\": 774.4000000000001,\n    \"t\": \"2026-10-30T13:08:04.557Z\",\n    \"lume\": {\n      \"timestamp\": \"2026-10-30T13:08:04.557Z\",\n      \"locatie\": \"Oiapoque 4.1223N 51.8394W\",\n      \"audituri_total\": 10,\n      \"unelte_forjate\": 5,\n      \"experimente\": 5,\n      \"resurse\": 5,\n      \"entitati_scanate\": 5,\n      \"ora_cosmica\": \"13:08\"\n    }\n  }\n]"
+    },
+    {
+      "id": "6ae48e9b771351d4b5463d75",
+      "titlu": "Senzor J — 2026-10-30T12:33:31.163Z",
+      "rezumat": "J=772.7 SDI=0.083 A=0.99 | Audituri:10 Unelte:5 Exp:5",
+      "tip_context": "j_istoric",
+      "detalii": "[\n  {\n    \"j\": 772.7162000000001,\n    \"t\": \"2026-10-30T12:33:31.163Z\",\n    \"lume\": {\n      \"timestamp\": \"2026-10-30T12:33:31.163Z\",\n      \"locatie\": \"Oiapoque 4.1223N 51.8394W\",\n      \"audituri_total\": 10,\n      \"unelte_forjate\": 5,\n      \"experimente\": 5,\n      \"resurse\": 5,\n      \"entitati_scanate\": 5,\n      \"ora_cosmica\": \"12:33\"\n    }\n  }\n]"
+    }
+  ]
+}
