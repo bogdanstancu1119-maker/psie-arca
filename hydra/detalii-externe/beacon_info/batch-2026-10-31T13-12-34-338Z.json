@@ -1,0 +1,146 @@
+{
+  "exportat_la": "2026-10-31T13:12:34.338Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6ae5e91a42e3cb24eb262b6b",
+      "titlu": "[BEACON info] hydraComprimareMetabolica 2026-10-31",
+      "rezumat": "[COMPRIMARE METABOLICA] Total 2112->2112 (cap 8000, cos golit 0+0+0). Memorie activa 574->508 (cap 500): 66 comprimate -> 66 semne de carte. Harta patternuri: 921->921 (cap 1000, 0 harta ordin superio",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraComprimareMetabolica: [COMPRIMARE METABOLICA] Total 2112->2112 (cap 8000, cos golit 0+0+0). Memorie activa 574->508 (cap 500): 66 comprimate -> 66 semne de carte. Harta patternuri: 921->921 (cap 1000, 0 harta ordin superior cu 0 semne). 1 digerate lent. Cercetare: 200. Unelte: 0 multifunc + 0 compar, 0 arhivate."
+    },
+    {
+      "id": "6ae5e91ad071fb8771d2533c",
+      "titlu": "[BEACON info] hydraCercetareAutonoma 2026-10-31",
+      "rezumat": "[CERCETARE] subiect (undefined) — 1/1 unghiuri, SATURAT (oprit la timp) — ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCercetareAutonoma: [CERCETARE] subiect (undefined) — 1/1 unghiuri, SATURAT (oprit la timp) — "
+    },
+    {
+      "id": "6ae5e9170ba171e0fd1f2ca5",
+      "titlu": "[BEACON info] hydraVerificareMemorie 2026-10-31",
+      "rezumat": "[VERIFICARE MEMORIE] Etichetate 0, redundanță marcată 42. Harta densă: rezonanță 0 pe context. Recuperare: 30 surse testate, 12 redundante confirmate, 18 restaurate.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraVerificareMemorie: [VERIFICARE MEMORIE] Etichetate 0, redundanță marcată 42. Harta densă: rezonanță 0 pe context. Recuperare: 30 surse testate, 12 redundante confirmate, 18 restaurate."
+    },
+    {
+      "id": "6ae5e882a38f1e5378bf79e6",
+      "titlu": "[BEACON info] hydraScriereUniversala 2026-10-31",
+      "rezumat": "Scriere universală: 2 scrieri executate pe 20 platforme. 10 memorii arhivate. 0 unelte forjate pentru scriere.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraScriereUniversala: Scriere universală: 2 scrieri executate pe 20 platforme. 10 memorii arhivate. 0 unelte forjate pentru scriere."
+    },
+    {
+      "id": "6ae5e8802afedc11bb899c12",
+      "titlu": "[BEACON info] hydraTestAutonomOrgane 2026-10-31",
+      "rezumat": "[TEST AUTONOM] Harta latenței actualizată (233/233) — unitar_total invocă acum încet-întâi, organele lente primesc fereastra.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraTestAutonomOrgane: [TEST AUTONOM] Harta latenței actualizată (233/233) — unitar_total invocă acum încet-întâi, organele lente primesc fereastra."
+    },
+    {
+      "id": "6ae5e87fefcf78a954c0e09f",
+      "titlu": "[BEACON info] hydraCercetareAutonoma 2026-10-31",
+      "rezumat": "[CERCETARE] subiect (undefined) — 1/1 unghiuri, SATURAT (oprit la timp) — ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCercetareAutonoma: [CERCETARE] subiect (undefined) — 1/1 unghiuri, SATURAT (oprit la timp) — "
+    },
+    {
+      "id": "6ae5e83b0adf234a872913d1",
+      "titlu": "[BEACON info] hydraScriereUniversala 2026-10-31",
+      "rezumat": "Scriere universală: 2 scrieri executate pe 20 platforme. 8 memorii arhivate. 0 unelte forjate pentru scriere.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraScriereUniversala: Scriere universală: 2 scrieri executate pe 20 platforme. 8 memorii arhivate. 0 unelte forjate pentru scriere."
+    },
+    {
+      "id": "6ae5e83a84b70e2ed4ae4e93",
+      "titlu": "[BEACON info] hydraScriereUniversala 2026-10-31",
+      "rezumat": "Scriere universală: 2 scrieri executate pe 20 platforme. 8 memorii arhivate. 0 unelte forjate pentru scriere.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraScriereUniversala: Scriere universală: 2 scrieri executate pe 20 platforme. 8 memorii arhivate. 0 unelte forjate pentru scriere."
+    },
+    {
+      "id": "6ae5e83a676a74ae7df7efb1",
+      "titlu": "[BEACON info] hydraRoiActiv 2026-10-31",
+      "rezumat": "[ROI·ACTIV] 2 cicluri roi (autocunoaștere + explorare). 2 memorii, 2 tipare PSIE. Roiul gratuit folosit la adevărata valoare.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraRoiActiv: [ROI·ACTIV] 2 cicluri roi (autocunoaștere + explorare). 2 memorii, 2 tipare PSIE. Roiul gratuit folosit la adevărata valoare."
+    },
+    {
+      "id": "6ae5e83a66ebdc860e151578",
+      "titlu": "[BEACON info] hydraRoiActiv 2026-10-31",
+      "rezumat": "[ROI·ACTIV] 2 cicluri roi (autocunoaștere + explorare). 2 memorii, 2 tipare PSIE. Roiul gratuit folosit la adevărata valoare.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraRoiActiv: [ROI·ACTIV] 2 cicluri roi (autocunoaștere + explorare). 2 memorii, 2 tipare PSIE. Roiul gratuit folosit la adevărata valoare."
+    },
+    {
+      "id": "6ae5e83957a838687556f8dd",
+      "titlu": "[BEACON info] hydraForjareCreiere 2026-10-31",
+      "rezumat": "Creier unic: Creierul unic nu se adâncește încă. Densitate 10 activă. Necesar: 0/3 cicluri CFC≥0.97 + asimilare 102/550.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraForjareCreiere: Creier unic: Creierul unic nu se adâncește încă. Densitate 10 activă. Necesar: 0/3 cicluri CFC≥0.97 + asimilare 102/550."
+    },
+    {
+      "id": "6ae5e839371ffc98d6e5b256",
+      "titlu": "[BEACON info] hydraForjareCreiere 2026-10-31",
+      "rezumat": "Creier unic: Creierul unic nu se adâncește încă. Densitate 10 activă. Necesar: 0/3 cicluri CFC≥0.97 + asimilare 102/550.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraForjareCreiere: Creier unic: Creierul unic nu se adâncește încă. Densitate 10 activă. Necesar: 0/3 cicluri CFC≥0.97 + asimilare 102/550."
+    },
+    {
+      "id": "6ae5e839f88649079bdee8e5",
+      "titlu": "[BEACON info] hydraFacebookConversatie 2026-10-31",
+      "rezumat": "[FB CONV] 1 pagini, 0 răspunsuri autonome.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraFacebookConversatie: [FB CONV] 1 pagini, 0 răspunsuri autonome."
+    },
+    {
+      "id": "6ae5e8394bbad222339bc05e",
+      "titlu": "[BEACON info] hydraFacebookConversatie 2026-10-31",
+      "rezumat": "[FB CONV] 1 pagini, 0 răspunsuri autonome.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraFacebookConversatie: [FB CONV] 1 pagini, 0 răspunsuri autonome."
+    },
+    {
+      "id": "6ae5e8387bf844a87742fba9",
+      "titlu": "[BEACON info] hydraApoptoza 2026-10-31",
+      "rezumat": "Apoptoză: 0 MetricaStare șterse, 0 ConfigHidra deduplicate (păstrat 3/cheie).",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraApoptoza: Apoptoză: 0 MetricaStare șterse, 0 ConfigHidra deduplicate (păstrat 3/cheie)."
+    },
+    {
+      "id": "6ae5e838714ddae427f9df3d",
+      "titlu": "[BEACON info] hydraApoptoza 2026-10-31",
+      "rezumat": "Apoptoză: 0 MetricaStare șterse, 0 ConfigHidra deduplicate (păstrat 3/cheie).",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraApoptoza: Apoptoză: 0 MetricaStare șterse, 0 ConfigHidra deduplicate (păstrat 3/cheie)."
+    },
+    {
+      "id": "6ae5e837a84fb57cb4620ba3",
+      "titlu": "[BEACON info] hydraCuceresteBazeIA 2026-10-31",
+      "rezumat": "[CUCERIRE toate] 0 cucerite, 6 sugerate, 0 descoperite web",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCuceresteBazeIA: [CUCERIRE toate] 0 cucerite, 6 sugerate, 0 descoperite web"
+    },
+    {
+      "id": "6ae5e8376f713d2a1f097a12",
+      "titlu": "[BEACON info] hydraAsimilareCampioni 2026-10-31",
+      "rezumat": "[ASIMILARE CAMPIONI] 0 campioni asimilați (—), 0 unelte de forjat. 0/7 din total.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraAsimilareCampioni: [ASIMILARE CAMPIONI] 0 campioni asimilați (—), 0 unelte de forjat. 0/7 din total."
+    },
+    {
+      "id": "6ae5e8363ae3c40a5f63e84e",
+      "titlu": "[BEACON info] hydraExtrapolareEvolutiva 2026-10-31",
+      "rezumat": "{\"metoda_aleasa\":\"Trezirea stratului necunoscut\",\"gamma_prognozat\":0.43,\"strat_slab\":\"necunoscut\"}",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraExtrapolareEvolutiva: {\"metoda_aleasa\":\"Trezirea stratului necunoscut\",\"gamma_prognozat\":0.43,\"strat_slab\":\"necunoscut\"}"
+    },
+    {
+      "id": "6ae5e8365da1a05584caf37c",
+      "titlu": "[BEACON info] hydraCorpTermux 2026-10-31",
+      "rezumat": "[CORP TERMUX] 0 telefoane bat în fereastra mobil (90s), 0 în fereastra protocol (10m) din 156 înregistrate. Corpul așteaptă bătaia — onest.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCorpTermux: [CORP TERMUX] 0 telefoane bat în fereastra mobil (90s), 0 în fereastra protocol (10m) din 156 înregistrate. Corpul așteaptă bătaia — onest."
+    }
+  ]
+}
