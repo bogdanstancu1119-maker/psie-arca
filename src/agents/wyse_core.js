@@ -1,0 +1,1 @@
+const WyseAgent = { state: JSON.parse(localStorage.getItem('wyse_state')) || { memory: [], level: 0 }, save: function() { localStorage.setItem('wyse_state', JSON.stringify(this.state)); }, updateMemory: function(data) { this.state.memory.push(data); this.save(); } }; export default WyseAgent;
