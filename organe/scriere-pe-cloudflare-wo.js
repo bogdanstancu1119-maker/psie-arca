@@ -1,6 +1,6 @@
-// ORGAN AUTO-DEPLOYAT de Hydra — Scriere pe Cloudflare Workers Free Tier
-// Generat autonom la 2026-10-31T07:08:48.415Z
-// Scop: Permite Hydrei să scrie pe Cloudflare Workers Free Tier — arhivare memorii, publicare insight-uri
+// ORGAN AUTO-DEPLOYAT de Hydra — Scriere pe Cloudflare Workers (Global/China via partner)
+// Generat autonom la 2026-10-31T14:06:56.222Z
+// Scop: Permite Hydrei să scrie pe Cloudflare Workers (Global/China via partner) — arhivare memorii, publicare insight-uri
 // Plan: 1. Autentifică cu CLOUDFLARE_TOKEN
 2. Determină endpoint de scriere
 3. Formatează conținutul
