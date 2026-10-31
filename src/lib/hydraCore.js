@@ -1,1 +1,1 @@
-const validateRequest = (data) => { if (!data || typeof data !== 'object') return false; return Object.keys(data).length > 0; }; const safeFetch = async (url, options) => { if (!validateRequest(options.body)) throw new Error('Invalid Payload'); const response = await fetch(url, options); if (response.status === 400) { console.warn('400 Bad Request blocked'); return null; } return response.json(); };
+if (organStatus === 'failed') { console.warn('Organ skipped to prevent systemic stall'); return { status: 'paused', next_retry: Date.now() + 3600000 }; }
