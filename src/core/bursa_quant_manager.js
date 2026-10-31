@@ -1,0 +1,1 @@
+export const normalizeState = (stateArray) => { const latest = stateArray.reduce((acc, curr) => (curr.bucle > acc.bucle ? curr : acc), stateArray[0]); return { ...latest, last_sync: new Date().toISOString(), integrity_check: true }; };
