@@ -1,1 +1,1 @@
-const compactState = (currentState) => { const latest = currentState.slice(-1)[0]; const history = currentState.slice(0, -1); localStorage.setItem('bursa_quant_history', JSON.stringify(history)); localStorage.setItem('bursa_quant_state', JSON.stringify([latest])); return latest; };
+async function normalizeState() { const states = await db.get('bursa_quant_state'); if (Array.isArray(states) && states.length > 1) { const last = states[states.length - 1]; await db.set('bursa_quant_state', JSON.stringify(last)); } }
