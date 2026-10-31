@@ -1,0 +1,1 @@
+if (!snapshot.actiuniAll) { snapshot.actiuniAll = []; } async function updateStateAtomic(key, val) { const lock = await db.get('lock:' + key); if (lock) return; await db.set('lock:' + key, true); await db.set(key, val); await db.delete('lock:' + key); }
