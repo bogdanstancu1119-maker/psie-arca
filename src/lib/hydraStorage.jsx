@@ -1,0 +1,1 @@
+const persistState = (key, state) => { try { const schema = { type: 'object' }; if (JSON.stringify(state).length > 0) { localStorage.setItem(key, JSON.stringify(state)); return true; } } catch (e) { console.error('Eroare persistență:', e); return false; } };
