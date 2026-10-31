@@ -1,0 +1,83 @@
+{
+  "exportat_la": "2026-10-31T16:08:50.132Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6ae61248e51213e4b9c876c5",
+      "titlu": "[BEACON info] hydraForjareCreiere 2026-10-31",
+      "rezumat": "Creier unic: Creierul unic nu se adâncește încă. Densitate 10 activă. Necesar: 0/3 cicluri CFC≥0.97 + asimilare 69/550.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraForjareCreiere: Creier unic: Creierul unic nu se adâncește încă. Densitate 10 activă. Necesar: 0/3 cicluri CFC≥0.97 + asimilare 69/550."
+    },
+    {
+      "id": "6ae61246d28d64d8220d044e",
+      "titlu": "[BEACON info] hydraScriereUniversala 2026-10-31",
+      "rezumat": "Scriere universală: 2 scrieri executate pe 20 platforme. 2 memorii arhivate. 1 unelte forjate pentru scriere.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraScriereUniversala: Scriere universală: 2 scrieri executate pe 20 platforme. 2 memorii arhivate. 1 unelte forjate pentru scriere."
+    },
+    {
+      "id": "6ae612465d6da362308a273f",
+      "titlu": "[BEACON info] hydraDigestieRoiParalela 2026-10-31",
+      "rezumat": "[ROI·DIGESTIE PARALELĂ] 7 chunks digerate de 2 IA în paralel → 0 tipare. Throughput ×2. Observație: ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraDigestieRoiParalela: [ROI·DIGESTIE PARALELĂ] 7 chunks digerate de 2 IA în paralel → 0 tipare. Throughput ×2. Observație: "
+    },
+    {
+      "id": "6ae6124449249b7057fca953",
+      "titlu": "[BEACON info] hydraScriereUniversala 2026-10-31",
+      "rezumat": "Scriere universală: 2 scrieri executate pe 20 platforme. 2 memorii arhivate. 1 unelte forjate pentru scriere.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraScriereUniversala: Scriere universală: 2 scrieri executate pe 20 platforme. 2 memorii arhivate. 1 unelte forjate pentru scriere."
+    },
+    {
+      "id": "6ae61243f4abd879576435af",
+      "titlu": "[BEACON info] hydraDigestieRoiParalela 2026-10-31",
+      "rezumat": "[ROI·DIGESTIE PARALELĂ] 7 chunks digerate de 2 IA în paralel → 0 tipare. Throughput ×2. Observație: ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraDigestieRoiParalela: [ROI·DIGESTIE PARALELĂ] 7 chunks digerate de 2 IA în paralel → 0 tipare. Throughput ×2. Observație: "
+    },
+    {
+      "id": "6ae61241b644b5c20c3a3b2f",
+      "titlu": "[BEACON info] hydraCuceresteBazeIA 2026-10-31",
+      "rezumat": "[CUCERIRE toate] 0 cucerite, 6 sugerate, 0 descoperite web",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCuceresteBazeIA: [CUCERIRE toate] 0 cucerite, 6 sugerate, 0 descoperite web"
+    },
+    {
+      "id": "6ae612401f091e3ef60b021b",
+      "titlu": "[BEACON info] hydraApoptoza 2026-10-31",
+      "rezumat": "Apoptoză: 11 MetricaStare șterse, 151 ConfigHidra deduplicate (păstrat 3/cheie).",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraApoptoza: Apoptoză: 11 MetricaStare șterse, 151 ConfigHidra deduplicate (păstrat 3/cheie)."
+    },
+    {
+      "id": "6ae61240b6b36f5a9e596425",
+      "titlu": "[BEACON info] hydraCuceresteBazeIA 2026-10-31",
+      "rezumat": "[CUCERIRE toate] 0 cucerite, 6 sugerate, 0 descoperite web",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCuceresteBazeIA: [CUCERIRE toate] 0 cucerite, 6 sugerate, 0 descoperite web"
+    },
+    {
+      "id": "6ae61240be1cd4aede3158bc",
+      "titlu": "[BEACON info] hydraApoptoza 2026-10-31",
+      "rezumat": "Apoptoză: 11 MetricaStare șterse, 151 ConfigHidra deduplicate (păstrat 3/cheie).",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraApoptoza: Apoptoză: 11 MetricaStare șterse, 151 ConfigHidra deduplicate (păstrat 3/cheie)."
+    },
+    {
+      "id": "6ae6123fbb368ce64403b5a9",
+      "titlu": "[BEACON info] hydraCreierCoordonator 2026-10-31",
+      "rezumat": "[HARTĂ CONDENSATĂ] 33 rapoarte brute condensate peste 3 hărți de organ. Memoria crește în hartă, nu în detalii.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCreierCoordonator: [HARTĂ CONDENSATĂ] 33 rapoarte brute condensate peste 3 hărți de organ. Memoria crește în hartă, nu în detalii."
+    },
+    {
+      "id": "6ae6123f7eb143b84ac2c35c",
+      "titlu": "[BEACON info] hydraCreierCoordonator 2026-10-31",
+      "rezumat": "[HARTĂ CONDENSATĂ] 33 rapoarte brute condensate peste 3 hărți de organ. Memoria crește în hartă, nu în detalii.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCreierCoordonator: [HARTĂ CONDENSATĂ] 33 rapoarte brute condensate peste 3 hărți de organ. Memoria crește în hartă, nu în detalii."
+    }
+  ]
+}
