@@ -1,1 +1,1 @@
-const getActionsSnapshot = () => { try { return typeof actionsAll !== 'undefined' ? actionsAll : []; } catch (e) { return []; } }; const stateSnapshot = { ...currentMetrics, actions: getActionsSnapshot() };
+async function atomicWriteState(key, state) { const lastState = await R2.get(key); if (lastState && JSON.parse(lastState).bucle >= state.bucle) { return false; } await R2.put(key, JSON.stringify(state)); return true; }
