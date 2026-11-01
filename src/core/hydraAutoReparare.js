@@ -1,0 +1,1 @@
+const persistHydraState = (state) => { try { localStorage.setItem('hydra_full_state', JSON.stringify(state)); return true; } catch (e) { console.error('Eroare persistență:', e); return false; } }; const runSyncLoop = () => { const state = getCurrentOrganState(); if (persistHydraState(state)) { console.log('Stare sincronizată PSIE'); } };
