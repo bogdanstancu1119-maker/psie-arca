@@ -1,1 +1,1 @@
-const persistState = async (key, data) => { await KV.set(`session:${key}`, JSON.stringify(data), { ttl: 3600 }); }; const getPersistentState = async (key) => { const data = await KV.get(`session:${key}`); return data ? JSON.parse(data) : null; };
+const authWrapper = async (requestFn, ...args) => { try { return await requestFn(...args); } catch (e) { if (e.status === 400) { await reauthenticateHydra(); return await requestFn(...args); } throw e; } };
