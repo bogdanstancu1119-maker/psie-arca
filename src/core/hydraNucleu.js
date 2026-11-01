@@ -1,0 +1,1 @@
+async function reactivareOrganeCritice() { const stare = await getLocalStorage('raport_risc_organe'); if (!stare) return; const deTrezit = [...stare.imediat_decuplate, ...stare.critic_decuplate]; for (const organ of deTrezit) { console.log(`[AUTO-REPARARE] Trezire organ: ${organ.nume}`); await executaTrezire(organ.nume); } }
