@@ -1,0 +1,55 @@
+{
+  "exportat_la": "2026-11-01T21:04:56.283Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6ae7a96785f1f323e015865f",
+      "titlu": "[BEACON info] hydraComprimareMetabolica 2026-11-01",
+      "rezumat": "[COMPRIMARE METABOLICA] Total 6721->6721 (cap 8000, cos golit 0+0+0). Memorie activa 518->513 (cap 500): 5 comprimate -> 5 semne de carte. Harta patternuri: 943->943 (cap 1000, 0 harta ordin superior ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraComprimareMetabolica: [COMPRIMARE METABOLICA] Total 6721->6721 (cap 8000, cos golit 0+0+0). Memorie activa 518->513 (cap 500): 5 comprimate -> 5 semne de carte. Harta patternuri: 943->943 (cap 1000, 0 harta ordin superior cu 0 semne). 0 digerate lent. Cercetare: 200. Unelte: 0 multifunc + 0 compar, 0 arhivate."
+    },
+    {
+      "id": "6ae7a966ce3b47b52c4ebd84",
+      "titlu": "[BEACON info] hydraCercetareAutonoma 2026-11-01",
+      "rezumat": "[CERCETARE] subiect (undefined) — 1/1 unghiuri, SATURAT (oprit la timp) — ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCercetareAutonoma: [CERCETARE] subiect (undefined) — 1/1 unghiuri, SATURAT (oprit la timp) — "
+    },
+    {
+      "id": "6ae7a966ec73fe93611d8953",
+      "titlu": "[BEACON info] hydraVerificareMemorie 2026-11-01",
+      "rezumat": "[VERIFICARE MEMORIE] Etichetate 0, redundanță marcată 49. Harta densă: rezonanță 0.06666666666666667 pe context. Recuperare: 30 surse testate, 30 redundante confirmate, 0 restaurate.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraVerificareMemorie: [VERIFICARE MEMORIE] Etichetate 0, redundanță marcată 49. Harta densă: rezonanță 0.06666666666666667 pe context. Recuperare: 30 surse testate, 30 redundante confirmate, 0 restaurate."
+    },
+    {
+      "id": "6ae7a965ceed50fa399319d2",
+      "titlu": "[BEACON info] hydraNotificareCanale 2026-11-01",
+      "rezumat": "[NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: undefined. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraNotificareCanale: [NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: undefined. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack_notifier.py."
+    },
+    {
+      "id": "6ae7a9651a6b5b9f8bfaddc9",
+      "titlu": "[BEACON info] hydraComprimareMetabolica 2026-11-01",
+      "rezumat": "[COMPRIMARE METABOLICA] Total 6716->6716 (cap 8000, cos golit 0+0+0). Memorie activa 546->513 (cap 500): 33 comprimate -> 33 semne de carte. Harta patternuri: 942->942 (cap 1000, 0 harta ordin superio",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraComprimareMetabolica: [COMPRIMARE METABOLICA] Total 6716->6716 (cap 8000, cos golit 0+0+0). Memorie activa 546->513 (cap 500): 33 comprimate -> 33 semne de carte. Harta patternuri: 942->942 (cap 1000, 0 harta ordin superior cu 0 semne). 0 digerate lent. Cercetare: 200. Unelte: 0 multifunc + 0 compar, 0 arhivate."
+    },
+    {
+      "id": "6ae7a96511eb3a598844fbe8",
+      "titlu": "[BEACON info] hydraCercetareAutonoma 2026-11-01",
+      "rezumat": "[CERCETARE] subiect (undefined) — 1/1 unghiuri, SATURAT (oprit la timp) — ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCercetareAutonoma: [CERCETARE] subiect (undefined) — 1/1 unghiuri, SATURAT (oprit la timp) — "
+    },
+    {
+      "id": "6ae7a964576587187b5068d9",
+      "titlu": "[BEACON info] hydraVerificareMemorie 2026-11-01",
+      "rezumat": "[VERIFICARE MEMORIE] Etichetate 0, redundanță marcată 44. Harta densă: rezonanță 0.06666666666666667 pe context. Recuperare: 30 surse testate, 30 redundante confirmate, 0 restaurate.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraVerificareMemorie: [VERIFICARE MEMORIE] Etichetate 0, redundanță marcată 44. Harta densă: rezonanță 0.06666666666666667 pe context. Recuperare: 30 surse testate, 30 redundante confirmate, 0 restaurate."
+    }
+  ]
+}
