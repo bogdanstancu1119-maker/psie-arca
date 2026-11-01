@@ -1,0 +1,1 @@
+const trezireUnitara = async (organList) => { for (const organ of organList) { if (organ.status === 'incapacitant_imediat') { await fetch(`/${organ.nume}/init`, { method: 'POST', body: JSON.stringify({ context: 'hydra-force-wake' }) }); } } };
