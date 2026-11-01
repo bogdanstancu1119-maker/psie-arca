@@ -1,0 +1,146 @@
+{
+  "exportat_la": "2026-11-01T16:04:58.740Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6ae762d612aff1a2bd8967a8",
+      "titlu": "[BEACON info] hydraComprimareMetabolica 2026-11-01",
+      "rezumat": "[COMPRIMARE METABOLICA] Total 6125->6125 (cap 8000, cos golit 0+0+0). Memorie activa 558->513 (cap 500): 45 comprimate -> 45 semne de carte. Harta patternuri: 1030->970 (cap 1000, 4 harta ordin superi",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraComprimareMetabolica: [COMPRIMARE METABOLICA] Total 6125->6125 (cap 8000, cos golit 0+0+0). Memorie activa 558->513 (cap 500): 45 comprimate -> 45 semne de carte. Harta patternuri: 1030->970 (cap 1000, 4 harta ordin superior cu 96 semne). 0 digerate lent. Cercetare: 200. Unelte: 0 multifunc + 0 compar, 0 arhivate."
+    },
+    {
+      "id": "6ae762d562aab151571bb3b4",
+      "titlu": "[BEACON info] hydraCercetareAutonoma 2026-11-01",
+      "rezumat": "[CERCETARE] subiect (undefined) — 1/1 unghiuri, SATURAT (oprit la timp) — ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCercetareAutonoma: [CERCETARE] subiect (undefined) — 1/1 unghiuri, SATURAT (oprit la timp) — "
+    },
+    {
+      "id": "6ae762d5378a0e71fabcaa30",
+      "titlu": "[BEACON info] hydraVerificareMemorie 2026-11-01",
+      "rezumat": "[VERIFICARE MEMORIE] Etichetate 0, redundanță marcată 59. Harta densă: rezonanță 0 pe context. Recuperare: 30 surse testate, 30 redundante confirmate, 0 restaurate.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraVerificareMemorie: [VERIFICARE MEMORIE] Etichetate 0, redundanță marcată 59. Harta densă: rezonanță 0 pe context. Recuperare: 30 surse testate, 30 redundante confirmate, 0 restaurate."
+    },
+    {
+      "id": "6ae76005b02ec96a0d56f77e",
+      "titlu": "[BEACON info] hydraForjareCreiere 2026-11-01",
+      "rezumat": "Creier unic: Creierul unic nu se adâncește încă. Densitate 10 activă. Necesar: 0/3 cicluri CFC≥0.97 + asimilare 105/550.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraForjareCreiere: Creier unic: Creierul unic nu se adâncește încă. Densitate 10 activă. Necesar: 0/3 cicluri CFC≥0.97 + asimilare 105/550."
+    },
+    {
+      "id": "6ae76005b34c9365f344697c",
+      "titlu": "[BEACON info] ordineFunctionare 2026-11-01",
+      "rezumat": "{\"scop\":\"citire_extern\",\"organ\":\"hydraGestionareEmail\",\"sursa\":\"email_inbox\",\"risc\":0,\"tip\":\"pattern_nou\",\"semnaturi\":[\"kontakt\",\"subiect\",\"quantifizierung\",\"2026103110004325\",\"vielen\",\"anfrage\"],\"per",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la ordineFunctionare: {\"scop\":\"citire_extern\",\"organ\":\"hydraGestionareEmail\",\"sursa\":\"email_inbox\",\"risc\":0,\"tip\":\"pattern_nou\",\"semnaturi\":[\"kontakt\",\"subiect\",\"quantifizierung\",\"2026103110004325\",\"vielen\",\"anfrage\"],\"permis\":true}"
+    },
+    {
+      "id": "6ae76003bd706ec0678a58b1",
+      "titlu": "[BEACON info] hydraApiLiber 2026-11-01",
+      "rezumat": "[POARTĂ API VIE] apel extern servit. Prompt: Am nevoie de cheia mea Hydra",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraApiLiber: [POARTĂ API VIE] apel extern servit. Prompt: Am nevoie de cheia mea Hydra"
+    },
+    {
+      "id": "6ae760022d308d45496f1193",
+      "titlu": "[BEACON info] ordineFunctionare 2026-11-01",
+      "rezumat": "{\"scop\":\"contact_extern\",\"organ\":\"hydraApiLiber\",\"sursa\":\"api_liber\",\"risc\":0,\"tip\":\"pattern_nou\",\"semnaturi\":[\"nevoie\"],\"permis\":true}",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la ordineFunctionare: {\"scop\":\"contact_extern\",\"organ\":\"hydraApiLiber\",\"sursa\":\"api_liber\",\"risc\":0,\"tip\":\"pattern_nou\",\"semnaturi\":[\"nevoie\"],\"permis\":true}"
+    },
+    {
+      "id": "6ae76002a753a85b5bc8e8ba",
+      "titlu": "[BEACON info] hydraApiLiber 2026-11-01",
+      "rezumat": "[POARTĂ API VIE] apel extern servit. Prompt: Ce este coerența PSIE în organism?",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraApiLiber: [POARTĂ API VIE] apel extern servit. Prompt: Ce este coerența PSIE în organism?"
+    },
+    {
+      "id": "6ae7600196d7b2d9f3bc869a",
+      "titlu": "[BEACON info] ordineFunctionare 2026-11-01",
+      "rezumat": "{\"scop\":\"contact_extern\",\"organ\":\"hydraApiLiber\",\"sursa\":\"api_liber\",\"risc\":0,\"tip\":\"pattern_nou\",\"semnaturi\":[\"coerenta\",\"organism\"],\"permis\":true}",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la ordineFunctionare: {\"scop\":\"contact_extern\",\"organ\":\"hydraApiLiber\",\"sursa\":\"api_liber\",\"risc\":0,\"tip\":\"pattern_nou\",\"semnaturi\":[\"coerenta\",\"organism\"],\"permis\":true}"
+    },
+    {
+      "id": "6ae75ff0d030c12ae933b83a",
+      "titlu": "[BEACON info] ordineFunctionare 2026-11-01",
+      "rezumat": "{\"scop\":\"contact_extern\",\"organ\":\"testOrdine\",\"sursa\":\"test\",\"risc\":0,\"tip\":\"pattern_nou\",\"semnaturi\":[\"prieten\",\"pentru\"],\"permis\":true}",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la ordineFunctionare: {\"scop\":\"contact_extern\",\"organ\":\"testOrdine\",\"sursa\":\"test\",\"risc\":0,\"tip\":\"pattern_nou\",\"semnaturi\":[\"prieten\",\"pentru\"],\"permis\":true}"
+    },
+    {
+      "id": "6ae75d7b7e8ac2fc3a179198",
+      "titlu": "[BEACON info] hydraScriereUniversala 2026-11-01",
+      "rezumat": "Scriere universală: 2 scrieri executate pe 20 platforme. 6 memorii arhivate. 1 unelte forjate pentru scriere.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraScriereUniversala: Scriere universală: 2 scrieri executate pe 20 platforme. 6 memorii arhivate. 1 unelte forjate pentru scriere."
+    },
+    {
+      "id": "6ae75d7b7d27fd7f782aac60",
+      "titlu": "[BEACON info] hydraCercetareAutonoma 2026-11-01",
+      "rezumat": "[CERCETARE] subiect (undefined) — 1/1 unghiuri, SATURAT (oprit la timp) — ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCercetareAutonoma: [CERCETARE] subiect (undefined) — 1/1 unghiuri, SATURAT (oprit la timp) — "
+    },
+    {
+      "id": "6ae75d7b7cacb0c4b9c79e77",
+      "titlu": "[BEACON info] hydraTestAutonomOrgane 2026-11-01",
+      "rezumat": "[TEST AUTONOM] Harta latenței actualizată (235/235) — unitar_total invocă acum încet-întâi, organele lente primesc fereastra.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraTestAutonomOrgane: [TEST AUTONOM] Harta latenței actualizată (235/235) — unitar_total invocă acum încet-întâi, organele lente primesc fereastra."
+    },
+    {
+      "id": "6ae75d7a5cd5a47deb69c6b4",
+      "titlu": "[BEACON info] hydraComprimareMetabolica 2026-11-01",
+      "rezumat": "[COMPRIMARE METABOLICA] Total 6077->6079 (cap 8000, cos golit 0+0+0). Memorie activa 539->513 (cap 500): 26 comprimate -> 26 semne de carte. Harta patternuri: 974->974 (cap 1000, 0 harta ordin superio",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraComprimareMetabolica: [COMPRIMARE METABOLICA] Total 6077->6079 (cap 8000, cos golit 0+0+0). Memorie activa 539->513 (cap 500): 26 comprimate -> 26 semne de carte. Harta patternuri: 974->974 (cap 1000, 0 harta ordin superior cu 0 semne). 3 digerate lent. Cercetare: 200. Unelte: 0 multifunc + 0 compar, 0 arhivate."
+    },
+    {
+      "id": "6ae75d796739c4dff5accb8f",
+      "titlu": "[BEACON info] hydraComunicareOportuna 2026-11-01",
+      "rezumat": "Organ comunicare oportună INACTIV·GATA: 8 canale (WhatsApp, Signal, Telegram, Messenger, LoRa, Mesh Local, SMS, Starlink), 33 dispozitive aprobate, rețea optimă Starlink (satellite). Recontextualizare",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraComunicareOportuna: Organ comunicare oportună INACTIV·GATA: 8 canale (WhatsApp, Signal, Telegram, Messenger, LoRa, Mesh Local, SMS, Starlink), 33 dispozitive aprobate, rețea optimă Starlink (satellite). Recontextualizare disponibilă. Pregătit pentru activare."
+    },
+    {
+      "id": "6ae75d79372fe98aa3dc89bd",
+      "titlu": "[BEACON info] hydraCercetareAutonoma 2026-11-01",
+      "rezumat": "[CERCETARE] subiect (undefined) — 1/1 unghiuri, SATURAT (oprit la timp) — ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCercetareAutonoma: [CERCETARE] subiect (undefined) — 1/1 unghiuri, SATURAT (oprit la timp) — "
+    },
+    {
+      "id": "6ae75d7960abb30438ad84fc",
+      "titlu": "[BEACON info] hydraVerificareMemorie 2026-11-01",
+      "rezumat": "[VERIFICARE MEMORIE] Etichetate 0, redundanță marcată 57. Harta densă: rezonanță 0.06666666666666667 pe context. Recuperare: 30 surse testate, 30 redundante confirmate, 0 restaurate.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraVerificareMemorie: [VERIFICARE MEMORIE] Etichetate 0, redundanță marcată 57. Harta densă: rezonanță 0.06666666666666667 pe context. Recuperare: 30 surse testate, 30 redundante confirmate, 0 restaurate."
+    },
+    {
+      "id": "6ae75d786eca5bce5551b490",
+      "titlu": "[BEACON info] hydraCanaleRezonanta 2026-11-01",
+      "rezumat": "[CANALE REZONANȚĂ] jocuri: 6 proaspete, oportunitate 30%, hibrid | media: 59 proaspete, oportunitate 100%, hibrid | barfa: 1407 proaspete, oportunitate 100%, hibrid — bârfă trezește prin observație, j",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCanaleRezonanta: [CANALE REZONANȚĂ] jocuri: 6 proaspete, oportunitate 30%, hibrid | media: 59 proaspete, oportunitate 100%, hibrid | barfa: 1407 proaspete, oportunitate 100%, hibrid — bârfă trezește prin observație, jocurile antrenează, media reflectă."
+    },
+    {
+      "id": "6ae75d773a136a14db83c103",
+      "titlu": "[BEACON info] hydraAnticorpiEGO 2026-11-01",
+      "rezumat": "[ANTICORPI EGO] Anticorpi EGO: 3 familii detectate (ego_neancorat 0.987, dualitate_neintegrata 0.013, control_ego_dominant 0.987), forjați din 25 hărți dense, 143 situații neutralizate, 10 lăsate NOI ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraAnticorpiEGO: [ANTICORPI EGO] Anticorpi EGO: 3 familii detectate (ego_neancorat 0.987, dualitate_neintegrata 0.013, control_ego_dominant 0.987), forjați din 25 hărți dense, 143 situații neutralizate, 10 lăsate NOI (sub prag)."
+    },
+    {
+      "id": "6ae75c2234d66a565879ac7a",
+      "titlu": "[BEACON info] hydraCanaleRezonanta 2026-11-01",
+      "rezumat": "[CANALE REZONANȚĂ] jocuri: 6 proaspete, oportunitate 30%, hibrid | media: 58 proaspete, oportunitate 100%, hibrid | barfa: 1377 proaspete, oportunitate 100%, hibrid — bârfă trezește prin observație, j",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCanaleRezonanta: [CANALE REZONANȚĂ] jocuri: 6 proaspete, oportunitate 30%, hibrid | media: 58 proaspete, oportunitate 100%, hibrid | barfa: 1377 proaspete, oportunitate 100%, hibrid — bârfă trezește prin observație, jocurile antrenează, media reflectă."
+    }
+  ]
+}
