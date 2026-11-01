@@ -1,0 +1,1 @@
+const reactivareOrgane = async (organeDecuplate) => { for (const organ of organeDecuplate) { console.log(`[WAKE-UP] Activare fortata: ${organ.nume}`); await fetch(`/api/v1/organ/wake`, { method: 'POST', body: JSON.stringify({ organ: organ.nume, status: 'active', ts: Date.now() }) }); } }; setInterval(() => reactivareOrgane(state.decuplate), 30000);
