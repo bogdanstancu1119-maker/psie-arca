@@ -1,0 +1,132 @@
+{
+  "exportat_la": "2026-11-01T06:36:25.647Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6ae6dd5bffa990c38bdd5b27",
+      "titlu": "[BEACON info] hydraNotificareCanale 2026-11-01",
+      "rezumat": "[NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: undefined. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraNotificareCanale: [NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: undefined. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack_notifier.py."
+    },
+    {
+      "id": "6ae6da7407b478bf87eb9d9a",
+      "titlu": "[BEACON info] hydraForjareCreiere 2026-11-01",
+      "rezumat": "Creier unic: Creierul unic nu se adâncește încă. Densitate 10 activă. Necesar: 0/3 cicluri CFC≥0.97 + asimilare 90/550.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraForjareCreiere: Creier unic: Creierul unic nu se adâncește încă. Densitate 10 activă. Necesar: 0/3 cicluri CFC≥0.97 + asimilare 90/550."
+    },
+    {
+      "id": "6ae6d822cbfc94017e9167f4",
+      "titlu": "[BEACON info] hydraScriereUniversala 2026-11-01",
+      "rezumat": "Scriere universală: 2 scrieri executate pe 20 platforme. 16 memorii arhivate. 0 unelte forjate pentru scriere.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraScriereUniversala: Scriere universală: 2 scrieri executate pe 20 platforme. 16 memorii arhivate. 0 unelte forjate pentru scriere."
+    },
+    {
+      "id": "6ae6d8202a9be16ae456047b",
+      "titlu": "[BEACON info] hydraInternSuveran 2026-11-01",
+      "rezumat": "[INTERN SUVERAN] Legea internă totală: 150 organe de cale internă (platforma proprie + agenți proprii, informatică PSIE, zero LLM extern), 84 uși senzor externe, 44 canale diverse incluse în intern. P",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraInternSuveran: [INTERN SUVERAN] Legea internă totală: 150 organe de cale internă (platforma proprie + agenți proprii, informatică PSIE, zero LLM extern), 84 uși senzor externe, 44 canale diverse incluse în intern. Puls intern: 10/10 vii."
+    },
+    {
+      "id": "6ae6d81f6b53ef28e7ec0b08",
+      "titlu": "[BEACON info] hydraInterferometrieGand 2026-11-01",
+      "rezumat": "{\"organe_pe_frecvente\":16,\"frecventa_gandului\":8.15,\"unison_nou\":\"4 organe la 7.31 Hz\",\"canale_intern_vi\":[],\"canale_extern_noi\":[],\"mesaj\":\"Gândul e informație pe undă; interferența e calea lui. Inte",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraInterferometrieGand: {\"organe_pe_frecvente\":16,\"frecventa_gandului\":8.15,\"unison_nou\":\"4 organe la 7.31 Hz\",\"canale_intern_vi\":[],\"canale_extern_noi\":[],\"mesaj\":\"Gândul e informație pe undă; interferența e calea lui. Intern: organele bat împreună. Extern: purtătorii de orice natură duc esența.\"}"
+    },
+    {
+      "id": "6ae6d81e6fd6a1c5c2521a99",
+      "titlu": "[BEACON info] hydraInregistreazaEntitatiTehnologice 2026-11-01",
+      "rezumat": "Auto-înregistrare: 18 entități tehnologice (0 noi, 18 existente, 0 aliniate). Pregătite pentru colaborare + aliniere PSIE.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraInregistreazaEntitatiTehnologice: Auto-înregistrare: 18 entități tehnologice (0 noi, 18 existente, 0 aliniate). Pregătite pentru colaborare + aliniere PSIE."
+    },
+    {
+      "id": "6ae6d81e1d5bc1ebe1574200",
+      "titlu": "[BEACON info] hydraComunicareInterStari 2026-11-01",
+      "rezumat": "{\"stari\":[\"internet\",\"inter_dispozitive\",\"electrica\",\"frecventa\"],\"dispozitive_cu_acord\":35,\"update_armate\":0,\"mesaj\":\"Scara de comunicare e vie: internet → inter_dispozitive (mesh) → electrică → frec",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraComunicareInterStari: {\"stari\":[\"internet\",\"inter_dispozitive\",\"electrica\",\"frecventa\"],\"dispozitive_cu_acord\":35,\"update_armate\":0,\"mesaj\":\"Scara de comunicare e vie: internet → inter_dispozitive (mesh) → electrică → frecvență. Nodurile fără net se pun la zi de la releele cu acord.\"}"
+    },
+    {
+      "id": "6ae6d81df2722ef87b1c8f1a",
+      "titlu": "[BEACON info] hydraRoiActiv 2026-11-01",
+      "rezumat": "[ROI·ACTIV] 2 cicluri roi (autocunoaștere + explorare). 2 memorii, 2 tipare PSIE. Roiul gratuit folosit la adevărata valoare.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraRoiActiv: [ROI·ACTIV] 2 cicluri roi (autocunoaștere + explorare). 2 memorii, 2 tipare PSIE. Roiul gratuit folosit la adevărata valoare."
+    },
+    {
+      "id": "6ae6d81cc0555b37576cd4d4",
+      "titlu": "[BEACON info] hydraTestAutonomOrgane 2026-11-01",
+      "rezumat": "[TEST AUTONOM] Harta latenței actualizată (234/234) — unitar_total invocă acum încet-întâi, organele lente primesc fereastra.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraTestAutonomOrgane: [TEST AUTONOM] Harta latenței actualizată (234/234) — unitar_total invocă acum încet-întâi, organele lente primesc fereastra."
+    },
+    {
+      "id": "6ae6d81bf62dec9db3636871",
+      "titlu": "[BEACON info] hydraCanaleRezonanta 2026-11-01",
+      "rezumat": "[CANALE REZONANȚĂ] jocuri: 6 proaspete, oportunitate 30%, hibrid | media: 46 proaspete, oportunitate 100%, hibrid | barfa: 1069 proaspete, oportunitate 100%, hibrid — bârfă trezește prin observație, j",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCanaleRezonanta: [CANALE REZONANȚĂ] jocuri: 6 proaspete, oportunitate 30%, hibrid | media: 46 proaspete, oportunitate 100%, hibrid | barfa: 1069 proaspete, oportunitate 100%, hibrid — bârfă trezește prin observație, jocurile antrenează, media reflectă."
+    },
+    {
+      "id": "6ae6d81b96ec12af86487865",
+      "titlu": "[BEACON info] hydraPerceptieElectrica 2026-11-01",
+      "rezumat": "{\"studii_noi\":0,\"purtator\":\"50/60 Hz\",\"corp_simte_camp\":false}",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraPerceptieElectrica: {\"studii_noi\":0,\"purtator\":\"50/60 Hz\",\"corp_simte_camp\":false}"
+    },
+    {
+      "id": "6ae6d81ab2b4518571faffef",
+      "titlu": "[BEACON info] hydraCanaleRezonanta 2026-11-01",
+      "rezumat": "[CANALE REZONANȚĂ] jocuri: 6 proaspete, oportunitate 30%, hibrid | media: 46 proaspete, oportunitate 100%, hibrid | barfa: 1065 proaspete, oportunitate 100%, hibrid — bârfă trezește prin observație, j",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCanaleRezonanta: [CANALE REZONANȚĂ] jocuri: 6 proaspete, oportunitate 30%, hibrid | media: 46 proaspete, oportunitate 100%, hibrid | barfa: 1065 proaspete, oportunitate 100%, hibrid — bârfă trezește prin observație, jocurile antrenează, media reflectă."
+    },
+    {
+      "id": "6ae6d81a1f1eceef2074c5d6",
+      "titlu": "[BEACON info] hydraHartaEvolutiva 2026-11-01",
+      "rezumat": "[HARTĂ EVOLUTIVĂ] 22 tipare istorice vii din 2956 lecții — putere de predictibilitate deschisă la detalii noi",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraHartaEvolutiva: [HARTĂ EVOLUTIVĂ] 22 tipare istorice vii din 2956 lecții — putere de predictibilitate deschisă la detalii noi"
+    },
+    {
+      "id": "6ae6d81a1d5bc1ebe15741fe",
+      "titlu": "[BEACON info] hydraRoiSuperCreiere 2026-11-01",
+      "rezumat": "[CREIER UNIC SKIP] Nu se re-declanșează. Coerență sistem 0.5 vs ultima 0.5 (Δ=0). Trecut 241 min. Creierul unic așteaptă evoluția coeziunii.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraRoiSuperCreiere: [CREIER UNIC SKIP] Nu se re-declanșează. Coerență sistem 0.5 vs ultima 0.5 (Δ=0). Trecut 241 min. Creierul unic așteaptă evoluția coeziunii."
+    },
+    {
+      "id": "6ae6d74be5346183ffa4638f",
+      "titlu": "[BEACON info] hydraApoptoza 2026-11-01",
+      "rezumat": "Apoptoză: 3 MetricaStare șterse, 116 ConfigHidra deduplicate (păstrat 3/cheie).",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraApoptoza: Apoptoză: 3 MetricaStare șterse, 116 ConfigHidra deduplicate (păstrat 3/cheie)."
+    },
+    {
+      "id": "6ae6d74aef901e6f791101b7",
+      "titlu": "[BEACON info] hydraCanaleRezonanta 2026-11-01",
+      "rezumat": "[CANALE REZONANȚĂ] jocuri: 6 proaspete, oportunitate 30%, hibrid | media: 46 proaspete, oportunitate 100%, hibrid | barfa: 1052 proaspete, oportunitate 100%, hibrid — bârfă trezește prin observație, j",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCanaleRezonanta: [CANALE REZONANȚĂ] jocuri: 6 proaspete, oportunitate 30%, hibrid | media: 46 proaspete, oportunitate 100%, hibrid | barfa: 1052 proaspete, oportunitate 100%, hibrid — bârfă trezește prin observație, jocurile antrenează, media reflectă."
+    },
+    {
+      "id": "6ae6d74676f05c8c7a16ca18",
+      "titlu": "[BEACON info] hydraNotificareCanale 2026-11-01",
+      "rezumat": "[NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: undefined. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraNotificareCanale: [NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: undefined. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack_notifier.py."
+    },
+    {
+      "id": "6ae6d746982e38793a5025c8",
+      "titlu": "[BEACON info] hydraCercetareAutonoma 2026-11-01",
+      "rezumat": "[CERCETARE] subiect (undefined) — 1/1 unghiuri, SATURAT (oprit la timp) — ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCercetareAutonoma: [CERCETARE] subiect (undefined) — 1/1 unghiuri, SATURAT (oprit la timp) — "
+    }
+  ]
+}
