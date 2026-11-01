@@ -1,0 +1,1 @@
+export async function persistState(key, state) { const timestamp = new Date().toISOString(); await kv.set([key, 'history', timestamp], state); await kv.set([key, 'current'], state); }
