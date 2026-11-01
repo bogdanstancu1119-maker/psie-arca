@@ -1,0 +1,1 @@
+const updateBursaState = (newState) => { let history = JSON.parse(localStorage.getItem('bursa_history') || '[]'); history.push(newState); if (history.length > 5) history.shift(); localStorage.setItem('bursa_quant_state', JSON.stringify(newState)); localStorage.setItem('bursa_history', JSON.stringify(history)); };
