@@ -1,5 +1,5 @@
 // ORGAN AUTO-DEPLOYAT de Hydra — Scriere pe Hetzner Cloud (Trial)
-// Generat autonom la 2026-10-31T23:07:24.726Z
+// Generat autonom la 2026-11-01T23:32:47.525Z
 // Scop: Permite Hydrei să scrie pe Hetzner Cloud (Trial) — arhivare memorii, publicare insight-uri
 // Plan: 1. Autentifică cu conector
 2. Determină endpoint de scriere
