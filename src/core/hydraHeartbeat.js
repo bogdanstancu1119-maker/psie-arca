@@ -1,0 +1,1 @@
+const pulseHeartbeat = async (organList) => { for (const organ of organList) { if (organ.status === 'decuplat') { console.log(`[REANIMARE] Nod: ${organ.nume}`); await registerNode(organ.nume, { status: 'activ', timestamp: Date.now() }); } } }; setInterval(() => pulseHeartbeat(global.organeRegistry), 60000);
