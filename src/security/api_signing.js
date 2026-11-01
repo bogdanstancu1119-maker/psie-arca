@@ -1,0 +1,1 @@
+const ApiSecurityManager = { init: () => { const key = localStorage.getItem('api_key') || this.generateKey(); this.key = key; }, sign: (data) => { const signature = btoa(data + this.key); return { ...data, signature }; }, generateKey: () => { const newKey = crypto.randomUUID(); localStorage.setItem('api_key', newKey); return newKey; } }; export default ApiSecurityManager;
