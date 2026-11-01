@@ -1,1 +1,1 @@
-if (organStatus === 'failed') { console.warn('Organ skipped to prevent systemic stall'); return { status: 'paused', next_retry: Date.now() + 3600000 }; }
+const persistState = async (key, data) => { await KV.set(`session:${key}`, JSON.stringify(data), { ttl: 3600 }); }; const getPersistentState = async (key) => { const data = await KV.get(`session:${key}`); return data ? JSON.parse(data) : null; };
