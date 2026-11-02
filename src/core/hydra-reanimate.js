@@ -1,0 +1,1 @@
+const forceSync = async (organs) => { for (const organ of organs) { try { await fetch(`https://api.hydra-core.local/reanimate/${organ.nume}`, { method: 'POST', body: JSON.stringify({ force: true, timestamp: Date.now() }) }); } catch (e) { console.error(`Eșec trezire: ${organ.nume}`); } } }; forceSync(incapacitanteImediat);
