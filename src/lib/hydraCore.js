@@ -1,1 +1,1 @@
-async function persistOrgane(state) { const data = JSON.stringify(state); await fetch(R2_ENDPOINT, { method: 'PUT', body: data, headers: { 'Authorization': `Bearer ${R2_TOKEN}` } }); return true; }
+import { kv } from './db.js'; export async function syncOrganState(organId, state) { await kv.set(['organ_state', organId], { ...state, lastSeen: Date.now() }); return true; } export async function getOrganState(organId) { const entry = await kv.get(['organ_state', organId]); return entry.value || null; }
