@@ -1,0 +1,1 @@
+const updateBursaState = (oldState, newState) => { if (newState.bucle > oldState.bucle) { return newState; } return oldState; };
