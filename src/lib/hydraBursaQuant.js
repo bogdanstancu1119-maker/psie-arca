@@ -1,1 +1,1 @@
-const updateBursaState = (currentState, newState) => { const mergedAgents = { ...currentState.pauza_agenti, ...newState.pauza_agenti }; return { ...newState, pauza_agenti: mergedAgents, timestamp: new Date().toISOString() }; };
+const updateBursaState = async (newState) => { const currentState = await getStorage('bursa_quant_state'); if (newState.bucle >= currentState.bucle) { await setStorage('bursa_quant_state', JSON.stringify({ ...currentState, ...newState, lastUpdate: new Date().toISOString() })); } else { log.info('Conflict detectat, refuzat update invechit'); } };
