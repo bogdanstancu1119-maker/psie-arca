@@ -1,0 +1,1 @@
+const persistState = async (newState) => { const timestamp = new Date().toISOString(); const snapshot = { timestamp, data: newState }; await fetch('https://r2.cloudflare.com/hydra-memorie/state/' + Date.now(), { method: 'PUT', body: JSON.stringify(snapshot) }); localStorage.setItem('bursa_quant_state', JSON.stringify(newState)); };
