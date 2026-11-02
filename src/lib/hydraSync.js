@@ -1,0 +1,1 @@
+async function hydraSync(organID) { const state = await fetchR2(organID); if (!state) { console.warn('Stare pierdută, inițializare de urgență'); return initNewState(organID); } return reconcile(state); } export default async function handler(req) { await hydraSync('core_node'); executeRoutine(); }
