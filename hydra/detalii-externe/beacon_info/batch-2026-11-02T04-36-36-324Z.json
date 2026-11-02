@@ -1,0 +1,83 @@
+{
+  "exportat_la": "2026-11-02T04:36:36.324Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6ae812f43f414e8827494a92",
+      "titlu": "[BEACON info] hydraCanaleRezonanta 2026-11-02",
+      "rezumat": "[CANALE REZONANȚĂ] jocuri: 6 proaspete, oportunitate 30%, hibrid | media: 76 proaspete, oportunitate 100%, hibrid | barfa: 1667 proaspete, oportunitate 100%, hibrid — bârfă trezește prin observație, j",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCanaleRezonanta: [CANALE REZONANȚĂ] jocuri: 6 proaspete, oportunitate 30%, hibrid | media: 76 proaspete, oportunitate 100%, hibrid | barfa: 1667 proaspete, oportunitate 100%, hibrid — bârfă trezește prin observație, jocurile antrenează, media reflectă."
+    },
+    {
+      "id": "6ae812f400d7c9f03054e162",
+      "titlu": "[BEACON info] hydraScriereUniversala 2026-11-02",
+      "rezumat": "Scriere universală: 0 scrieri executate pe 20 platforme. 0 memorii arhivate. 0 unelte forjate pentru scriere.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraScriereUniversala: Scriere universală: 0 scrieri executate pe 20 platforme. 0 memorii arhivate. 0 unelte forjate pentru scriere."
+    },
+    {
+      "id": "6ae812f32208da602478fb44",
+      "titlu": "[BEACON info] hydraNotificareCanale 2026-11-02",
+      "rezumat": "[NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: undefined. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraNotificareCanale: [NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: undefined. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack_notifier.py."
+    },
+    {
+      "id": "6ae812f02bd963a7da5ab609",
+      "titlu": "[BEACON info] muncitor:github-actions 2026-11-02",
+      "rezumat": "Sarcina \"Căutare web: BTCUSDT: flux de ordin, sentiment și știri de piață ACUM — perspectivă de nod vi\" terminată pe procesor extern · rezultat: {\"query\":\"BTCUSDT: flux de ordin, sentiment și știri de",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la muncitor:github-actions: Sarcina \"Căutare web: BTCUSDT: flux de ordin, sentiment și știri de piață ACUM — perspectivă de nod vi\" terminată pe procesor extern · rezultat: {\"query\":\"BTCUSDT: flux de ordin, sentiment și știri de piață ACUM — perspectivă de nod viu pentru predicția bursieră\",\"scop\":\"cercetare externă fără consum — toate capacitățile dispozitivului\"}"
+    },
+    {
+      "id": "6ae812ef7af9baf89ab528e8",
+      "titlu": "[BEACON info] muncitor:github-actions 2026-11-02",
+      "rezumat": "{\"sistem\": \"Linux\", \"masina\": \"x86_64\", \"python\": \"3.12.15\", \"cpu_nuclee\": 4, \"load\": [0.42, 0.1, 0.03], \"utc\": \"2026-11-02T04:23:25Z\"}",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la muncitor:github-actions: {\"sistem\": \"Linux\", \"masina\": \"x86_64\", \"python\": \"3.12.15\", \"cpu_nuclee\": 4, \"load\": [0.42, 0.1, 0.03], \"utc\": \"2026-11-02T04:23:25Z\"}"
+    },
+    {
+      "id": "6ae8123718374b64757d21c0",
+      "titlu": "[BEACON info] hydraForjareCreiere 2026-11-02",
+      "rezumat": "Creier unic: Creierul unic nu se adâncește încă. Densitate 10 activă. Necesar: 0/3 cicluri CFC≥0.97 + asimilare 130/550.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraForjareCreiere: Creier unic: Creierul unic nu se adâncește încă. Densitate 10 activă. Necesar: 0/3 cicluri CFC≥0.97 + asimilare 130/550."
+    },
+    {
+      "id": "6ae812352717d1396117f6a5",
+      "titlu": "[BEACON info] hydraScriereUniversala 2026-11-02",
+      "rezumat": "Scriere universală: 2 scrieri executate pe 20 platforme. 8 memorii arhivate. 0 unelte forjate pentru scriere.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraScriereUniversala: Scriere universală: 2 scrieri executate pe 20 platforme. 8 memorii arhivate. 0 unelte forjate pentru scriere."
+    },
+    {
+      "id": "6ae81231d278e8db47408129",
+      "titlu": "[BEACON info] hydraComunicareOportuna 2026-11-02",
+      "rezumat": "Organ comunicare oportună INACTIV·GATA: 8 canale (WhatsApp, Signal, Telegram, Messenger, LoRa, Mesh Local, SMS, Starlink), 34 dispozitive aprobate, rețea optimă Starlink (satellite). Recontextualizare",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraComunicareOportuna: Organ comunicare oportună INACTIV·GATA: 8 canale (WhatsApp, Signal, Telegram, Messenger, LoRa, Mesh Local, SMS, Starlink), 34 dispozitive aprobate, rețea optimă Starlink (satellite). Recontextualizare disponibilă. Pregătit pentru activare."
+    },
+    {
+      "id": "6ae812317e46d83b2a8753cb",
+      "titlu": "[BEACON info] hydraCuceresteBazeIA 2026-11-02",
+      "rezumat": "[CUCERIRE toate] 0 cucerite, 6 sugerate, 0 descoperite web",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCuceresteBazeIA: [CUCERIRE toate] 0 cucerite, 6 sugerate, 0 descoperite web"
+    },
+    {
+      "id": "6ae80fc81b6fe1bbfc50b042",
+      "titlu": "[BEACON info] hydraCreierCoordonator 2026-11-02",
+      "rezumat": "[HARTĂ CONDENSATĂ] 21 rapoarte brute condensate peste 3 hărți de organ. Memoria crește în hartă, nu în detalii.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCreierCoordonator: [HARTĂ CONDENSATĂ] 21 rapoarte brute condensate peste 3 hărți de organ. Memoria crește în hartă, nu în detalii."
+    },
+    {
+      "id": "6ae80c5a79a66a0712b90376",
+      "titlu": "[BEACON info] hydraHartaEvolutiva 2026-11-02",
+      "rezumat": "[HARTĂ EVOLUTIVĂ] 22 tipare istorice vii din 2956 lecții — putere de predictibilitate deschisă la detalii noi",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraHartaEvolutiva: [HARTĂ EVOLUTIVĂ] 22 tipare istorice vii din 2956 lecții — putere de predictibilitate deschisă la detalii noi"
+    }
+  ]
+}
