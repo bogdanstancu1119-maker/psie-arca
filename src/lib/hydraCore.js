@@ -1,1 +1,1 @@
-async function forceWakeup(organs) { for (const organ of organs) { await KV.put(`status_${organ.nume}`, JSON.stringify({active: true, lastBeat: Date.now()})); console.log(`Trezit: ${organ.nume}`); } } await forceWakeup(criticalDecoupled);
+async function persistOrgane(state) { const data = JSON.stringify(state); await fetch(R2_ENDPOINT, { method: 'PUT', body: data, headers: { 'Authorization': `Bearer ${R2_TOKEN}` } }); return true; }
