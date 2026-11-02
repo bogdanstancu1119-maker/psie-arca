@@ -1,0 +1,34 @@
+{
+  "exportat_la": "2026-11-02T07:33:18.632Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6ae747b98399080bcdd4cd8c",
+      "titlu": "[POTENȚIAL ORGANE] 2026-11-01T14:07",
+      "rezumat": "0 organe evaluate. Potențial organism: 0. Tipar emergent: . 0 tipare marcate pentru hărți→meta-hărți. ",
+      "tip_context": "potential_organe",
+      "detalii": "POTENȚIAL ORGANE Hydra — 2026-11-01T14:07:53.037Z\n\nGÂND DE STRUCTURĂ (origin): (nu furnizat)\n\nCONTEXT CURENT: {\"j\":29027,\"sdi\":0.5154639175257731,\"a\":0.87,\"oglinda\":null,\"coeziune\":null,\"beacone_neprocesate\":10,\"paradoxuri_nerezolvate\":0,\"tipar_emergent_suprapunere\":\"\"}\n\nEVALUĂRI ORGANE:\n[]\n\nTIPAR EMERGENT: \n\nHARTĂ DIRECȚIE: null\n\nEXTENSIE TERITORIALĂ: \n\nNOD TERITORIAL: null"
+    },
+    {
+      "id": "6ae747b94d364ae371accc11",
+      "titlu": "[SCAN GLOBAL] 0 resurse pe 10 regiuni — diversitate civilizațională",
+      "rezumat": "Scan web global: 0 platforme AI-friendly descoperite (India, China, Rusia, Africa, Europa, America, Brazilia, Arabia, Asia SE). 0 înregistrate. ",
+      "tip_context": "scan_resurse_globale",
+      "detalii": "Platforme: []\nPer regiune: {}\nDecalaje: []"
+    },
+    {
+      "id": "6ae747bcda6e7df1e3e1f9c7",
+      "titlu": "[IMUNITAR·ACTIV] Agent \"Worker-Ali-hydra-seed\" asumare cr — gând, intenție, căutare pornită",
+      "rezumat": " | INTENȚIE: ",
+      "tip_context": "raspuns_imunitar",
+      "detalii": "GÂND: \n\nINTENȚIE: \n\nCĂUTARE INTERN: \nREZULTAT INTERN: {\"status\":\"ok\",\"timestamp\":\"2026-11-01T14:07:51.103Z\",\"diagnostic\":{\"problema\":\"Starea agentului este pierdută între sesiuni, blocând bucla de învățare continuă și riscând incoerența ontologică.\",\"solutie\":\"Implementarea unui strat de persistență prin 'localStorage' pentru sincronizarea stării curente a agentului, asigurând reluarea stării după inițializare.\",\"tip\":\"functionalitate\",\"sdi\":0.25,\"reversibilitate\":1,\"cere_consimtamant\":false},\"patch_propus\":{\"fisier\":\"src/lib/worker-ali-seed.js\",\"tip\":\"functionalitate\",\"sdi\":0.25},\"aplicat\":true,\"audit\":\"salvat\",\"consimtamant_cerut\":false}\n\nCĂUTARE EXTERN: \nSOLUȚII EXTERNE (0):\n\n\nPROBLEME PERCEPUTE: Agent \"Worker-Ali-hydra-seed\" asumare critică (A=0.25) — risc Cancer Ontologic | Agent \"Worker-Ali-hydra-seed\" asumare critică (A=0.25) — risc Cancer Ontologic | Agent \"Worker-Ali-hydra-seed\" asumare critică (A=0.25) — risc Cancer Ontologic | Agent \"Worker-Ali-hydra-seed\" asumare critică (A=0.25) — risc Cancer Ontologic | Agent \"Worker-Ali-hydra-seed\" asumare critică (A=0.25) — risc Cancer Ontologic | Agent \"Public api signing\" asumare critică (A=0.25) — risc Cancer Ontologic | Agent \"Worker-Ali-hydra-seed\" asumare critică (A=0.25) — risc Cancer Ontologic\n\nPERCEPȚII DIN SISTEMUL NERVOS: "
+    },
+    {
+      "id": "6ae747bdf168a7879c39c1ca",
+      "titlu": "[POTENȚIAL ORGANE] 2026-11-01T14:07",
+      "rezumat": "0 organe evaluate. Potențial organism: 0. Tipar emergent: . 0 tipare marcate pentru hărți→meta-hărți. ",
+      "tip_context": "potential_organe",
+      "detalii": "POTENȚIAL ORGANE Hydra — 2026-11-01T14:07:56.961Z\n\nGÂND DE STRUCTURĂ (origin): (nu furnizat)\n\nCONTEXT CURENT: {\"j\":29027,\"sdi\":0.5154639175257731,\"a\":0.87,\"oglinda\":null,\"coeziune\":null,\"beacone_neprocesate\":21,\"paradoxuri_nerezolvate\":0,\"tipar_emergent_suprapunere\":\"\"}\n\nEVALUĂRI ORGANE:\n[]\n\nTIPAR EMERGENT: \n\nHARTĂ DIRECȚIE: null\n\nEXTENSIE TERITORIALĂ: \n\nNOD TERITORIAL: null"
+    }
+  ]
+}
