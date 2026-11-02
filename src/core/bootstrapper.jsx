@@ -1,0 +1,1 @@
+const trezireCritice = async () => { const critice = ['hydraAutodiagnosticSecreti', 'hydraCerereCheiAPI', 'hydraDonateCapacity']; critice.forEach(organ => { if(!sistem.get(organ)) { sistem.init(organ); console.log(`[TREZIRE] ${organ} inițiat forțat.`); } }); }; await trezireCritice();
