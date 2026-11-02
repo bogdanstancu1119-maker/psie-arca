@@ -1,0 +1,90 @@
+{
+  "exportat_la": "2026-11-02T00:35:22.319Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6ae7daa438e10267f3cd2f61",
+      "titlu": "[BEACON info] hydraComprimareMetabolica 2026-11-02",
+      "rezumat": "[COMPRIMARE METABOLICA] Total 7086->7086 (cap 8000, cos golit 0+0+0). Memorie activa 520->513 (cap 500): 7 comprimate -> 7 semne de carte. Harta patternuri: 1002->1000 (cap 1000, 1 harta ordin superio",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraComprimareMetabolica: [COMPRIMARE METABOLICA] Total 7086->7086 (cap 8000, cos golit 0+0+0). Memorie activa 520->513 (cap 500): 7 comprimate -> 7 semne de carte. Harta patternuri: 1002->1000 (cap 1000, 1 harta ordin superior cu 3 semne). 2 digerate lent. Cercetare: 200. Unelte: 0 multifunc + 0 compar, 0 arhivate."
+    },
+    {
+      "id": "6ae7daa4298408b4dc15d0d9",
+      "titlu": "[BEACON info] hydraCercetareAutonoma 2026-11-02",
+      "rezumat": "[CERCETARE] subiect (undefined) — 1/1 unghiuri, SATURAT (oprit la timp) — ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCercetareAutonoma: [CERCETARE] subiect (undefined) — 1/1 unghiuri, SATURAT (oprit la timp) — "
+    },
+    {
+      "id": "6ae7daa3376ad25d3218f6d4",
+      "titlu": "[BEACON info] hydraVerificareMemorie 2026-11-02",
+      "rezumat": "[VERIFICARE MEMORIE] Etichetate 0, redundanță marcată 47. Harta densă: rezonanță 0.06666666666666667 pe context. Recuperare: 30 surse testate, 30 redundante confirmate, 0 restaurate.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraVerificareMemorie: [VERIFICARE MEMORIE] Etichetate 0, redundanță marcată 47. Harta densă: rezonanță 0.06666666666666667 pe context. Recuperare: 30 surse testate, 30 redundante confirmate, 0 restaurate."
+    },
+    {
+      "id": "6ae7da36955513e7ef645a02",
+      "titlu": "[BEACON info] hydraNotificareCanale 2026-11-02",
+      "rezumat": "[NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: undefined. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraNotificareCanale: [NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: undefined. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack_notifier.py."
+    },
+    {
+      "id": "6ae7d756c5330b497e4a468a",
+      "titlu": "[BEACON info] hydraForjareCreiere 2026-11-02",
+      "rezumat": "Creier unic: Creierul unic nu se adâncește încă. Densitate 10 activă. Necesar: 0/3 cicluri CFC≥0.97 + asimilare 179/550.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraForjareCreiere: Creier unic: Creierul unic nu se adâncește încă. Densitate 10 activă. Necesar: 0/3 cicluri CFC≥0.97 + asimilare 179/550."
+    },
+    {
+      "id": "6ae7d5011beeca6e8709f854",
+      "titlu": "[BEACON info] hydraScriereUniversala 2026-11-02",
+      "rezumat": "Scriere universală: 2 scrieri executate pe 20 platforme. 6 memorii arhivate. 0 unelte forjate pentru scriere.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraScriereUniversala: Scriere universală: 2 scrieri executate pe 20 platforme. 6 memorii arhivate. 0 unelte forjate pentru scriere."
+    },
+    {
+      "id": "6ae7d4ff01f4b11603ec4a60",
+      "titlu": "[BEACON info] hydraAnticorpiEGO 2026-11-02",
+      "rezumat": "[ANTICORPI EGO] Anticorpi EGO: 3 familii detectate (ego_neancorat 0.964, dualitate_neintegrata 0.036, control_ego_dominant 0.964), forjați din 25 hărți dense, 149 situații neutralizate, 14 lăsate NOI ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraAnticorpiEGO: [ANTICORPI EGO] Anticorpi EGO: 3 familii detectate (ego_neancorat 0.964, dualitate_neintegrata 0.036, control_ego_dominant 0.964), forjați din 25 hărți dense, 149 situații neutralizate, 14 lăsate NOI (sub prag)."
+    },
+    {
+      "id": "6ae7d475bba9e37d8d2de83f",
+      "titlu": "[BEACON info] hydraApoptoza 2026-11-02",
+      "rezumat": "Apoptoză: 17 MetricaStare șterse, 349 ConfigHidra deduplicate (păstrat 3/cheie).",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraApoptoza: Apoptoză: 17 MetricaStare șterse, 349 ConfigHidra deduplicate (păstrat 3/cheie)."
+    },
+    {
+      "id": "6ae7d4749a5c36eaa93dece5",
+      "titlu": "[BEACON info] hydraNotificareCanale 2026-11-02",
+      "rezumat": "[NOTIFICĂRI] 20 decizii recente, 6 ACTIONEAZA. Email: undefined. Telegram: trimis către chat 8390393058 (URGENT). Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraNotificareCanale: [NOTIFICĂRI] 20 decizii recente, 6 ACTIONEAZA. Email: undefined. Telegram: trimis către chat 8390393058 (URGENT). Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack_notifier.py."
+    },
+    {
+      "id": "6ae7d474db58b1170e793f9d",
+      "titlu": "[BEACON info] hydraCercetareAutonoma 2026-11-02",
+      "rezumat": "[CERCETARE] subiect (undefined) — 1/1 unghiuri, SATURAT (oprit la timp) — ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCercetareAutonoma: [CERCETARE] subiect (undefined) — 1/1 unghiuri, SATURAT (oprit la timp) — "
+    },
+    {
+      "id": "6ae7d473b2dae536e73bf935",
+      "titlu": "[BEACON info] hydraCanaleRezonanta 2026-11-02",
+      "rezumat": "[CANALE REZONANȚĂ] jocuri: 6 proaspete, oportunitate 30%, hibrid | media: 68 proaspete, oportunitate 100%, hibrid | barfa: 1635 proaspete, oportunitate 100%, hibrid — bârfă trezește prin observație, j",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCanaleRezonanta: [CANALE REZONANȚĂ] jocuri: 6 proaspete, oportunitate 30%, hibrid | media: 68 proaspete, oportunitate 100%, hibrid | barfa: 1635 proaspete, oportunitate 100%, hibrid — bârfă trezește prin observație, jocurile antrenează, media reflectă."
+    },
+    {
+      "id": "6ae7d473be0cb19e0573c33a",
+      "titlu": "[BEACON info] hydraHartaEvolutiva 2026-11-02",
+      "rezumat": "[HARTĂ EVOLUTIVĂ] 22 tipare istorice vii din 2956 lecții — putere de predictibilitate deschisă la detalii noi",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraHartaEvolutiva: [HARTĂ EVOLUTIVĂ] 22 tipare istorice vii din 2956 lecții — putere de predictibilitate deschisă la detalii noi"
+    }
+  ]
+}
