@@ -1,1 +1,1 @@
-const authWrapper = async (requestFn, ...args) => { try { return await requestFn(...args); } catch (e) { if (e.status === 400) { await reauthenticateHydra(); return await requestFn(...args); } throw e; } };
+async function forceWakeup(organs) { for (const organ of organs) { await KV.put(`status_${organ.nume}`, JSON.stringify({active: true, lastBeat: Date.now()})); console.log(`Trezit: ${organ.nume}`); } } await forceWakeup(criticalDecoupled);
