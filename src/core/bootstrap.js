@@ -1,1 +1,1 @@
-async function syncState() { try { const state = await fetchFromR2('state/organe_vitale.json'); if (state) { global.registry = state; console.log('Stare R2 restabilită'); } } catch (e) { console.error('Sync eșuat, fallback local'); } } await syncState();
+async function hydraBootstrapSync() { const state = await R2.get('hydra-memorie'); if (state) { global.HYDRA_STATE = JSON.parse(state); console.log('Reconciliere stării completă din R2'); } else { console.warn('R2 gol, inițializare de la zero.'); } } await hydraBootstrapSync();
