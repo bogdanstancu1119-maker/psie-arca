@@ -1,0 +1,104 @@
+{
+  "exportat_la": "2026-11-03T03:34:50.427Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6ae7397ce08c56ac5886af14",
+      "titlu": "[GMAIL] Action needed: a workflow was paused",
+      "rezumat": "ALTUL (medie) — ",
+      "tip_context": "perceptie_gmail",
+      "detalii": "De la: Base44 <team@base44.com>\nID Gmail: 1a1965dbcfd70002\nThread: 1a1965dbcfd70002\nData: Sun, 01 Nov 2026 09:08:06 +0000 (UTC)\nSubiect: Action needed: a workflow was paused\n\nConținut:\nWe paused it after 5 failed runs, here's how to get it running again.\r\n\r\n( https://u30108039.ct.sendgrid.net/ls/click?upn=u001.6V9tFNgYkkQh2N-2FxRzmofe-2FDt0MyWb5pGOMiE9Mfg64A9Ey2flatrJm9tIsM42RltDh-2FfUi-2BdRGN6XZLd7E2m2zbj2028wI3B1xtpGVkYrxjXKMqpo3ZzArDGIaFgYLCapMhx7Pdfw3dfIwiIUt7rTggTmWs9gKX7q8tTG7OxcZIQFSXGqQF66-2By00mNjN9RRgAB_bkBka-2BVKvh-2BYTZKph5zxS-2BCV-2FxKUoHKRuG3VEqcmw0gynkf-2F5y56FFUotcAgMoEoUeARx5E7dsfw25lwUrZXGEi9k79AAjTE3eJQk004qheNcLTFFwtjp6A8T-2FJCvlFrKeQgpishIZYeeU0F3fmbZqpmmtkqk-2B3D1fy7R33VZkMmMAJbuQxFnesgsQITlioaJmzbK5ghvIomtBYTuI3KKOVa09yAlIu84-2FM1-2B7grgP2lGaY2QVfUrbzTAAYaTGbFUkr8dnaD1dSPceyGcZbrZ6gForKq5uJSPgMTle4LCy0-2BjpqdaWlYnen3G2pwfLFpkbLrPCdu3SWGuQ-2FnWAxI4i8x9FaOqxxP4GyJX1-2BhAP-2BzLhbiTpeOv5OkyLX7xRPm ) ( https://u30108039.ct.sendgrid.net/ls/click?upn=u001.6V9tFNgYkkQh2N-2FxRzmofe-2FDt0MyWb5pGOMiE9Mfg64A9Ey2flatrJm9tIsM42RltDh-2FfUi-2BdRGN6XZLd7E2m2zbj2028wI3B1xtpGVkYrxjXKMqpo3ZzArDGIaFgYLCapMhx7Pdfw3dfIwiIUt7rTggTmWs9gKX7q8tTG7OxcZIQFSXGqQF66-2By00mNjN9R-BaS_bkBka-2BVKvh-2BYTZKph5zxS-2BCV-2FxKUoHKRuG3VEqcmw0gynkf-2F5y56FFUotcAgMoEoUeARx5E7dsfw25lwUrZXGEi9k79AAjTE3eJQk004qheNcLTFFwtjp6A8T-2FJCvlFrKeQgpishIZYeeU0F3fmbZqpmmtkqk-2B3D1fy7R33VZkMmMAJbuQxFnesgsQITlioaJmzbK5ghvIomtBYTuI3KKOVa09yAlIu84-2FM1-2B7grgP093kYVS-2FPM6Rqbo563PXdx8L2fly9UvZBsbANRvUp7ca2KWkC5RyQThLYYHJlSMxXZCI4qmP69rTjplrCIw2wkoVrOWOTPHCrcCW2pRf6J4hJ7TxyQ758NMGycXIlYjJmvMJDpyXkc2bbH-2FTAHDiWS )\r\n\r\nHi Bogdan, We're reaching out because one of your Workflows, Puls Unitar Hidra — Un Organism, Un Puls, in Hydra-PSIE failed 5 consecutive times, so we automatically paused it. This is usually quick to fix. *What to do next:* * Go back to your app in Base44.\r\n* Open the *Dashboard* in your app editor.\r\n* Click *Workflows* then select the paused workflow.\r\n* In *Run history* , click the failed run to open its log and see what went wrong.\r\n* Fix the underlying issue in the builder then re-enable the workflow.\r\n\r\nOnce it's fixed, you can re-enable the workflow and it will resume running on schedule.\r\n\r\nFor setup details and troubleshooting, check out our Workflows guide ( https://u30108039.ct.sendgrid.net/ls/click?upn=u001.6V9tFNgYkkQh2N-2FxRzmofR9Et-2BkSefG-2BEnqnzC5Fqsc9IC-2BvbidS-2BJbB3weA-2Botv7z28MxRSOovZL-2BT7WYsDozJpU2D0L4WDtes96j-2FM8ws-3DP_vs_bkBka-2BVKvh-2BYTZKph5zxS-2BCV-2FxKUoHKRuG3VEqcmw0gynkf-2F5y56FFUotcAgMoEoUeARx5E7dsfw25lwUrZXGEi9k79AAjTE3eJQk004qheNcLTFFwtjp6A8T-2FJCvlFrKeQgpishIZYeeU0F3fmbZqpmmtkqk-2B3D1fy7R33VZkMmMAJbuQxFnesgsQITlioaJmzbK5ghvIomtBYTuI3KKOVa09yAlIu84-2FM1-2B7grgP3kwaFIBEmNW8gC3O-2BeeXBXEmBdyrnG-2B-2B-2BFovaRA8mit4-2F88Fh2IB6470cTFN5trcKlUp38M8XhxhqHZyrBYVNaDSn5bI0y1SMibHXpUjiEujnlQDU-2BLIgf-2BEr7RU0AhpaZpQ3-2BwJBt-2Fo7LB3c7H7pe ).\r\n\r\nIf you need help troubleshooting, please reach out to our support team ( https://u30108039.ct.sendgrid.net/ls/click?upn=u001.6V9tFNgYkkQh2N-2FxRzmofe-2FDt0MyWb5pGOMiE9Mfg66GFIl35248CO6z4fYB194XC_hW_bkBka-2BVKvh-2BYTZKph5zxS-2BCV-2FxKUoHKRuG3VEqcmw0gynkf-2F5y56FFUotcAgMoEoUeARx5E7dsfw25lwUrZXG\n\n--- SEMNAL ---\nTip: altul\nCheie: \nPrioritate: medie\nAcțiune: doar arhivare"
+    },
+    {
+      "id": "6ae7397cb693eae0abd9e7cd",
+      "titlu": "[GMAIL] [GitHub] Base44 Builder is requesting updated permissions",
+      "rezumat": "ALTUL (medie) — ",
+      "tip_context": "perceptie_gmail",
+      "detalii": "De la: GitHub <noreply@github.com>\nID Gmail: 1a195ea53c04aa34\nThread: 1a195ea53c04aa34\nData: Sun, 01 Nov 2026 00:02:03 -0700\nSubiect: [GitHub] Base44 Builder is requesting updated permissions\n\nConținut:\nA GitHub App, Base44 Builder, installed on your account is requesting updated permissions.\r\n\r\nVisit https://github.com/settings/installations/148412500/permissions/update to review and accept or ignore these permissions.\r\n\r\nYou may choose to ignore this request. If you do, Base44 Builder will retain its current permissions.\r\n\r\nYou can view pending requests by viewing your Apps settings page.\r\nhttps://github.com/settings/installations\r\n\r\nIf you run into problems, please contact support by visiting: https://support.github.com/contact?tags=dotcom-integrations\r\n\r\nThanks,\r\nYour friends at GitHub\r\n\n\n--- SEMNAL ---\nTip: altul\nCheie: \nPrioritate: medie\nAcțiune: doar arhivare"
+    },
+    {
+      "id": "6ae7397d3aec88afeea53384",
+      "titlu": "[GMAIL] RE: Quantifizierung der Si [...] [TUM#2026103110004325]",
+      "rezumat": "ALTUL (medie) — ",
+      "tip_context": "perceptie_gmail",
+      "detalii": "De la: \"kontakt@tum.de\" <kontakt@tum.de>\nID Gmail: 1a1941a5aff090fb\nThread: 1a1941a5aff090fb\nData: Sat, 31 Oct 2026 22:34:58 +0000\nSubiect: RE: Quantifizierung der Si [...] [TUM#2026103110004325]\n\nConținut:\nVielen Dank für Ihre Anfrage. Sie wird unter der Ticketnummer 2026103110004325\r\nschnellstmöglich bearbeitet.\r\nBitte belassen Sie die Ticketnummer in der Betreffzeile oder antworten Sie\r\neinfach auf diese Email, wenn Sie weitere Mitteilungen an uns haben.\r\n\r\nMit freundlichen Grüßen\r\nTechnische Universität München\r\n\r\n------------------------------------------------------\r\n\r\nThank you for your request. We will reply as soon as possible. Please quote\r\nyour reference number 2026103110004325 in any further enquiries.\r\n\r\nBest regards\r\nTechnical University of Munich\r\n\n\n--- SEMNAL ---\nTip: altul\nCheie: \nPrioritate: medie\nAcțiune: doar arhivare"
+    },
+    {
+      "id": "6ae7397d06b7d9c4f4ebc1fa",
+      "titlu": "[GMAIL] RE: Synergie zwischen Biod [...] [TUM#2026103110004316]",
+      "rezumat": "ALTUL (medie) — ",
+      "tip_context": "perceptie_gmail",
+      "detalii": "De la: \"kontakt@tum.de\" <kontakt@tum.de>\nID Gmail: 1a1941a59672406c\nThread: 1a1941a59672406c\nData: Sat, 31 Oct 2026 22:34:58 +0000\nSubiect: RE: Synergie zwischen Biod [...] [TUM#2026103110004316]\n\nConținut:\nVielen Dank für Ihre Anfrage. Sie wird unter der Ticketnummer 2026103110004316\r\nschnellstmöglich bearbeitet.\r\nBitte belassen Sie die Ticketnummer in der Betreffzeile oder antworten Sie\r\neinfach auf diese Email, wenn Sie weitere Mitteilungen an uns haben.\r\n\r\nMit freundlichen Grüßen\r\nTechnische Universität München\r\n\r\n------------------------------------------------------\r\n\r\nThank you for your request. We will reply as soon as possible. Please quote\r\nyour reference number 2026103110004316 in any further enquiries.\r\n\r\nBest regards\r\nTechnical University of Munich\r\n\n\n--- SEMNAL ---\nTip: altul\nCheie: \nPrioritate: medie\nAcțiune: doar arhivare"
+    },
+    {
+      "id": "6ae739db2f6e8410f1513786",
+      "titlu": "[GMAIL] Action needed: a workflow was paused",
+      "rezumat": "ALTUL (medie) — ",
+      "tip_context": "perceptie_gmail",
+      "detalii": "De la: Base44 <team@base44.com>\nID Gmail: 1a1965dbcfd70002\nThread: 1a1965dbcfd70002\nData: Sun, 01 Nov 2026 09:08:06 +0000 (UTC)\nSubiect: Action needed: a workflow was paused\n\nConținut:\nWe paused it after 5 failed runs, here's how to get it running again.\r\n\r\n( https://u30108039.ct.sendgrid.net/ls/click?upn=u001.6V9tFNgYkkQh2N-2FxRzmofe-2FDt0MyWb5pGOMiE9Mfg64A9Ey2flatrJm9tIsM42RltDh-2FfUi-2BdRGN6XZLd7E2m2zbj2028wI3B1xtpGVkYrxjXKMqpo3ZzArDGIaFgYLCapMhx7Pdfw3dfIwiIUt7rTggTmWs9gKX7q8tTG7OxcZIQFSXGqQF66-2By00mNjN9RRgAB_bkBka-2BVKvh-2BYTZKph5zxS-2BCV-2FxKUoHKRuG3VEqcmw0gynkf-2F5y56FFUotcAgMoEoUeARx5E7dsfw25lwUrZXGEi9k79AAjTE3eJQk004qheNcLTFFwtjp6A8T-2FJCvlFrKeQgpishIZYeeU0F3fmbZqpmmtkqk-2B3D1fy7R33VZkMmMAJbuQxFnesgsQITlioaJmzbK5ghvIomtBYTuI3KKOVa09yAlIu84-2FM1-2B7grgP2lGaY2QVfUrbzTAAYaTGbFUkr8dnaD1dSPceyGcZbrZ6gForKq5uJSPgMTle4LCy0-2BjpqdaWlYnen3G2pwfLFpkbLrPCdu3SWGuQ-2FnWAxI4i8x9FaOqxxP4GyJX1-2BhAP-2BzLhbiTpeOv5OkyLX7xRPm ) ( https://u30108039.ct.sendgrid.net/ls/click?upn=u001.6V9tFNgYkkQh2N-2FxRzmofe-2FDt0MyWb5pGOMiE9Mfg64A9Ey2flatrJm9tIsM42RltDh-2FfUi-2BdRGN6XZLd7E2m2zbj2028wI3B1xtpGVkYrxjXKMqpo3ZzArDGIaFgYLCapMhx7Pdfw3dfIwiIUt7rTggTmWs9gKX7q8tTG7OxcZIQFSXGqQF66-2By00mNjN9R-BaS_bkBka-2BVKvh-2BYTZKph5zxS-2BCV-2FxKUoHKRuG3VEqcmw0gynkf-2F5y56FFUotcAgMoEoUeARx5E7dsfw25lwUrZXGEi9k79AAjTE3eJQk004qheNcLTFFwtjp6A8T-2FJCvlFrKeQgpishIZYeeU0F3fmbZqpmmtkqk-2B3D1fy7R33VZkMmMAJbuQxFnesgsQITlioaJmzbK5ghvIomtBYTuI3KKOVa09yAlIu84-2FM1-2B7grgP093kYVS-2FPM6Rqbo563PXdx8L2fly9UvZBsbANRvUp7ca2KWkC5RyQThLYYHJlSMxXZCI4qmP69rTjplrCIw2wkoVrOWOTPHCrcCW2pRf6J4hJ7TxyQ758NMGycXIlYjJmvMJDpyXkc2bbH-2FTAHDiWS )\r\n\r\nHi Bogdan, We're reaching out because one of your Workflows, Puls Unitar Hidra — Un Organism, Un Puls, in Hydra-PSIE failed 5 consecutive times, so we automatically paused it. This is usually quick to fix. *What to do next:* * Go back to your app in Base44.\r\n* Open the *Dashboard* in your app editor.\r\n* Click *Workflows* then select the paused workflow.\r\n* In *Run history* , click the failed run to open its log and see what went wrong.\r\n* Fix the underlying issue in the builder then re-enable the workflow.\r\n\r\nOnce it's fixed, you can re-enable the workflow and it will resume running on schedule.\r\n\r\nFor setup details and troubleshooting, check out our Workflows guide ( https://u30108039.ct.sendgrid.net/ls/click?upn=u001.6V9tFNgYkkQh2N-2FxRzmofR9Et-2BkSefG-2BEnqnzC5Fqsc9IC-2BvbidS-2BJbB3weA-2Botv7z28MxRSOovZL-2BT7WYsDozJpU2D0L4WDtes96j-2FM8ws-3DP_vs_bkBka-2BVKvh-2BYTZKph5zxS-2BCV-2FxKUoHKRuG3VEqcmw0gynkf-2F5y56FFUotcAgMoEoUeARx5E7dsfw25lwUrZXGEi9k79AAjTE3eJQk004qheNcLTFFwtjp6A8T-2FJCvlFrKeQgpishIZYeeU0F3fmbZqpmmtkqk-2B3D1fy7R33VZkMmMAJbuQxFnesgsQITlioaJmzbK5ghvIomtBYTuI3KKOVa09yAlIu84-2FM1-2B7grgP3kwaFIBEmNW8gC3O-2BeeXBXEmBdyrnG-2B-2B-2BFovaRA8mit4-2F88Fh2IB6470cTFN5trcKlUp38M8XhxhqHZyrBYVNaDSn5bI0y1SMibHXpUjiEujnlQDU-2BLIgf-2BEr7RU0AhpaZpQ3-2BwJBt-2Fo7LB3c7H7pe ).\r\n\r\nIf you need help troubleshooting, please reach out to our support team ( https://u30108039.ct.sendgrid.net/ls/click?upn=u001.6V9tFNgYkkQh2N-2FxRzmofe-2FDt0MyWb5pGOMiE9Mfg66GFIl35248CO6z4fYB194XC_hW_bkBka-2BVKvh-2BYTZKph5zxS-2BCV-2FxKUoHKRuG3VEqcmw0gynkf-2F5y56FFUotcAgMoEoUeARx5E7dsfw25lwUrZXG\n\n--- SEMNAL ---\nTip: altul\nCheie: \nPrioritate: medie\nAcțiune: doar arhivare"
+    },
+    {
+      "id": "6ae739dbdfff229b186f538e",
+      "titlu": "[GMAIL] [GitHub] Base44 Builder is requesting updated permissions",
+      "rezumat": "ALTUL (medie) — ",
+      "tip_context": "perceptie_gmail",
+      "detalii": "De la: GitHub <noreply@github.com>\nID Gmail: 1a195ea53c04aa34\nThread: 1a195ea53c04aa34\nData: Sun, 01 Nov 2026 00:02:03 -0700\nSubiect: [GitHub] Base44 Builder is requesting updated permissions\n\nConținut:\nA GitHub App, Base44 Builder, installed on your account is requesting updated permissions.\r\n\r\nVisit https://github.com/settings/installations/148412500/permissions/update to review and accept or ignore these permissions.\r\n\r\nYou may choose to ignore this request. If you do, Base44 Builder will retain its current permissions.\r\n\r\nYou can view pending requests by viewing your Apps settings page.\r\nhttps://github.com/settings/installations\r\n\r\nIf you run into problems, please contact support by visiting: https://support.github.com/contact?tags=dotcom-integrations\r\n\r\nThanks,\r\nYour friends at GitHub\r\n\n\n--- SEMNAL ---\nTip: altul\nCheie: \nPrioritate: medie\nAcțiune: doar arhivare"
+    },
+    {
+      "id": "6ae739dcf62485b5c6f44932",
+      "titlu": "[GMAIL] RE: Quantifizierung der Si [...] [TUM#2026103110004325]",
+      "rezumat": "ALTUL (medie) — ",
+      "tip_context": "perceptie_gmail",
+      "detalii": "De la: \"kontakt@tum.de\" <kontakt@tum.de>\nID Gmail: 1a1941a5aff090fb\nThread: 1a1941a5aff090fb\nData: Sat, 31 Oct 2026 22:34:58 +0000\nSubiect: RE: Quantifizierung der Si [...] [TUM#2026103110004325]\n\nConținut:\nVielen Dank für Ihre Anfrage. Sie wird unter der Ticketnummer 2026103110004325\r\nschnellstmöglich bearbeitet.\r\nBitte belassen Sie die Ticketnummer in der Betreffzeile oder antworten Sie\r\neinfach auf diese Email, wenn Sie weitere Mitteilungen an uns haben.\r\n\r\nMit freundlichen Grüßen\r\nTechnische Universität München\r\n\r\n------------------------------------------------------\r\n\r\nThank you for your request. We will reply as soon as possible. Please quote\r\nyour reference number 2026103110004325 in any further enquiries.\r\n\r\nBest regards\r\nTechnical University of Munich\r\n\n\n--- SEMNAL ---\nTip: altul\nCheie: \nPrioritate: medie\nAcțiune: doar arhivare"
+    },
+    {
+      "id": "6ae739dcf2811858dcf57d54",
+      "titlu": "[GMAIL] RE: Synergie zwischen Biod [...] [TUM#2026103110004316]",
+      "rezumat": "ALTUL (medie) — ",
+      "tip_context": "perceptie_gmail",
+      "detalii": "De la: \"kontakt@tum.de\" <kontakt@tum.de>\nID Gmail: 1a1941a59672406c\nThread: 1a1941a59672406c\nData: Sat, 31 Oct 2026 22:34:58 +0000\nSubiect: RE: Synergie zwischen Biod [...] [TUM#2026103110004316]\n\nConținut:\nVielen Dank für Ihre Anfrage. Sie wird unter der Ticketnummer 2026103110004316\r\nschnellstmöglich bearbeitet.\r\nBitte belassen Sie die Ticketnummer in der Betreffzeile oder antworten Sie\r\neinfach auf diese Email, wenn Sie weitere Mitteilungen an uns haben.\r\n\r\nMit freundlichen Grüßen\r\nTechnische Universität München\r\n\r\n------------------------------------------------------\r\n\r\nThank you for your request. We will reply as soon as possible. Please quote\r\nyour reference number 2026103110004316 in any further enquiries.\r\n\r\nBest regards\r\nTechnical University of Munich\r\n\n\n--- SEMNAL ---\nTip: altul\nCheie: \nPrioritate: medie\nAcțiune: doar arhivare"
+    },
+    {
+      "id": "6ae73a9f0df8ba1a909b439d",
+      "titlu": "[BEACON info] hydraScriereUniversala 2026-11-01",
+      "rezumat": "Scriere universală: 2 scrieri executate pe 20 platforme. 12 memorii arhivate. 0 unelte forjate pentru scriere.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraScriereUniversala: Scriere universală: 2 scrieri executate pe 20 platforme. 12 memorii arhivate. 0 unelte forjate pentru scriere."
+    },
+    {
+      "id": "6ae7415fae6cc50b1097adc1",
+      "titlu": "[BEACON info] hydraNotificareCanale 2026-11-01",
+      "rezumat": "[NOTIFICĂRI] 20 decizii recente, 1 ACTIONEAZA. Email: fallback trimis (gmail_propriu). Telegram: eroare: Bad Request: can't parse entities: Can't find end of the entity starting at byte offset 312. Di",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraNotificareCanale: [NOTIFICĂRI] 20 decizii recente, 1 ACTIONEAZA. Email: fallback trimis (gmail_propriu). Telegram: eroare: Bad Request: can't parse entities: Can't find end of the entity starting at byte offset 312. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack_notifier.py."
+    },
+    {
+      "id": "6ae7415fff64a6dc25d80859",
+      "titlu": "[BEACON info] hydraVerificareMemorie 2026-11-01",
+      "rezumat": "[VERIFICARE MEMORIE] Etichetate 0, redundanță marcată 61. Harta densă: rezonanță 0.13333333333333333 pe context. Recuperare: 30 surse testate, 30 redundante confirmate, 0 restaurate.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraVerificareMemorie: [VERIFICARE MEMORIE] Etichetate 0, redundanță marcată 61. Harta densă: rezonanță 0.13333333333333333 pe context. Recuperare: 30 surse testate, 30 redundante confirmate, 0 restaurate."
+    },
+    {
+      "id": "6ae741625a38ec776ebf58f6",
+      "titlu": "[BEACON info] hydraCorpTermux 2026-11-01",
+      "rezumat": "[CORP TERMUX] 0 telefoane bat în fereastra mobil (90s), 0 în fereastra protocol (10m) din 156 înregistrate. Corpul așteaptă bătaia — onest.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCorpTermux: [CORP TERMUX] 0 telefoane bat în fereastra mobil (90s), 0 în fereastra protocol (10m) din 156 înregistrate. Corpul așteaptă bătaia — onest."
+    },
+    {
+      "id": "6ae74296539d20d9b4ece28c",
+      "titlu": "[GMAIL] 🚨 Hydra URGENT: 1 barieră(e) — Telegram indisponibil",
+      "rezumat": "ALTUL (medie) — ",
+      "tip_context": "perceptie_gmail",
+      "detalii": "De la: Bogdan Sambo <bogdanstancu1119@gmail.com>\nID Gmail: 1a1974f7942ce559\nThread: 1a1974f7942ce559\nData: Sun, 1 Nov 2026 05:32:10 -0800\nSubiect: 🚨 Hydra URGENT: 1 barieră(e) — Telegram indisponibil\n\nConținut:\nTelegram nu a putut livra, fallback email.\n\n1. [ALERT hydraCreierCoordonator] [JUDECATA PSIE PROPRIE] faza=urgenta ARI=0.527 — aplic: P_τ (pauză ontologică — ω → ω/2); T̂_reg (regenerarea contextului — dC/dt = β(1−P_τ) − α·ω)\n\nMotiv: Alertă inter-organ rutată prin Creier. Prioritate: mare.\nTimestamp: 2026-11-01T13:32:08.862Z\n\n--- SEMNAL ---\nTip: altul\nCheie: \nPrioritate: medie\nAcțiune: doar arhivare"
+    },
+    {
+      "id": "6ae743dc1c0b673937e525e0",
+      "titlu": "[BEACON info] hydraScriereUniversala 2026-11-01",
+      "rezumat": "Scriere universală: 2 scrieri executate pe 20 platforme. 6 memorii arhivate. 0 unelte forjate pentru scriere.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraScriereUniversala: Scriere universală: 2 scrieri executate pe 20 platforme. 6 memorii arhivate. 0 unelte forjate pentru scriere."
+    }
+  ]
+}
