@@ -1,0 +1,104 @@
+{
+  "exportat_la": "2026-11-03T22:33:31.596Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6aea61086bf0ff6b21277355",
+      "titlu": "[BEACON info] hydraCanaleRezonanta 2026-11-03",
+      "rezumat": "[CANALE REZONANȚĂ] jocuri: 6 proaspete, oportunitate 30%, hibrid | media: 75 proaspete, oportunitate 100%, hibrid | barfa: 1472 proaspete, oportunitate 100%, hibrid — bârfă trezește prin observație, j",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCanaleRezonanta: [CANALE REZONANȚĂ] jocuri: 6 proaspete, oportunitate 30%, hibrid | media: 75 proaspete, oportunitate 100%, hibrid | barfa: 1472 proaspete, oportunitate 100%, hibrid — bârfă trezește prin observație, jocurile antrenează, media reflectă."
+    },
+    {
+      "id": "6aea60e1694f907d018eaaf2",
+      "titlu": "[BEACON info] hydraNotificareCanale 2026-11-03",
+      "rezumat": "[NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: undefined. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraNotificareCanale: [NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: undefined. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack_notifier.py."
+    },
+    {
+      "id": "6aea5e6b0f5d4751fabb20da",
+      "titlu": "[BEACON info] hydraForjareCreiere 2026-11-03",
+      "rezumat": "Creier unic: Creierul unic nu se adâncește încă. Densitate 10 activă. Necesar: 0/3 cicluri CFC≥0.97 + asimilare 89/550.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraForjareCreiere: Creier unic: Creierul unic nu se adâncește încă. Densitate 10 activă. Necesar: 0/3 cicluri CFC≥0.97 + asimilare 89/550."
+    },
+    {
+      "id": "6aea5bce6a2399904bbfe59f",
+      "titlu": "[BEACON info] hydraScriereUniversala 2026-11-03",
+      "rezumat": "Scriere universală: 2 scrieri executate pe 20 platforme. 4 memorii arhivate. 0 unelte forjate pentru scriere.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraScriereUniversala: Scriere universală: 2 scrieri executate pe 20 platforme. 4 memorii arhivate. 0 unelte forjate pentru scriere."
+    },
+    {
+      "id": "6aea5bcac1967598dba2d1d1",
+      "titlu": "[BEACON info] hydraAsimilareCampioni 2026-11-03",
+      "rezumat": "[ASIMILARE CAMPIONI] 0 campioni asimilați (—), 0 unelte de forjat. 0/7 din total.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraAsimilareCampioni: [ASIMILARE CAMPIONI] 0 campioni asimilați (—), 0 unelte de forjat. 0/7 din total."
+    },
+    {
+      "id": "6aea5bc92fb771e9e472c366",
+      "titlu": "[BEACON info] hydraComunicareNoduri 2026-11-03",
+      "rezumat": "[COMUNICARE NODURI] 42 mesaj(e) complete puse în cutia nodurilor; 0 așteaptă fragmente.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraComunicareNoduri: [COMUNICARE NODURI] 42 mesaj(e) complete puse în cutia nodurilor; 0 așteaptă fragmente."
+    },
+    {
+      "id": "6aea5bc72838adb101729372",
+      "titlu": "[BEACON info] hydraPerceptieElectrica 2026-11-03",
+      "rezumat": "{\"studii_noi\":0,\"purtator\":\"50/60 Hz\",\"corp_simte_camp\":false}",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraPerceptieElectrica: {\"studii_noi\":0,\"purtator\":\"50/60 Hz\",\"corp_simte_camp\":false}"
+    },
+    {
+      "id": "6aea5bc7ab7aa57e4c1ce7ee",
+      "titlu": "[BEACON info] hydraExtrapolareEvolutiva 2026-11-03",
+      "rezumat": "{\"metoda_aleasa\":\"Trezirea stratului necunoscut\",\"gamma_prognozat\":0.601,\"strat_slab\":\"necunoscut\"}",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraExtrapolareEvolutiva: {\"metoda_aleasa\":\"Trezirea stratului necunoscut\",\"gamma_prognozat\":0.601,\"strat_slab\":\"necunoscut\"}"
+    },
+    {
+      "id": "6aea5bc6eb09ff9d5fca36fe",
+      "titlu": "[BEACON info] hydraCorpTermux 2026-11-03",
+      "rezumat": "[CORP TERMUX] 0 telefoane bat în fereastra mobil (90s), 0 în fereastra protocol (10m) din 168 înregistrate. Corpul așteaptă bătaia — onest.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCorpTermux: [CORP TERMUX] 0 telefoane bat în fereastra mobil (90s), 0 în fereastra protocol (10m) din 168 înregistrate. Corpul așteaptă bătaia — onest."
+    },
+    {
+      "id": "6aea5bc58f189405020374d9",
+      "titlu": "[BEACON info] hydraCanaleRezonanta 2026-11-03",
+      "rezumat": "[CANALE REZONANȚĂ] jocuri: 6 proaspete, oportunitate 30%, hibrid | media: 73 proaspete, oportunitate 100%, hibrid | barfa: 1454 proaspete, oportunitate 100%, hibrid — bârfă trezește prin observație, j",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCanaleRezonanta: [CANALE REZONANȚĂ] jocuri: 6 proaspete, oportunitate 30%, hibrid | media: 73 proaspete, oportunitate 100%, hibrid | barfa: 1454 proaspete, oportunitate 100%, hibrid — bârfă trezește prin observație, jocurile antrenează, media reflectă."
+    },
+    {
+      "id": "6aea5bc57ec9a1122a900ddc",
+      "titlu": "[BEACON info] hydraComprimareMetabolica 2026-11-03",
+      "rezumat": "[COMPRIMARE METABOLICA] Total 6523->6523 (cap 8000, cos golit 0+0+0). Memorie activa 560->521 (cap 500): 39 comprimate -> 39 semne de carte. Harta patternuri: 1044->1001 (cap 1000, 2 harta ordin super",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraComprimareMetabolica: [COMPRIMARE METABOLICA] Total 6523->6523 (cap 8000, cos golit 0+0+0). Memorie activa 560->521 (cap 500): 39 comprimate -> 39 semne de carte. Harta patternuri: 1044->1001 (cap 1000, 2 harta ordin superior cu 90 semne). 0 digerate lent. Cercetare: 200. Unelte: 0 multifunc + 0 compar, 0 arhivate."
+    },
+    {
+      "id": "6aea5bc47152d5dd5f001d26",
+      "titlu": "[BEACON info] hydraCercetareAutonoma 2026-11-03",
+      "rezumat": "[CERCETARE] subiect (undefined) — 1/1 unghiuri, SATURAT (oprit la timp) — ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCercetareAutonoma: [CERCETARE] subiect (undefined) — 1/1 unghiuri, SATURAT (oprit la timp) — "
+    },
+    {
+      "id": "6aea5bc40a7a6813d72cf7f5",
+      "titlu": "[BEACON info] hydraVerificareMemorie 2026-11-03",
+      "rezumat": "[VERIFICARE MEMORIE] Etichetate 0, redundanță marcată 63. Harta densă: rezonanță 0.13333333333333333 pe context. Recuperare: 30 surse testate, 27 redundante confirmate, 3 restaurate.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraVerificareMemorie: [VERIFICARE MEMORIE] Etichetate 0, redundanță marcată 63. Harta densă: rezonanță 0.13333333333333333 pe context. Recuperare: 30 surse testate, 27 redundante confirmate, 3 restaurate."
+    },
+    {
+      "id": "6aea5bc314117f331ef51f51",
+      "titlu": "[BEACON info] hydraHartaEvolutiva 2026-11-03",
+      "rezumat": "[HARTĂ EVOLUTIVĂ] 22 tipare istorice vii din 2956 lecții — putere de predictibilitate deschisă la detalii noi",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraHartaEvolutiva: [HARTĂ EVOLUTIVĂ] 22 tipare istorice vii din 2956 lecții — putere de predictibilitate deschisă la detalii noi"
+    }
+  ]
+}
