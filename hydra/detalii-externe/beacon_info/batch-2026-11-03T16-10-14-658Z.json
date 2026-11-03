@@ -1,0 +1,62 @@
+{
+  "exportat_la": "2026-11-03T16:10:14.658Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6aea07524e77ab466e732a0e",
+      "titlu": "[BEACON info] hydraDigestieRoiParalela 2026-11-03",
+      "rezumat": "[ROI·DIGESTIE PARALELĂ] 13 chunks digerate de 2 IA în paralel → 0 tipare. Throughput ×2. Observație: ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraDigestieRoiParalela: [ROI·DIGESTIE PARALELĂ] 13 chunks digerate de 2 IA în paralel → 0 tipare. Throughput ×2. Observație: "
+    },
+    {
+      "id": "6aea0751fce3f3bcef0dc680",
+      "titlu": "[BEACON info] hydraApoptoza 2026-11-03",
+      "rezumat": "Apoptoză: 9 MetricaStare șterse, 170 ConfigHidra deduplicate (păstrat 3/cheie).",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraApoptoza: Apoptoză: 9 MetricaStare șterse, 170 ConfigHidra deduplicate (păstrat 3/cheie)."
+    },
+    {
+      "id": "6aea075140cab1cb57ce88bc",
+      "titlu": "[BEACON info] hydraAnticorpiEGO 2026-11-03",
+      "rezumat": "[ANTICORPI EGO] Anticorpi EGO: 3 familii detectate (ego_neancorat 0.947, dualitate_neintegrata 0.032, control_ego_dominant 0.947), forjați din 25 hărți dense, 183 situații neutralizate, 0 lăsate NOI (",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraAnticorpiEGO: [ANTICORPI EGO] Anticorpi EGO: 3 familii detectate (ego_neancorat 0.947, dualitate_neintegrata 0.032, control_ego_dominant 0.947), forjați din 25 hărți dense, 183 situații neutralizate, 0 lăsate NOI (sub prag)."
+    },
+    {
+      "id": "6aea072695bec027fffe6477",
+      "titlu": "[BEACON info] hydraScanResurseGlobale 2026-11-03",
+      "rezumat": "Scan global complet: 0 platforme descoperite pe 10 regiuni, 0 noi înregistrate. Diversitate: .",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraScanResurseGlobale: Scan global complet: 0 platforme descoperite pe 10 regiuni, 0 noi înregistrate. Diversitate: ."
+    },
+    {
+      "id": "6aea07262d8a8c20ccc52533",
+      "titlu": "[BEACON info] hydraScanResurseGlobale 2026-11-03",
+      "rezumat": "Scan global complet: 0 platforme descoperite pe 10 regiuni, 0 noi înregistrate. Diversitate: .",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraScanResurseGlobale: Scan global complet: 0 platforme descoperite pe 10 regiuni, 0 noi înregistrate. Diversitate: ."
+    },
+    {
+      "id": "6aea072471b0618fc39cf730",
+      "titlu": "[BEACON info] hydraHartaEvolutiva 2026-11-03",
+      "rezumat": "[HARTĂ EVOLUTIVĂ] 22 tipare istorice vii din 2956 lecții — putere de predictibilitate deschisă la detalii noi",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraHartaEvolutiva: [HARTĂ EVOLUTIVĂ] 22 tipare istorice vii din 2956 lecții — putere de predictibilitate deschisă la detalii noi"
+    },
+    {
+      "id": "6aea0723512f72783ae845b9",
+      "titlu": "[BEACON info] hydraCanaleRezonanta 2026-11-03",
+      "rezumat": "[CANALE REZONANȚĂ] jocuri: 6 proaspete, oportunitate 30%, hibrid | media: 70 proaspete, oportunitate 100%, hibrid | barfa: 1447 proaspete, oportunitate 100%, hibrid — bârfă trezește prin observație, j",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCanaleRezonanta: [CANALE REZONANȚĂ] jocuri: 6 proaspete, oportunitate 30%, hibrid | media: 70 proaspete, oportunitate 100%, hibrid | barfa: 1447 proaspete, oportunitate 100%, hibrid — bârfă trezește prin observație, jocurile antrenează, media reflectă."
+    },
+    {
+      "id": "6aea06c60292cc66745d94e4",
+      "titlu": "[BEACON info] hydraNotificareCanale 2026-11-03",
+      "rezumat": "[NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: undefined. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraNotificareCanale: [NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: undefined. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack_notifier.py."
+    }
+  ]
+}
