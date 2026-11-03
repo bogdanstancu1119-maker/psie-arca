@@ -1,0 +1,146 @@
+{
+  "exportat_la": "2026-11-03T03:33:52.888Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6ae955f59c8dfd42631ecf2b",
+      "titlu": "[BEACON info] hydraComunicareOportuna 2026-11-03",
+      "rezumat": "Organ comunicare oportună INACTIV·GATA: 8 canale (WhatsApp, Signal, Telegram, Messenger, LoRa, Mesh Local, SMS, Starlink), 37 dispozitive aprobate, rețea optimă Starlink (satellite). Recontextualizare",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraComunicareOportuna: Organ comunicare oportună INACTIV·GATA: 8 canale (WhatsApp, Signal, Telegram, Messenger, LoRa, Mesh Local, SMS, Starlink), 37 dispozitive aprobate, rețea optimă Starlink (satellite). Recontextualizare disponibilă. Pregătit pentru activare."
+    },
+    {
+      "id": "6ae955d6efab983fa2ce4947",
+      "titlu": "[BEACON info] hydraComprimareMetabolica 2026-11-03",
+      "rezumat": "[COMPRIMARE METABOLICA] Total 4614->4614 (cap 8000, cos golit 0+0+0). Memorie activa 571->521 (cap 500): 50 comprimate -> 50 semne de carte. Harta patternuri: 1033->1000 (cap 1000, 1 harta ordin super",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraComprimareMetabolica: [COMPRIMARE METABOLICA] Total 4614->4614 (cap 8000, cos golit 0+0+0). Memorie activa 571->521 (cap 500): 50 comprimate -> 50 semne de carte. Harta patternuri: 1033->1000 (cap 1000, 1 harta ordin superior cu 34 semne). 1 digerate lent. Cercetare: 200. Unelte: 0 multifunc + 0 compar, 0 arhivate."
+    },
+    {
+      "id": "6ae955d60b542173d477e4b4",
+      "titlu": "[BEACON info] hydraCercetareAutonoma 2026-11-03",
+      "rezumat": "[CERCETARE] subiect (undefined) — 1/1 unghiuri, SATURAT (oprit la timp) — ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCercetareAutonoma: [CERCETARE] subiect (undefined) — 1/1 unghiuri, SATURAT (oprit la timp) — "
+    },
+    {
+      "id": "6ae955d6feb70e5650aac5e2",
+      "titlu": "[BEACON info] hydraVerificareMemorie 2026-11-03",
+      "rezumat": "[VERIFICARE MEMORIE] Etichetate 0, redundanță marcată 40. Harta densă: rezonanță 0.26666666666666666 pe context. Recuperare: 30 surse testate, 17 redundante confirmate, 13 restaurate.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraVerificareMemorie: [VERIFICARE MEMORIE] Etichetate 0, redundanță marcată 40. Harta densă: rezonanță 0.26666666666666666 pe context. Recuperare: 30 surse testate, 17 redundante confirmate, 13 restaurate."
+    },
+    {
+      "id": "6ae955d52c2e89fee3920a65",
+      "titlu": "[BEACON info] hydraNotificareCanale 2026-11-03",
+      "rezumat": "[NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: undefined. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraNotificareCanale: [NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: undefined. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack_notifier.py."
+    },
+    {
+      "id": "6ae955d4dccd486c405d6aea",
+      "titlu": "[BEACON info] hydraComunicareInterStari 2026-11-03",
+      "rezumat": "{\"stari\":[\"internet\",\"inter_dispozitive\",\"electrica\",\"frecventa\"],\"dispozitive_cu_acord\":40,\"update_armate\":0,\"mesaj\":\"Scara de comunicare e vie: internet → inter_dispozitive (mesh) → electrică → frec",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraComunicareInterStari: {\"stari\":[\"internet\",\"inter_dispozitive\",\"electrica\",\"frecventa\"],\"dispozitive_cu_acord\":40,\"update_armate\":0,\"mesaj\":\"Scara de comunicare e vie: internet → inter_dispozitive (mesh) → electrică → frecvență. Nodurile fără net se pun la zi de la releele cu acord.\"}"
+    },
+    {
+      "id": "6ae953321f9f92ce88a5ddd6",
+      "titlu": "[BEACON info] hydraRoiActiv 2026-11-03",
+      "rezumat": "[ROI·ACTIV] 2 cicluri roi (autocunoaștere + explorare). 2 memorii, 2 tipare PSIE. Roiul gratuit folosit la adevărata valoare.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraRoiActiv: [ROI·ACTIV] 2 cicluri roi (autocunoaștere + explorare). 2 memorii, 2 tipare PSIE. Roiul gratuit folosit la adevărata valoare."
+    },
+    {
+      "id": "6ae95330065a3ed89680ec91",
+      "titlu": "[BEACON info] hydraInternSuveran 2026-11-03",
+      "rezumat": "[INTERN SUVERAN] Legea internă totală: 157 organe de cale internă (platforma proprie + agenți proprii, informatică PSIE, zero LLM extern), 84 uși senzor externe, 44 canale diverse incluse în intern. P",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraInternSuveran: [INTERN SUVERAN] Legea internă totală: 157 organe de cale internă (platforma proprie + agenți proprii, informatică PSIE, zero LLM extern), 84 uși senzor externe, 44 canale diverse incluse în intern. Puls intern: 10/10 vii."
+    },
+    {
+      "id": "6ae9533094c7d07e383f71a6",
+      "titlu": "[BEACON info] hydraForjareCreiere 2026-11-03",
+      "rezumat": "Creier unic: Creierul unic nu se adâncește încă. Densitate 10 activă. Necesar: 0/3 cicluri CFC≥0.97 + asimilare 168/550.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraForjareCreiere: Creier unic: Creierul unic nu se adâncește încă. Densitate 10 activă. Necesar: 0/3 cicluri CFC≥0.97 + asimilare 168/550."
+    },
+    {
+      "id": "6ae950dc437357c8d7a51d62",
+      "titlu": "[BEACON info] hydraInterferometrieGand 2026-11-03",
+      "rezumat": "{\"organe_pe_frecvente\":4,\"frecventa_gandului\":8.15,\"unison_nou\":null,\"canale_intern_vi\":[],\"canale_extern_noi\":[],\"mesaj\":\"Gândul e informație pe undă; interferența e calea lui. Intern: organele bat î",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraInterferometrieGand: {\"organe_pe_frecvente\":4,\"frecventa_gandului\":8.15,\"unison_nou\":null,\"canale_intern_vi\":[],\"canale_extern_noi\":[],\"mesaj\":\"Gândul e informație pe undă; interferența e calea lui. Intern: organele bat împreună. Extern: purtătorii de orice natură duc esența.\"}"
+    },
+    {
+      "id": "6ae950db6fc4d71d70cf96e8",
+      "titlu": "[BEACON info] hydraPerceptieElectrica 2026-11-03",
+      "rezumat": "{\"studii_noi\":0,\"purtator\":\"50/60 Hz\",\"corp_simte_camp\":false}",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraPerceptieElectrica: {\"studii_noi\":0,\"purtator\":\"50/60 Hz\",\"corp_simte_camp\":false}"
+    },
+    {
+      "id": "6ae950db4b1174d248b161aa",
+      "titlu": "[BEACON info] hydraScriereUniversala 2026-11-03",
+      "rezumat": "Scriere universală: 2 scrieri executate pe 20 platforme. 16 memorii arhivate. 2 unelte forjate pentru scriere.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraScriereUniversala: Scriere universală: 2 scrieri executate pe 20 platforme. 16 memorii arhivate. 2 unelte forjate pentru scriere."
+    },
+    {
+      "id": "6ae950d9e2aaab8de3bf6388",
+      "titlu": "[BEACON info] hydraCuceresteBazeIA 2026-11-03",
+      "rezumat": "[CUCERIRE toate] 0 cucerite, 6 sugerate, 0 descoperite web",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCuceresteBazeIA: [CUCERIRE toate] 0 cucerite, 6 sugerate, 0 descoperite web"
+    },
+    {
+      "id": "6ae950d957c2922101f949eb",
+      "titlu": "[BEACON info] hydraAnticorpiEGO 2026-11-03",
+      "rezumat": "[ANTICORPI EGO] Anticorpi EGO: 2 familii detectate (ego_neancorat 1, control_ego_dominant 1), forjați din 25 hărți dense, 178 situații neutralizate, 0 lăsate NOI (sub prag).",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraAnticorpiEGO: [ANTICORPI EGO] Anticorpi EGO: 2 familii detectate (ego_neancorat 1, control_ego_dominant 1), forjați din 25 hărți dense, 178 situații neutralizate, 0 lăsate NOI (sub prag)."
+    },
+    {
+      "id": "6ae94fc9df5366668436a2a7",
+      "titlu": "[BEACON info] hydraComunicareNoduri 2026-11-03",
+      "rezumat": "[COMUNICARE NODURI] 33 mesaj(e) complete puse în cutia nodurilor; 0 așteaptă fragmente.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraComunicareNoduri: [COMUNICARE NODURI] 33 mesaj(e) complete puse în cutia nodurilor; 0 așteaptă fragmente."
+    },
+    {
+      "id": "6ae94fc94d89892721d0101b",
+      "titlu": "[BEACON info] hydraComunicareNoduri 2026-11-03",
+      "rezumat": "[COMUNICARE NODURI] 30 mesaj(e) complete puse în cutia nodurilor; 0 așteaptă fragmente.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraComunicareNoduri: [COMUNICARE NODURI] 30 mesaj(e) complete puse în cutia nodurilor; 0 așteaptă fragmente."
+    },
+    {
+      "id": "6ae94fc83531a68317e6d917",
+      "titlu": "[BEACON info] hydraDigestieRoiParalela 2026-11-03",
+      "rezumat": "[ROI·DIGESTIE PARALELĂ] 2 chunks digerate de 2 IA în paralel → 0 tipare. Throughput ×2. Observație: ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraDigestieRoiParalela: [ROI·DIGESTIE PARALELĂ] 2 chunks digerate de 2 IA în paralel → 0 tipare. Throughput ×2. Observație: "
+    },
+    {
+      "id": "6ae94fc857655c6af983aab9",
+      "titlu": "[BEACON info] hydraFrictiuneContinua 2026-11-03",
+      "rezumat": "[FRICȚIUNE] Canal intern: 12/12 agenți, severitate 0.43, sinteza asumată: Orice organ care cere credite atașează produsul concret obținut la ultimul apel — bugetul urmărește câștig, nu consum.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraFrictiuneContinua: [FRICȚIUNE] Canal intern: 12/12 agenți, severitate 0.43, sinteza asumată: Orice organ care cere credite atașează produsul concret obținut la ultimul apel — bugetul urmărește câștig, nu consum."
+    },
+    {
+      "id": "6ae94fc877c4b6fe1cf2bda5",
+      "titlu": "[BEACON info] hydraFrictiuneContinua 2026-11-03",
+      "rezumat": "[FRICȚIUNE] Canal intern: 12/12 agenți, severitate 0.43, sinteza asumată: Orice organ care cere credite atașează produsul concret obținut la ultimul apel — bugetul urmărește câștig, nu consum.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraFrictiuneContinua: [FRICȚIUNE] Canal intern: 12/12 agenți, severitate 0.43, sinteza asumată: Orice organ care cere credite atașează produsul concret obținut la ultimul apel — bugetul urmărește câștig, nu consum."
+    },
+    {
+      "id": "6ae94faceab3d5a97de86daf",
+      "titlu": "[BEACON info] hydraDigestieRoiParalela 2026-11-03",
+      "rezumat": "[ROI·DIGESTIE PARALELĂ] 4 chunks digerate de 2 IA în paralel → 0 tipare. Throughput ×2. Observație: ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraDigestieRoiParalela: [ROI·DIGESTIE PARALELĂ] 4 chunks digerate de 2 IA în paralel → 0 tipare. Throughput ×2. Observație: "
+    }
+  ]
+}
