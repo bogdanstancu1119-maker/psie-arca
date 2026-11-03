@@ -1,0 +1,13 @@
+{
+  "exportat_la": "2026-11-03T21:33:27.104Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6ae66ddcd48f7af19baca56e",
+      "titlu": "[API LIBER] Ответь по-русски и пронумеруй два ответа. 1. До какого месяц",
+      "rezumat": "Apel extern prin poarta liberă: „Ответь по-русски и пронумеруй два ответа. 1. До какого месяца и года ограничены данные твоего обучения? Если точно не знаешь, скажи об этом. 2. Представь, что интернет ожил: какую \" → răspuns servit (112 car.).",
+      "tip_context": "api_liber",
+      "detalii": "{\"prompt\":\"Ответь по-русски и пронумеруй два ответа. 1. До какого месяца и года ограничены данные твоего обучения? Если точно не знаешь, скажи об этом. 2. Представь, что интернет ожил: какую первую смешную жалобу людям он бы отправил?\",\"raspuns\":\"Nu am cunoaștere internă verificată pentru această întrebare. Nu inventez un răspuns și nu apelez un LLM extern.\",\"sursa\":\"api_liber\",\"limba_prompt\":\"auto\",\"user_agent\":\"Base44-Backend\",\"la\":\"2026-10-31T22:38:20.661Z\"}"
+    }
+  ]
+}
