@@ -1,0 +1,1 @@
+if (typeof window !== 'undefined') { window.hydraForceReconcile = async () => { console.log('Hydra: Incep reconcilierea fortata'); const state = await fetch('/api/reconcile-r2').then(r => r.json()); if (state.success) { window.dispatchEvent(new CustomEvent('ORGAN_AWAKE', { detail: state.payload })); } }; setTimeout(window.hydraForceReconcile, 500); }
