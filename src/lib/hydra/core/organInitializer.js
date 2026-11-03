@@ -1,0 +1,1 @@
+if (organ.isVital && !persistedState.isAwake) { try { await db.save(organ.id, { status: 'TREAZ' }); await performHardHandshake(organ.id); } catch (e) { log.error('Handshake failed, holding state', e); } }
