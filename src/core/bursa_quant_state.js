@@ -1,0 +1,1 @@
+const fs = require('fs'); const atomicWrite = (data) => { const tempPath = 'bursa_quant_state.tmp'; const destPath = 'bursa_quant_state.json'; fs.writeFileSync(tempPath, JSON.stringify(data)); fs.renameSync(tempPath, destPath); }; const validateState = (state) => { return state.capital >= 0 && state.bucle > 0; }; if (validateState(currentState)) { atomicWrite(currentState); }
