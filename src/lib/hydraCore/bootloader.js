@@ -1,0 +1,1 @@
+const ForceWakeUp = (organs) => { const vitalList = ['hydraBinanceOrdine', 'hydraDeblocareInvestitie', 'hydraRecuperareBani', 'hydraCheiInfra', 'hydraDonateCapacity', 'organCloud_deepinfra']; vitalList.forEach(name => { if (!organs[name] || organs[name].stare !== 'viu') { console.log(`[REINVIERE] Fortare pornire organ: ${name}`); triggerManualInit(name); } }); };
