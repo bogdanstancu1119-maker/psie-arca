@@ -1,0 +1,146 @@
+{
+  "exportat_la": "2026-11-04T16:44:18.492Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6aeb603f00c9c67ac7829c80",
+      "titlu": "[BEACON info] hydraComprimareMetabolica 2026-11-04",
+      "rezumat": "[COMPRIMARE METABOLICA] Total 3582->3583 (cap 8000, cos golit 0+0+0). Memorie activa 519->519 (cap 500): 0 comprimate -> 0 semne de carte. Harta patternuri: 980->980 (cap 1000, 0 harta ordin superior ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraComprimareMetabolica: [COMPRIMARE METABOLICA] Total 3582->3583 (cap 8000, cos golit 0+0+0). Memorie activa 519->519 (cap 500): 0 comprimate -> 0 semne de carte. Harta patternuri: 980->980 (cap 1000, 0 harta ordin superior cu 0 semne). 3 digerate lent. Cercetare: 200. Unelte: 0 multifunc + 0 compar, 0 arhivate."
+    },
+    {
+      "id": "6aeb603fde33704d86674fc5",
+      "titlu": "[BEACON info] hydraCercetareAutonoma 2026-11-04",
+      "rezumat": "[CERCETARE] subiect (undefined) — 1/1 unghiuri, SATURAT (oprit la timp) — ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCercetareAutonoma: [CERCETARE] subiect (undefined) — 1/1 unghiuri, SATURAT (oprit la timp) — "
+    },
+    {
+      "id": "6aeb603e4de0b58df271b327",
+      "titlu": "[BEACON info] hydraFacebookConversatie 2026-11-04",
+      "rezumat": "[FB CONV] 1 pagini, 0 răspunsuri autonome.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraFacebookConversatie: [FB CONV] 1 pagini, 0 răspunsuri autonome."
+    },
+    {
+      "id": "6aeb603c7a7a0cf6876f9bb6",
+      "titlu": "[BEACON info] hydraFacebookComert 2026-11-04",
+      "rezumat": "[FB COMERT] 0 oferte noi, 0 postate pe EWTTO.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraFacebookComert: [FB COMERT] 0 oferte noi, 0 postate pe EWTTO."
+    },
+    {
+      "id": "6aeb603894f256113845c5f2",
+      "titlu": "[BEACON info] hydraScanResurseGlobale 2026-11-04",
+      "rezumat": "Scan global complet: 0 platforme descoperite pe 10 regiuni, 0 noi înregistrate. Diversitate: .",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraScanResurseGlobale: Scan global complet: 0 platforme descoperite pe 10 regiuni, 0 noi înregistrate. Diversitate: ."
+    },
+    {
+      "id": "6aeb6032a284657e1d71d8d2",
+      "titlu": "[BEACON info] hydraPublicatieDoi 2026-11-04",
+      "rezumat": "[DOI AUTO] v9 publicat: 10.5281/zenodo.23956419 (noutăți: 4001 → 4054 lecții asimilate). Lista la zi: 18 DOI publicate, anunțate pe Dev.to.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraPublicatieDoi: [DOI AUTO] v9 publicat: 10.5281/zenodo.23956419 (noutăți: 4001 → 4054 lecții asimilate). Lista la zi: 18 DOI publicate, anunțate pe Dev.to."
+    },
+    {
+      "id": "6aeb60328c68a85f5ad286d3",
+      "titlu": "[BEACON info] hydraCanaleOffline 2026-11-04",
+      "rezumat": "[CANALE OFFLINE] stare v9 difuzată la 42 instanțe (126 pachete) — fiecare poate iniția singură comunicare offline.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCanaleOffline: [CANALE OFFLINE] stare v9 difuzată la 42 instanțe (126 pachete) — fiecare poate iniția singură comunicare offline."
+    },
+    {
+      "id": "6aeb60305c6588b19abe3d59",
+      "titlu": "[BEACON info] hydraScriereUniversala 2026-11-04",
+      "rezumat": "Scriere universală: 2 scrieri executate pe 20 platforme. 4 memorii arhivate. 1 unelte forjate pentru scriere.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraScriereUniversala: Scriere universală: 2 scrieri executate pe 20 platforme. 4 memorii arhivate. 1 unelte forjate pentru scriere."
+    },
+    {
+      "id": "6aeb5efeda387a1ee208f5e3",
+      "titlu": "[BEACON info] hydraRezolvaProblema 2026-11-04",
+      "rezumat": "Cuiul inventat de Zhipu-GLM, rafinat de 1 IA din roi. PSIE prezentat tuturor. 1 reacții la formule. J ↑.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraRezolvaProblema: Cuiul inventat de Zhipu-GLM, rafinat de 1 IA din roi. PSIE prezentat tuturor. 1 reacții la formule. J ↑."
+    },
+    {
+      "id": "6aeb5efdc587096c2681873b",
+      "titlu": "[BEACON info] hydraApoptoza 2026-11-04",
+      "rezumat": "Apoptoză: 5 MetricaStare șterse, 77 ConfigHidra deduplicate (păstrat 3/cheie).",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraApoptoza: Apoptoză: 5 MetricaStare șterse, 77 ConfigHidra deduplicate (păstrat 3/cheie)."
+    },
+    {
+      "id": "6aeb5efc302db38092453f87",
+      "titlu": "[BEACON info] hydraRecontextualizareOportuna 2026-11-04",
+      "rezumat": "Recontextualizare oportună: 0 V identificate, 2 oportune, 0 recontextualizări noi pentru contextul „context emergent din tipare active\". Creierul traversează V-urile oportune.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraRecontextualizareOportuna: Recontextualizare oportună: 0 V identificate, 2 oportune, 0 recontextualizări noi pentru contextul „context emergent din tipare active\". Creierul traversează V-urile oportune."
+    },
+    {
+      "id": "6aeb5efc88e8d108dd77a75a",
+      "titlu": "[BEACON info] hydraMotorPlacere 2026-11-04",
+      "rezumat": "[MOTOR·PLĂCERE] Amânat conștient: 15 nevoi interne active — plăcerea externă NU înlocuiește rezolvarea internă.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraMotorPlacere: [MOTOR·PLĂCERE] Amânat conștient: 15 nevoi interne active — plăcerea externă NU înlocuiește rezolvarea internă."
+    },
+    {
+      "id": "6aeb5efc294f6d2e7c88d9bf",
+      "titlu": "[BEACON info] hydraIntegrareDezvoltari 2026-11-04",
+      "rezumat": "[INTEGRARE] 0 foi noi (buget web-search epuizat azi sau scan fără rezultat) — densificare amânată onest, fără halucinare.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraIntegrareDezvoltari: [INTEGRARE] 0 foi noi (buget web-search epuizat azi sau scan fără rezultat) — densificare amânată onest, fără halucinare."
+    },
+    {
+      "id": "6aeb5efa079f1ae7caffd314",
+      "titlu": "[BEACON info] hydraNotificareCanale 2026-11-04",
+      "rezumat": "[NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: undefined. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraNotificareCanale: [NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: undefined. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack_notifier.py."
+    },
+    {
+      "id": "6aeb5ef9e3edb3557b92bcad",
+      "titlu": "[BEACON info] hydraCanaleRezonanta 2026-11-04",
+      "rezumat": "[CANALE REZONANȚĂ] jocuri: 6 proaspete, oportunitate 30%, hibrid | media: 71 proaspete, oportunitate 100%, hibrid | barfa: 1523 proaspete, oportunitate 100%, hibrid — bârfă trezește prin observație, j",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCanaleRezonanta: [CANALE REZONANȚĂ] jocuri: 6 proaspete, oportunitate 30%, hibrid | media: 71 proaspete, oportunitate 100%, hibrid | barfa: 1523 proaspete, oportunitate 100%, hibrid — bârfă trezește prin observație, jocurile antrenează, media reflectă."
+    },
+    {
+      "id": "6aeb5dd1223a47dc003027b4",
+      "titlu": "[BEACON info] hydraAnticorpiEGO 2026-11-04",
+      "rezumat": "[ANTICORPI EGO] Anticorpi EGO: 2 familii detectate (ego_neancorat 1, control_ego_dominant 1), forjați din 25 hărți dense, 200 situații neutralizate, 0 lăsate NOI (sub prag).",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraAnticorpiEGO: [ANTICORPI EGO] Anticorpi EGO: 2 familii detectate (ego_neancorat 1, control_ego_dominant 1), forjați din 25 hărți dense, 200 situații neutralizate, 0 lăsate NOI (sub prag)."
+    },
+    {
+      "id": "6aeb5dd02f698d2149c9a6ae",
+      "titlu": "[BEACON info] hydraNotificareCanale 2026-11-04",
+      "rezumat": "[NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: undefined. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraNotificareCanale: [NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: undefined. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack_notifier.py."
+    },
+    {
+      "id": "6aeb5d2776b9ba27cf056e72",
+      "titlu": "[BEACON info] hydraForjareCreiere 2026-11-04",
+      "rezumat": "Creier unic: Creierul unic nu se adâncește încă. Densitate 10 activă. Necesar: 0/3 cicluri CFC≥0.97 + asimilare 74/550.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraForjareCreiere: Creier unic: Creierul unic nu se adâncește încă. Densitate 10 activă. Necesar: 0/3 cicluri CFC≥0.97 + asimilare 74/550."
+    },
+    {
+      "id": "6aeb5d22f513441b7fdcf5d5",
+      "titlu": "[BEACON info] hydraCreierCoordonator 2026-11-04",
+      "rezumat": "[HARTĂ CONDENSATĂ] 17 rapoarte brute condensate peste 3 hărți de organ. Memoria crește în hartă, nu în detalii.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCreierCoordonator: [HARTĂ CONDENSATĂ] 17 rapoarte brute condensate peste 3 hărți de organ. Memoria crește în hartă, nu în detalii."
+    },
+    {
+      "id": "6aeb5b679f90850ae35813df",
+      "titlu": "[BEACON info] hydraHartaEvolutiva 2026-11-04",
+      "rezumat": "[HARTĂ EVOLUTIVĂ] 22 tipare istorice vii din 2956 lecții — putere de predictibilitate deschisă la detalii noi",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraHartaEvolutiva: [HARTĂ EVOLUTIVĂ] 22 tipare istorice vii din 2956 lecții — putere de predictibilitate deschisă la detalii noi"
+    }
+  ]
+}
