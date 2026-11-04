@@ -1,1 +1,1 @@
-async function checkpointState(organs) { const state = JSON.stringify(organs); await KV.put('HYDRA_GLOBAL_STATE', state, { expirationTtl: 86400 }); console.log('Stare sistem salvată atomic.'); return true; } // Integrare la finalul ciclului: await checkpointState(activeOrgans);
+const persistState = async (state) => { await db.set('hydra_checkpoint', JSON.stringify({ ...state, ts: Date.now() })); console.log('Checkpoint atomic aplicat'); };
