@@ -1,0 +1,1 @@
+const dedupSesiuni = (sesiuni) => { const map = new Map(); sesiuni.forEach(s => { if (map.has(s.nod_id)) { s.stare = 'arhivata'; } else { map.set(s.nod_id, s); } }); return Array.from(map.values()); };
