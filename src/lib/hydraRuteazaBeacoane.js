@@ -1,0 +1,1 @@
+const hydraRuteazaBeacoane = (beacone) => { if (beacone.length > 30) { console.warn('Supraîncărcare: activare circuit breaker'); return beacone.slice(-20).map(b => process(b)); } return beacone.map(b => process(b)); };
