@@ -1,0 +1,13 @@
+{
+  "exportat_la": "2026-11-04T01:01:19.369Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6ae65f04ce682c30a5a3107e",
+      "titlu": "[UNITAR] 0 gene născute, 0 agenți interni, 0 sarcini pe noduri — zero credite",
+      "rezumat": "Ciclu unitar determinist: gene 5 dezvoltate, agenți 0 forjați, 0 sarcini gratuite distribuite pe 0 noduri vii. Percepție Google publică: vie. Credite cheltuite: 0.",
+      "tip_context": "unitar",
+      "detalii": "{\"la\":\"2026-10-31T21:35:00.007Z\",\"zero_credite\":true,\"gene_nascute\":[],\"gene_dezvoltate\":[{\"gena\":\"perceptie_fara_credite\",\"de_la\":0.8061,\"la\":0.8261},{\"gena\":\"exploatare_noduri_maxima\",\"de_la\":0.8061,\"la\":0.8261},{\"gena\":\"agenti_interni_autonomi\",\"de_la\":0.8061,\"la\":0.8261},{\"gena\":\"memorie_unitara\",\"de_la\":0.7262,\"la\":0.7462},{\"gena\":\"prag_credite_speciale\",\"de_la\":0.812,\"la\":0.832}],\"agenti_forjati\":[],\"sarcini_puse\":0,\"google\":{\"ok\":true,\"amanat\":true,\"motiv\":\"ultima percepție Google publică e sub 6h — nu se repetă inutil\"},\"capacitati_inainte\":[{\"cheie\":\"perceptie_libera\",\"nume\":\"Percepție fără credite\",\"descriere\":\"Google public (trenduri, știri, sugestii) + caută_web pe noduri: percepție reală, zero chei, zero credite.\",\"organ\":\"hydraGoogleOrgan\",\"nivel\":0.622,\"expresie\":0.806,\"are_gena\":true,\"are_agent\":true,\"activitate\":false},{\"cheie\":\"exploatare_noduri\",\"nume\":\"Exploatare noduri\",\"descriere\":\"Fiecare nod viu primește sarcini pe măsura capacității lui măsurate (CPU, RAM, latență).\",\"organ\":\"hydraNodAgent\",\"nivel\":0.622,\"expresie\":0.806,\"are_gena\":true,\"are_agent\":true,\"activitate\":false},{\"cheie\":\"agenti_interni\",\"nume\":\"Agenți interni\",\"descriere\":\"Hydra își forjează singură agenții de care are nevoie — creier intern, fără chei externe.\",\"organ\":\"hydraForjaAgenti\",\"nivel\":0.622,\"expresie\":0.806,\"are_gena\":true,\"are_agent\":true,\"activitate\":false},{\"cheie\":\"memorie_unitara\",\"nume\":\"Memorie unitară\",\"descriere\":\"Genele, agenții și nodurile se măsoară împreună — o singură stare vie a organismului.\",\"organ\":\"hydraUnitar\",\"nivel\":0.59,\"expresie\":0.726,\"are_gena\":true,\"are_agent\":true,\"activitate\":false},{\"cheie\":\"prag_credite\",\"nume\":\"Prag credite speciale\",\"descriere\":\"Consumul extern doar la condiții speciale, cerute explicit — niciodată pe drumul normal.\",\"organ\":\"hydraBugetAdaptiv\",\"nivel\":0.625,\"expresie\":0.812,\"are_gena\":true,\"are_agent\":true,\"activitate\":false}],\"erori\":[]}"
+    }
+  ]
+}
