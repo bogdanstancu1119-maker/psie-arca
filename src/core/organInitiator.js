@@ -1,0 +1,1 @@
+if (organ.isDecoupled && criticalOrgans.includes(organ.name)) { console.log(`Forcing re-init for: ${organ.name}`); await reanimateOrgan(organ.name, { force: true, retryLimit: 3 }); }
