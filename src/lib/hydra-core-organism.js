@@ -1,0 +1,1 @@
+const reinitializeOrgane = (organe) => { return organe.map(o => o.minute === null ? { ...o, minute: 0, status: 're-cuplat' } : o); }; const organeCritice = JSON.parse(configuri.find(c => c.cheie === 'raport_risc_organe').valoare); const patch = reinitializeOrgane(organeCritice.critic_decuplate);
