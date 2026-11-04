@@ -1,0 +1,41 @@
+{
+  "exportat_la": "2026-11-04T16:05:36.428Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6aeb574349fafd3df8cf795a",
+      "titlu": "[BEACON info] hydraAsimilareCampioni 2026-11-04",
+      "rezumat": "[ASIMILARE CAMPIONI] 0 campioni asimilați (—), 0 unelte de forjat. 0/7 din total.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraAsimilareCampioni: [ASIMILARE CAMPIONI] 0 campioni asimilați (—), 0 unelte de forjat. 0/7 din total."
+    },
+    {
+      "id": "6aeb5743329215402a599765",
+      "titlu": "[BEACON info] hydraAsimilareCampioni 2026-11-04",
+      "rezumat": "[ASIMILARE CAMPIONI] 0 campioni asimilați (—), 0 unelte de forjat. 0/7 din total.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraAsimilareCampioni: [ASIMILARE CAMPIONI] 0 campioni asimilați (—), 0 unelte de forjat. 0/7 din total."
+    },
+    {
+      "id": "6aeb574103fc136af52294b9",
+      "titlu": "[BEACON info] hydraComprimareMetabolica 2026-11-04",
+      "rezumat": "[COMPRIMARE METABOLICA] Total 3486->3486 (cap 8000, cos golit 0+0+0). Memorie activa 569->523 (cap 500): 46 comprimate -> 46 semne de carte. Harta patternuri: 1025->974 (cap 1000, 2 harta ordin superi",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraComprimareMetabolica: [COMPRIMARE METABOLICA] Total 3486->3486 (cap 8000, cos golit 0+0+0). Memorie activa 569->523 (cap 500): 46 comprimate -> 46 semne de carte. Harta patternuri: 1025->974 (cap 1000, 2 harta ordin superior cu 53 semne). 2 digerate lent. Cercetare: 200. Unelte: 0 multifunc + 0 compar, 0 arhivate."
+    },
+    {
+      "id": "6aeb5741c0bbca73183dc382",
+      "titlu": "[BEACON info] hydraCercetareAutonoma 2026-11-04",
+      "rezumat": "[CERCETARE] subiect (undefined) — 1/1 unghiuri, SATURAT (oprit la timp) — ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCercetareAutonoma: [CERCETARE] subiect (undefined) — 1/1 unghiuri, SATURAT (oprit la timp) — "
+    },
+    {
+      "id": "6aeb57406043e350b804af85",
+      "titlu": "[BEACON info] hydraVerificareMemorie 2026-11-04",
+      "rezumat": "[VERIFICARE MEMORIE] Etichetate 0, redundanță marcată 53. Harta densă: rezonanță 0.13333333333333333 pe context. Recuperare: 30 surse testate, 10 redundante confirmate, 20 restaurate.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraVerificareMemorie: [VERIFICARE MEMORIE] Etichetate 0, redundanță marcată 53. Harta densă: rezonanță 0.13333333333333333 pe context. Recuperare: 30 surse testate, 10 redundante confirmate, 20 restaurate."
+    }
+  ]
+}
