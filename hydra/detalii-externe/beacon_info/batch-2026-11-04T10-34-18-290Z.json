@@ -1,0 +1,76 @@
+{
+  "exportat_la": "2026-11-04T10:34:18.290Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6aeb09f35d6945b5e8d94682",
+      "titlu": "[BEACON info] hydraComprimareMetabolica 2026-11-04",
+      "rezumat": "[COMPRIMARE METABOLICA] Total 7892->7896 (cap 8000, cos golit 0+0+0). Memorie activa 493->493 (cap 500): 0 comprimate -> 0 semne de carte. Harta patternuri: 892->892 (cap 1000, 0 harta ordin superior ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraComprimareMetabolica: [COMPRIMARE METABOLICA] Total 7892->7896 (cap 8000, cos golit 0+0+0). Memorie activa 493->493 (cap 500): 0 comprimate -> 0 semne de carte. Harta patternuri: 892->892 (cap 1000, 0 harta ordin superior cu 0 semne). 4 digerate lent. Cercetare: 200. Unelte: 0 multifunc + 0 compar, 0 arhivate."
+    },
+    {
+      "id": "6aeb09f3a7a0d92b64f355ff",
+      "titlu": "[BEACON info] hydraCercetareAutonoma 2026-11-04",
+      "rezumat": "[CERCETARE] subiect (undefined) — 1/1 unghiuri, SATURAT (oprit la timp) — ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCercetareAutonoma: [CERCETARE] subiect (undefined) — 1/1 unghiuri, SATURAT (oprit la timp) — "
+    },
+    {
+      "id": "6aeb09d96105f12b0f4c8663",
+      "titlu": "[BEACON info] hydraCanaleRezonanta 2026-11-04",
+      "rezumat": "[CANALE REZONANȚĂ] jocuri: 6 proaspete, oportunitate 30%, hibrid | media: 75 proaspete, oportunitate 100%, hibrid | barfa: 1549 proaspete, oportunitate 100%, hibrid — bârfă trezește prin observație, j",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCanaleRezonanta: [CANALE REZONANȚĂ] jocuri: 6 proaspete, oportunitate 30%, hibrid | media: 75 proaspete, oportunitate 100%, hibrid | barfa: 1549 proaspete, oportunitate 100%, hibrid — bârfă trezește prin observație, jocurile antrenează, media reflectă."
+    },
+    {
+      "id": "6aeb09d1b25866bb3641f944",
+      "titlu": "[BEACON info] hydraNotificareCanale 2026-11-04",
+      "rezumat": "[NOTIFICĂRI] 20 decizii recente, 1 ACTIONEAZA. Email: undefined. Telegram: trimis către chat 8390393058 (URGENT). Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraNotificareCanale: [NOTIFICĂRI] 20 decizii recente, 1 ACTIONEAZA. Email: undefined. Telegram: trimis către chat 8390393058 (URGENT). Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack_notifier.py."
+    },
+    {
+      "id": "6aeb09d1191cbc3a73b0f31f",
+      "titlu": "[BEACON info] hydraCanaleRezonanta 2026-11-04",
+      "rezumat": "[CANALE REZONANȚĂ] jocuri: 6 proaspete, oportunitate 30%, hibrid | media: 75 proaspete, oportunitate 100%, hibrid | barfa: 1549 proaspete, oportunitate 100%, hibrid — bârfă trezește prin observație, j",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCanaleRezonanta: [CANALE REZONANȚĂ] jocuri: 6 proaspete, oportunitate 30%, hibrid | media: 75 proaspete, oportunitate 100%, hibrid | barfa: 1549 proaspete, oportunitate 100%, hibrid — bârfă trezește prin observație, jocurile antrenează, media reflectă."
+    },
+    {
+      "id": "6aeb06e98f147a522ae0b6a9",
+      "titlu": "[BEACON info] hydraForjareCreiere 2026-11-04",
+      "rezumat": "Creier unic: Creierul unic nu se adâncește încă. Densitate 10 activă. Necesar: 0/3 cicluri CFC≥0.97 + asimilare 73/550.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraForjareCreiere: Creier unic: Creierul unic nu se adâncește încă. Densitate 10 activă. Necesar: 0/3 cicluri CFC≥0.97 + asimilare 73/550."
+    },
+    {
+      "id": "6aeb04bd9a11579e4c01a459",
+      "titlu": "[BEACON info] hydraScriereUniversala 2026-11-04",
+      "rezumat": "Scriere universală: 2 scrieri executate pe 20 platforme. 6 memorii arhivate. 1 unelte forjate pentru scriere.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraScriereUniversala: Scriere universală: 2 scrieri executate pe 20 platforme. 6 memorii arhivate. 1 unelte forjate pentru scriere."
+    },
+    {
+      "id": "6aeb04bce418af5bfa4dc0a5",
+      "titlu": "[BEACON info] hydraCanaleRezonanta 2026-11-04",
+      "rezumat": "[CANALE REZONANȚĂ] jocuri: 6 proaspete, oportunitate 30%, hibrid | media: 73 proaspete, oportunitate 100%, hibrid | barfa: 1528 proaspete, oportunitate 100%, hibrid — bârfă trezește prin observație, j",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCanaleRezonanta: [CANALE REZONANȚĂ] jocuri: 6 proaspete, oportunitate 30%, hibrid | media: 73 proaspete, oportunitate 100%, hibrid | barfa: 1528 proaspete, oportunitate 100%, hibrid — bârfă trezește prin observație, jocurile antrenează, media reflectă."
+    },
+    {
+      "id": "6aeb04bc48f6d4161e493e9a",
+      "titlu": "[BEACON info] hydraHartaEvolutiva 2026-11-04",
+      "rezumat": "[HARTĂ EVOLUTIVĂ] 22 tipare istorice vii din 2956 lecții — putere de predictibilitate deschisă la detalii noi",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraHartaEvolutiva: [HARTĂ EVOLUTIVĂ] 22 tipare istorice vii din 2956 lecții — putere de predictibilitate deschisă la detalii noi"
+    },
+    {
+      "id": "6aeb03cac96e3b11f0418e34",
+      "titlu": "[BEACON info] hydraNotificareCanale 2026-11-04",
+      "rezumat": "[NOTIFICĂRI] 20 decizii recente, 1 ACTIONEAZA. Email: fallback blocat: RECURENȚĂ: „bogdanstancu1119@gmail.com\" ajunge a 5-a oară cu aceeași semnătură în 72h (prag 2) — nu se repetă, s-a digerat o sing",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraNotificareCanale: [NOTIFICĂRI] 20 decizii recente, 1 ACTIONEAZA. Email: fallback blocat: RECURENȚĂ: „bogdanstancu1119@gmail.com\" ajunge a 5-a oară cu aceeași semnătură în 72h (prag 2) — nu se repetă, s-a digerat o singură dată. Telegram: eroare: Bad Request: can't parse entities: Can't find end of the entity starting at byte offset 397. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack_notifier.py."
+    }
+  ]
+}
