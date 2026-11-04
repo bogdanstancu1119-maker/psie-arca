@@ -1,0 +1,1 @@
+const digestBeacons = async (beacons) => { const snapshot = JSON.stringify({ data: beacons, timestamp: new Date().toISOString() }); await fetch('https://r2.storage.worker', { method: 'POST', body: snapshot }); return { status: 'digested' }; };
