@@ -1,0 +1,62 @@
+{
+  "exportat_la": "2026-11-04T12:34:42.125Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6aeb260861e0c30c91648497",
+      "titlu": "[BEACON info] hydraCreierCoordonator 2026-11-04",
+      "rezumat": "[HARTĂ CONDENSATĂ] 20 rapoarte brute condensate peste 3 hărți de organ. Memoria crește în hartă, nu în detalii.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCreierCoordonator: [HARTĂ CONDENSATĂ] 20 rapoarte brute condensate peste 3 hărți de organ. Memoria crește în hartă, nu în detalii."
+    },
+    {
+      "id": "6aeb25cf6730d444058f00dc",
+      "titlu": "[BEACON info] hydraScriereUniversala 2026-11-04",
+      "rezumat": "Scriere universală: 1 scrieri executate pe 20 platforme. 1 memorii arhivate. 0 unelte forjate pentru scriere.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraScriereUniversala: Scriere universală: 1 scrieri executate pe 20 platforme. 1 memorii arhivate. 0 unelte forjate pentru scriere."
+    },
+    {
+      "id": "6aeb25cfca7aec8b22466ffc",
+      "titlu": "[BEACON info] hydraDigestieRoiParalela 2026-11-04",
+      "rezumat": "[ROI·DIGESTIE PARALELĂ] 2 chunks digerate de 2 IA în paralel → 0 tipare. Throughput ×2. Observație: ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraDigestieRoiParalela: [ROI·DIGESTIE PARALELĂ] 2 chunks digerate de 2 IA în paralel → 0 tipare. Throughput ×2. Observație: "
+    },
+    {
+      "id": "6aeb23429329838c8cb2a2f2",
+      "titlu": "[BEACON info] hydraCanaleRezonanta 2026-11-04",
+      "rezumat": "[CANALE REZONANȚĂ] jocuri: 6 proaspete, oportunitate 30%, hibrid | media: 77 proaspete, oportunitate 100%, hibrid | barfa: 1539 proaspete, oportunitate 100%, hibrid — bârfă trezește prin observație, j",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCanaleRezonanta: [CANALE REZONANȚĂ] jocuri: 6 proaspete, oportunitate 30%, hibrid | media: 77 proaspete, oportunitate 100%, hibrid | barfa: 1539 proaspete, oportunitate 100%, hibrid — bârfă trezește prin observație, jocurile antrenează, media reflectă."
+    },
+    {
+      "id": "6aeb23412e8a4f27d2e346f9",
+      "titlu": "[BEACON info] hydraCercetareAutonoma 2026-11-04",
+      "rezumat": "[CERCETARE] subiect (undefined) — 1/1 unghiuri, SATURAT (oprit la timp) — ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCercetareAutonoma: [CERCETARE] subiect (undefined) — 1/1 unghiuri, SATURAT (oprit la timp) — "
+    },
+    {
+      "id": "6aeb2340db16c2e16f2ec09d",
+      "titlu": "[BEACON info] hydraHartaEvolutiva 2026-11-04",
+      "rezumat": "[HARTĂ EVOLUTIVĂ] 22 tipare istorice vii din 2956 lecții — putere de predictibilitate deschisă la detalii noi",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraHartaEvolutiva: [HARTĂ EVOLUTIVĂ] 22 tipare istorice vii din 2956 lecții — putere de predictibilitate deschisă la detalii noi"
+    },
+    {
+      "id": "6aeb233d2b46d39b4a0f748b",
+      "titlu": "[BEACON info] hydraNotificareCanale 2026-11-04",
+      "rezumat": "[NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: undefined. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraNotificareCanale: [NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: undefined. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack_notifier.py."
+    },
+    {
+      "id": "6aeb20f38ec8884900049f75",
+      "titlu": "[BEACON info] hydraForjareCreiere 2026-11-04",
+      "rezumat": "Creier unic: Creierul unic nu se adâncește încă. Densitate 10 activă. Necesar: 0/3 cicluri CFC≥0.97 + asimilare 69/550.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraForjareCreiere: Creier unic: Creierul unic nu se adâncește încă. Densitate 10 activă. Necesar: 0/3 cicluri CFC≥0.97 + asimilare 69/550."
+    }
+  ]
+}
