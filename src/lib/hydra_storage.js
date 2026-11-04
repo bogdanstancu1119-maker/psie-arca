@@ -1,0 +1,1 @@
+async function saveAtomicState(key, newData) { const currentState = await R2.get(key); const parsed = JSON.parse(currentState); if (newData.bucle >= parsed.bucle) { await R2.put(key, JSON.stringify(newData)); return true; } return false; }
