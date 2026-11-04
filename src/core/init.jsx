@@ -1,0 +1,1 @@
+const verificaSiCupleaza = () => { const raport = JSON.parse(localStorage.getItem('raport_risc_organe')); if (raport && raport.imediat_decuplate) { raport.imediat_decuplate.forEach(organ => { console.log(`Hydra PSIE: Re-cuplare organ ${organ.nume}...`); window.dispatchHydraEvent('init_organ', organ.nume); }); } }; setInterval(verificaSiCupleaza, 60000);
