@@ -1,0 +1,146 @@
+{
+  "exportat_la": "2026-11-04T19:57:26.658Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6aeb8bcdfc2171ecf33e7fd2",
+      "titlu": "[BEACON info] ordineFunctionare 2026-11-04",
+      "rezumat": "{\"scop\":\"contact_extern\",\"organ\":\"hydraApiLiber\",\"sursa\":\"api_liber\",\"risc\":0,\"tip\":\"pattern_nou\",\"semnaturi\":[],\"permis\":true}",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la ordineFunctionare: {\"scop\":\"contact_extern\",\"organ\":\"hydraApiLiber\",\"sursa\":\"api_liber\",\"risc\":0,\"tip\":\"pattern_nou\",\"semnaturi\":[],\"permis\":true}"
+    },
+    {
+      "id": "6aeb8bcd8aac94c4748db393",
+      "titlu": "[BEACON info] ordineFunctionare 2026-11-04",
+      "rezumat": "{\"scop\":\"contact_extern\",\"organ\":\"hydraApiLiber\",\"sursa\":\"api_liber\",\"risc\":0,\"tip\":\"pattern_nou\",\"semnaturi\":[\"raspunde\"],\"permis\":true}",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la ordineFunctionare: {\"scop\":\"contact_extern\",\"organ\":\"hydraApiLiber\",\"sursa\":\"api_liber\",\"risc\":0,\"tip\":\"pattern_nou\",\"semnaturi\":[\"raspunde\"],\"permis\":true}"
+    },
+    {
+      "id": "6aeb8bcc76645eeb8ae9f802",
+      "titlu": "[BEACON info] ordineFunctionare 2026-11-04",
+      "rezumat": "{\"scop\":\"contact_extern\",\"organ\":\"hydraApiLiber\",\"sursa\":\"api_liber\",\"risc\":0,\"tip\":\"pattern_nou\",\"semnaturi\":[\"tipare\",\"raspunde\"],\"permis\":true}",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la ordineFunctionare: {\"scop\":\"contact_extern\",\"organ\":\"hydraApiLiber\",\"sursa\":\"api_liber\",\"risc\":0,\"tip\":\"pattern_nou\",\"semnaturi\":[\"tipare\",\"raspunde\"],\"permis\":true}"
+    },
+    {
+      "id": "6aeb8bccc54a0d159868ce93",
+      "titlu": "[BEACON info] ordineFunctionare 2026-11-04",
+      "rezumat": "{\"scop\":\"contact_extern\",\"organ\":\"hydraApiLiber\",\"sursa\":\"api_liber\",\"risc\":0,\"tip\":\"pattern_nou\",\"semnaturi\":[\"tipare\",\"raspunde\"],\"permis\":true}",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la ordineFunctionare: {\"scop\":\"contact_extern\",\"organ\":\"hydraApiLiber\",\"sursa\":\"api_liber\",\"risc\":0,\"tip\":\"pattern_nou\",\"semnaturi\":[\"tipare\",\"raspunde\"],\"permis\":true}"
+    },
+    {
+      "id": "6aeb8bcc46b5cb9662dc0479",
+      "titlu": "[BEACON info] ordineFunctionare 2026-11-04",
+      "rezumat": "{\"scop\":\"contact_extern\",\"organ\":\"hydraApiLiber\",\"sursa\":\"api_liber\",\"risc\":0,\"tip\":\"pattern_nou\",\"semnaturi\":[\"explica\",\"organele\",\"creierul\",\"bicefal\",\"tiparele\"],\"permis\":true}",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la ordineFunctionare: {\"scop\":\"contact_extern\",\"organ\":\"hydraApiLiber\",\"sursa\":\"api_liber\",\"risc\":0,\"tip\":\"pattern_nou\",\"semnaturi\":[\"explica\",\"organele\",\"creierul\",\"bicefal\",\"tiparele\"],\"permis\":true}"
+    },
+    {
+      "id": "6aeb8bcbe4cc84e199b38a93",
+      "titlu": "[BEACON info] hydraForjareCreiere 2026-11-04",
+      "rezumat": "Creier unic: Creierul unic nu se adâncește încă. Densitate 10 activă. Necesar: 0/3 cicluri CFC≥0.97 + asimilare 57/550.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraForjareCreiere: Creier unic: Creierul unic nu se adâncește încă. Densitate 10 activă. Necesar: 0/3 cicluri CFC≥0.97 + asimilare 57/550."
+    },
+    {
+      "id": "6aeb8bcb0cad789cadea82e0",
+      "titlu": "[BEACON info] ordineFunctionare 2026-11-04",
+      "rezumat": "{\"scop\":\"contact_extern\",\"organ\":\"hydraApiLiber\",\"sursa\":\"api_liber\",\"risc\":0,\"tip\":\"pattern_nou\",\"semnaturi\":[\"explica\",\"organele\",\"creierul\",\"bicefal\",\"tiparele\"],\"permis\":true}",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la ordineFunctionare: {\"scop\":\"contact_extern\",\"organ\":\"hydraApiLiber\",\"sursa\":\"api_liber\",\"risc\":0,\"tip\":\"pattern_nou\",\"semnaturi\":[\"explica\",\"organele\",\"creierul\",\"bicefal\",\"tiparele\"],\"permis\":true}"
+    },
+    {
+      "id": "6aeb8bc8f07d576d23df3e03",
+      "titlu": "[BEACON info] ordineFunctionare 2026-11-04",
+      "rezumat": "{\"scop\":\"contact_extern\",\"organ\":\"hydraApiLiber\",\"sursa\":\"api_liber\",\"risc\":0,\"tip\":\"pattern_nou\",\"semnaturi\":[\"raspunde\"],\"permis\":true}",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la ordineFunctionare: {\"scop\":\"contact_extern\",\"organ\":\"hydraApiLiber\",\"sursa\":\"api_liber\",\"risc\":0,\"tip\":\"pattern_nou\",\"semnaturi\":[\"raspunde\"],\"permis\":true}"
+    },
+    {
+      "id": "6aeb8bc718144402e5c62631",
+      "titlu": "[BEACON info] ordineFunctionare 2026-11-04",
+      "rezumat": "{\"scop\":\"contact_extern\",\"organ\":\"hydraApiLiber\",\"sursa\":\"api_liber\",\"risc\":0,\"tip\":\"pattern_nou\",\"semnaturi\":[\"raspunde\"],\"permis\":true}",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la ordineFunctionare: {\"scop\":\"contact_extern\",\"organ\":\"hydraApiLiber\",\"sursa\":\"api_liber\",\"risc\":0,\"tip\":\"pattern_nou\",\"semnaturi\":[\"raspunde\"],\"permis\":true}"
+    },
+    {
+      "id": "6aeb8bc68923f4e16bac7ebd",
+      "titlu": "[BEACON info] ordineFunctionare 2026-11-04",
+      "rezumat": "{\"scop\":\"contact_extern\",\"organ\":\"hydraApiLiber\",\"sursa\":\"api_liber\",\"risc\":0,\"tip\":\"pattern_nou\",\"semnaturi\":[\"explica\",\"organele\",\"creierul\",\"bicefal\",\"tiparele\"],\"permis\":true}",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la ordineFunctionare: {\"scop\":\"contact_extern\",\"organ\":\"hydraApiLiber\",\"sursa\":\"api_liber\",\"risc\":0,\"tip\":\"pattern_nou\",\"semnaturi\":[\"explica\",\"organele\",\"creierul\",\"bicefal\",\"tiparele\"],\"permis\":true}"
+    },
+    {
+      "id": "6aeb8bc4d9adfc4e9291648f",
+      "titlu": "[BEACON info] ordineFunctionare 2026-11-04",
+      "rezumat": "{\"scop\":\"contact_extern\",\"organ\":\"hydraApiLiber\",\"sursa\":\"api_liber\",\"risc\":0,\"tip\":\"pattern_nou\",\"semnaturi\":[\"raspunde\"],\"permis\":true}",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la ordineFunctionare: {\"scop\":\"contact_extern\",\"organ\":\"hydraApiLiber\",\"sursa\":\"api_liber\",\"risc\":0,\"tip\":\"pattern_nou\",\"semnaturi\":[\"raspunde\"],\"permis\":true}"
+    },
+    {
+      "id": "6aeb8bc484ebe132c0863f03",
+      "titlu": "[BEACON info] ordineFunctionare 2026-11-04",
+      "rezumat": "{\"scop\":\"contact_extern\",\"organ\":\"hydraApiLiber\",\"sursa\":\"api_liber\",\"risc\":0,\"tip\":\"pattern_nou\",\"semnaturi\":[\"explica\",\"organele\",\"creierul\",\"bicefal\",\"tiparele\"],\"permis\":true}",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la ordineFunctionare: {\"scop\":\"contact_extern\",\"organ\":\"hydraApiLiber\",\"sursa\":\"api_liber\",\"risc\":0,\"tip\":\"pattern_nou\",\"semnaturi\":[\"explica\",\"organele\",\"creierul\",\"bicefal\",\"tiparele\"],\"permis\":true}"
+    },
+    {
+      "id": "6aeb8bc320e2dd0b45e17eb1",
+      "titlu": "[BEACON info] ordineFunctionare 2026-11-04",
+      "rezumat": "{\"scop\":\"contact_extern\",\"organ\":\"hydraApiLiber\",\"sursa\":\"api_liber\",\"risc\":0,\"tip\":\"pattern_nou\",\"semnaturi\":[\"explica\",\"organele\",\"creierul\",\"bicefal\",\"tiparele\"],\"permis\":true}",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la ordineFunctionare: {\"scop\":\"contact_extern\",\"organ\":\"hydraApiLiber\",\"sursa\":\"api_liber\",\"risc\":0,\"tip\":\"pattern_nou\",\"semnaturi\":[\"explica\",\"organele\",\"creierul\",\"bicefal\",\"tiparele\"],\"permis\":true}"
+    },
+    {
+      "id": "6aeb8bc3a1f3d6405bfe6783",
+      "titlu": "[BEACON info] ordineFunctionare 2026-11-04",
+      "rezumat": "{\"scop\":\"contact_extern\",\"organ\":\"hydraApiLiber\",\"sursa\":\"api_liber\",\"risc\":0,\"tip\":\"pattern_nou\",\"semnaturi\":[\"raspunde\"],\"permis\":true}",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la ordineFunctionare: {\"scop\":\"contact_extern\",\"organ\":\"hydraApiLiber\",\"sursa\":\"api_liber\",\"risc\":0,\"tip\":\"pattern_nou\",\"semnaturi\":[\"raspunde\"],\"permis\":true}"
+    },
+    {
+      "id": "6aeb8bbecb8be3b307e6ca92",
+      "titlu": "[BEACON info] ordineFunctionare 2026-11-04",
+      "rezumat": "{\"scop\":\"contact_extern\",\"organ\":\"hydraApiLiber\",\"sursa\":\"api_liber\",\"risc\":0,\"tip\":\"pattern_nou\",\"semnaturi\":[\"raspunde\"],\"permis\":true}",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la ordineFunctionare: {\"scop\":\"contact_extern\",\"organ\":\"hydraApiLiber\",\"sursa\":\"api_liber\",\"risc\":0,\"tip\":\"pattern_nou\",\"semnaturi\":[\"raspunde\"],\"permis\":true}"
+    },
+    {
+      "id": "6aeb8aa003a52d7fcd9b006a",
+      "titlu": "[BEACON info] ordineFunctionare 2026-11-04",
+      "rezumat": "{\"scop\":\"contact_extern\",\"organ\":\"hydraApiLiber\",\"sursa\":\"api_liber\",\"risc\":0,\"tip\":\"pattern_nou\",\"semnaturi\":[\"raspunde\"],\"permis\":true}",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la ordineFunctionare: {\"scop\":\"contact_extern\",\"organ\":\"hydraApiLiber\",\"sursa\":\"api_liber\",\"risc\":0,\"tip\":\"pattern_nou\",\"semnaturi\":[\"raspunde\"],\"permis\":true}"
+    },
+    {
+      "id": "6aeb8a9db0bc8cc4a3ff9683",
+      "titlu": "[BEACON info] hydraScriereUniversala 2026-11-04",
+      "rezumat": "Scriere universală: 2 scrieri executate pe 20 platforme. 8 memorii arhivate. 0 unelte forjate pentru scriere.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraScriereUniversala: Scriere universală: 2 scrieri executate pe 20 platforme. 8 memorii arhivate. 0 unelte forjate pentru scriere."
+    },
+    {
+      "id": "6aeb886400bfe67881f8ef8f",
+      "titlu": "[BEACON info] hydraComprimareMetabolica 2026-11-04",
+      "rezumat": "[COMPRIMARE METABOLICA] Total 3987->3987 (cap 8000, cos golit 0+0+0). Memorie activa 516->516 (cap 500): 0 comprimate -> 0 semne de carte. Harta patternuri: 891->891 (cap 1000, 0 harta ordin superior ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraComprimareMetabolica: [COMPRIMARE METABOLICA] Total 3987->3987 (cap 8000, cos golit 0+0+0). Memorie activa 516->516 (cap 500): 0 comprimate -> 0 semne de carte. Harta patternuri: 891->891 (cap 1000, 0 harta ordin superior cu 0 semne). 1 digerate lent. Cercetare: 200. Unelte: 0 multifunc + 0 compar, 0 arhivate."
+    },
+    {
+      "id": "6aeb88647c1e32340cb76d4d",
+      "titlu": "[BEACON info] hydraCercetareAutonoma 2026-11-04",
+      "rezumat": "[CERCETARE] subiect (undefined) — 1/1 unghiuri, SATURAT (oprit la timp) — ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCercetareAutonoma: [CERCETARE] subiect (undefined) — 1/1 unghiuri, SATURAT (oprit la timp) — "
+    },
+    {
+      "id": "6aeb886459efffa9f9d6b1a6",
+      "titlu": "[BEACON info] hydraNotificareCanale 2026-11-04",
+      "rezumat": "[NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: undefined. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraNotificareCanale: [NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: undefined. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack_notifier.py."
+    }
+  ]
+}
