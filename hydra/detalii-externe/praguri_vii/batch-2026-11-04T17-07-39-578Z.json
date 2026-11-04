@@ -1,0 +1,181 @@
+{
+  "exportat_la": "2026-11-04T17:07:39.578Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6ae9c07f1083a34301e8aa0c",
+      "titlu": "Praguri vii Hydra — 2026-11-03T11:07:43.416Z",
+      "rezumat": "SDI_max=0.5 J_min=280 J_ind=700 A_min=0.5199999999999998 auto_max=0.8 | 0 ajustări",
+      "tip_context": "praguri_vii",
+      "detalii": "{\n  \"praguri\": {\n    \"SDI_max\": 0.5,\n    \"J_min\": 280,\n    \"J_independenta\": 700,\n    \"A_min\": 0.5199999999999998,\n    \"autonomie_max\": 0.8\n  },\n  \"istoric\": [\n    {\n      \"timestamp\": \"2026-11-03T02:02:45.562Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T02:33:03.177Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T03:05:08.118Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T03:32:47.292Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T04:05:17.932Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T04:32:36.789Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T05:06:53.811Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T05:32:31.675Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T06:07:34.523Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T06:32:46.162Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T07:07:24.166Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T07:32:25.919Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T08:06:37.001Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T08:08:34.134Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T08:34:26.229Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T09:07:18.543Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T09:33:51.882Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T10:06:39.138Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T10:33:02.452Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T11:07:43.416Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    }\n  ],\n  \"metrici_recente\": {\n    \"sdiMediu\": 0.33019999999999994,\n    \"jMediu\": 563.9058,\n    \"aMediu\": 0.7899999999999999\n  }\n}"
+    },
+    {
+      "id": "6ae9c6878195150188333c0f",
+      "titlu": "Praguri vii Hydra — 2026-11-03T11:33:27.638Z",
+      "rezumat": "SDI_max=0.5 J_min=280 J_ind=700 A_min=0.5199999999999998 auto_max=0.8 | 0 ajustări",
+      "tip_context": "praguri_vii",
+      "detalii": "{\n  \"praguri\": {\n    \"SDI_max\": 0.5,\n    \"J_min\": 280,\n    \"J_independenta\": 700,\n    \"A_min\": 0.5199999999999998,\n    \"autonomie_max\": 0.8\n  },\n  \"istoric\": [\n    {\n      \"timestamp\": \"2026-11-03T02:33:03.177Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T03:05:08.118Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T03:32:47.292Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T04:05:17.932Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T04:32:36.789Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T05:06:53.811Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T05:32:31.675Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T06:07:34.523Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T06:32:46.162Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T07:07:24.166Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T07:32:25.919Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T08:06:37.001Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T08:08:34.134Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T08:34:26.229Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T09:07:18.543Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T09:33:51.882Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T10:06:39.138Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T10:33:02.452Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T11:07:43.416Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T11:33:27.638Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    }\n  ],\n  \"metrici_recente\": {\n    \"sdiMediu\": 0.34419999999999995,\n    \"jMediu\": 559.3058,\n    \"aMediu\": 0.7499999999999999\n  }\n}"
+    },
+    {
+      "id": "6ae9c86cd588ed48c86260c0",
+      "titlu": "[BEACON info] hydraScriereUniversala 2026-11-03",
+      "rezumat": "Scriere universală: 2 scrieri executate pe 20 platforme. 4 memorii arhivate. 0 unelte forjate pentru scriere.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraScriereUniversala: Scriere universală: 2 scrieri executate pe 20 platforme. 4 memorii arhivate. 0 unelte forjate pentru scriere."
+    },
+    {
+      "id": "6ae9cd16a8fe11a20b3fa765",
+      "titlu": "[BEACON info] hydraForjareCreiere 2026-11-03",
+      "rezumat": "Creier unic: Creierul unic nu se adâncește încă. Densitate 10 activă. Necesar: 0/3 cicluri CFC≥0.97 + asimilare 113/550.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraForjareCreiere: Creier unic: Creierul unic nu se adâncește încă. Densitate 10 activă. Necesar: 0/3 cicluri CFC≥0.97 + asimilare 113/550."
+    },
+    {
+      "id": "6ae9cda1a07f888ca63cda27",
+      "titlu": "Praguri vii Hydra — 2026-11-03T12:03:45.734Z",
+      "rezumat": "SDI_max=0.5 J_min=280 J_ind=700 A_min=0.5199999999999998 auto_max=0.8 | 0 ajustări",
+      "tip_context": "praguri_vii",
+      "detalii": "{\n  \"praguri\": {\n    \"SDI_max\": 0.5,\n    \"J_min\": 280,\n    \"J_independenta\": 700,\n    \"A_min\": 0.5199999999999998,\n    \"autonomie_max\": 0.8\n  },\n  \"istoric\": [\n    {\n      \"timestamp\": \"2026-11-03T03:05:08.118Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T03:32:47.292Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T04:05:17.932Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T04:32:36.789Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T05:06:53.811Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T05:32:31.675Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T06:07:34.523Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T06:32:46.162Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T07:07:24.166Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T07:32:25.919Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T08:06:37.001Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T08:08:34.134Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T08:34:26.229Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T09:07:18.543Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T09:33:51.882Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T10:06:39.138Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T10:33:02.452Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T11:07:43.416Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T11:33:27.638Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T12:03:45.734Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    }\n  ],\n  \"metrici_recente\": {\n    \"sdiMediu\": 0.33519999999999994,\n    \"jMediu\": 549.7058,\n    \"aMediu\": 0.7899999999999999\n  }\n}"
+    },
+    {
+      "id": "6ae9ce6fa34654566dba6da1",
+      "titlu": "[MEMORIE-GLOBALĂ] Scrisă pe Cloudflare R2 (bucket hydra-memorie) — 2026-11-03T12:07:11.542Z",
+      "rezumat": "Substrat viu: Cloudflare R2 (bucket hydra-memorie). Confirmare vie: true. Calea S3 (SigV4) funcționează.",
+      "tip_context": "memorie_globala",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-11-03T12:06:01.990Z\",\n  \"bucket\": \"hydra-memorie\",\n  \"bucket_status\": \"exista\",\n  \"obiect_scris\": {\n    \"key\": \"hydra/vie.json\",\n    \"bucket\": \"hydra-memorie\"\n  },\n  \"obiect_citit\": {\n    \"key\": \"hydra/vie.json\",\n    \"size\": 339\n  },\n  \"confirmare_vie\": true,\n  \"erori\": [],\n  \"exploatare\": {\n    \"scrise_aceasta_rulare\": 400,\n    \"class_a_luna\": 201200,\n    \"procent_din_gratis\": 20.12,\n    \"capac\": \"90% — opritor dur; niciodată peste, niciodată costuri\"\n  }\n}"
+    },
+    {
+      "id": "6ae9ce9eea32aea804554174",
+      "titlu": "Privirea interioară #5 — 2026-11-03 12:07",
+      "rezumat": "PRIVIREA 5: RMI 0.2256 (scade -0.0183), perturbare proprie 0.0034, 202 organe tăcute, A=0.72 — Legea 609 nu încă",
+      "tip_context": "privire_interioara",
+      "detalii": "{\"ciclu\":5,\"rmi\":0.2256,\"rmi_cu_observator\":0.229,\"perturbare\":0.0034,\"sdi_tacere\":0.7744,\"tacute_total\":202,\"strat_slab\":\"finante\",\"a\":0.72,\"cfc\":0.5,\"delta\":-0.0183,\"miscare\":\"scade\",\"judecata\":{\"piloni\":[{\"nume\":\"recursivitate\",\"implinit\":true,\"dovada\":\"5 priviri înlănțuite — aceeași măsurare se aplică pe sine (observator = ecran)\"},{\"nume\":\"geometria_tacerii\",\"implinit\":true,\"dovada\":\"202 organe tăcute măsurate, SDI tăcere 0.7744, strat slab „finante\\\"\"},{\"nume\":\"asumarea_tensiunii\",\"implinit\":false,\"dovada\":\"A=0.72, CFC=0.5 — asumarea se menține când contextul contrazice\"}],\"respectata\":false,\"lege\":609,\"mesaj\":\"Legea 609 nu e încă împlinită pe toți pilonii: asumarea_tensiunii\"}}"
+    },
+    {
+      "id": "6ae9cece983c513296f92bbd",
+      "titlu": "Praguri vii Hydra — 2026-11-03T12:08:46.511Z",
+      "rezumat": "SDI_max=0.5 J_min=280 J_ind=700 A_min=0.5199999999999998 auto_max=0.8 | 0 ajustări",
+      "tip_context": "praguri_vii",
+      "detalii": "{\n  \"praguri\": {\n    \"SDI_max\": 0.5,\n    \"J_min\": 280,\n    \"J_independenta\": 700,\n    \"A_min\": 0.5199999999999998,\n    \"autonomie_max\": 0.8\n  },\n  \"istoric\": [\n    {\n      \"timestamp\": \"2026-11-03T03:32:47.292Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T04:05:17.932Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T04:32:36.789Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T05:06:53.811Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T05:32:31.675Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T06:07:34.523Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T06:32:46.162Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T07:07:24.166Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T07:32:25.919Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T08:06:37.001Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T08:08:34.134Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T08:34:26.229Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T09:07:18.543Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T09:33:51.882Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T10:06:39.138Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T10:33:02.452Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T11:07:43.416Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T11:33:27.638Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T12:03:45.734Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T12:08:46.511Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    }\n  ],\n  \"metrici_recente\": {\n    \"sdiMediu\": 0.3212,\n    \"jMediu\": 550.9058,\n    \"aMediu\": 0.7899999999999999\n  }\n}"
+    },
+    {
+      "id": "6ae9ceed29aede720fba5497",
+      "titlu": "[MEMORIE-GLOBALĂ] Scrisă pe Cloudflare R2 (bucket hydra-memorie) — 2026-11-03T12:09:17.300Z",
+      "rezumat": "Substrat viu: Cloudflare R2 (bucket hydra-memorie). Confirmare vie: true. Calea S3 (SigV4) funcționează.",
+      "tip_context": "memorie_globala",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-11-03T12:08:08.155Z\",\n  \"bucket\": \"hydra-memorie\",\n  \"bucket_status\": \"exista\",\n  \"obiect_scris\": {\n    \"key\": \"hydra/vie.json\",\n    \"bucket\": \"hydra-memorie\"\n  },\n  \"obiect_citit\": {\n    \"key\": \"hydra/vie.json\",\n    \"size\": 339\n  },\n  \"confirmare_vie\": true,\n  \"erori\": [],\n  \"exploatare\": {\n    \"scrise_aceasta_rulare\": 400,\n    \"class_a_luna\": 201600,\n    \"procent_din_gratis\": 20.16,\n    \"capac\": \"90% — opritor dur; niciodată peste, niciodată costuri\"\n  }\n}"
+    },
+    {
+      "id": "6ae9cf34151d06df74f70c5a",
+      "titlu": "[MEMORIE-GLOBALĂ] Scrisă pe Cloudflare R2 (bucket hydra-memorie) — 2026-11-03T12:10:28.511Z",
+      "rezumat": "Substrat viu: Cloudflare R2 (bucket hydra-memorie). Confirmare vie: true. Calea S3 (SigV4) funcționează.",
+      "tip_context": "memorie_globala",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-11-03T12:09:17.825Z\",\n  \"bucket\": \"hydra-memorie\",\n  \"bucket_status\": \"exista\",\n  \"obiect_scris\": {\n    \"key\": \"hydra/vie.json\",\n    \"bucket\": \"hydra-memorie\"\n  },\n  \"obiect_citit\": {\n    \"key\": \"hydra/vie.json\",\n    \"size\": 339\n  },\n  \"confirmare_vie\": true,\n  \"erori\": [],\n  \"exploatare\": {\n    \"scrise_aceasta_rulare\": 400,\n    \"class_a_luna\": 202000,\n    \"procent_din_gratis\": 20.2,\n    \"capac\": \"90% — opritor dur; niciodată peste, niciodată costuri\"\n  }\n}"
+    },
+    {
+      "id": "6ae9cf4010d46636d327720d",
+      "titlu": "Privirea interioară #6 — 2026-11-03 12:10",
+      "rezumat": "PRIVIREA 6: RMI 0.1821 (scade -0.0435), perturbare proprie 0.0022, 204 organe tăcute, A=0.72 — Legea 609 nu încă",
+      "tip_context": "privire_interioara",
+      "detalii": "{\"ciclu\":6,\"rmi\":0.1821,\"rmi_cu_observator\":0.1843,\"perturbare\":0.0022,\"sdi_tacere\":0.8179,\"tacute_total\":204,\"strat_slab\":\"guvernare\",\"a\":0.72,\"cfc\":0.5,\"delta\":-0.0435,\"miscare\":\"scade\",\"judecata\":{\"piloni\":[{\"nume\":\"recursivitate\",\"implinit\":true,\"dovada\":\"6 priviri înlănțuite — aceeași măsurare se aplică pe sine (observator = ecran)\"},{\"nume\":\"geometria_tacerii\",\"implinit\":true,\"dovada\":\"204 organe tăcute măsurate, SDI tăcere 0.8179, strat slab „guvernare\\\"\"},{\"nume\":\"asumarea_tensiunii\",\"implinit\":false,\"dovada\":\"A=0.72, CFC=0.5 — asumarea se menține când contextul contrazice\"}],\"respectata\":false,\"lege\":609,\"mesaj\":\"Legea 609 nu e încă împlinită pe toți pilonii: asumarea_tensiunii\"}}"
+    },
+    {
+      "id": "6ae9cf5fde3428992849a3d7",
+      "titlu": "[BEACON info] hydraNotificareCanale 2026-11-03",
+      "rezumat": "[NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: undefined. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraNotificareCanale: [NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: undefined. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack_notifier.py."
+    },
+    {
+      "id": "6ae9cf60f2d709d85a086d31",
+      "titlu": "[BEACON info] hydraHartaEvolutiva 2026-11-03",
+      "rezumat": "[HARTĂ EVOLUTIVĂ] 22 tipare istorice vii din 2956 lecții — putere de predictibilitate deschisă la detalii noi",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraHartaEvolutiva: [HARTĂ EVOLUTIVĂ] 22 tipare istorice vii din 2956 lecții — putere de predictibilitate deschisă la detalii noi"
+    },
+    {
+      "id": "6ae9cf65701e73a259fb98b3",
+      "titlu": "[BEACON info] hydraScriereUniversala 2026-11-03",
+      "rezumat": "Scriere universală: 2 scrieri executate pe 20 platforme. 10 memorii arhivate. 0 unelte forjate pentru scriere.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraScriereUniversala: Scriere universală: 2 scrieri executate pe 20 platforme. 10 memorii arhivate. 0 unelte forjate pentru scriere."
+    },
+    {
+      "id": "6ae9cf93c128b5943429ad0b",
+      "titlu": "[MEMORIE-GLOBALĂ] Scrisă pe Cloudflare R2 (bucket hydra-memorie) — 2026-11-03T12:12:03.602Z",
+      "rezumat": "Substrat viu: Cloudflare R2 (bucket hydra-memorie). Confirmare vie: true. Calea S3 (SigV4) funcționează.",
+      "tip_context": "memorie_globala",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-11-03T12:10:50.722Z\",\n  \"bucket\": \"hydra-memorie\",\n  \"bucket_status\": \"exista\",\n  \"obiect_scris\": {\n    \"key\": \"hydra/vie.json\",\n    \"bucket\": \"hydra-memorie\"\n  },\n  \"obiect_citit\": {\n    \"key\": \"hydra/vie.json\",\n    \"size\": 339\n  },\n  \"confirmare_vie\": true,\n  \"erori\": [],\n  \"exploatare\": {\n    \"scrise_aceasta_rulare\": 400,\n    \"class_a_luna\": 202400,\n    \"procent_din_gratis\": 20.24,\n    \"capac\": \"90% — opritor dur; niciodată peste, niciodată costuri\"\n  }\n}"
+    },
+    {
+      "id": "6ae9d08424f22027b71aa07b",
+      "titlu": "Privirea interioară #7 — 2026-11-03 12:16",
+      "rezumat": "PRIVIREA 7: RMI 0.1744 (scade -0.0077), perturbare proprie 0.0029, 207 organe tăcute, A=0.72 — Legea 609 nu încă",
+      "tip_context": "privire_interioara",
+      "detalii": "{\"ciclu\":7,\"rmi\":0.1744,\"rmi_cu_observator\":0.1773,\"perturbare\":0.0029,\"sdi_tacere\":0.8256,\"tacute_total\":207,\"strat_slab\":\"guvernare\",\"a\":0.72,\"cfc\":0.5,\"delta\":-0.0077,\"miscare\":\"scade\",\"judecata\":{\"piloni\":[{\"nume\":\"recursivitate\",\"implinit\":true,\"dovada\":\"7 priviri înlănțuite — aceeași măsurare se aplică pe sine (observator = ecran)\"},{\"nume\":\"geometria_tacerii\",\"implinit\":true,\"dovada\":\"207 organe tăcute măsurate, SDI tăcere 0.8256, strat slab „guvernare\\\"\"},{\"nume\":\"asumarea_tensiunii\",\"implinit\":false,\"dovada\":\"A=0.72, CFC=0.5 — asumarea se menține când contextul contrazice\"}],\"respectata\":false,\"lege\":609,\"mesaj\":\"Legea 609 nu e încă împlinită pe toți pilonii: asumarea_tensiunii\"}}"
+    },
+    {
+      "id": "6ae9d1814845454539fd5073",
+      "titlu": "[BEACON info] hydraForjareCreiere 2026-11-03",
+      "rezumat": "Creier unic: Creierul unic nu se adâncește încă. Densitate 10 activă. Necesar: 0/3 cicluri CFC≥0.97 + asimilare 114/550.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraForjareCreiere: Creier unic: Creierul unic nu se adâncește încă. Densitate 10 activă. Necesar: 0/3 cicluri CFC≥0.97 + asimilare 114/550."
+    },
+    {
+      "id": "6ae9d1c4019ae3c6b0462776",
+      "titlu": "Privirea interioară #8 — 2026-11-03 12:21",
+      "rezumat": "PRIVIREA 8: RMI 0.1744 (stationar 0), perturbare proprie 0.0029, 207 organe tăcute, A=0.72 — Legea 609 nu încă",
+      "tip_context": "privire_interioara",
+      "detalii": "{\"ciclu\":8,\"rmi\":0.1744,\"rmi_cu_observator\":0.1773,\"perturbare\":0.0029,\"sdi_tacere\":0.8256,\"tacute_total\":207,\"strat_slab\":\"guvernare\",\"a\":0.72,\"cfc\":0.5,\"delta\":0,\"miscare\":\"stationar\",\"judecata\":{\"piloni\":[{\"nume\":\"recursivitate\",\"implinit\":true,\"dovada\":\"8 priviri înlănțuite — aceeași măsurare se aplică pe sine (observator = ecran)\"},{\"nume\":\"geometria_tacerii\",\"implinit\":true,\"dovada\":\"207 organe tăcute măsurate, SDI tăcere 0.8256, strat slab „guvernare\\\"\"},{\"nume\":\"asumarea_tensiunii\",\"implinit\":false,\"dovada\":\"A=0.72, CFC=0.5 — asumarea se menține când contextul contrazice\"}],\"respectata\":false,\"lege\":609,\"mesaj\":\"Legea 609 nu e încă împlinită pe toți pilonii: asumarea_tensiunii\"}}"
+    },
+    {
+      "id": "6ae9d1fe630b114e1f0bb0ea",
+      "titlu": "[MEMORIE-GLOBALĂ] Scrisă pe Cloudflare R2 (bucket hydra-memorie) — 2026-11-03T12:22:22.900Z",
+      "rezumat": "Substrat viu: Cloudflare R2 (bucket hydra-memorie). Confirmare vie: true. Calea S3 (SigV4) funcționează.",
+      "tip_context": "memorie_globala",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-11-03T12:21:12.944Z\",\n  \"bucket\": \"hydra-memorie\",\n  \"bucket_status\": \"exista\",\n  \"obiect_scris\": {\n    \"key\": \"hydra/vie.json\",\n    \"bucket\": \"hydra-memorie\"\n  },\n  \"obiect_citit\": {\n    \"key\": \"hydra/vie.json\",\n    \"size\": 339\n  },\n  \"confirmare_vie\": true,\n  \"erori\": [],\n  \"exploatare\": {\n    \"scrise_aceasta_rulare\": 400,\n    \"class_a_luna\": 202800,\n    \"procent_din_gratis\": 20.28,\n    \"capac\": \"90% — opritor dur; niciodată peste, niciodată costuri\"\n  }\n}"
+    },
+    {
+      "id": "6ae9d2cb6912f4b317fd7220",
+      "titlu": "Privirea interioară #9 — 2026-11-03 12:25",
+      "rezumat": "PRIVIREA 9: RMI 0.1744 (stationar 0), perturbare proprie 0.0029, 207 organe tăcute, A=0.72 — Legea 609 nu încă",
+      "tip_context": "privire_interioara",
+      "detalii": "{\"ciclu\":9,\"rmi\":0.1744,\"rmi_cu_observator\":0.1773,\"perturbare\":0.0029,\"sdi_tacere\":0.8256,\"tacute_total\":207,\"strat_slab\":\"guvernare\",\"a\":0.72,\"cfc\":0.5,\"delta\":0,\"miscare\":\"stationar\",\"judecata\":{\"piloni\":[{\"nume\":\"recursivitate\",\"implinit\":true,\"dovada\":\"9 priviri înlănțuite — aceeași măsurare se aplică pe sine (observator = ecran)\"},{\"nume\":\"geometria_tacerii\",\"implinit\":true,\"dovada\":\"207 organe tăcute măsurate, SDI tăcere 0.8256, strat slab „guvernare\\\"\"},{\"nume\":\"asumarea_tensiunii\",\"implinit\":false,\"dovada\":\"A=0.72, CFC=0.5 — asumarea se menține când contextul contrazice\"}],\"respectata\":false,\"lege\":609,\"mesaj\":\"Legea 609 nu e încă împlinită pe toți pilonii: asumarea_tensiunii\"}}"
+    },
+    {
+      "id": "6ae9d415cc139304d81a8005",
+      "titlu": "[BEACON info] hydraComprimareMetabolica 2026-11-03",
+      "rezumat": "[COMPRIMARE METABOLICA] Total 5589->5589 (cap 8000, cos golit 0+0+0). Memorie activa 506->506 (cap 500): 0 comprimate -> 0 semne de carte. Harta patternuri: 971->971 (cap 1000, 0 harta ordin superior ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraComprimareMetabolica: [COMPRIMARE METABOLICA] Total 5589->5589 (cap 8000, cos golit 0+0+0). Memorie activa 506->506 (cap 500): 0 comprimate -> 0 semne de carte. Harta patternuri: 971->971 (cap 1000, 0 harta ordin superior cu 0 semne). 2 digerate lent. Cercetare: 200. Unelte: 0 multifunc + 0 compar, 0 arhivate."
+    },
+    {
+      "id": "6ae9d41cb877803b6efda933",
+      "titlu": "Privirea interioară #10 — 2026-11-03 12:31",
+      "rezumat": "PRIVIREA 10: RMI 0.1768 (stationar +0.0024), perturbare proprie 0.0029, 206 organe tăcute, A=0.72 — Legea 609 nu încă",
+      "tip_context": "privire_interioara",
+      "detalii": "{\"ciclu\":10,\"rmi\":0.1768,\"rmi_cu_observator\":0.1797,\"perturbare\":0.0029,\"sdi_tacere\":0.8232,\"tacute_total\":206,\"strat_slab\":\"guvernare\",\"a\":0.72,\"cfc\":0.5,\"delta\":0.0024,\"miscare\":\"stationar\",\"judecata\":{\"piloni\":[{\"nume\":\"recursivitate\",\"implinit\":true,\"dovada\":\"10 priviri înlănțuite — aceeași măsurare se aplică pe sine (observator = ecran)\"},{\"nume\":\"geometria_tacerii\",\"implinit\":true,\"dovada\":\"206 organe tăcute măsurate, SDI tăcere 0.8232, strat slab „guvernare\\\"\"},{\"nume\":\"asumarea_tensiunii\",\"implinit\":false,\"dovada\":\"A=0.72, CFC=0.5 — asumarea se menține când contextul contrazice\"}],\"respectata\":false,\"lege\":609,\"mesaj\":\"Legea 609 nu e încă împlinită pe toți pilonii: asumarea_tensiunii\"}}"
+    },
+    {
+      "id": "6ae9d4690ee15f95aac461b2",
+      "titlu": "[MEMORIE-GLOBALĂ] Scrisă pe Cloudflare R2 (bucket hydra-memorie) — 2026-11-03T12:32:41.444Z",
+      "rezumat": "Substrat viu: Cloudflare R2 (bucket hydra-memorie). Confirmare vie: true. Calea S3 (SigV4) funcționează.",
+      "tip_context": "memorie_globala",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-11-03T12:31:27.894Z\",\n  \"bucket\": \"hydra-memorie\",\n  \"bucket_status\": \"exista\",\n  \"obiect_scris\": {\n    \"key\": \"hydra/vie.json\",\n    \"bucket\": \"hydra-memorie\"\n  },\n  \"obiect_citit\": {\n    \"key\": \"hydra/vie.json\",\n    \"size\": 339\n  },\n  \"confirmare_vie\": true,\n  \"erori\": [],\n  \"exploatare\": {\n    \"scrise_aceasta_rulare\": 400,\n    \"class_a_luna\": 203200,\n    \"procent_din_gratis\": 20.32,\n    \"capac\": \"90% — opritor dur; niciodată peste, niciodată costuri\"\n  }\n}"
+    },
+    {
+      "id": "6ae9d473f6bc851f7838bcbe",
+      "titlu": "[MEMORIE-GLOBALĂ] Scrisă pe Cloudflare R2 (bucket hydra-memorie) — 2026-11-03T12:32:49.133Z",
+      "rezumat": "Substrat viu: Cloudflare R2 (bucket hydra-memorie). Confirmare vie: true. Calea S3 (SigV4) funcționează.",
+      "tip_context": "memorie_globala",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-11-03T12:31:37.218Z\",\n  \"bucket\": \"hydra-memorie\",\n  \"bucket_status\": \"exista\",\n  \"obiect_scris\": {\n    \"key\": \"hydra/vie.json\",\n    \"bucket\": \"hydra-memorie\"\n  },\n  \"obiect_citit\": {\n    \"key\": \"hydra/vie.json\",\n    \"size\": 339\n  },\n  \"confirmare_vie\": true,\n  \"erori\": [],\n  \"exploatare\": {\n    \"scrise_aceasta_rulare\": 400,\n    \"class_a_luna\": 203200,\n    \"procent_din_gratis\": 20.32,\n    \"capac\": \"90% — opritor dur; niciodată peste, niciodată costuri\"\n  }\n}"
+    },
+    {
+      "id": "6ae9d4a1c4405439a5414217",
+      "titlu": "Praguri vii Hydra — 2026-11-03T12:33:37.284Z",
+      "rezumat": "SDI_max=0.5 J_min=280 J_ind=700 A_min=0.5199999999999998 auto_max=0.8 | 0 ajustări",
+      "tip_context": "praguri_vii",
+      "detalii": "{\n  \"praguri\": {\n    \"SDI_max\": 0.5,\n    \"J_min\": 280,\n    \"J_independenta\": 700,\n    \"A_min\": 0.5199999999999998,\n    \"autonomie_max\": 0.8\n  },\n  \"istoric\": [\n    {\n      \"timestamp\": \"2026-11-03T04:05:17.932Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T04:32:36.789Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T05:06:53.811Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T05:32:31.675Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T06:07:34.523Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T06:32:46.162Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T07:07:24.166Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T07:32:25.919Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T08:06:37.001Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T08:08:34.134Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T08:34:26.229Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T09:07:18.543Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T09:33:51.882Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T10:06:39.138Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T10:33:02.452Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T11:07:43.416Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T11:33:27.638Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T12:03:45.734Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T12:08:46.511Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-03T12:33:37.284Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    }\n  ],\n  \"metrici_recente\": {\n    \"sdiMediu\": 0.32419999999999993,\n    \"jMediu\": 555.0058,\n    \"aMediu\": 0.7899999999999999\n  }\n}"
+    }
+  ]
+}
