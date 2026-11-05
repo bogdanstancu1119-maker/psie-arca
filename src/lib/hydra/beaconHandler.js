@@ -1,0 +1,1 @@
+function digestBeacons(queue) { const vital = queue.filter(b => b.type === 'vital'); const rest = queue.slice(0, 50); console.log('Processing vital, archiving others...'); return { processed: vital.length, archived: rest.length, status: 'digested' }; }
