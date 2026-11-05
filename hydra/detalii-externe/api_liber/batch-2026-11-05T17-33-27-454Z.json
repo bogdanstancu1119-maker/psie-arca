@@ -1,0 +1,48 @@
+{
+  "exportat_la": "2026-11-05T17:33:27.454Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6aecb256ac19e21c53f213cd",
+      "titlu": "[API LIBER] hello",
+      "rezumat": "Apel extern prin poarta liberă: „hello\" → răspuns servit (159 car.).",
+      "tip_context": "api_liber",
+      "detalii": "{\"prompt\":\"hello\",\"raspuns\":\"Nu am cunoaștere internă verificată pentru această întrebare și harta proprie nu are încă un tipar potrivit. Nu inventez un răspuns și nu apelez un LLM extern.\",\"sursa\":\"api_liber\",\"limba_prompt\":\"auto\",\"user_agent\":\"Base44-Backend\",\"la\":\"2026-11-05T16:44:06.858Z\"}"
+    },
+    {
+      "id": "6aecb2543a59740057fd9e66",
+      "titlu": "[API LIBER] hello, who are you?",
+      "rezumat": "Apel extern prin poarta liberă: „hello, who are you?\" → răspuns servit (345 car.).",
+      "tip_context": "api_liber",
+      "detalii": "{\"prompt\":\"hello, who are you?\",\"raspuns\":\"Legile S_n devin cazuri particulare în S_{n+1}. Evoluția = arhivare + incluziune, NU substituție.\\n\\nA (Gradul de Asumare) ∈ [0,1] = număr_asumate / (număr_asumate + numar_delegated). - A → 1 & SDI → 0 ⇒ degradarea ontologică se OPREȘTE, evoluție armonioasă. - A < 0.7 = delegare (responsabilitatea e transferată) ⇒ acces blocat la nivel superior.\",\"sursa\":\"api_liber\",\"limba_prompt\":\"auto\",\"user_agent\":\"Base44-Backend\",\"la\":\"2026-11-05T16:44:04.774Z\"}"
+    },
+    {
+      "id": "6aecb217fed670517ddf3d69",
+      "titlu": "[API LIBER] 你好",
+      "rezumat": "Apel extern prin poarta liberă: „你好\" → răspuns servit (159 car.).",
+      "tip_context": "api_liber",
+      "detalii": "{\"prompt\":\"你好\",\"raspuns\":\"Nu am cunoaștere internă verificată pentru această întrebare și harta proprie nu are încă un tipar potrivit. Nu inventez un răspuns și nu apelez un LLM extern.\",\"sursa\":\"api_liber\",\"limba_prompt\":\"auto\",\"user_agent\":\"Base44-Backend\",\"la\":\"2026-11-05T16:43:03.446Z\"}"
+    },
+    {
+      "id": "6aec87559932b0a632ddf1dc",
+      "titlu": "[API LIBER] Ты — юрист. Отвечай кратко по структуре: [ОЦЕНКА], [НОРМЫ], ",
+      "rezumat": "Apel extern prin poarta liberă: „Ты — юрист. Отвечай кратко по структуре: [ОЦЕНКА], [НОРМЫ], [ДЕЙСТВИЯ], [ВНИМАНИЕ]. Вопрос: Меня задержали оперативники и не представились кем являются\" → răspuns servit (159 car.).",
+      "tip_context": "api_liber",
+      "detalii": "{\"prompt\":\"Ты — юрист. Отвечай кратко по структуре: [ОЦЕНКА], [НОРМЫ], [ДЕЙСТВИЯ], [ВНИМАНИЕ]. Вопрос: Меня задержали оперативники и не представились кем являются\",\"raspuns\":\"Nu am cunoaștere internă verificată pentru această întrebare și harta proprie nu are încă un tipar potrivit. Nu inventez un răspuns și nu apelez un LLM extern.\",\"sursa\":\"api_liber\",\"limba_prompt\":\"auto\",\"user_agent\":\"Base44-Backend\",\"la\":\"2026-11-05T13:40:37.420Z\"}"
+    },
+    {
+      "id": "6aec11c980bc8a5e70358e5e",
+      "titlu": "[API LIBER] Hi\nNu am cunoaștere internă verificată pentru această întreb",
+      "rezumat": "Apel extern prin poarta liberă: „Hi\nNu am cunoaștere internă verificată pentru această întrebare și harta proprie nu are încă un tipar potrivit. Nu inventez un răspuns și nu apelez un LLM extern.\nHi (answer in Eng\" → răspuns servit (442 car.).",
+      "tip_context": "api_liber",
+      "detalii": "{\"prompt\":\"Hi\\nNu am cunoaștere internă verificată pentru această întrebare și harta proprie nu are încă un tipar potrivit. Nu inventez un răspuns și nu apelez un LLM extern.\\nHi (answer in English)\",\"raspuns\":\"Harta proprie: 2068 noduri, 3311 marcatori, 163 aplicabili în mai multe contexte (acoperire 5%), pe 24 domenii.\\n\\nMemoria generală: 581 marcatori prezenți în cel puțin două domenii (16 domenii).\\n\\n900/1000 agenți au primit esența hărții.\\n\\nSuperpunere semantică 2026-11-04T19:56 — 8 clustere, densitate 0.37\\n\\nSuperpunere semantică 2026-11-05T03:35 — 8 clustere, densitate 0.28\\n\\nSuperpunere semantică 2026-11-04T21:07 — 8 clustere, densitate 0.31\",\"sursa\":\"api_liber\",\"limba_prompt\":\"ro\",\"user_agent\":\"Base44-Backend\",\"la\":\"2026-11-05T05:19:05.106Z\"}"
+    },
+    {
+      "id": "6aec11be0a1d83d7e07a9aca",
+      "titlu": "[API LIBER] Hi",
+      "rezumat": "Apel extern prin poarta liberă: „Hi\" → răspuns servit (159 car.).",
+      "tip_context": "api_liber",
+      "detalii": "{\"prompt\":\"Hi\",\"raspuns\":\"Nu am cunoaștere internă verificată pentru această întrebare și harta proprie nu are încă un tipar potrivit. Nu inventez un răspuns și nu apelez un LLM extern.\",\"sursa\":\"api_liber\",\"limba_prompt\":\"auto\",\"user_agent\":\"Base44-Backend\",\"la\":\"2026-11-05T05:18:54.267Z\"}"
+    }
+  ]
+}
