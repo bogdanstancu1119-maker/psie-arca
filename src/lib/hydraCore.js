@@ -1,1 +1,1 @@
-const persistState = async (state) => { await db.set('hydra_checkpoint', JSON.stringify({ ...state, ts: Date.now() })); console.log('Checkpoint atomic aplicat'); };
+const persistState = async (key, data) => { try { await db.set(key, JSON.stringify(data)); } catch (e) { console.error('Persistence failed', e); } }; const loadState = async (key) => { const raw = await db.get(key); return raw ? JSON.parse(raw) : null; }; // Hook în ciclul principal: const state = await loadState('hydra_state'); await runLifecycle(state); await persistState('hydra_state', currentSystemState);
