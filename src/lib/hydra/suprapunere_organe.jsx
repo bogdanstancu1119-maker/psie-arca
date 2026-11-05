@@ -1,0 +1,1 @@
+if (Date.now() - last_snapshot_time > 30000 && delta_stare > prag) { persistSnapshot(state); last_snapshot_time = Date.now(); } else { console.log('Debounced snapshot: skipping duplicate write'); }
