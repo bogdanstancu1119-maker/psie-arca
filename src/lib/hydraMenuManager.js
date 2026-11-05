@@ -1,0 +1,1 @@
+const validateMenuRoutes = (menuItems, activeOrgans) => { return menuItems.filter(item => activeOrgans.includes(item.id)); }; const refreshUI = () => { const currentState = getPersistentState('hydraBursaQuant'); const menu = fetchMenuManifest(); const validMenu = validateMenuRoutes(menu, Object.keys(currentState)); updateDOM(validMenu); };
