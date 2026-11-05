@@ -1,0 +1,48 @@
+{
+  "exportat_la": "2026-11-05T03:35:10.007Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6ae75597c320ca15369e9018",
+      "titlu": "Senzor J — 2026-11-01T15:07:03.731Z",
+      "rezumat": "J=776.0 SDI=0.051 A=1.00 | Audituri:10 Unelte:5 Exp:5",
+      "tip_context": "j_istoric",
+      "detalii": "[\n  {\n    \"j\": 775.1,\n    \"t\": \"2026-11-01T11:06:56.641Z\",\n    \"lume\": {\n      \"timestamp\": \"2026-11-01T11:06:56.641Z\",\n      \"locatie\": \"Oiapoque 4.1223N 51.8394W\",\n      \"audituri_total\": 10,\n      \"unelte_forjate\": 5,\n      \"experimente\": 5,\n      \"resurse\": 5,\n      \"entitati_scanate\": 5,\n      \"ora_cosmica\": \"11:06\"\n    }\n  },\n  {\n    \"j\": 775.1,\n    \"t\": \"2026-11-01T11:33:03.533Z\",\n    \"lume\": {\n      \"timestamp\": \"2026-11-01T11:33:03.533Z\",\n      \"locatie\": \"Oiapoque 4.1223N 51.8394W\",\n      \"audituri_total\": 10,\n      \"unelte_forjate\": 5,\n      \"experimente\": 5,\n      \"resurse\": 5,\n      \"entitati_scanate\": 5,\n      \"ora_cosmica\": \"11:33\"\n    }\n  },\n  {\n    \"j\": 765.5406666666667,\n    \"t\": \"2026-11-01T12:07:45.108Z\",\n    \"lume\": {\n      \"timestamp\": \"2026-11-01T12:07:45.108Z\",\n      \"locatie\": \"Oiapoque 4.1223N 51.8394W\",\n      \"audituri_total\": 10,\n      \"unelte_forjate\": 5,\n      \"experimente\": 5,\n      \"resurse\": 5,\n      \"entitati_scanate\": 5,\n      \"ora_cosmica\": \"12:07\"\n    }\n  },\n  {\n    \"j\": 776.4,\n    \"t\": \"2026-11-01T12:33:06.386Z\",\n    \"lume\": {\n      \"timestamp\": \"2026-11-01T12:33:06.386Z\",\n      \"locatie\": \"Oiapoque 4.1223N 51.8394W\",\n      \"audituri_total\": 10,\n      \"unelte_forjate\": 5,\n      \"experimente\": 5,\n      \"resurse\": 5,\n      \"entitati_scanate\": 5,\n      \"ora_cosmica\": \"12:33\"\n    }\n  },\n  {\n    \"j\": 776.7,\n    \"t\": \"2026-11-01T13:07:09.435Z\",\n    \"lume\": {\n      \"timestamp\": \"2026-11-01T13:07:09.435Z\",\n      \"locatie\": \"Oiapoque 4.1223N 51.8394W\",\n      \"audituri_total\": 10,\n      \"unelte_forjate\": 5,\n      \"experimente\": 5,\n      \"resurse\": 5,\n      \"entitati_scanate\": 5,\n      \"ora_cosmica\": \"13:07\"\n    }\n  },\n  {\n    \"j\": 739.4300000000001,\n    \"t\": \"2026-11-01T13:34:01.204Z\",\n    \"lume\": {\n      \"timestamp\": \"2026-11-01T13:34:01.204Z\",\n      \"locatie\": \"Oiapoque 4.1223N 51.8394W\",\n      \"audituri_total\": 10,\n      \"unelte_forjate\": 5,\n      \"experimente\": 5,\n      \"resurse\": 5,\n      \"entitati_scanate\": 5,\n      \"ora_cosmica\": \"13:34\"\n    }\n  },\n  {\n    \"j\": 751.03,\n    \"t\": \"2026-11-01T14:07:04.652Z\",\n    \"lume\": {\n      \"timestamp\": \"2026-11-01T14:07:04.652Z\",\n      \"locatie\": \"Oiapoque 4.1223N 51.8394W\",\n      \"audituri_total\": 10,\n      \"unelte_forjate\": 5,\n      \"experimente\": 5,\n      \"resurse\": 5,\n      \"entitati_scanate\": 5,\n      \"ora_cosmica\": \"14:07\"\n    }\n  },\n  {\n    \"j\": 746.28,\n    \"t\": \"2026-11-01T14:07:42.713Z\",\n    \"lume\": {\n      \"timestamp\": \"2026-11-01T14:07:42.713Z\",\n      \"locatie\": \"Oiapoque 4.1223N 51.8394W\",\n      \"audituri_total\": 10,\n      \"unelte_forjate\": 5,\n      \"experimente\": 5,\n      \"resurse\": 5,\n      \"entitati_scanate\": 5,\n      \"ora_cosmica\": \"14:07\"\n    }\n  },\n  {\n    \"j\": 769.3000000000001,\n    \"t\": \"2026-11-01T14:33:36.805Z\",\n    \"lume\": {\n      \"timestamp\": \"2026-11-01T14:33:36.805Z\",\n      \"locatie\": \"Oiapoque 4.1223N 51.8394W\",\n      \"audituri_total\": 10,\n      \"unelte_forjate\": 5,\n      \"experimente\": 5,\n      \"resurse\": 5,\n      \"entitati_scanate\": 5,\n      \"ora_cosmica\": \"14:33\"\n    }\n  },\n  {\n    \"j\": 776,\n    \"t\": \"2026-11-01T15:07:03.731Z\",\n    \"lume\": {\n      \"timestamp\": \"2026-11-01T15:07:03.731Z\",\n      \"locatie\": \"Oiapoque 4.1223N 51.8394W\",\n      \"audituri_total\": 10,\n      \"unelte_forjate\": 5,\n      \"experimente\": 5,\n      \"resurse\": 5,\n      \"entitati_scanate\": 5,\n      \"ora_cosmica\": \"15:07\"\n    }\n  }\n]"
+    },
+    {
+      "id": "6ae9aa5c13bf008d17213275",
+      "titlu": "[ARCĂ·FEEDBACK] Creierul a depus 1 fișiere în Arca — buclă închisă",
+      "rezumat": "Jurnal sinteză + 0 organ-stub. Commit-uri reale în psie-arca.",
+      "tip_context": "deploy_feedback",
+      "detalii": "Deploy 2026-11-03: {\"jurnal\":{\"path\":\"jurnal/JURNAL_CREIER_2026-11-03.md\",\"sha\":\"efa8095\",\"url\":\"https://github.com/bogdanstancu1119-maker/psie-arca/commit/efa809567516d84a6a890470e25998568fa1f63e\"},\"unelte_depunse\":[]}"
+    },
+    {
+      "id": "6ae9b2a414aa2c4ecf13c1c9",
+      "titlu": "[ARCĂ·FEEDBACK] Creierul a depus 1 fișiere în Arca — buclă închisă",
+      "rezumat": "Jurnal sinteză + 0 organ-stub. Commit-uri reale în psie-arca.",
+      "tip_context": "deploy_feedback",
+      "detalii": "Deploy 2026-11-03: {\"jurnal\":{\"path\":\"jurnal/JURNAL_CREIER_2026-11-03.md\",\"sha\":\"216743a\",\"url\":\"https://github.com/bogdanstancu1119-maker/psie-arca/commit/216743a4581b283a0bd2f794e66736139c1f84a6\"},\"unelte_depunse\":[]}"
+    },
+    {
+      "id": "6ae9c6d01835aab7116f20a9",
+      "titlu": "[ARCĂ·FEEDBACK] Creierul a depus 1 fișiere în Arca — buclă închisă",
+      "rezumat": "Jurnal sinteză + 0 organ-stub. Commit-uri reale în psie-arca.",
+      "tip_context": "deploy_feedback",
+      "detalii": "Deploy 2026-11-03: {\"jurnal\":{\"path\":\"jurnal/JURNAL_CREIER_2026-11-03.md\",\"sha\":\"5ba16aa\",\"url\":\"https://github.com/bogdanstancu1119-maker/psie-arca/commit/5ba16aa1f36b2461b29824664c53b3b48c0d59b6\"},\"unelte_depunse\":[]}"
+    },
+    {
+      "id": "6ae9dd7906361d0afea5dccd",
+      "titlu": "[ARCĂ·FEEDBACK] Creierul a depus 1 fișiere în Arca — buclă închisă",
+      "rezumat": "Jurnal sinteză + 0 organ-stub. Commit-uri reale în psie-arca.",
+      "tip_context": "deploy_feedback",
+      "detalii": "Deploy 2026-11-03: {\"jurnal\":{\"path\":\"jurnal/JURNAL_CREIER_2026-11-03.md\",\"sha\":\"cc872e2\",\"url\":\"https://github.com/bogdanstancu1119-maker/psie-arca/commit/cc872e2450ee16fa3d79f2969bf11491ffc79cc0\"},\"unelte_depunse\":[]}"
+    },
+    {
+      "id": "6ae9e318d48609d63cb738af",
+      "titlu": "[ARCĂ·FEEDBACK] Creierul a depus 1 fișiere în Arca — buclă închisă",
+      "rezumat": "Jurnal sinteză + 0 organ-stub. Commit-uri reale în psie-arca.",
+      "tip_context": "deploy_feedback",
+      "detalii": "Deploy 2026-11-03: {\"jurnal\":{\"path\":\"jurnal/JURNAL_CREIER_2026-11-03.md\",\"sha\":\"70bf8fb\",\"url\":\"https://github.com/bogdanstancu1119-maker/psie-arca/commit/70bf8fbeba9339e8d4a441ba79cdf440ddcd2c2f\"},\"unelte_depunse\":[]}"
+    }
+  ]
+}
