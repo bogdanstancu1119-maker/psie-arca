@@ -1,0 +1,1 @@
+export const updateState = async (key, newValue) => { const existing = await db.get(key); if (existing && existing.timestamp >= newValue.timestamp) return; await db.set(key, { ...newValue, timestamp: Date.now(), sync: 'verified' }); };
