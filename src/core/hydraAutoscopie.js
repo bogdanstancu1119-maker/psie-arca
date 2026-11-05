@@ -1,0 +1,1 @@
+if (typeof actiuniAll === 'undefined') { const actiuniAll = []; console.warn('actiuniAll undefined: initializat cu array gol'); } const snapshot = { ...baseSnapshot, actiuni: actiuniAll || [] };
