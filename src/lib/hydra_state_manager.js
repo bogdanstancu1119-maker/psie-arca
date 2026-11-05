@@ -1,1 +1,1 @@
-async function normalizeState() { const states = await db.get('bursa_quant_state'); if (Array.isArray(states) && states.length > 1) { const last = states[states.length - 1]; await db.set('bursa_quant_state', JSON.stringify(last)); } }
+const consolidateState = (key, newState) => { const history = getHistory(key); if (isMoreRecent(newState, history.latest)) { updateStorage(key, newState); archive(history.latest); } };
