@@ -1,0 +1,1 @@
+async function executeBatchSearch(queue) { const batch = queue.splice(0, 5); return Promise.all(batch.map(req => fetch(req.url, { method: 'POST', body: JSON.stringify(req.data) }))); }
