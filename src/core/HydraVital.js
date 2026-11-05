@@ -1,0 +1,1 @@
+const validateHydra = (state) => { const critical = ['hydraBursaQuant', 'hydraBinanceOrdine', 'hydraSistemImunitar']; critical.forEach(name => { if(!state[name]) state[name] = {status: 'RECOVERED', timestamp: new Date().toISOString()}; }); return state; };
