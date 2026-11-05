@@ -1,1 +1,1 @@
-async function updateBursaState(newState) { const lock = await acquireLock('hydra-bursa-lock'); try { const current = await readFromR2('bursa_quant_state'); if (newState.timestamp > current.timestamp) { await writeToR2('bursa_quant_state', newState); } } finally { await releaseLock(lock); } }
+const updateSystemState = (key, newState) => { const oldState = db.get(key); if (JSON.stringify(oldState) !== JSON.stringify(newState)) { db.set(key, newState); log('Update aplicat: starea a fost modificată.'); } else { log('Update ignorat: starea este identică.'); } };
