@@ -1,1 +1,1 @@
-async function atomicWriteState(key, state) { const lastState = await R2.get(key); if (lastState && JSON.parse(lastState).bucle >= state.bucle) { return false; } await R2.put(key, JSON.stringify(state)); return true; }
+const updateState = (key, newState) => { const lastState = cache.get(key); if (lastState && newState.timestamp <= lastState.timestamp) { console.warn('Tentativa de scriere depasita detectata'); return false; } return storage.put(key, JSON.stringify(newState)); };
