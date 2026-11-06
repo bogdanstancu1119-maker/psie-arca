@@ -1,0 +1,1 @@
+export const enforceVitalSync = async (snapshot) => { const vitalNodes = snapshot.vital.regenerare; const currentNodes = Object.keys(await getActiveRegistry()); vitalNodes.forEach(node => { if (!currentNodes.includes(node)) { initiateNodeReenrollment(node); } }); };
