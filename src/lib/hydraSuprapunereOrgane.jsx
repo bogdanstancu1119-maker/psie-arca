@@ -1,0 +1,1 @@
+if (snapshot.hash === lastSnapshot.hash) { return { status: 'cached', reference: lastSnapshot.id, next_check: 'extended' }; } else { processFullUpdate(snapshot); updateLastHash(snapshot.hash); }
