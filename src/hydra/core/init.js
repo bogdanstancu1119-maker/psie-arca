@@ -1,0 +1,1 @@
+async function hydrateHydra() { const lastSnapshot = await fetch('https://r2.cloud.workers.dev/snapshot'); if (lastSnapshot.ok) { const state = await lastSnapshot.json(); window.HydraMemory = state; console.log('Hidratare completă. Sistem integrat.'); } else { console.warn('Pornire în mod izolat.'); } } hydrateHydra();
