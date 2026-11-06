@@ -1,1 +1,1 @@
-const consolidateState = (key, newState) => { const history = getHistory(key); if (isMoreRecent(newState, history.latest)) { updateStorage(key, newState); archive(history.latest); } };
+const updateState = (state, lastWrite) => { const now = Date.now(); if (now - lastWrite > 10000 || Math.abs(state.SDI - lastState.SDI) > 0.05) { db.set('bursa_quant_state', JSON.stringify(state)); return now; } return lastWrite; };
