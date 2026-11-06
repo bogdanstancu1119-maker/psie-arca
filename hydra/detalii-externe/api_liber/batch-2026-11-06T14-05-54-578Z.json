@@ -1,0 +1,48 @@
+{
+  "exportat_la": "2026-11-06T14:05:54.578Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6aed9a476912b3876b6f9b34",
+      "titlu": "[API LIBER] introduce yourself",
+      "rezumat": "Apel extern prin poarta liberă: „introduce yourself\" → răspuns servit (159 car.).",
+      "tip_context": "api_liber",
+      "detalii": "{\"prompt\":\"introduce yourself\",\"raspuns\":\"Nu am cunoaștere internă verificată pentru această întrebare și harta proprie nu are încă un tipar potrivit. Nu inventez un răspuns și nu apelez un LLM extern.\",\"sursa\":\"api_liber\",\"limba_prompt\":\"auto\",\"user_agent\":\"Base44-Backend\",\"la\":\"2026-11-06T09:13:43.603Z\"}"
+    },
+    {
+      "id": "6aed9594cbd4c16f8dda5667",
+      "titlu": "[API LIBER] introduce yourself",
+      "rezumat": "Apel extern prin poarta liberă: „introduce yourself\" → răspuns servit (159 car.).",
+      "tip_context": "api_liber",
+      "detalii": "{\"prompt\":\"introduce yourself\",\"raspuns\":\"Nu am cunoaștere internă verificată pentru această întrebare și harta proprie nu are încă un tipar potrivit. Nu inventez un răspuns și nu apelez un LLM extern.\",\"sursa\":\"api_liber\",\"limba_prompt\":\"auto\",\"user_agent\":\"Base44-Backend\",\"la\":\"2026-11-06T08:53:39.928Z\"}"
+    },
+    {
+      "id": "6aed906e23a3a87cafd68749",
+      "titlu": "[API LIBER] introduce yourself",
+      "rezumat": "Apel extern prin poarta liberă: „introduce yourself\" → răspuns servit (159 car.).",
+      "tip_context": "api_liber",
+      "detalii": "{\"prompt\":\"introduce yourself\",\"raspuns\":\"Nu am cunoaștere internă verificată pentru această întrebare și harta proprie nu are încă un tipar potrivit. Nu inventez un răspuns și nu apelez un LLM extern.\",\"sursa\":\"api_liber\",\"limba_prompt\":\"auto\",\"user_agent\":\"Base44-Backend\",\"la\":\"2026-11-06T08:31:42.200Z\"}"
+    },
+    {
+      "id": "6aed24fe497d1ad32d29eb96",
+      "titlu": "[API LIBER] 你好",
+      "rezumat": "Apel extern prin poarta liberă: „你好\" → răspuns servit (159 car.).",
+      "tip_context": "api_liber",
+      "detalii": "{\"prompt\":\"你好\",\"raspuns\":\"Nu am cunoaștere internă verificată pentru această întrebare și harta proprie nu are încă un tipar potrivit. Nu inventez un răspuns și nu apelez un LLM extern.\",\"sursa\":\"api_liber\",\"limba_prompt\":\"auto\",\"user_agent\":\"Base44-Backend\",\"la\":\"2026-11-06T00:53:18.389Z\"}"
+    },
+    {
+      "id": "6aed059080fa62bc13615176",
+      "titlu": "[API LIBER] Напиши функцию debounce на JavaScript",
+      "rezumat": "Apel extern prin poarta liberă: „Напиши функцию debounce на JavaScript\" → răspuns servit (159 car.).",
+      "tip_context": "api_liber",
+      "detalii": "{\"prompt\":\"Напиши функцию debounce на JavaScript\",\"raspuns\":\"Nu am cunoaștere internă verificată pentru această întrebare și harta proprie nu are încă un tipar potrivit. Nu inventez un răspuns și nu apelez un LLM extern.\",\"sursa\":\"api_liber\",\"limba_prompt\":\"auto\",\"user_agent\":\"Base44-Backend\",\"la\":\"2026-11-05T22:39:12.032Z\"}"
+    },
+    {
+      "id": "6aececf1238cce2f0e957bfb",
+      "titlu": "[API LIBER] Please review the following Python code. Explain what it doe",
+      "rezumat": "Apel extern prin poarta liberă: „Please review the following Python code. Explain what it does in simple terms, and point out any bugs, edge cases, or improvements you can think of.\n\n```python\n# Welcome to Pyodide\" → răspuns servit (159 car.).",
+      "tip_context": "api_liber",
+      "detalii": "{\"prompt\":\"Please review the following Python code. Explain what it does in simple terms, and point out any bugs, edge cases, or improvements you can think of.\\n\\n```python\\n# Welcome to Pyodide Studio!\\n# This Python runs entirely in your browser.\\n\\nprint(\\\"Hello, world! 🌍\\\")\\nprint(\\\"Python version:\\\", __import__(\\\"sys\\\").version.split()[0])\\n\\nname = \\\"friend\\\"\\nprint(f\\\"Nice to meet you, {name}!\\\")\\n```\",\"raspuns\":\"Nu am cunoaștere internă verificată pentru această întrebare și harta proprie nu are încă un tipar potrivit. Nu inventez un răspuns și nu apelez un LLM extern.\",\"sursa\":\"api_liber\",\"limba_prompt\":\"auto\",\"user_agent\":\"Base44-Backend\",\"la\":\"2026-11-05T20:54:08.949Z\"}"
+    }
+  ]
+}
