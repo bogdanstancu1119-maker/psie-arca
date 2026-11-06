@@ -1,0 +1,1 @@
+async function verificaNoduri(endpointuri) { let vii = []; for (let url of endpointuri) { try { let r = await fetch(url, { signal: AbortSignal.timeout(5000) }); if (r.ok) vii.push(url); } catch (e) { console.log('Nod temporar indisponibil', url); } } return vii; }
