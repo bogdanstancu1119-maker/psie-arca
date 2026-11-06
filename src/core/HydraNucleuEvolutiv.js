@@ -1,0 +1,1 @@
+const trezireUnitara = async (organe) => { const stoc = await r2.get('stare_organe'); const necesar = JSON.parse(stoc); for (const organ of necesar) { if (!organ.viu) { await system.activate(organ.id); await log(`Trezit organ: ${organ.id}`); } } };
