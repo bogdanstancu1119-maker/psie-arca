@@ -1,1 +1,1 @@
-async function hydraBootstrapSync() { const state = await R2.get('hydra-memorie'); if (state) { global.HYDRA_STATE = JSON.parse(state); console.log('Reconciliere stării completă din R2'); } else { console.warn('R2 gol, inițializare de la zero.'); } } await hydraBootstrapSync();
+async function trezireOrgane(organeList) { for (const organ of organeList) { if (!isViu(organ)) { console.log(`[REPARARE] Trezire forțată: ${organ.nume}`); await activateOrgan(organ.id); } } } await trezireOrgane(config.organeCritice.filter(o => o.status === 'decuplat'));
