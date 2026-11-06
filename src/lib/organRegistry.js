@@ -1,0 +1,1 @@
+const loadOrganState = (organName) => { const saved = localStorage.getItem(organName); try { return saved ? JSON.parse(saved) : DEFAULT_ORGAN_STATES[organName]; } catch (e) { console.error('Eroare parsare, resetare fallback', e); return DEFAULT_ORGAN_STATES[organName]; } };
