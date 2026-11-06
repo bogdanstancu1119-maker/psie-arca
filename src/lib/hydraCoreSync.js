@@ -1,0 +1,1 @@
+export async function synchronizeVitalOrgans(context) { const organs = await getStoredOrgans(context.r2); for (const organ of organs) { if (organ.status === 'decuplat') { const pulse = await pingOrganBeacon(organ.id); if (pulse.alive) { await updateOrganState(organ.id, 'activ'); } } } return { synced: true, timestamp: Date.now() }; }
