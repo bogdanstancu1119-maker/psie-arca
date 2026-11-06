@@ -1,0 +1,1 @@
+class PersistentMemory { constructor(key) { this.key = key; } save(data) { const state = JSON.stringify({ ...data, ts: Date.now() }); localStorage.setItem(this.key, state); return state; } load() { const data = localStorage.getItem(this.key); return data ? JSON.parse(data) : null; } } const memory = new PersistentMemory('hydra_seed_context'); export { memory };
