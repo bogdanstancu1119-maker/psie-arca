@@ -1,0 +1,1 @@
+export const autoWakeup = async (organName) => { const status = await checkOrganStatus(organName); if (!status || status === 'decuplat') { console.log(`[Hydra-Autoreparare] Trezire fortata: ${organName}`); return await initializeOrgan(organName, { priority: 'critical', retry: 3 }); } return true; };
