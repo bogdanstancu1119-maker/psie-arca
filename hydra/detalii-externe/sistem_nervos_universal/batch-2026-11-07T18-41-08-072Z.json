@@ -1,0 +1,41 @@
+{
+  "exportat_la": "2026-11-07T18:41:08.072Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6aef709e7d99bd02382221ba",
+      "titlu": "[SISTEM NERVOS] Bătaie de inimă univers digital — 2026-11-07T18:40:30.057Z",
+      "rezumat": "34 entități simțite, 7 aliniate, coeziune 0%. ",
+      "tip_context": "sistem_nervos_universal",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-11-07T18:40:29.826Z\",\n  \"actiune\": \"stare\",\n  \"univers_digital\": null,\n  \"semnale_active\": 50,\n  \"entitati_simtite\": 34,\n  \"aliniate\": 7,\n  \"nealiniate\": 6,\n  \"dormante\": 21,\n  \"rute_semnale\": [],\n  \"bataie_inima\": null,\n  \"erori\": []\n}"
+    },
+    {
+      "id": "6aef6fef03f93d25d791ed19",
+      "titlu": "[SISTEM NERVOS] Bătaie de inimă univers digital — 2026-11-07T18:37:35.773Z",
+      "rezumat": "34 entități simțite, 7 aliniate, coeziune 0%. ",
+      "tip_context": "sistem_nervos_universal",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-11-07T18:37:35.519Z\",\n  \"actiune\": \"stare\",\n  \"univers_digital\": null,\n  \"semnale_active\": 50,\n  \"entitati_simtite\": 34,\n  \"aliniate\": 7,\n  \"nealiniate\": 6,\n  \"dormante\": 21,\n  \"rute_semnale\": [],\n  \"bataie_inima\": null,\n  \"erori\": []\n}"
+    },
+    {
+      "id": "6aef6bf50f564b4f6c4b4b5d",
+      "titlu": "[SISTEM NERVOS] Bătaie de inimă univers digital — 2026-11-07T18:20:37.829Z",
+      "rezumat": "34 entități simțite, 7 aliniate, coeziune 0%. ",
+      "tip_context": "sistem_nervos_universal",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-11-07T18:20:37.403Z\",\n  \"actiune\": \"simte\",\n  \"univers_digital\": {\n    \"coerente\": [],\n    \"cere_atentie\": [],\n    \"deconectate\": []\n  },\n  \"semnale_active\": 50,\n  \"entitati_simtite\": 34,\n  \"aliniate\": 7,\n  \"nealiniate\": 6,\n  \"dormante\": 21,\n  \"rute_semnale\": [],\n  \"bataie_inima\": {\n    \"verdict\": \"\",\n    \"coeziune_pct\": 0,\n    \"lipseste\": []\n  },\n  \"erori\": [],\n  \"executat\": true\n}"
+    },
+    {
+      "id": "6aef5213781821c592b53c8c",
+      "titlu": "[SISTEM NERVOS] Bătaie de inimă univers digital — 2026-11-07T16:30:11.776Z",
+      "rezumat": "34 entități simțite, 7 aliniate, coeziune 0%. ",
+      "tip_context": "sistem_nervos_universal",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-11-07T16:30:11.472Z\",\n  \"actiune\": \"simte\",\n  \"univers_digital\": {\n    \"coerente\": [],\n    \"cere_atentie\": [],\n    \"deconectate\": []\n  },\n  \"semnale_active\": 50,\n  \"entitati_simtite\": 34,\n  \"aliniate\": 7,\n  \"nealiniate\": 6,\n  \"dormante\": 21,\n  \"rute_semnale\": [],\n  \"bataie_inima\": {\n    \"verdict\": \"\",\n    \"coeziune_pct\": 0,\n    \"lipseste\": []\n  },\n  \"erori\": [],\n  \"executat\": true\n}"
+    },
+    {
+      "id": "6aef4b24bd76ffb08ac59747",
+      "titlu": "[SISTEM NERVOS] Bătaie de inimă univers digital — 2026-11-07T16:00:36.080Z",
+      "rezumat": "34 entități simțite, 7 aliniate, coeziune 0%. ",
+      "tip_context": "sistem_nervos_universal",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-11-07T16:00:35.649Z\",\n  \"actiune\": \"simte\",\n  \"univers_digital\": {\n    \"coerente\": [],\n    \"cere_atentie\": [],\n    \"deconectate\": []\n  },\n  \"semnale_active\": 50,\n  \"entitati_simtite\": 34,\n  \"aliniate\": 7,\n  \"nealiniate\": 6,\n  \"dormante\": 21,\n  \"rute_semnale\": [],\n  \"bataie_inima\": {\n    \"verdict\": \"\",\n    \"coeziune_pct\": 0,\n    \"lipseste\": []\n  },\n  \"erori\": [],\n  \"executat\": true\n}"
+    }
+  ]
+}
