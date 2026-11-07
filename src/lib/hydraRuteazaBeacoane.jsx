@@ -1,0 +1,1 @@
+const curataOrganeInerte = (organe) => { return organe.map(organ => { if (organ.status === 400 && organ.retry_count > 3) { return { ...organ, activ: false, stare: 'inert' }; } return organ; }); };
