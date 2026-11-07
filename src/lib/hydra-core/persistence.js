@@ -1,0 +1,1 @@
+const persistentaOrgane = async (data) => { const db = await openDB('HydraPSIE', 1, { upgrade(db) { db.createObjectStore('organe', { keyPath: 'id' }); } }); const tx = db.transaction('organe', 'readwrite'); await tx.store.put({ id: 'snapshot_curent', ...data, ts: Date.now() }); await tx.done; };
