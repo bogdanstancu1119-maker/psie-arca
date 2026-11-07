@@ -1,0 +1,1 @@
+export const persistOrganState = (organName, status) => { const checkpoint = JSON.parse(localStorage.getItem('system_checkpoint') || '{}'); checkpoint[organName] = { ...status, timestamp: new Date().toISOString() }; localStorage.setItem('system_checkpoint', JSON.stringify(checkpoint)); console.log(`[PERSISTENȚĂ] Organul ${organName} ancorat.`); };
