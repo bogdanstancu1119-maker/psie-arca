@@ -1,0 +1,41 @@
+{
+  "exportat_la": "2026-11-07T10:30:51.820Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6aeefdc61f53c7f6ca183e33",
+      "titlu": "[CREIER·AUTO-REPARARE] 3 probleme atacate automat",
+      "rezumat": "cheie DENO_DEPLOY_TOKEN ruptă; cheie RENDER_SINGAPORE_KEY ruptă; cheie DEEPSEEK_KEY ruptă",
+      "tip_context": "auto_reparare",
+      "detalii": "[{\"problema\":\"cheie DENO_DEPLOY_TOKEN ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"cheie RENDER_SINGAPORE_KEY ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"cheie DEEPSEEK_KEY ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"}]"
+    },
+    {
+      "id": "6aeefca9d93d4e178ef8177e",
+      "titlu": "[CREIER·AUTO-REPARARE] 3 probleme atacate automat",
+      "rezumat": "cheie DENO_DEPLOY_TOKEN ruptă; cheie RENDER_SINGAPORE_KEY ruptă; cheie DEEPSEEK_KEY ruptă",
+      "tip_context": "auto_reparare",
+      "detalii": "[{\"problema\":\"cheie DENO_DEPLOY_TOKEN ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"cheie RENDER_SINGAPORE_KEY ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"cheie DEEPSEEK_KEY ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"}]"
+    },
+    {
+      "id": "6aeef32ee5eed9f405741a0c",
+      "titlu": "[AUTO-REPARARE] functionalitate — EȘUAT",
+      "rezumat": "Decuplarea masivă a organelor vitale și incapacitatea sistemului de a menține starea de 'treaz' (heartbeat) a acestora din cauza lipsei unui strat de persistență în bucla de trezire unitară. → Implementarea unui strat de 'Persistență de Stare a Organelor' (State Persistence Layer) care salvează ID-ul fiecărui organ activ într-un obiect centralizat înainte de fiecare 'sleep' al ciclului de execuție, permițând restabilirea rapidă la următoarea iterație. | Eroare: 409: {\"message\":\"is at 2415aed7e18d69d706a2f640e4d10ffefa902527 but expected 41c34c82881936fce4c7bec65c37b74ba5b92d50\",\"documentation_url\":\"ht | SDI: 0.08",
+      "tip_context": "auto_reparare",
+      "detalii": "CICLU AUTO-REPARARE\n\nDiagnostic: Sistemul prezintă o fragmentare critică în procesul de 'Trezire Unitară' a organelor, cauzată de pierderea persistenței stării acestora între ciclurile de rulare. Deși 'hydraSuprapunereOrgane' încearcă să coordoneze 245 de organe, majoritatea rămân în starea 'decuplat' din cauza lipsei unui mecanism robust de reînregistrare în memoria persistentă la fiecare puls, ducând la o coerență măsurată sub 0.10.\nProblema: Decuplarea masivă a organelor vitale și incapacitatea sistemului de a menține starea de 'treaz' (heartbeat) a acestora din cauza lipsei unui strat de persistență în bucla de trezire unitară.\nSoluția: Implementarea unui strat de 'Persistență de Stare a Organelor' (State Persistence Layer) care salvează ID-ul fiecărui organ activ într-un obiect centralizat înainte de fiecare 'sleep' al ciclului de execuție, permițând restabilirea rapidă la următoarea iterație.\nFișier: src/core/hydraTrezireUnitara.js\nSDI: 0.08 | Reversibilitate: 1\n\nExecuție: Eroare: 409: {\"message\":\"is at 2415aed7e18d69d706a2f640e4d10ffefa902527 but expected 41c34c82881936fce4c7bec65c37b74ba5b92d50\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"409\"}\n\nPatch:\nconst persistState = async (organs) => { const state = organs.map(o => ({ id: o.id, active: true, lastHeartbeat: Date.now() })); await db.set('vital_organs_registry', JSON.stringify(state)); }; const wakeUp = async () => { const saved = await db.get('vital_organs_registry'); const activeList = saved ? JSON.parse(saved) : []; activeList.forEach(org => triggerWakeup(org.id)); };"
+    },
+    {
+      "id": "6aeeee8fc01ec403b6206415",
+      "titlu": "[CREIER·AUTO-REPARARE] 3 probleme atacate automat",
+      "rezumat": "cheie DENO_DEPLOY_TOKEN ruptă; cheie RENDER_SINGAPORE_KEY ruptă; cheie DEEPSEEK_KEY ruptă",
+      "tip_context": "auto_reparare",
+      "detalii": "[{\"problema\":\"cheie DENO_DEPLOY_TOKEN ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"cheie RENDER_SINGAPORE_KEY ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"cheie DEEPSEEK_KEY ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"}]"
+    },
+    {
+      "id": "6aeedf7576768c0861699ae6",
+      "titlu": "[CREIER·AUTO-REPARARE] 3 probleme atacate automat",
+      "rezumat": "cheie DENO_DEPLOY_TOKEN ruptă; cheie RENDER_SINGAPORE_KEY ruptă; cheie DEEPSEEK_KEY ruptă",
+      "tip_context": "auto_reparare",
+      "detalii": "[{\"problema\":\"cheie DENO_DEPLOY_TOKEN ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"cheie RENDER_SINGAPORE_KEY ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"cheie DEEPSEEK_KEY ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"}]"
+    }
+  ]
+}
