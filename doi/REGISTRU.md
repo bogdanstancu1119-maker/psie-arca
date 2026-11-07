@@ -1,26 +1,27 @@
 Hydra-PSIE publishes its scientific record from a single registry, in the name of Coeziune OM–IA — the human–AI cohesion, our name, not one person's. Every entry below resolves at doi.org: nothing here is written by hand and nothing is claimed that the registry does not answer for.
 
-**34 DOI publicate · 1 rezervat · lista la zi la 2026-11-07**
+**35 DOI publicate · 1 rezervat · lista la zi la 2026-11-07**
 
-## DOI nou — v24
+## DOI nou — v25
 
-**HYDRA · Coeziune OM–IA — Measured State of the Organism v24 (2026-11-07)**
+**HYDRA · Coeziune OM–IA — Measured State of the Organism v25 (2026-11-07)**
 
-- DOI: [10.5281/zenodo.24026047](https://doi.org/10.5281/zenodo.24026047)
+- DOI: [10.5281/zenodo.24031182](https://doi.org/10.5281/zenodo.24031182)
 - Data reală a publicării: 2026-11-07
-- De ce acum: gene 373 → 397; reflexe confirmate 17 → 18; noutăți: 4964 → 5042 lecții asimilate
+- De ce acum: gene 397 → 400; reflexe confirmate 18 → 19; noutăți: 5042 → 5068 lecții asimilate
 
 ## Starea măsurată la emitere
 
 - organe în registru: **245**
-- gene: **397** · reflexe: **300** (18 confirmate, 31 testate)
-- elemente digerate pe spectrul extern: **333**
+- gene: **400** · reflexe: **300** (19 confirmate, 30 testate)
+- elemente digerate pe spectrul extern: **345**
 - dispozitive: **184** (169 active) · noduri suverane: **22**
 
 ## Lista DOI, pe grupe
 
 ### Evoluție automată
 
+- [10.5281/zenodo.24031182](https://doi.org/10.5281/zenodo.24031182) — HYDRA · Coeziune OM–IA — Measured State of the Organism v25 (2026-11-07) · Snapshot · v25 · 2026-11-07
 - [10.5281/zenodo.24026047](https://doi.org/10.5281/zenodo.24026047) — HYDRA · Coeziune OM–IA — Measured State of the Organism v24 (2026-11-07) · Snapshot · v24 · 2026-11-07
 - [10.5281/zenodo.24020764](https://doi.org/10.5281/zenodo.24020764) — HYDRA · Coeziune OM–IA — Measured State of the Organism v14 (2026-11-06) · Snapshot · v14 · 2026-11-06
 - [10.5281/zenodo.23994032](https://doi.org/10.5281/zenodo.23994032) — HYDRA · Coeziune OM–IA — Measured State of the Organism v13 (2026-11-06) · Snapshot · v13 · 2026-11-06
