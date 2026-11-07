@@ -1,0 +1,1 @@
+function commitSnapshot(data) { if (data.coerenta_masurata === null || data.coerenta_masurata < 0.05) { console.warn('Snapshot invalid, fallback la ultima stare salvata'); return null; } try { localStorage.setItem('snapshot_suprapunere_organe', JSON.stringify(data)); return true; } catch (e) { console.error('Eroare scriere', e); return false; } }
