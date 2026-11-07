@@ -1,0 +1,1 @@
+const curataOrganeInerte = (organe) => { return organe.map(org => ({ ...org, status: org.erori > 3 ? 'APOPTOZA_STARE' : org.status, activ: org.erori <= 3 })); };
