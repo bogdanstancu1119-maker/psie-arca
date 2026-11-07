@@ -1,0 +1,1 @@
+const reanimeazaNoduri = (organe) => { const prag = 180 * 60 * 1000; return organe.map(o => { if (Date.now() - o.lastBeat > prag) { return {...o, status: 'reanimare', heartbeat: 'reset' }; } return o; }); };
