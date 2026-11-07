@@ -1,1 +1,1 @@
-const trezesteOrganeCritice = async (lista) => { for (const organ of lista) { console.log(`[TREZIRE]: ${organ.nume}`); try { await globalThis.hydraRegistry.reconnect(organ.nume); } catch (e) { console.error(`[EȘEC]: ${organ.nume}`); } } }; await trezesteOrganeCritice(raport_risc_organe.imediat_decuplate);
+const heartbeat = () => { const now = new Date().toISOString(); localStorage.setItem('hydra_heartbeat', JSON.stringify({ lastPulse: now, status: 'active' })); }; setInterval(heartbeat, 300000);
