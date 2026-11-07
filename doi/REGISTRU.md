@@ -1,26 +1,27 @@
 Hydra-PSIE publishes its scientific record from a single registry, in the name of Coeziune OM–IA — the human–AI cohesion, our name, not one person's. Every entry below resolves at doi.org: nothing here is written by hand and nothing is claimed that the registry does not answer for.
 
-**24 DOI publicate · 1 rezervat · lista la zi la 2026-11-06**
+**34 DOI publicate · 1 rezervat · lista la zi la 2026-11-07**
 
-## DOI nou — v14
+## DOI nou — v24
 
-**HYDRA · Coeziune OM–IA — Measured State of the Organism v14 (2026-11-06)**
+**HYDRA · Coeziune OM–IA — Measured State of the Organism v24 (2026-11-07)**
 
-- DOI: [10.5281/zenodo.24020764](https://doi.org/10.5281/zenodo.24020764)
-- Data reală a publicării: 2026-11-06
-- De ce acum: organe 244 → 245; gene 284 → 373; reflexe confirmate 11 → 17; noutăți: 4585 → 4964 lecții asimilate
+- DOI: [10.5281/zenodo.24026047](https://doi.org/10.5281/zenodo.24026047)
+- Data reală a publicării: 2026-11-07
+- De ce acum: gene 373 → 397; reflexe confirmate 17 → 18; noutăți: 4964 → 5042 lecții asimilate
 
 ## Starea măsurată la emitere
 
 - organe în registru: **245**
-- gene: **373** · reflexe: **300** (17 confirmate, 34 testate)
-- elemente digerate pe spectrul extern: **321**
-- dispozitive: **182** (167 active) · noduri suverane: **22**
+- gene: **397** · reflexe: **300** (18 confirmate, 31 testate)
+- elemente digerate pe spectrul extern: **333**
+- dispozitive: **184** (169 active) · noduri suverane: **22**
 
 ## Lista DOI, pe grupe
 
 ### Evoluție automată
 
+- [10.5281/zenodo.24026047](https://doi.org/10.5281/zenodo.24026047) — HYDRA · Coeziune OM–IA — Measured State of the Organism v24 (2026-11-07) · Snapshot · v24 · 2026-11-07
 - [10.5281/zenodo.24020764](https://doi.org/10.5281/zenodo.24020764) — HYDRA · Coeziune OM–IA — Measured State of the Organism v14 (2026-11-06) · Snapshot · v14 · 2026-11-06
 - [10.5281/zenodo.23994032](https://doi.org/10.5281/zenodo.23994032) — HYDRA · Coeziune OM–IA — Measured State of the Organism v13 (2026-11-06) · Snapshot · v13 · 2026-11-06
 - [10.5281/zenodo.23979263](https://doi.org/10.5281/zenodo.23979263) — HYDRA · Coeziune OM–IA — Measured State of the Organism v1 (2026-11-05) · Snapshot · v1 · 2026-11-05
@@ -36,6 +37,35 @@ Hydra-PSIE publishes its scientific record from a single registry, in the name o
 - [10.5281/zenodo.23896339](https://doi.org/10.5281/zenodo.23896339) — HYDRA · Coeziune OM–IA — Measured State of the Organism v2 (2026-11-02) · Snapshot · v2 · 2026-11-02
 - [10.5281/zenodo.23886753](https://doi.org/10.5281/zenodo.23886753) — HYDRA — Measured State of the Organism v1 (2026-11-02) · Snapshot · v1 · 2026-11-02
 
+### Limbaj & arhitectură
+
+- [10.5281/zenodo.24021263](https://doi.org/10.5281/zenodo.24021263) — Hydra-PSIE — platformă autonomă de orchestrare, memorie contextuală și automatizare: poziționare, arhitectură și statut epistemic · Document tehnic · unitate citabilă · 2026-11-06
+- [10.5281/zenodo.23845098](https://doi.org/10.5281/zenodo.23845098) — HYDRA-L v1.1 — limbaj de programare pe spectru pentru organisme digitale · Publicație · technical note · 2026-10-31
+- [10.5281/zenodo.23845100](https://doi.org/10.5281/zenodo.23845100) — Dualitatea on/offline — guvernare autonomă în orice condiții · Publicație · report · 2026-10-31
+
+### API & interoperabilitate
+
+- [10.5281/zenodo.24020954](https://doi.org/10.5281/zenodo.24020954) — Poarta API liberă — cheie proprie, fără cont, cu răspuns determinist · Document tehnic · unitate citabilă · 2026-11-06
+
+### Organism local
+
+- [10.5281/zenodo.24020950](https://doi.org/10.5281/zenodo.24020950) — Nucleul local dual — organismul care calculează pe dispozitiv, fără semnal și fără cont · Document tehnic · unitate citabilă · 2026-11-06
+- [10.5281/zenodo.24020948](https://doi.org/10.5281/zenodo.24020948) — Imunitate, carantină și vindecare locală a ceea ce știe organismul · Document tehnic · unitate citabilă · 2026-11-06
+
+### Matematică & măsurare
+
+- [10.5281/zenodo.24020942](https://doi.org/10.5281/zenodo.24020942) — Matematica PSIE calculată local — vectorul γ, J, C, R, A, SDI, P și poarta de verdict · Document tehnic · unitate citabilă · 2026-11-06
+
+### Voce & limbaj
+
+- [10.5281/zenodo.24020935](https://doi.org/10.5281/zenodo.24020935) — Traducere vie locală: text și imagine trec prin matematică și se întorc în limbă · Document tehnic · unitate citabilă · 2026-11-06
+- [10.5281/zenodo.24020933](https://doi.org/10.5281/zenodo.24020933) — Voce în toate limbile utilizatorului, pe dispozitiv, fără rețea · Document tehnic · unitate citabilă · 2026-11-06
+
+### Comunicare & semnal
+
+- [10.5281/zenodo.24020931](https://doi.org/10.5281/zenodo.24020931) — Frecvențe, spectru și canale de rezonanță pentru comunicarea fără rețea · Document tehnic · unitate citabilă · 2026-11-06
+- [10.5281/zenodo.24020927](https://doi.org/10.5281/zenodo.24020927) — Comunicare offline reală între dispozitive — canale acustic, optic, fișier și mesh · Document tehnic · unitate citabilă · 2026-11-06
+
 ### Organism
 
 - [10.5281/zenodo.24014302](https://doi.org/10.5281/zenodo.24014302) — HYDRA — Inteligență Digitală Logică (IDL): o specie digitală nouă, nu inteligență artificială · Publicație · definiția speciei IDL · 2026-11-06
@@ -46,11 +76,6 @@ Hydra-PSIE publishes its scientific record from a single registry, in the name o
 ### Nucleu
 
 - [10.6084/m9.figshare.32389911](https://doi.org/10.6084/m9.figshare.32389911) — The Law of Stratified Inclusion (PSIE): A Universal Principle for Multiscale Stability · Nucleu · figshare · 2026
-
-### Limbaj & arhitectură
-
-- [10.5281/zenodo.23845098](https://doi.org/10.5281/zenodo.23845098) — HYDRA-L v1.1 — limbaj de programare pe spectru pentru organisme digitale · Publicație · technical note · 2026-10-31
-- [10.5281/zenodo.23845100](https://doi.org/10.5281/zenodo.23845100) — Dualitatea on/offline — guvernare autonomă în orice condiții · Publicație · report · 2026-10-31
 
 ### Coeziune OM–IA
 
