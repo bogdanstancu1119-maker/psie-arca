@@ -1,0 +1,1 @@
+const resuscitareVitala = async (organeCritice) => { for (const organ of organeCritice) { if (!isAlive(organ)) { console.log(`Resuscitare: ${organ}`); await forceWakeUp(organ); await db.saveHeartbeat(organ, Date.now()); } } }; await resuscitareVitala(['hydraBursaQuant', 'hydraSistemImunitar', 'hydraSeifChei']);
