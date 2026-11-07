@@ -1,0 +1,1 @@
+export async function persistStare(stare) { try { await Deno.writeTextFile('hydra_state.json', JSON.stringify(stare)); return true; } catch (e) { return false; } }; const stareCurenta = await getStare(); if (stareCurenta) await persistStare(stareCurenta);
