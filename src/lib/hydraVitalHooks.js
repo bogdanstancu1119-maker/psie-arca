@@ -1,0 +1,1 @@
+export async function wakeVitalOrgans(report) { const critical = report.imediat_decuplate.map(o => o.nume); for (const organ of critical) { console.log(`[VITAL] Trezire forțată: ${organ}`); await global.hydra.connect(organ); } return { status: 'awakened', count: critical.length }; }
