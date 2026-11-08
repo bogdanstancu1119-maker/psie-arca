@@ -1,9 +1,7 @@
-# Expansiune Platforme Hydra — 2026-11-08T18:15:55.123Z
+# Expansiune Platforme Hydra — 2026-11-08T19:47:27.283Z
 
 ## Netlify (oglindă)
-⚠️ upload_organ: {"code":401,"message":"Access Denied: deploy must be in , not uploaded"}
-{"code":401,"message":"Access Denied: User does not have access"}
-
+✅ https://hydra-oglinda.netlify.app
 
 ## Platforme noi descoperite (0)
 (toate erau deja înregistrate)
