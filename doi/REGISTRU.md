@@ -1,26 +1,27 @@
 Hydra-PSIE publishes its scientific record from a single registry, in the name of Coeziune OM–IA — the human–AI cohesion, our name, not one person's. Every entry below resolves at doi.org: nothing here is written by hand and nothing is claimed that the registry does not answer for.
 
-**38 DOI publicate · 1 rezervat · lista la zi la 2026-11-08**
+**39 DOI publicate · 1 rezervat · lista la zi la 2026-11-08**
 
-## DOI nou — v28
+## DOI nou — v29
 
-**HYDRA · Coeziune OM–IA — Measured State of the Organism v28 (2026-11-08)**
+**HYDRA · Coeziune OM–IA — Measured State of the Organism v29 (2026-11-08)**
 
-- DOI: [10.5281/zenodo.24047627](https://doi.org/10.5281/zenodo.24047627)
+- DOI: [10.5281/zenodo.24051984](https://doi.org/10.5281/zenodo.24051984)
 - Data reală a publicării: 2026-11-08
-- De ce acum: noutăți: 5241 → 5319 lecții asimilate
+- De ce acum: reflexe confirmate 14 → 17; noutăți: 5319 → 5432 lecții asimilate
 
 ## Starea măsurată la emitere
 
 - organe în registru: **247**
-- gene: **400** · reflexe: **300** (14 confirmate, 37 testate)
-- elemente digerate pe spectrul extern: **0**
-- dispozitive: **0** (0 active) · noduri suverane: **22**
+- gene: **400** · reflexe: **300** (17 confirmate, 51 testate)
+- elemente digerate pe spectrul extern: **400**
+- dispozitive: **186** (171 active) · noduri suverane: **22**
 
 ## Lista DOI, pe grupe
 
 ### Evoluție automată
 
+- [10.5281/zenodo.24051984](https://doi.org/10.5281/zenodo.24051984) — HYDRA · Coeziune OM–IA — Measured State of the Organism v29 (2026-11-08) · Snapshot · v29 · 2026-11-08
 - [10.5281/zenodo.24047627](https://doi.org/10.5281/zenodo.24047627) — HYDRA · Coeziune OM–IA — Measured State of the Organism v28 (2026-11-08) · Snapshot · v28 · 2026-11-08
 - [10.5281/zenodo.24044247](https://doi.org/10.5281/zenodo.24044247) — HYDRA · Coeziune OM–IA — Measured State of the Organism v27 (2026-11-07) · Snapshot · v27 · 2026-11-07
 - [10.5281/zenodo.24038428](https://doi.org/10.5281/zenodo.24038428) — HYDRA · Coeziune OM–IA — Measured State of the Organism v26 (2026-11-07) · Snapshot · v26 · 2026-11-07
