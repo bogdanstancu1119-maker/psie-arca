@@ -1,0 +1,1 @@
+function fortaTrezire(organe) { organe.forEach(nume => { if (detecteazaDecuplaj(nume)) { console.log('Trezire fortata:', nume); activeazaOrgan(nume); } }); } const organeVitale = ['hydraBinanceOrdine', 'hydraSeifChei', 'hydraApoptoza']; fortaTrezire(organeVitale);
