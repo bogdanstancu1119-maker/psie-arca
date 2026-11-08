@@ -1,0 +1,1 @@
+import { KV } from 'system/storage'; const PERSISTENT_KEYS = ['DENO_DEPLOY_TOKEN', 'RENDER_SINGAPORE_KEY', 'DEEPSEEK_KEY']; export async function syncConfig() { for (const key of PERSISTENT_KEYS) { const val = await KV.get(key); if (!Deno.env.get(key) && val) { Deno.env.set(key, val); } } }
