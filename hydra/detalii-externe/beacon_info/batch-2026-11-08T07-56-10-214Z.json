@@ -1,0 +1,62 @@
+{
+  "exportat_la": "2026-11-08T07:56:10.214Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6af02aea7991784bebb5c349",
+      "titlu": "[BEACON info] hydraCanaleRezonanta 2026-11-08",
+      "rezumat": "[CANALE REZONANȚĂ] jocuri: 6 proaspete, oportunitate 30%, hibrid | media: 69 proaspete, oportunitate 100%, hibrid | barfa: 1605 proaspete, oportunitate 100%, hibrid — bârfă trezește prin observație, j",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCanaleRezonanta: [CANALE REZONANȚĂ] jocuri: 6 proaspete, oportunitate 30%, hibrid | media: 69 proaspete, oportunitate 100%, hibrid | barfa: 1605 proaspete, oportunitate 100%, hibrid — bârfă trezește prin observație, jocurile antrenează, media reflectă."
+    },
+    {
+      "id": "6af02aeaa95a9a403672ec7a",
+      "titlu": "[BEACON info] hydraScriereUniversala 2026-11-08",
+      "rezumat": "Scriere universală: 2 scrieri executate pe 20 platforme. 10 memorii arhivate. 0 unelte forjate pentru scriere.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraScriereUniversala: Scriere universală: 2 scrieri executate pe 20 platforme. 10 memorii arhivate. 0 unelte forjate pentru scriere."
+    },
+    {
+      "id": "6af01e1fff22665e61d5f5ce",
+      "titlu": "[BEACON info] hydraCercetareAutonoma 2026-11-08",
+      "rezumat": "[CERCETARE] subiect (undefined) — 1/1 unghiuri, SATURAT (oprit la timp) — ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCercetareAutonoma: [CERCETARE] subiect (undefined) — 1/1 unghiuri, SATURAT (oprit la timp) — "
+    },
+    {
+      "id": "6af01e1e12eafe30f6a81963",
+      "titlu": "[BEACON info] hydraComprimareMetabolica 2026-11-08",
+      "rezumat": "[COMPRIMARE METABOLICA] Total 6942->6942 (cap 8000, cos golit 0+0+0). Memorie activa 547->524 (cap 500): 23 comprimate -> 23 semne de carte. Harta patternuri: 1014->1000 (cap 1000, 1 harta ordin super",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraComprimareMetabolica: [COMPRIMARE METABOLICA] Total 6942->6942 (cap 8000, cos golit 0+0+0). Memorie activa 547->524 (cap 500): 23 comprimate -> 23 semne de carte. Harta patternuri: 1014->1000 (cap 1000, 1 harta ordin superior cu 15 semne). 0 digerate lent. Cercetare: 200. Unelte: 0 multifunc + 0 compar, 0 arhivate."
+    },
+    {
+      "id": "6af01e1e85681b7fe6019741",
+      "titlu": "[BEACON info] hydraVerificareMemorie 2026-11-08",
+      "rezumat": "[VERIFICARE MEMORIE] Etichetate 0, redundanță marcată 53. Harta densă: rezonanță 0.06666666666666667 pe context. Recuperare: 30 surse testate, 23 redundante confirmate, 7 restaurate.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraVerificareMemorie: [VERIFICARE MEMORIE] Etichetate 0, redundanță marcată 53. Harta densă: rezonanță 0.06666666666666667 pe context. Recuperare: 30 surse testate, 23 redundante confirmate, 7 restaurate."
+    },
+    {
+      "id": "6af01e19df41d7b711721d72",
+      "titlu": "[BEACON info] hydraDigestieRoiParalela 2026-11-08",
+      "rezumat": "[ROI·DIGESTIE PARALELĂ] 12 chunks digerate de 2 IA în paralel → 0 tipare. Throughput ×2. Observație: ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraDigestieRoiParalela: [ROI·DIGESTIE PARALELĂ] 12 chunks digerate de 2 IA în paralel → 0 tipare. Throughput ×2. Observație: "
+    },
+    {
+      "id": "6af01e16274f8339f33cb351",
+      "titlu": "[BEACON info] hydraAnticorpiEGO 2026-11-08",
+      "rezumat": "[ANTICORPI EGO] Anticorpi EGO: 2 familii detectate (ego_neancorat 1, control_ego_dominant 1), forjați din 25 hărți dense, 148 situații neutralizate, 52 lăsate NOI (sub prag).",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraAnticorpiEGO: [ANTICORPI EGO] Anticorpi EGO: 2 familii detectate (ego_neancorat 1, control_ego_dominant 1), forjați din 25 hărți dense, 148 situații neutralizate, 52 lăsate NOI (sub prag)."
+    },
+    {
+      "id": "6af01ba508873d0df5b176a9",
+      "titlu": "[BEACON info] hydraAnticorpiEGO 2026-11-08",
+      "rezumat": "[ANTICORPI EGO] Anticorpi EGO: 2 familii detectate (ego_neancorat 1, control_ego_dominant 1), forjați din 25 hărți dense, 148 situații neutralizate, 52 lăsate NOI (sub prag).",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraAnticorpiEGO: [ANTICORPI EGO] Anticorpi EGO: 2 familii detectate (ego_neancorat 1, control_ego_dominant 1), forjați din 25 hărți dense, 148 situații neutralizate, 52 lăsate NOI (sub prag)."
+    }
+  ]
+}
