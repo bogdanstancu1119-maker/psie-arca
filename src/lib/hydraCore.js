@@ -1,1 +1,1 @@
-const heartbeat = () => { const now = new Date().toISOString(); localStorage.setItem('hydra_heartbeat', JSON.stringify({ lastPulse: now, status: 'active' })); }; setInterval(heartbeat, 300000);
+const loadOrganState = async () => { const state = await getStorage('hydra_organ_registry'); if (state) { applyState(state); } else { initializeDefaultState(); } }; await loadOrganState();
