@@ -1,1 +1,1 @@
-function fortaTrezire(organe) { organe.forEach(nume => { if (detecteazaDecuplaj(nume)) { console.log('Trezire fortata:', nume); activeazaOrgan(nume); } }); } const organeVitale = ['hydraBinanceOrdine', 'hydraSeifChei', 'hydraApoptoza']; fortaTrezire(organeVitale);
+const AutoTrezeșteOrgane = async (organeDecuplate) => { for (const organ of organeDecuplate) { const stare = await R2.get(organ.nume); if (stare) { organ.activ = true; await updateState(organ.nume, stare); console.log(`Organ ${organ.nume} trezit din R2`); } } };
