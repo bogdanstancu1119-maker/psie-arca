@@ -1,0 +1,1 @@
+if (system.coherence > 0.9) { const decuplate = registry.getOrgansByStatus('incapacitant_imediat'); decuplate.forEach(organ => { if (!organ.isActive) { organ.wakeUp(); logger.info(`Trezire forțată executată pentru: ${organ.name}`); } }); }
