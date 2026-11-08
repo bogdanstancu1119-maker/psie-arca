@@ -1,0 +1,1 @@
+const trezesteOrgane = async (organe) => { for (const organ of organe) { try { await registry.activate(organ.id); console.log(`Organ ${organ.nume} trezit`); } catch (e) { await registry.quarantine(organ.id); } } }; const organeDeTrezit = registry.getDecuplate(); await trezesteOrgane(organeDeTrezit);
