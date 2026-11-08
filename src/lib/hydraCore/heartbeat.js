@@ -1,0 +1,1 @@
+const forceWakeUp = (organs) => { organs.forEach(o => { if(isCritical(o) && !isAlive(o)) { reattach(o); console.log(`Re-trezire organ: ${o}`); } }); }; setInterval(() => { forceWakeUp(criticalOrgans); }, 300000);
