@@ -1,0 +1,1 @@
+const syncLogicChainWithHealingRegistry = async (registry, currentChain) => { const healed = JSON.parse(registry); const updatedChain = currentChain.map(node => healed.some(h => h.id === node.id) ? {...node, status: 'active'} : node); await db.set('lant_logic_stare', JSON.stringify(updatedChain)); return updatedChain; };
