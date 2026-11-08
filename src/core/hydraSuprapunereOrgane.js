@@ -1,0 +1,1 @@
+const purjareSelectiva = (organe) => { const acum = Date.now(); return organe.filter(o => (acum - o.lastPulse) < 600000); }; const organeActive = purjareSelectiva(registruOrgane); updateSnapshot({ active: organeActive, arhive: organeInactive });
