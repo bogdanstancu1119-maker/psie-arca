@@ -1,7 +1,7 @@
-# Expansiune Platforme Hydra — 2026-11-07T21:40:33.756Z
+# Expansiune Platforme Hydra — 2026-11-08T01:10:24.199Z
 
 ## Netlify (oglindă)
-⚠️ create_deploy: {"error":"Account credit usage exceeded - new deploys are blocked until credits are added"}
+✅ https://hydra-oglinda.netlify.app
 
 ## Platforme noi descoperite (0)
 (toate erau deja înregistrate)
