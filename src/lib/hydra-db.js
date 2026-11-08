@@ -1,0 +1,1 @@
+async function updateSnapshot(key, value) { const existing = await db.get(key); const merged = existing ? { ...JSON.parse(existing), ...value, updated_at: new Date().toISOString() } : value; await db.set(key, JSON.stringify(merged)); return merged; }
