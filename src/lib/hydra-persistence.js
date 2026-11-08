@@ -1,0 +1,1 @@
+const persistState = async (key, data) => { try { await localStorage.setItem(key, JSON.stringify(data)); return true; } catch (e) { console.error('Storage error:', e); return false; } }; const restoreState = (key) => { const data = localStorage.getItem(key); return data ? JSON.parse(data) : null; };
