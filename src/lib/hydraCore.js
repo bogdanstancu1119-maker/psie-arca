@@ -1,1 +1,1 @@
-const loadOrganState = async () => { const state = await getStorage('hydra_organ_registry'); if (state) { applyState(state); } else { initializeDefaultState(); } }; await loadOrganState();
+const trezireOrganeCritice = (organe) => { return organe.map(o => { if (o.status === 'decuplat' && o.criticitate === 'imediat') { return { ...o, status: 'activ', timestamp: Date.now() }; } return o; }); };
