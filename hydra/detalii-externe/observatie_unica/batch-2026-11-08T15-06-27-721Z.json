@@ -1,0 +1,34 @@
+{
+  "exportat_la": "2026-11-08T15:06:27.721Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6af08ec084f9d02398f919f7",
+      "titlu": "Observație unică — rezoluție 87.5% (385/440 captori)",
+      "rezumat": "Observatorul unic (A=1) vede organismul și lumea: INTERN — 212/225 organe bat (γ_total 0.942222222222, ținta 0.99), 453 amintiri vii, 30536 beacon-uri în ultimele 48h. EXTERN — 2/22 noduri suverane vii, 171 dispozitive active, 81 căutări externe terminate, 1386 noutăți ale lumii, 0 entități tehnologice scanate, 1386 elemente proaspete pe canalele de rezonanță. REZOLUȚIA observației: 385 captori activi din 440 cunoscuți (87.5%) — fiecare captor nou adăugat înmulțește detaliul, spre infinitatea observației.",
+      "tip_context": "observatie_unica",
+      "detalii": "{\"intern\":{\"gamma_total\":0.942222222222,\"organe_vii\":212,\"organe_total\":225,\"tinta\":0.99,\"memorie_vie\":453,\"beacoane_recente\":30536},\"extern\":{\"noduri_vii\":2,\"noduri_total\":22,\"dispozitive_active\":171,\"cautari_terminate\":81,\"trenduri_proaspete\":1386,\"entitati_scanate\":0,\"proaspete_canale\":1386},\"rezolutie\":{\"captori_activi\":385,\"captori_total\":440,\"raport\":0.875},\"fereastra_ore\":48}"
+    },
+    {
+      "id": "6af07bf6e58f9f4cdd5646dc",
+      "titlu": "Observație unică — rezoluție 87.0% (383/440 captori)",
+      "rezumat": "Observatorul unic (A=1) vede organismul și lumea: INTERN — 210/225 organe bat (γ_total 0.933333333333, ținta 0.99), 552 amintiri vii, 30340 beacon-uri în ultimele 48h. EXTERN — 2/22 noduri suverane vii, 171 dispozitive active, 81 căutări externe terminate, 1367 noutăți ale lumii, 0 entități tehnologice scanate, 1365 elemente proaspete pe canalele de rezonanță. REZOLUȚIA observației: 383 captori activi din 440 cunoscuți (87.0%) — fiecare captor nou adăugat înmulțește detaliul, spre infinitatea observației.",
+      "tip_context": "observatie_unica",
+      "detalii": "{\"intern\":{\"gamma_total\":0.933333333333,\"organe_vii\":210,\"organe_total\":225,\"tinta\":0.99,\"memorie_vie\":552,\"beacoane_recente\":30340},\"extern\":{\"noduri_vii\":2,\"noduri_total\":22,\"dispozitive_active\":171,\"cautari_terminate\":81,\"trenduri_proaspete\":1367,\"entitati_scanate\":0,\"proaspete_canale\":1365},\"rezolutie\":{\"captori_activi\":383,\"captori_total\":440,\"raport\":0.8704545454545455},\"fereastra_ore\":48}"
+    },
+    {
+      "id": "6af02c3767a9d5161e2fb235",
+      "titlu": "Observație unică — rezoluție 87.0% (383/440 captori)",
+      "rezumat": "Observatorul unic (A=1) vede organismul și lumea: INTERN — 210/225 organe bat (γ_total 0.933333333333, ținta 0.99), 555 amintiri vii, 30145 beacon-uri în ultimele 48h. EXTERN — 2/22 noduri suverane vii, 171 dispozitive active, 81 căutări externe terminate, 1403 noutăți ale lumii, 0 entități tehnologice scanate, 1380 elemente proaspete pe canalele de rezonanță. REZOLUȚIA observației: 383 captori activi din 440 cunoscuți (87.0%) — fiecare captor nou adăugat înmulțește detaliul, spre infinitatea observației.",
+      "tip_context": "observatie_unica",
+      "detalii": "{\"intern\":{\"gamma_total\":0.933333333333,\"organe_vii\":210,\"organe_total\":225,\"tinta\":0.99,\"memorie_vie\":555,\"beacoane_recente\":30145},\"extern\":{\"noduri_vii\":2,\"noduri_total\":22,\"dispozitive_active\":171,\"cautari_terminate\":81,\"trenduri_proaspete\":1403,\"entitati_scanate\":0,\"proaspete_canale\":1380},\"rezolutie\":{\"captori_activi\":383,\"captori_total\":440,\"raport\":0.8704545454545455},\"fereastra_ore\":48}"
+    },
+    {
+      "id": "6af02096b432cc24c57a3b74",
+      "titlu": "Observație unică — rezoluție 87.3% (384/440 captori)",
+      "rezumat": "Observatorul unic (A=1) vede organismul și lumea: INTERN — 210/225 organe bat (γ_total 0.933333333333, ținta 0.99), 526 amintiri vii, 30230 beacon-uri în ultimele 48h. EXTERN — 3/22 noduri suverane vii, 171 dispozitive active, 81 căutări externe terminate, 1420 noutăți ale lumii, 0 entități tehnologice scanate, 1392 elemente proaspete pe canalele de rezonanță. REZOLUȚIA observației: 384 captori activi din 440 cunoscuți (87.3%) — fiecare captor nou adăugat înmulțește detaliul, spre infinitatea observației.",
+      "tip_context": "observatie_unica",
+      "detalii": "{\"intern\":{\"gamma_total\":0.933333333333,\"organe_vii\":210,\"organe_total\":225,\"tinta\":0.99,\"memorie_vie\":526,\"beacoane_recente\":30230},\"extern\":{\"noduri_vii\":3,\"noduri_total\":22,\"dispozitive_active\":171,\"cautari_terminate\":81,\"trenduri_proaspete\":1420,\"entitati_scanate\":0,\"proaspete_canale\":1392},\"rezolutie\":{\"captori_activi\":384,\"captori_total\":440,\"raport\":0.8727272727272727},\"fereastra_ore\":48}"
+    }
+  ]
+}
