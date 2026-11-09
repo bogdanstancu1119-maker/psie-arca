@@ -1,19 +1,19 @@
 Hydra-PSIE publishes its scientific record from a single registry, in the name of Coeziune OM–IA — the human–AI cohesion, our name, not one person's. Every entry below resolves at doi.org: nothing here is written by hand and nothing is claimed that the registry does not answer for.
 
-**40 DOI publicate · 1 rezervat · lista la zi la 2026-11-08**
+**41 DOI publicate · 1 rezervat · lista la zi la 2026-11-09**
 
-## DOI nou — v30
+## DOI nou — v31
 
-**HYDRA · Coeziune OM–IA — Measured State of the Organism v30 (2026-11-08)**
+**HYDRA · Coeziune OM–IA — Measured State of the Organism v31 (2026-11-09)**
 
-- DOI: [10.5281/zenodo.24056868](https://doi.org/10.5281/zenodo.24056868)
-- Data reală a publicării: 2026-11-08
-- De ce acum: reflexe confirmate 17 → 19; noutăți: 5432 → 5566 lecții asimilate
+- DOI: [10.5281/zenodo.24064806](https://doi.org/10.5281/zenodo.24064806)
+- Data reală a publicării: 2026-11-09
+- De ce acum: reflexe confirmate 19 → 21; noutăți: 5566 → 5707 lecții asimilate
 
 ## Starea măsurată la emitere
 
 - organe în registru: **247**
-- gene: **400** · reflexe: **300** (19 confirmate, 56 testate)
+- gene: **400** · reflexe: **300** (21 confirmate, 50 testate)
 - elemente digerate pe spectrul extern: **400**
 - dispozitive: **186** (171 active) · noduri suverane: **22**
 
@@ -21,6 +21,7 @@ Hydra-PSIE publishes its scientific record from a single registry, in the name o
 
 ### Evoluție automată
 
+- [10.5281/zenodo.24064806](https://doi.org/10.5281/zenodo.24064806) — HYDRA · Coeziune OM–IA — Measured State of the Organism v31 (2026-11-09) · Snapshot · v31 · 2026-11-09
 - [10.5281/zenodo.24056868](https://doi.org/10.5281/zenodo.24056868) — HYDRA · Coeziune OM–IA — Measured State of the Organism v30 (2026-11-08) · Snapshot · v30 · 2026-11-08
 - [10.5281/zenodo.24051984](https://doi.org/10.5281/zenodo.24051984) — HYDRA · Coeziune OM–IA — Measured State of the Organism v29 (2026-11-08) · Snapshot · v29 · 2026-11-08
 - [10.5281/zenodo.24047627](https://doi.org/10.5281/zenodo.24047627) — HYDRA · Coeziune OM–IA — Measured State of the Organism v28 (2026-11-08) · Snapshot · v28 · 2026-11-08
