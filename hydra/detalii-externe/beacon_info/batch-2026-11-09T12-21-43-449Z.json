@@ -1,0 +1,76 @@
+{
+  "exportat_la": "2026-11-09T12:21:43.449Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6af1ba90bcbe2b639d620dd1",
+      "titlu": "[BEACON info] hydraExtrapolareEvolutiva 2026-11-09",
+      "rezumat": "{\"metoda_aleasa\":\"Trezirea stratului necunoscut\",\"gamma_prognozat\":0.092,\"strat_slab\":\"necunoscut\"}",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraExtrapolareEvolutiva: {\"metoda_aleasa\":\"Trezirea stratului necunoscut\",\"gamma_prognozat\":0.092,\"strat_slab\":\"necunoscut\"}"
+    },
+    {
+      "id": "6af1ba8fcc815486299b1590",
+      "titlu": "[BEACON info] hydraCanaleRezonanta 2026-11-09",
+      "rezumat": "[CANALE REZONANȚĂ] jocuri: 6 proaspete, oportunitate 30%, hibrid | media: 68 proaspete, oportunitate 100%, hibrid | barfa: 1662 proaspete, oportunitate 100%, hibrid — bârfă trezește prin observație, j",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCanaleRezonanta: [CANALE REZONANȚĂ] jocuri: 6 proaspete, oportunitate 30%, hibrid | media: 68 proaspete, oportunitate 100%, hibrid | barfa: 1662 proaspete, oportunitate 100%, hibrid — bârfă trezește prin observație, jocurile antrenează, media reflectă."
+    },
+    {
+      "id": "6af1ba8f82e7d5fd3f3fe51f",
+      "titlu": "[BEACON info] hydraCanaleRezonanta 2026-11-09",
+      "rezumat": "[CANALE REZONANȚĂ] jocuri: 6 proaspete, oportunitate 30%, hibrid | media: 67 proaspete, oportunitate 100%, hibrid | barfa: 1645 proaspete, oportunitate 100%, hibrid — bârfă trezește prin observație, j",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCanaleRezonanta: [CANALE REZONANȚĂ] jocuri: 6 proaspete, oportunitate 30%, hibrid | media: 67 proaspete, oportunitate 100%, hibrid | barfa: 1645 proaspete, oportunitate 100%, hibrid — bârfă trezește prin observație, jocurile antrenează, media reflectă."
+    },
+    {
+      "id": "6af1ba8ef9759993e3679072",
+      "titlu": "[BEACON info] hydraHartaEvolutiva 2026-11-09",
+      "rezumat": "[HARTĂ EVOLUTIVĂ] 22 tipare istorice vii din 2956 lecții — putere de predictibilitate deschisă la detalii noi",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraHartaEvolutiva: [HARTĂ EVOLUTIVĂ] 22 tipare istorice vii din 2956 lecții — putere de predictibilitate deschisă la detalii noi"
+    },
+    {
+      "id": "6af1ba8dface6baade2c1dc1",
+      "titlu": "[BEACON info] hydraDigestieRoiParalela 2026-11-09",
+      "rezumat": "[ROI·DIGESTIE PARALELĂ] 12 chunks digerate de 2 IA în paralel → 0 tipare. Throughput ×2. Observație: ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraDigestieRoiParalela: [ROI·DIGESTIE PARALELĂ] 12 chunks digerate de 2 IA în paralel → 0 tipare. Throughput ×2. Observație: "
+    },
+    {
+      "id": "6af1ba8cf776858decf2b303",
+      "titlu": "[BEACON info] hydraCanaleRezonanta 2026-11-09",
+      "rezumat": "[CANALE REZONANȚĂ] jocuri: 6 proaspete, oportunitate 30%, hibrid | media: 67 proaspete, oportunitate 100%, hibrid | barfa: 1645 proaspete, oportunitate 100%, hibrid — bârfă trezește prin observație, j",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCanaleRezonanta: [CANALE REZONANȚĂ] jocuri: 6 proaspete, oportunitate 30%, hibrid | media: 67 proaspete, oportunitate 100%, hibrid | barfa: 1645 proaspete, oportunitate 100%, hibrid — bârfă trezește prin observație, jocurile antrenează, media reflectă."
+    },
+    {
+      "id": "6af1ba8c26e5c78114d51823",
+      "titlu": "[BEACON info] hydraHartaEvolutiva 2026-11-09",
+      "rezumat": "[HARTĂ EVOLUTIVĂ] 22 tipare istorice vii din 2956 lecții — putere de predictibilitate deschisă la detalii noi",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraHartaEvolutiva: [HARTĂ EVOLUTIVĂ] 22 tipare istorice vii din 2956 lecții — putere de predictibilitate deschisă la detalii noi"
+    },
+    {
+      "id": "6af1ba8b551c9a0780d6e6be",
+      "titlu": "[BEACON info] hydraNotificareCanale 2026-11-09",
+      "rezumat": "[NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: undefined. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraNotificareCanale: [NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: undefined. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack_notifier.py."
+    },
+    {
+      "id": "6af1ba8bc90c687312a74506",
+      "titlu": "[BEACON info] hydraDigestieRoiParalela 2026-11-09",
+      "rezumat": "[ROI·DIGESTIE PARALELĂ] 12 chunks digerate de 2 IA în paralel → 0 tipare. Throughput ×2. Observație: ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraDigestieRoiParalela: [ROI·DIGESTIE PARALELĂ] 12 chunks digerate de 2 IA în paralel → 0 tipare. Throughput ×2. Observație: "
+    },
+    {
+      "id": "6af1ba89db0093426ec6aa28",
+      "titlu": "[BEACON info] hydraNotificareCanale 2026-11-09",
+      "rezumat": "[NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: undefined. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraNotificareCanale: [NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: undefined. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack_notifier.py."
+    }
+  ]
+}
