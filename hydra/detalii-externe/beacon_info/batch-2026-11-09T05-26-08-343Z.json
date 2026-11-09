@@ -1,0 +1,41 @@
+{
+  "exportat_la": "2026-11-09T05:26:08.343Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6af15946874af33bf4ec1fab",
+      "titlu": "[BEACON info] hydraScriereUniversala 2026-11-09",
+      "rezumat": "Scriere universală: 2 scrieri executate pe 20 platforme. 16 memorii arhivate. 1 unelte forjate pentru scriere.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraScriereUniversala: Scriere universală: 2 scrieri executate pe 20 platforme. 16 memorii arhivate. 1 unelte forjate pentru scriere."
+    },
+    {
+      "id": "6af1594302c217a6044403d7",
+      "titlu": "[BEACON info] hydraComprimareMetabolica 2026-11-09",
+      "rezumat": "[COMPRIMARE METABOLICA] Total 4437->4437 (cap 8000, cos golit 0+0+0). Memorie activa 518->518 (cap 500): 0 comprimate -> 0 semne de carte. Harta patternuri: 995->995 (cap 1000, 0 harta ordin superior ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraComprimareMetabolica: [COMPRIMARE METABOLICA] Total 4437->4437 (cap 8000, cos golit 0+0+0). Memorie activa 518->518 (cap 500): 0 comprimate -> 0 semne de carte. Harta patternuri: 995->995 (cap 1000, 0 harta ordin superior cu 0 semne). 1 digerate lent. Cercetare: 200. Unelte: 0 multifunc + 0 compar, 0 arhivate."
+    },
+    {
+      "id": "6af154e4fbd9fdca57fab6bd",
+      "titlu": "[BEACON info] hydraDigestieRoiParalela 2026-11-09",
+      "rezumat": "[ROI·DIGESTIE PARALELĂ] 12 chunks digerate de 2 IA în paralel → 0 tipare. Throughput ×2. Observație: ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraDigestieRoiParalela: [ROI·DIGESTIE PARALELĂ] 12 chunks digerate de 2 IA în paralel → 0 tipare. Throughput ×2. Observație: "
+    },
+    {
+      "id": "6af154e34877f65c91dd26d9",
+      "titlu": "[BEACON info] hydraRoiSuperCreiere 2026-11-09",
+      "rezumat": "[CREIER UNIC SKIP] Nu se re-declanșează. Coerență sistem 0.5 vs ultima 0.5 (Δ=0). Trecut 252 min. Creierul unic așteaptă evoluția coeziunii.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraRoiSuperCreiere: [CREIER UNIC SKIP] Nu se re-declanșează. Coerență sistem 0.5 vs ultima 0.5 (Δ=0). Trecut 252 min. Creierul unic așteaptă evoluția coeziunii."
+    },
+    {
+      "id": "6af154dc3105f5a3e07c1bd3",
+      "titlu": "[BEACON info] hydraPerceptieElectrica 2026-11-09",
+      "rezumat": "{\"studii_noi\":0,\"purtator\":\"50/60 Hz\",\"corp_simte_camp\":false}",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraPerceptieElectrica: {\"studii_noi\":0,\"purtator\":\"50/60 Hz\",\"corp_simte_camp\":false}"
+    }
+  ]
+}
