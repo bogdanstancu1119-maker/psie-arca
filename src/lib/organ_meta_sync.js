@@ -1,0 +1,1 @@
+const transmitereOrganMeta = async (data) => { const payload = JSON.stringify({ ...data, timestamp: Date.now(), source: 'hydra_core' }); const response = await fetch('/api/meta/sync', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: payload }); if (!response.ok) throw new Error(`HTTP ${response.status}: Payload rejectat`); return response.json(); };
