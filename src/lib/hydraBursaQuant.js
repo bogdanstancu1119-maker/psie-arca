@@ -1,1 +1,1 @@
-const updateBursaState = async (newState) => { const currentState = await getStorage('bursa_quant_state'); if (newState.bucle >= currentState.bucle) { await setStorage('bursa_quant_state', JSON.stringify({ ...currentState, ...newState, lastUpdate: new Date().toISOString() })); } else { log.info('Conflict detectat, refuzat update invechit'); } };
+if (bursa_quant_state.bucle > 16000) { const new_state = { ...bursa_quant_state, bucle: 0, capital: capital_de_baza, stop_loss_global_activat: 0 }; persist(new_state); reset_agenti(); }
