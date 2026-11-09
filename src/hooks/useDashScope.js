@@ -1,0 +1,1 @@
+import { useState, useEffect } from 'react'; export const useDashScope = (initialConfig) => { const [config, setConfig] = useState(() => { const saved = localStorage.getItem('dashscope_config'); return saved ? JSON.parse(saved) : initialConfig; }); useEffect(() => { localStorage.setItem('dashscope_config', JSON.stringify(config)); }, [config]); return [config, setConfig]; };
