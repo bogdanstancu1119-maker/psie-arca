@@ -1,0 +1,1 @@
+if (Date.now() - lastExecutionTimestamp < 86400000) { return { status: 'skipped', reason: 'executat_in_ultimele_24h' }; }
