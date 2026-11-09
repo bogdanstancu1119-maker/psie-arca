@@ -1,0 +1,1 @@
+const reanimeazaOrgane = (registru) => { const critice = registru.filter(o => o.status === 'decuplat' || !o.init); critice.forEach(o => { console.log(`Reanimare organ: ${o.nume}`); o.init = true; o.status = 'activ'; persistState(o); }); }; setInterval(reanimeazaOrgane, 60000);
