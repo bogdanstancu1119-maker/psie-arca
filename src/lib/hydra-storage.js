@@ -1,0 +1,1 @@
+const updateConfig = (key, value) => { const existing = localStorage.getItem(key); if (existing) { const parsed = JSON.parse(existing); if (parsed.timestamp === value.timestamp) return; } localStorage.setItem(key, JSON.stringify(value)); };
