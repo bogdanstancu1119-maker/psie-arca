@@ -1,0 +1,1 @@
+const alocareDinamica = (organe) => { const total = Object.keys(organe).length; const baza = 0.05 / total; return Object.keys(organe).reduce((acc, k) => { acc[k] = (k.includes('Coordonator') || k.includes('Suprapunere')) ? 0.2 : baza; return acc; }, {}); };
