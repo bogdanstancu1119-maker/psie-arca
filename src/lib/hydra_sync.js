@@ -1,0 +1,1 @@
+const syncState = (stateArray) => { const map = new Map(); stateArray.forEach(item => map.set(item.cheie, item)); return Array.from(map.values()); }; const cleanStorage = () => { const current = JSON.parse(localStorage.getItem('HYDRA_CONFIGS') || '[]'); const cleaned = syncState(current); localStorage.setItem('HYDRA_CONFIGS', JSON.stringify(cleaned)); return cleaned; };
