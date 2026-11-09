@@ -1,0 +1,1 @@
+const validatePayload = (data) => { if (!data || typeof data !== 'object') throw new Error('Invalid payload'); return JSON.stringify(data); }; const activateLant = (gen) => { if (gen.status === 'in_dezvoltare') { gen.status = 'activ'; gen.gamma = 0.205; } };
