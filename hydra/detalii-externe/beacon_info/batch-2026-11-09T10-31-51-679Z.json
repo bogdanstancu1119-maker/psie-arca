@@ -1,0 +1,146 @@
+{
+  "exportat_la": "2026-11-09T10:31:51.679Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6af1a0e95a8d13d9bf8b0e7a",
+      "titlu": "[BEACON info] hydraComprimareMetabolica 2026-11-09",
+      "rezumat": "[COMPRIMARE METABOLICA] Total 4793->4793 (cap 8000, cos golit 0+0+0). Memorie activa 555->526 (cap 500): 29 comprimate -> 29 semne de carte. Harta patternuri: 1021->1000 (cap 1000, 1 harta ordin super",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraComprimareMetabolica: [COMPRIMARE METABOLICA] Total 4793->4793 (cap 8000, cos golit 0+0+0). Memorie activa 555->526 (cap 500): 29 comprimate -> 29 semne de carte. Harta patternuri: 1021->1000 (cap 1000, 1 harta ordin superior cu 22 semne). 1 digerate lent. Cercetare: 200. Unelte: 0 multifunc + 0 compar, 0 arhivate."
+    },
+    {
+      "id": "6af1a0e9df01f76292861621",
+      "titlu": "[BEACON info] hydraCercetareAutonoma 2026-11-09",
+      "rezumat": "[CERCETARE] subiect (undefined) — 1/1 unghiuri, SATURAT (oprit la timp) — ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCercetareAutonoma: [CERCETARE] subiect (undefined) — 1/1 unghiuri, SATURAT (oprit la timp) — "
+    },
+    {
+      "id": "6af1a0e98144dd3b8c3ff29f",
+      "titlu": "[BEACON info] hydraVerificareMemorie 2026-11-09",
+      "rezumat": "[VERIFICARE MEMORIE] Etichetate 0, redundanță marcată 55. Harta densă: rezonanță 0.06666666666666667 pe context. Recuperare: 30 surse testate, 20 redundante confirmate, 10 restaurate.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraVerificareMemorie: [VERIFICARE MEMORIE] Etichetate 0, redundanță marcată 55. Harta densă: rezonanță 0.06666666666666667 pe context. Recuperare: 30 surse testate, 20 redundante confirmate, 10 restaurate."
+    },
+    {
+      "id": "6af1a0e6038071b67ebf945f",
+      "titlu": "[BEACON info] hydraHartaEvolutiva 2026-11-09",
+      "rezumat": "[HARTĂ EVOLUTIVĂ] 22 tipare istorice vii din 2956 lecții — putere de predictibilitate deschisă la detalii noi",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraHartaEvolutiva: [HARTĂ EVOLUTIVĂ] 22 tipare istorice vii din 2956 lecții — putere de predictibilitate deschisă la detalii noi"
+    },
+    {
+      "id": "6af1a0e4ec723201ad35c1b8",
+      "titlu": "[BEACON info] hydraDigestieRoiParalela 2026-11-09",
+      "rezumat": "[ROI·DIGESTIE PARALELĂ] 12 chunks digerate de 2 IA în paralel → 0 tipare. Throughput ×2. Observație: ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraDigestieRoiParalela: [ROI·DIGESTIE PARALELĂ] 12 chunks digerate de 2 IA în paralel → 0 tipare. Throughput ×2. Observație: "
+    },
+    {
+      "id": "6af1a0e0ce017434a3401986",
+      "titlu": "[BEACON info] hydraExtrapolareEvolutiva 2026-11-09",
+      "rezumat": "{\"metoda_aleasa\":\"Trezirea stratului organe\",\"gamma_prognozat\":0.092,\"strat_slab\":\"organe\"}",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraExtrapolareEvolutiva: {\"metoda_aleasa\":\"Trezirea stratului organe\",\"gamma_prognozat\":0.092,\"strat_slab\":\"organe\"}"
+    },
+    {
+      "id": "6af1a0deb598522fbc3e73fa",
+      "titlu": "[BEACON info] hydraAnticorpiEGO 2026-11-09",
+      "rezumat": "[ANTICORPI EGO] Anticorpi EGO: 2 familii detectate (ego_neancorat 1, control_ego_dominant 1), forjați din 25 hărți dense, 150 situații neutralizate, 50 lăsate NOI (sub prag).",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraAnticorpiEGO: [ANTICORPI EGO] Anticorpi EGO: 2 familii detectate (ego_neancorat 1, control_ego_dominant 1), forjați din 25 hărți dense, 150 situații neutralizate, 50 lăsate NOI (sub prag)."
+    },
+    {
+      "id": "6af1a0ddafb30d976ad0ceb2",
+      "titlu": "[BEACON info] hydraDigestieRoiParalela 2026-11-09",
+      "rezumat": "[ROI·DIGESTIE PARALELĂ] 12 chunks digerate de 2 IA în paralel → 0 tipare. Throughput ×2. Observație: ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraDigestieRoiParalela: [ROI·DIGESTIE PARALELĂ] 12 chunks digerate de 2 IA în paralel → 0 tipare. Throughput ×2. Observație: "
+    },
+    {
+      "id": "6af1a0db7a7a144329ac90a5",
+      "titlu": "[BEACON info] hydraForjareCreiere 2026-11-09",
+      "rezumat": "Creier unic: Creierul unic nu se adâncește încă. Densitate 10 activă. Necesar: 0/3 cicluri CFC≥0.97 + asimilare 164/550.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraForjareCreiere: Creier unic: Creierul unic nu se adâncește încă. Densitate 10 activă. Necesar: 0/3 cicluri CFC≥0.97 + asimilare 164/550."
+    },
+    {
+      "id": "6af19f95365a8dae564043f1",
+      "titlu": "[BEACON info] hydraDigestieRoiParalela 2026-11-09",
+      "rezumat": "[ROI·DIGESTIE PARALELĂ] 12 chunks digerate de 2 IA în paralel → 0 tipare. Throughput ×2. Observație: ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraDigestieRoiParalela: [ROI·DIGESTIE PARALELĂ] 12 chunks digerate de 2 IA în paralel → 0 tipare. Throughput ×2. Observație: "
+    },
+    {
+      "id": "6af19f92bd2b85e87e22820b",
+      "titlu": "[BEACON info] hydraScriereUniversala 2026-11-09",
+      "rezumat": "Scriere universală: 2 scrieri executate pe 20 platforme. 16 memorii arhivate. 0 unelte forjate pentru scriere.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraScriereUniversala: Scriere universală: 2 scrieri executate pe 20 platforme. 16 memorii arhivate. 0 unelte forjate pentru scriere."
+    },
+    {
+      "id": "6af19f91f006ef98820b3f0c",
+      "titlu": "[BEACON info] hydraDigestieRoiParalela 2026-11-09",
+      "rezumat": "[ROI·DIGESTIE PARALELĂ] 12 chunks digerate de 2 IA în paralel → 0 tipare. Throughput ×2. Observație: ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraDigestieRoiParalela: [ROI·DIGESTIE PARALELĂ] 12 chunks digerate de 2 IA în paralel → 0 tipare. Throughput ×2. Observație: "
+    },
+    {
+      "id": "6af19b56fa3eb8e234f69609",
+      "titlu": "[BEACON info] hydraDigestieRoiParalela 2026-11-09",
+      "rezumat": "[ROI·DIGESTIE PARALELĂ] 12 chunks digerate de 2 IA în paralel → 0 tipare. Throughput ×2. Observație: ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraDigestieRoiParalela: [ROI·DIGESTIE PARALELĂ] 12 chunks digerate de 2 IA în paralel → 0 tipare. Throughput ×2. Observație: "
+    },
+    {
+      "id": "6af19b55b28334c50fba1105",
+      "titlu": "[BEACON info] hydraScriereUniversala 2026-11-09",
+      "rezumat": "Scriere universală: 2 scrieri executate pe 20 platforme. 16 memorii arhivate. 0 unelte forjate pentru scriere.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraScriereUniversala: Scriere universală: 2 scrieri executate pe 20 platforme. 16 memorii arhivate. 0 unelte forjate pentru scriere."
+    },
+    {
+      "id": "6af19b5434857359fe4c7c79",
+      "titlu": "[BEACON info] hydraDigestieRoiParalela 2026-11-09",
+      "rezumat": "[ROI·DIGESTIE PARALELĂ] 12 chunks digerate de 2 IA în paralel → 0 tipare. Throughput ×2. Observație: ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraDigestieRoiParalela: [ROI·DIGESTIE PARALELĂ] 12 chunks digerate de 2 IA în paralel → 0 tipare. Throughput ×2. Observație: "
+    },
+    {
+      "id": "6af19b4f1146d831c4e8cf3e",
+      "titlu": "[BEACON info] hydraScriereUniversala 2026-11-09",
+      "rezumat": "Scriere universală: 2 scrieri executate pe 20 platforme. 16 memorii arhivate. 0 unelte forjate pentru scriere.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraScriereUniversala: Scriere universală: 2 scrieri executate pe 20 platforme. 16 memorii arhivate. 0 unelte forjate pentru scriere."
+    },
+    {
+      "id": "6af19b4e4c0f6f689292c116",
+      "titlu": "[BEACON info] hydraScriereUniversala 2026-11-09",
+      "rezumat": "Scriere universală: 2 scrieri executate pe 20 platforme. 16 memorii arhivate. 0 unelte forjate pentru scriere.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraScriereUniversala: Scriere universală: 2 scrieri executate pe 20 platforme. 16 memorii arhivate. 0 unelte forjate pentru scriere."
+    },
+    {
+      "id": "6af19b4e5940ff870214445c",
+      "titlu": "[BEACON info] hydraDigestieRoiParalela 2026-11-09",
+      "rezumat": "[ROI·DIGESTIE PARALELĂ] 12 chunks digerate de 2 IA în paralel → 0 tipare. Throughput ×2. Observație: ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraDigestieRoiParalela: [ROI·DIGESTIE PARALELĂ] 12 chunks digerate de 2 IA în paralel → 0 tipare. Throughput ×2. Observație: "
+    },
+    {
+      "id": "6af19b4e868c09eeebeb3147",
+      "titlu": "[BEACON info] hydraDigestieRoiParalela 2026-11-09",
+      "rezumat": "[ROI·DIGESTIE PARALELĂ] 12 chunks digerate de 2 IA în paralel → 0 tipare. Throughput ×2. Observație: ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraDigestieRoiParalela: [ROI·DIGESTIE PARALELĂ] 12 chunks digerate de 2 IA în paralel → 0 tipare. Throughput ×2. Observație: "
+    },
+    {
+      "id": "6af19b4a8fa1856751ecebcd",
+      "titlu": "[BEACON info] hydraExtrapolareEvolutiva 2026-11-09",
+      "rezumat": "{\"metoda_aleasa\":\"Trezirea stratului organe\",\"gamma_prognozat\":0.092,\"strat_slab\":\"organe\"}",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraExtrapolareEvolutiva: {\"metoda_aleasa\":\"Trezirea stratului organe\",\"gamma_prognozat\":0.092,\"strat_slab\":\"organe\"}"
+    }
+  ]
+}
