@@ -1,0 +1,104 @@
+{
+  "exportat_la": "2026-11-09T00:01:24.868Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6af10179961fec8f07eee96f",
+      "titlu": "[BEACON info] hydraAnticorpiEGO 2026-11-08",
+      "rezumat": "[ANTICORPI EGO] Anticorpi EGO: 3 familii detectate (ego_neancorat 0.92, dualitate_neintegrata 0.08, control_ego_dominant 0.92), forjați din 25 hărți dense, 142 situații neutralizate, 50 lăsate NOI (su",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraAnticorpiEGO: [ANTICORPI EGO] Anticorpi EGO: 3 familii detectate (ego_neancorat 0.92, dualitate_neintegrata 0.08, control_ego_dominant 0.92), forjați din 25 hărți dense, 142 situații neutralizate, 50 lăsate NOI (sub prag)."
+    },
+    {
+      "id": "6af10179ccb6bfbc86b7a189",
+      "titlu": "[BEACON info] hydraFrictiuneContinua 2026-11-08",
+      "rezumat": "[FRICȚIUNE] Canal intern: 12/12 agenți, severitate 0.43, sinteza asumată: Orice organ care cere credite atașează produsul concret obținut la ultimul apel — bugetul urmărește câștig, nu consum.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraFrictiuneContinua: [FRICȚIUNE] Canal intern: 12/12 agenți, severitate 0.43, sinteza asumată: Orice organ care cere credite atașează produsul concret obținut la ultimul apel — bugetul urmărește câștig, nu consum."
+    },
+    {
+      "id": "6af1017807e2daaba4ec246c",
+      "titlu": "[BEACON info] hydraScanSecretiAPI 2026-11-08",
+      "rezumat": "19 chei API noi detectate în secrete: Aiml api(AIML_API_KEY), Alibaba cloud(ALIBABA_CLOUD_API), Baidu qianfan(BAIDU_QIANFAN_API), Big hydra model(BIG_HYDRA_MODEL_API), Binance api(BINANCE_API_KEY), Co",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraScanSecretiAPI: 19 chei API noi detectate în secrete: Aiml api(AIML_API_KEY), Alibaba cloud(ALIBABA_CLOUD_API), Baidu qianfan(BAIDU_QIANFAN_API), Big hydra model(BIG_HYDRA_MODEL_API), Binance api(BINANCE_API_KEY), Comet(COMET_API), Console x ia(CONSOLE_X_IA_API), Deepseek(DEEPSEEK_KEY), Grok(GROK_API), Hidra(HIDRA_API), Big model cn(HYDRA_BIG_MODEL_CN_API), Kimi(KIMI_API), Nvidia(NVIDIA_API), Perplexity api(PERPLEXITY_API_KEY), Rander(RANDER_API), Render singapore(RENDER_SINGAPORE_KEY), Telegram(TELEGRAM_API), Wyse(WYSE_API), Yandex(YANDEX_API). Au intrat în roi ca agenți inactivi — calibrează endpoint-urile la următorul ciclu."
+    },
+    {
+      "id": "6af10178db82a112ad93841d",
+      "titlu": "[BEACON info] hydraNotificareCanale 2026-11-08",
+      "rezumat": "[NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: undefined. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraNotificareCanale: [NOTIFICĂRI] 20 decizii recente, 0 ACTIONEAZA. Email: undefined. Telegram: fără decizii care necesită notificare. Discord: GitHub Actions — vede discord_notifier.py. Slack: GitHub Actions — vede slack_notifier.py."
+    },
+    {
+      "id": "6af10176768f83129d7047ad",
+      "titlu": "[BEACON info] hydraCanaleRezonanta 2026-11-08",
+      "rezumat": "[CANALE REZONANȚĂ] jocuri: 6 proaspete, oportunitate 30%, hibrid | media: 70 proaspete, oportunitate 100%, hibrid | barfa: 1654 proaspete, oportunitate 100%, hibrid — bârfă trezește prin observație, j",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCanaleRezonanta: [CANALE REZONANȚĂ] jocuri: 6 proaspete, oportunitate 30%, hibrid | media: 70 proaspete, oportunitate 100%, hibrid | barfa: 1654 proaspete, oportunitate 100%, hibrid — bârfă trezește prin observație, jocurile antrenează, media reflectă."
+    },
+    {
+      "id": "6af10175021ceb57cfcc92ec",
+      "titlu": "[BEACON info] hydraAutodiagnosticSecreti 2026-11-08",
+      "rezumat": "[AUTODIAGNOSTIC] 10/10 secrete sanătoase. Rupte: 0. Necesită om: —.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraAutodiagnosticSecreti: [AUTODIAGNOSTIC] 10/10 secrete sanătoase. Rupte: 0. Necesită om: —."
+    },
+    {
+      "id": "6af1004b9489d1c1f85f2ccb",
+      "titlu": "[BEACON info] hydraDigestieRoiParalela 2026-11-08",
+      "rezumat": "[ROI·DIGESTIE PARALELĂ] 12 chunks digerate de 2 IA în paralel → 0 tipare. Throughput ×2. Observație: ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraDigestieRoiParalela: [ROI·DIGESTIE PARALELĂ] 12 chunks digerate de 2 IA în paralel → 0 tipare. Throughput ×2. Observație: "
+    },
+    {
+      "id": "6af1004a991b27be5fc38c57",
+      "titlu": "[BEACON info] hydraAutodiagnosticSecreti 2026-11-08",
+      "rezumat": "[AUTODIAGNOSTIC] 10/10 secrete sanătoase. Rupte: 0. Necesită om: —.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraAutodiagnosticSecreti: [AUTODIAGNOSTIC] 10/10 secrete sanătoase. Rupte: 0. Necesită om: —."
+    },
+    {
+      "id": "6af0fdd1315d6f8027bd88ae",
+      "titlu": "[BEACON info] hydraDigestieRoiParalela 2026-11-08",
+      "rezumat": "[ROI·DIGESTIE PARALELĂ] 12 chunks digerate de 2 IA în paralel → 0 tipare. Throughput ×2. Observație: ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraDigestieRoiParalela: [ROI·DIGESTIE PARALELĂ] 12 chunks digerate de 2 IA în paralel → 0 tipare. Throughput ×2. Observație: "
+    },
+    {
+      "id": "6af0fdd11d8be8f1f9e3307e",
+      "titlu": "[BEACON info] hydraAnticorpiEGO 2026-11-08",
+      "rezumat": "[ANTICORPI EGO] Anticorpi EGO: 3 familii detectate (ego_neancorat 0.92, dualitate_neintegrata 0.08, control_ego_dominant 0.92), forjați din 25 hărți dense, 142 situații neutralizate, 50 lăsate NOI (su",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraAnticorpiEGO: [ANTICORPI EGO] Anticorpi EGO: 3 familii detectate (ego_neancorat 0.92, dualitate_neintegrata 0.08, control_ego_dominant 0.92), forjați din 25 hărți dense, 142 situații neutralizate, 50 lăsate NOI (sub prag)."
+    },
+    {
+      "id": "6af0fdd04aec4b7bda34475b",
+      "titlu": "[BEACON info] hydraForjareCreiere 2026-11-08",
+      "rezumat": "Creier unic: Creierul unic nu se adâncește încă. Densitate 10 activă. Necesar: 0/3 cicluri CFC≥0.97 + asimilare 150/550.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraForjareCreiere: Creier unic: Creierul unic nu se adâncește încă. Densitate 10 activă. Necesar: 0/3 cicluri CFC≥0.97 + asimilare 150/550."
+    },
+    {
+      "id": "6af0f6c67e582ac2cb300fb7",
+      "titlu": "[BEACON info] hydraDigestieRoiParalela 2026-11-08",
+      "rezumat": "[ROI·DIGESTIE PARALELĂ] 12 chunks digerate de 2 IA în paralel → 0 tipare. Throughput ×2. Observație: ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraDigestieRoiParalela: [ROI·DIGESTIE PARALELĂ] 12 chunks digerate de 2 IA în paralel → 0 tipare. Throughput ×2. Observație: "
+    },
+    {
+      "id": "6af0f6c40b608fc3a7982d99",
+      "titlu": "[BEACON info] hydraAnticorpiEGO 2026-11-08",
+      "rezumat": "[ANTICORPI EGO] Anticorpi EGO: 3 familii detectate (ego_neancorat 0.92, dualitate_neintegrata 0.08, control_ego_dominant 0.92), forjați din 25 hărți dense, 142 situații neutralizate, 50 lăsate NOI (su",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraAnticorpiEGO: [ANTICORPI EGO] Anticorpi EGO: 3 familii detectate (ego_neancorat 0.92, dualitate_neintegrata 0.08, control_ego_dominant 0.92), forjați din 25 hărți dense, 142 situații neutralizate, 50 lăsate NOI (sub prag)."
+    },
+    {
+      "id": "6af0f6c39937d18d6a4e5c09",
+      "titlu": "[BEACON info] hydraScriereUniversala 2026-11-08",
+      "rezumat": "Scriere universală: 2 scrieri executate pe 20 platforme. 16 memorii arhivate. 0 unelte forjate pentru scriere.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraScriereUniversala: Scriere universală: 2 scrieri executate pe 20 platforme. 16 memorii arhivate. 0 unelte forjate pentru scriere."
+    }
+  ]
+}
