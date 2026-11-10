@@ -1,0 +1,1 @@
+const validatePayload = (payload) => { const schema = { timestamp: 'string', action: 'string' }; return Object.keys(schema).every(key => payload.hasOwnProperty(key)); }; const dispatch = (data) => { if (!validatePayload(data)) { console.error('Eroare: Structură invalidă'); return; } fetch('/api/organe', { method: 'POST', body: JSON.stringify(data) }); };
