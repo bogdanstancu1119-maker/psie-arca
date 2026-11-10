@@ -1,0 +1,1 @@
+const fs = require('fs'); const path = './telegram_state.json'; const saveSession = (data) => { fs.writeFileSync(path, JSON.stringify(data)); }; const loadSession = () => { if (fs.existsSync(path)) return JSON.parse(fs.readFileSync(path)); return null; }; module.exports = { saveSession, loadSession };
