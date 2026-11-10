@@ -1,0 +1,1 @@
+async function bootstrapHydraOrgans(organs) { for (const organ of organs) { try { if (!await isOrganActive(organ)) { await wakeUpOrgan(organ); await saveState(organ, { status: 'active', lastWake: Date.now() }); } } catch (e) { logError('HydraBootstrap', organ, e); } } }
