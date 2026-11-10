@@ -1,1 +1,1 @@
-const trezireOrganeCritice = (organe) => { return organe.map(o => { if (o.status === 'decuplat' && o.criticitate === 'imediat') { return { ...o, status: 'activ', timestamp: Date.now() }; } return o; }); };
+export const initHydraOrgans = async (organs) => { for (const [name, status] of Object.entries(organs)) { if (typeof status.init === 'function') { await status.init(); console.log(`Organ ${name} activat.`); } } }; // Integrare în bucla de control principală: await initHydraOrgans(activeOrgans);
