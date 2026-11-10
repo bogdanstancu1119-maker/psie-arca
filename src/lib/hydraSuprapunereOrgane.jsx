@@ -1,1 +1,1 @@
-if (snapshot.hash === lastSnapshot.hash) { return { status: 'cached', reference: lastSnapshot.id, next_check: 'extended' }; } else { processFullUpdate(snapshot); updateLastHash(snapshot.hash); }
+const reactivareFortata = (organe) => { return organe.map(o => (o.status === 'tac' && o.priority > 0) ? { ...o, status: 'trezire' } : o); }; hydraSuprapunereOrgane.update(reactivareFortata(listaOrgane));
