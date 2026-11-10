@@ -1,0 +1,1 @@
+export const trezire_fortata = async (organe) => { const now = Date.now(); for (const organ of organe) { if (organ.minute > 180 || organ.minute === null) { console.log(`[TREZIRE] Forțez activarea organului: ${organ.nume}`); await registerOrgan(organ.nume, { status: 'active', heartbeat: now }); } } return true; };
