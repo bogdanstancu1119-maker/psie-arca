@@ -1,0 +1,1 @@
+export const forceSync = (snapshot) => { const heartbeat = { timestamp: new Date().toISOString(), data: snapshot, status: 'synced' }; localStorage.setItem('HYDRA_CRITICAL_STATE', JSON.stringify(heartbeat)); window.dispatchEvent(new CustomEvent('HYDRA_SYNC_EVENT', { detail: heartbeat })); return heartbeat; };
