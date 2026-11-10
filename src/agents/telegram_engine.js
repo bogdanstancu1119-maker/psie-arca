@@ -1,0 +1,1 @@
+import fs from 'fs'; const DB_PATH = './telegram_state.json'; export const saveState = (state) => { fs.writeFileSync(DB_PATH, JSON.stringify(state, null, 2)); }; export const loadState = () => { try { return JSON.parse(fs.readFileSync(DB_PATH, 'utf8')); } catch (e) { return { active: false, memory: [] }; } };
