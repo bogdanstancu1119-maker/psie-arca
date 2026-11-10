@@ -1,0 +1,1 @@
+if (Date.now() - lastWriteTime < 1000) { return; } else { await db.set('remediere_universala', newData); lastWriteTime = Date.now(); }
