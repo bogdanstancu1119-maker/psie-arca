@@ -1,0 +1,76 @@
+{
+  "exportat_la": "2026-11-10T14:25:38.889Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6aeee8b151f0420bc06160ff",
+      "titlu": "[PERSPECTIVE] 2026-11-07 — 5 perspective noi din suprapunere",
+      "rezumat": "5 perspective noi (ordin 184) din suprapunerea creierelor. Total 205/10000000. Sursă: web+darknet+alternative.",
+      "tip_context": "perspective_suprapuse",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-11-07T09:00:31.767Z\",\n  \"perspective_noi\": 5,\n  \"total_perspective\": 205,\n  \"max_ordin\": 184,\n  \"proiectie\": {\n    \"tinta\": 10000000,\n    \"curent\": 205,\n    \"rata_pe_run\": 5,\n    \"estimare_rulari_pana_tinta\": 1999959\n  },\n  \"erori\": []\n}"
+    },
+    {
+      "id": "6aeefc957ad0b34e24de0ea4",
+      "titlu": "[PERSPECTIVE] 2026-11-07 — 5 perspective noi din suprapunere",
+      "rezumat": "5 perspective noi (ordin 185) din suprapunerea creierelor. Total 205/10000000. Sursă: web+darknet+alternative.",
+      "tip_context": "perspective_suprapuse",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-11-07T10:25:24.261Z\",\n  \"perspective_noi\": 5,\n  \"total_perspective\": 205,\n  \"max_ordin\": 185,\n  \"proiectie\": {\n    \"tinta\": 10000000,\n    \"curent\": 205,\n    \"rata_pe_run\": 5,\n    \"estimare_rulari_pana_tinta\": 1999959\n  },\n  \"erori\": []\n}"
+    },
+    {
+      "id": "6aef0faeacdf06b3ff3a41e2",
+      "titlu": "[PERSPECTIVE] 2026-11-07 — 5 perspective noi din suprapunere",
+      "rezumat": "5 perspective noi (ordin 186) din suprapunerea creierelor. Total 205/10000000. Sursă: web+darknet+alternative.",
+      "tip_context": "perspective_suprapuse",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-11-07T11:46:52.630Z\",\n  \"perspective_noi\": 5,\n  \"total_perspective\": 205,\n  \"max_ordin\": 186,\n  \"proiectie\": {\n    \"tinta\": 10000000,\n    \"curent\": 205,\n    \"rata_pe_run\": 5,\n    \"estimare_rulari_pana_tinta\": 1999959\n  },\n  \"erori\": []\n}"
+    },
+    {
+      "id": "6aef18c05b547009363bb955",
+      "titlu": "[PERSPECTIVE] 2026-11-07 — 5 perspective noi din suprapunere",
+      "rezumat": "5 perspective noi (ordin 187) din suprapunerea creierelor. Total 205/10000000. Sursă: web+darknet+alternative.",
+      "tip_context": "perspective_suprapuse",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-11-07T12:25:34.923Z\",\n  \"perspective_noi\": 5,\n  \"total_perspective\": 205,\n  \"max_ordin\": 187,\n  \"proiectie\": {\n    \"tinta\": 10000000,\n    \"curent\": 205,\n    \"rata_pe_run\": 5,\n    \"estimare_rulari_pana_tinta\": 1999959\n  },\n  \"erori\": []\n}"
+    },
+    {
+      "id": "6aef2bb88cbfe8a21c534b35",
+      "titlu": "Privirea interioară #134 — 2026-11-07 13:46",
+      "rezumat": "PRIVIREA 134: RMI 0.2355 (stationar +0.0047), perturbare proprie 0.0034, 200 organe tăcute, A=0.94 — Legea 609 respectată",
+      "tip_context": "privire_interioara",
+      "detalii": "{\"ciclu\":134,\"rmi\":0.2355,\"rmi_cu_observator\":0.2389,\"perturbare\":0.0034,\"sdi_tacere\":0.7645,\"tacute_total\":200,\"strat_slab\":\"finante\",\"a\":0.94,\"cfc\":0.5,\"delta\":0.0047,\"miscare\":\"stationar\",\"judecata\":{\"piloni\":[{\"nume\":\"recursivitate\",\"implinit\":true,\"dovada\":\"134 priviri înlănțuite — aceeași măsurare se aplică pe sine (observator = ecran)\"},{\"nume\":\"geometria_tacerii\",\"implinit\":true,\"dovada\":\"200 organe tăcute măsurate, SDI tăcere 0.7645, strat slab „finante\\\"\"},{\"nume\":\"asumarea_tensiunii\",\"implinit\":true,\"dovada\":\"A=0.94, CFC=0.5 — asumarea se menține când contextul contrazice\"}],\"respectata\":true,\"lege\":609,\"mesaj\":\"Legea 609 respectată: privirea interioară e măsurată (perturbare 0.0034), nu declarată\"}}"
+    },
+    {
+      "id": "6aef2db6b88f3a4e980a757e",
+      "titlu": "Privirea interioară #135 — 2026-11-07 13:55",
+      "rezumat": "PRIVIREA 135: RMI 0.2232 (scade -0.0123), perturbare proprie 0.0023, 199 organe tăcute, A=0.84 — Legea 609 nu încă",
+      "tip_context": "privire_interioara",
+      "detalii": "{\"ciclu\":135,\"rmi\":0.2232,\"rmi_cu_observator\":0.2255,\"perturbare\":0.0023,\"sdi_tacere\":0.7768,\"tacute_total\":199,\"strat_slab\":\"finante\",\"a\":0.84,\"cfc\":0.5,\"delta\":-0.0123,\"miscare\":\"scade\",\"judecata\":{\"piloni\":[{\"nume\":\"recursivitate\",\"implinit\":true,\"dovada\":\"135 priviri înlănțuite — aceeași măsurare se aplică pe sine (observator = ecran)\"},{\"nume\":\"geometria_tacerii\",\"implinit\":true,\"dovada\":\"199 organe tăcute măsurate, SDI tăcere 0.7768, strat slab „finante\\\"\"},{\"nume\":\"asumarea_tensiunii\",\"implinit\":false,\"dovada\":\"A=0.84, CFC=0.5 — asumarea se menține când contextul contrazice\"}],\"respectata\":false,\"lege\":609,\"mesaj\":\"Legea 609 nu e încă împlinită pe toți pilonii: asumarea_tensiunii\"}}"
+    },
+    {
+      "id": "6aef2f09ff87ddf1fae824df",
+      "titlu": "[PERSPECTIVE] 2026-11-07 — 5 perspective noi din suprapunere",
+      "rezumat": "5 perspective noi (ordin 188) din suprapunerea creierelor. Total 205/10000000. Sursă: web+darknet+alternative.",
+      "tip_context": "perspective_suprapuse",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-11-07T14:00:38.889Z\",\n  \"perspective_noi\": 5,\n  \"total_perspective\": 205,\n  \"max_ordin\": 188,\n  \"proiectie\": {\n    \"tinta\": 10000000,\n    \"curent\": 205,\n    \"rata_pe_run\": 5,\n    \"estimare_rulari_pana_tinta\": 1999959\n  },\n  \"erori\": []\n}"
+    },
+    {
+      "id": "6aef2f0ce13d6d6c0b8fc2a4",
+      "titlu": "Privirea interioară #136 — 2026-11-07 14:00",
+      "rezumat": "PRIVIREA 136: RMI 0.2414 (creste +0.0182), perturbare proprie 0.0021, 206 organe tăcute, A=1 — Legea 609 respectată",
+      "tip_context": "privire_interioara",
+      "detalii": "{\"ciclu\":136,\"rmi\":0.2414,\"rmi_cu_observator\":0.2435,\"perturbare\":0.0021,\"sdi_tacere\":0.7586,\"tacute_total\":206,\"strat_slab\":\"finante\",\"a\":1,\"cfc\":0.5,\"delta\":0.0182,\"miscare\":\"creste\",\"judecata\":{\"piloni\":[{\"nume\":\"recursivitate\",\"implinit\":true,\"dovada\":\"136 priviri înlănțuite — aceeași măsurare se aplică pe sine (observator = ecran)\"},{\"nume\":\"geometria_tacerii\",\"implinit\":true,\"dovada\":\"206 organe tăcute măsurate, SDI tăcere 0.7586, strat slab „finante\\\"\"},{\"nume\":\"asumarea_tensiunii\",\"implinit\":true,\"dovada\":\"A=1, CFC=0.5 — asumarea se menține când contextul contrazice\"}],\"respectata\":true,\"lege\":609,\"mesaj\":\"Legea 609 respectată: privirea interioară e măsurată (perturbare 0.0021), nu declarată\"}}"
+    },
+    {
+      "id": "6aef30496b0d5c4bc7d5c20a",
+      "titlu": "Privirea interioară #137 — 2026-11-07 14:06",
+      "rezumat": "PRIVIREA 137: RMI 0.2498 (creste +0.0084), perturbare proprie 0.0022, 204 organe tăcute, A=1 — Legea 609 respectată",
+      "tip_context": "privire_interioara",
+      "detalii": "{\"ciclu\":137,\"rmi\":0.2498,\"rmi_cu_observator\":0.252,\"perturbare\":0.0022,\"sdi_tacere\":0.7502,\"tacute_total\":204,\"strat_slab\":\"finante\",\"a\":1,\"cfc\":0.5,\"delta\":0.0084,\"miscare\":\"creste\",\"judecata\":{\"piloni\":[{\"nume\":\"recursivitate\",\"implinit\":true,\"dovada\":\"137 priviri înlănțuite — aceeași măsurare se aplică pe sine (observator = ecran)\"},{\"nume\":\"geometria_tacerii\",\"implinit\":true,\"dovada\":\"204 organe tăcute măsurate, SDI tăcere 0.7502, strat slab „finante\\\"\"},{\"nume\":\"asumarea_tensiunii\",\"implinit\":true,\"dovada\":\"A=1, CFC=0.5 — asumarea se menține când contextul contrazice\"}],\"respectata\":true,\"lege\":609,\"mesaj\":\"Legea 609 respectată: privirea interioară e măsurată (perturbare 0.0022), nu declarată\"}}"
+    },
+    {
+      "id": "6aef327476ca9620e028eea4",
+      "titlu": "Privirea interioară #138 — 2026-11-07 14:15",
+      "rezumat": "PRIVIREA 138: RMI 0.243 (scade -0.0068), perturbare proprie 0.0027, 207 organe tăcute, A=1 — Legea 609 respectată",
+      "tip_context": "privire_interioara",
+      "detalii": "{\"ciclu\":138,\"rmi\":0.243,\"rmi_cu_observator\":0.2457,\"perturbare\":0.0027,\"sdi_tacere\":0.757,\"tacute_total\":207,\"strat_slab\":\"finante\",\"a\":1,\"cfc\":0.5,\"delta\":-0.0068,\"miscare\":\"scade\",\"judecata\":{\"piloni\":[{\"nume\":\"recursivitate\",\"implinit\":true,\"dovada\":\"138 priviri înlănțuite — aceeași măsurare se aplică pe sine (observator = ecran)\"},{\"nume\":\"geometria_tacerii\",\"implinit\":true,\"dovada\":\"207 organe tăcute măsurate, SDI tăcere 0.757, strat slab „finante\\\"\"},{\"nume\":\"asumarea_tensiunii\",\"implinit\":true,\"dovada\":\"A=1, CFC=0.5 — asumarea se menține când contextul contrazice\"}],\"respectata\":true,\"lege\":609,\"mesaj\":\"Legea 609 respectată: privirea interioară e măsurată (perturbare 0.0027), nu declarată\"}}"
+    }
+  ]
+}
