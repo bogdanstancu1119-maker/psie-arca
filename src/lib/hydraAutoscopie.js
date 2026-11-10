@@ -1,0 +1,1 @@
+if (typeof actiuniAll === 'undefined') { var actiuniAll = []; } const raportAutoscopie = actiuniAll.map(a => ({ id: a.id, status: a.status }));
