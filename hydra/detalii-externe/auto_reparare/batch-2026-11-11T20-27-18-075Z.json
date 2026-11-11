@@ -1,0 +1,41 @@
+{
+  "exportat_la": "2026-11-11T20:27:18.075Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6af4cf8b44621899c6c3b7fe",
+      "titlu": "[CREIER·AUTO-REPARARE] 4 probleme atacate automat",
+      "rezumat": "cheie DENO_DEPLOY_TOKEN ruptă; cheie RENDER_SINGAPORE_KEY ruptă; cheie DEEPSEEK_KEY ruptă; 1 ordine Binance blocate în coadă",
+      "tip_context": "auto_reparare",
+      "detalii": "[{\"problema\":\"cheie DENO_DEPLOY_TOKEN ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"cheie RENDER_SINGAPORE_KEY ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"cheie DEEPSEEK_KEY ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"1 ordine Binance blocate în coadă\",\"atac\":\"puls executor + auto-pornire pe Termux\",\"verdict\":{\"executor\":\"mort\",\"comanda_pornire\":\"coadată pe Aurelia Stancu · Telefon\",\"ordine_pending\":1}}]"
+    },
+    {
+      "id": "6af4c9bc2467642d177c4603",
+      "titlu": "[CREIER·AUTO-REPARARE] 3 probleme atacate automat",
+      "rezumat": "cheie DENO_DEPLOY_TOKEN ruptă; cheie RENDER_SINGAPORE_KEY ruptă; cheie DEEPSEEK_KEY ruptă",
+      "tip_context": "auto_reparare",
+      "detalii": "[{\"problema\":\"cheie DENO_DEPLOY_TOKEN ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"cheie RENDER_SINGAPORE_KEY ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"cheie DEEPSEEK_KEY ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"}]"
+    },
+    {
+      "id": "6af4c0519b2f825ec870a121",
+      "titlu": "[CREIER·AUTO-REPARARE] 4 probleme atacate automat",
+      "rezumat": "cheie DENO_DEPLOY_TOKEN ruptă; cheie RENDER_SINGAPORE_KEY ruptă; cheie DEEPSEEK_KEY ruptă; 1 ordine Binance blocate în coadă",
+      "tip_context": "auto_reparare",
+      "detalii": "[{\"problema\":\"cheie DENO_DEPLOY_TOKEN ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"cheie RENDER_SINGAPORE_KEY ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"cheie DEEPSEEK_KEY ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"1 ordine Binance blocate în coadă\",\"atac\":\"puls executor + auto-pornire pe Termux\",\"verdict\":{\"executor\":\"mort\",\"comanda_pornire\":\"coadată pe Aurelia Stancu · Telefon\",\"ordine_pending\":1}}]"
+    },
+    {
+      "id": "6af4b14cc7635362178eb58d",
+      "titlu": "[CREIER·AUTO-REPARARE] 4 probleme atacate automat",
+      "rezumat": "cheie DENO_DEPLOY_TOKEN ruptă; cheie RENDER_SINGAPORE_KEY ruptă; cheie DEEPSEEK_KEY ruptă; 1 ordine Binance blocate în coadă",
+      "tip_context": "auto_reparare",
+      "detalii": "[{\"problema\":\"cheie DENO_DEPLOY_TOKEN ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"cheie RENDER_SINGAPORE_KEY ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"cheie DEEPSEEK_KEY ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"1 ordine Binance blocate în coadă\",\"atac\":\"puls executor + auto-pornire pe Termux\",\"verdict\":{\"executor\":\"mort\",\"comanda_pornire\":\"coadată pe Aurelia Stancu · Telefon\",\"ordine_pending\":1}}]"
+    },
+    {
+      "id": "6af4a3293525e27c43096923",
+      "titlu": "[CREIER·AUTO-REPARARE] 4 probleme atacate automat",
+      "rezumat": "cheie DENO_DEPLOY_TOKEN ruptă; cheie RENDER_SINGAPORE_KEY ruptă; cheie DEEPSEEK_KEY ruptă; 1 ordine Binance blocate în coadă",
+      "tip_context": "auto_reparare",
+      "detalii": "[{\"problema\":\"cheie DENO_DEPLOY_TOKEN ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"cheie RENDER_SINGAPORE_KEY ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"cheie DEEPSEEK_KEY ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"1 ordine Binance blocate în coadă\",\"atac\":\"puls executor + auto-pornire pe Termux\",\"verdict\":{\"executor\":\"mort\",\"comanda_pornire\":\"coadată pe Jhennyf Maciel da Silva · Telefon\",\"ordine_pending\":1}}]"
+    }
+  ]
+}
