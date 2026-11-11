@@ -1,0 +1,1 @@
+const executeOrganWithSafety = async (organFn, timeout = 5000) => { const controller = new AbortController(); const id = setTimeout(() => controller.abort(), timeout); try { return await organFn(controller.signal); } catch (e) { return { status: 'depasit', error: e.message }; } finally { clearTimeout(id); } };
