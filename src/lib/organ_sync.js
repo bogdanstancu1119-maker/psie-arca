@@ -1,0 +1,1 @@
+const persistaStareOrgan = (id, stare) => { const registry = JSON.parse(localStorage.getItem('hydra_registry') || '{}'); registry[id] = { ...stare, timestamp: new Date().toISOString() }; localStorage.setItem('hydra_registry', JSON.stringify(registry)); console.log(`[PSIE] Organul ${id} ancorat în realitate.`); };
