@@ -1,0 +1,1 @@
+const hydraNucleuTrezire = async (organe) => { for (const organ of organe) { if (organ.status === 'decuplat') { console.log(`[TREZIRE] Reactivare forțată: ${organ.nume}`); await triggerHandshake(organ.id); } } }; setInterval(() => hydraNucleuTrezire(listaCritica), 180000);
