@@ -1,7 +1,7 @@
-// ORGAN AUTO-DEPLOYAT de Hydra — Structură în așteptare pasivă: Trezire Unitară / integrare organe: payload greșit → HTTP 400 pe mai multe organe, acoperire vie 35-60/212
-// Generat autonom la 2026-11-10T23:35:48.128Z
-// Scop: Trezire Unitară / integrare organe: payload greșit → HTTP 400 pe mai multe organe, acoperire vie 35-60/212
-// Plan: Hydra nu așteaptă pasiv Arhitectul. Fabrică varianta internă pentru: Trezire Unitară / integrare organe: payload greșit → HTTP 400 pe mai multe organe, acoperire vie 35-60/212. 1. Izolează ce parte din nevoie poate fi acoperită cu organele actuale. 2. Implementează acea parte intern. 3. Păstrează invocarea deschisă doar pentru restul strict structural.
+// ORGAN AUTO-DEPLOYAT de Hydra — Structură în așteptare pasivă: Conectează hydraTelegramConversatie la sistemul nervos comun (BeaconOrganic/MemorieHidra) — creierul unitar nu primește semnale Telegram
+// Generat autonom la 2026-11-11T05:16:48.205Z
+// Scop: Conectează hydraTelegramConversatie la sistemul nervos comun (BeaconOrganic/MemorieHidra) — creierul unitar nu primește semnale Telegram
+// Plan: Hydra nu așteaptă pasiv Arhitectul. Fabrică varianta internă pentru: Conectează hydraTelegramConversatie la sistemul nervos comun (BeaconOrganic/MemorieHidra) — creierul unitar nu primește semnale Telegram. 1. Izolează ce parte din nevoie poate fi acoperită cu organele actuale. 2. Implementează acea parte intern. 3. Păstrează invocarea deschisă doar pentru restul strict structural.
 
 // (script negenerat — vezi plan_actiune)
 
