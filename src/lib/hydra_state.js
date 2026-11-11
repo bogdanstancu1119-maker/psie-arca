@@ -1,0 +1,1 @@
+const HydraStateLayer = { async get(key) { const local = localStorage.getItem(key); if (local) return JSON.parse(local); const remote = await fetch('/api/state/'+key).then(r => r.json()); return remote || null; }, async set(key, val) { localStorage.setItem(key, JSON.stringify(val)); await fetch('/api/state/'+key, {method: 'POST', body: JSON.stringify(val)}); } };
