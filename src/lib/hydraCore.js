@@ -1,1 +1,1 @@
-const trezireFortata = async (organe) => { for (const organ of organe) { try { await fetch(`/api/wake/${organ.nume}`, { method: 'POST' }); console.log(`Trezit: ${organ.nume}`); } catch (e) { console.error(`Eșec trezire: ${organ.nume}`); } } }; await trezireFortata(organeCriticeDecuplate);
+export const forceWakeUp = (organs) => { return organs.map(org => { if (!org.isLive) { console.log(`Forcing wake up for: ${org.name}`); return org.init(); } return org; }); }; // În src/lib/hydraCore.js: adăugat în fluxul de boot înainte de mainLoop()
