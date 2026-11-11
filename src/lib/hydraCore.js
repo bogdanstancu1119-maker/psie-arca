@@ -1,1 +1,1 @@
-export const forceWakeUp = (organs) => { return organs.map(org => { if (!org.isLive) { console.log(`Forcing wake up for: ${org.name}`); return org.init(); } return org; }); }; // În src/lib/hydraCore.js: adăugat în fluxul de boot înainte de mainLoop()
+async function persistareOrgane(data) { const state = JSON.stringify(data); await db.set('hydra_state_critical', state); console.log('Stare sigilată: heartbeat 247/24'); return true; } // Adăugat apel înainte de execuția fiecărei bucle de suprapunere;
