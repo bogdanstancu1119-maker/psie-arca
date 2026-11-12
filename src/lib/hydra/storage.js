@@ -1,0 +1,1 @@
+const atomicWrite = async (key, data, lockDuration = 500) => { const lock = await localStorage.getItem('lock:' + key); if (lock) return false; await localStorage.setItem('lock:' + key, Date.now()); try { await localStorage.setItem(key, JSON.stringify(data)); return true; } finally { await localStorage.removeItem('lock:' + key); } };
