@@ -1,0 +1,1 @@
+const updateState = (key, newData) => { const oldState = JSON.parse(localStorage.getItem(key) || '{}'); const history = oldState.history || []; history.push({ timestamp: new Date().toISOString(), data: oldState }); localStorage.setItem(key, JSON.stringify({ ...newData, history, lastUpdate: new Date().toISOString() })); };
