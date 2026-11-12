@@ -1,0 +1,1 @@
+const fs = require('fs'); const path = './session_data.json'; function saveSession(data) { fs.writeFileSync(path, JSON.stringify(data)); } function loadSession() { if (!fs.existsSync(path)) return { offset: 0, memory: {} }; return JSON.parse(fs.readFileSync(path, 'utf8')); } module.exports = { saveSession, loadSession };
