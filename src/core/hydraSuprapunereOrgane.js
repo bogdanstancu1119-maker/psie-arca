@@ -1,1 +1,1 @@
-const purjareSelectiva = (organe) => { const acum = Date.now(); return organe.filter(o => (acum - o.lastPulse) < 600000); }; const organeActive = purjareSelectiva(registruOrgane); updateSnapshot({ active: organeActive, arhive: organeInactive });
+const synchronizeState = async (state) => { const canonicalState = JSON.stringify(state); await db.set('hydra_state_canonic', canonicalState); return canonicalState; }; /* Hook in main loop */ if (coherence < 0.2) { await synchronizeState(currentSnapshot); }
