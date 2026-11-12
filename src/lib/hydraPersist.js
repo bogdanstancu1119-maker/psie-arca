@@ -1,0 +1,1 @@
+const hydraPersistaStare = (cheie, valoare) => { const stocareActuala = localStorage.getItem(cheie); if (JSON.stringify(stocareActuala) !== JSON.stringify(valoare)) { localStorage.setItem(cheie, JSON.stringify(valoare)); console.log('Hydra: Stare persistată cu succes'); } };
