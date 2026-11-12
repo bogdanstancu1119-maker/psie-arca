@@ -1,1 +1,1 @@
-if (typeof actiuniAll === 'undefined') { var actiuniAll = []; } const raportAutoscopie = actiuniAll.map(a => ({ id: a.id, status: a.status }));
+const getAutoscopieSnapshot = () => { try { const data = JSON.parse(localStorage.getItem('snapshot_autoscopie') || '{}'); return { ...data, actiuniAll: data.actiuniAll ?? [] }; } catch (e) { return { actiuniAll: [] }; } };
