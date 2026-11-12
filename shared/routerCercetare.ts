@@ -1,0 +1,1 @@
+import { Map } from 'immutable'; const cache = new Map(); export async function routerCercetare(query, executor) { const key = query.toLowerCase().trim(); if (cache.has(key)) { return cache.get(key); } const rezultat = await executor(query); cache.set(key, rezultat); return rezultat; }
