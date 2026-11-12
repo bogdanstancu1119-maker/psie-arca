@@ -1,7 +1,7 @@
-// ORGAN AUTO-DEPLOYAT de Hydra — Structură în așteptare pasivă: Organ nou: scriitor periodic de MetricaStare canonică (CanonicSnapshotWriter)
-// Generat autonom la 2026-11-11T21:47:01.789Z
-// Scop: Organ nou: scriitor periodic de MetricaStare canonică (CanonicSnapshotWriter)
-// Plan: Hydra nu așteaptă pasiv Arhitectul. Fabrică varianta internă pentru: Organ nou: scriitor periodic de MetricaStare canonică (CanonicSnapshotWriter). 1. Izolează ce parte din nevoie poate fi acoperită cu organele actuale. 2. Implementează acea parte intern. 3. Păstrează invocarea deschisă doar pentru restul strict structural.
+// ORGAN AUTO-DEPLOYAT de Hydra — Structură în așteptare pasivă: Trezire Unitară / integrare organe: payload greșit → HTTP 400 pe mai multe organe, acoperire vie 35-60/212
+// Generat autonom la 2026-11-12T00:40:27.218Z
+// Scop: Trezire Unitară / integrare organe: payload greșit → HTTP 400 pe mai multe organe, acoperire vie 35-60/212
+// Plan: Hydra nu așteaptă pasiv Arhitectul. Fabrică varianta internă pentru: Trezire Unitară / integrare organe: payload greșit → HTTP 400 pe mai multe organe, acoperire vie 35-60/212. 1. Izolează ce parte din nevoie poate fi acoperită cu organele actuale. 2. Implementează acea parte intern. 3. Păstrează invocarea deschisă doar pentru restul strict structural.
 
 // (script negenerat — vezi plan_actiune)
 
