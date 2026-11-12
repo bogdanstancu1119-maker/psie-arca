@@ -1,0 +1,1 @@
+async function commitState(key, data) { const snapshot = JSON.stringify({ ...data, ts: Date.now() }); localStorage.setItem(key, snapshot); await fetch('/api/state/sync', { method: 'POST', body: snapshot }); console.log(`[Hydra] State Committed: ${key}`); }
