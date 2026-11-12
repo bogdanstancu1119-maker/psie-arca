@@ -1,0 +1,1 @@
+const executaReflex = (nume, payload) => { const ultima = localStorage.getItem(`last_${nume}`); const acum = Date.now(); if (ultima && (acum - parseInt(ultima) < 60000)) return false; localStorage.setItem(`last_${nume}`, acum.toString()); return processReflex(payload); };
