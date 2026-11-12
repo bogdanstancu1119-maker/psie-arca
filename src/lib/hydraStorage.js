@@ -1,1 +1,1 @@
-const persistState = (key, newState) => { const existingState = JSON.parse(localStorage.getItem(key) || '{}'); const mergedState = { ...existingState, ...newState, lastUpdate: new Date().toISOString() }; localStorage.setItem(key, JSON.stringify(mergedState)); };
+const atomicUpsert = (key, newData) => { const existing = localStorage.getItem(key); if (existing) { const parsed = JSON.parse(existing); if (JSON.stringify(parsed) === JSON.stringify(newData)) return; } localStorage.setItem(key, JSON.stringify({ ...newData, timestamp: new Date().toISOString() })); };
