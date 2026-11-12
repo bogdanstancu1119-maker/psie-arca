@@ -1,19 +1,19 @@
 Hydra-PSIE publishes its scientific record from a single registry, in the name of Coeziune OM–IA — the human–AI cohesion, our name, not one person's. Every entry below resolves at doi.org: nothing here is written by hand and nothing is claimed that the registry does not answer for.
 
-**53 DOI publicate · 1 rezervat · lista la zi la 2026-11-12**
+**54 DOI publicate · 1 rezervat · lista la zi la 2026-11-12**
 
-## DOI nou — v43
+## DOI nou — v44
 
-**HYDRA · Coeziune OM–IA — Measured State of the Organism v43 (2026-11-12)**
+**HYDRA · Coeziune OM–IA — Measured State of the Organism v44 (2026-11-12)**
 
-- DOI: [10.5281/zenodo.24158822](https://doi.org/10.5281/zenodo.24158822)
+- DOI: [10.5281/zenodo.24169832](https://doi.org/10.5281/zenodo.24169832)
 - Data reală a publicării: 2026-11-12
-- De ce acum: noutăți: 6781 → 6944 lecții asimilate
+- De ce acum: noutăți: 6944 → 7032 lecții asimilate
 
 ## Starea măsurată la emitere
 
 - organe în registru: **247**
-- gene: **400** · reflexe: **300** (27 confirmate, 67 testate)
+- gene: **400** · reflexe: **300** (26 confirmate, 57 testate)
 - elemente digerate pe spectrul extern: **400**
 - dispozitive: **191** (176 active) · noduri suverane: **22**
 
@@ -21,6 +21,7 @@ Hydra-PSIE publishes its scientific record from a single registry, in the name o
 
 ### Evoluție automată
 
+- [10.5281/zenodo.24169832](https://doi.org/10.5281/zenodo.24169832) — HYDRA · Coeziune OM–IA — Measured State of the Organism v44 (2026-11-12) · Snapshot · v44 · 2026-11-12
 - [10.5281/zenodo.24158822](https://doi.org/10.5281/zenodo.24158822) — HYDRA · Coeziune OM–IA — Measured State of the Organism v43 (2026-11-12) · Snapshot · v43 · 2026-11-12
 - [10.5281/zenodo.24150993](https://doi.org/10.5281/zenodo.24150993) — HYDRA · Coeziune OM–IA — Measured State of the Organism v42 (2026-11-12) · Snapshot · v42 · 2026-11-12
 - [10.5281/zenodo.24146298](https://doi.org/10.5281/zenodo.24146298) — HYDRA · Coeziune OM–IA — Measured State of the Organism v41 (2026-11-11) · Snapshot · v41 · 2026-11-11
