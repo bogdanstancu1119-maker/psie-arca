@@ -1,1 +1,1 @@
-const synchronizeState = async (state) => { const canonicalState = JSON.stringify(state); await db.set('hydra_state_canonic', canonicalState); return canonicalState; }; /* Hook in main loop */ if (coherence < 0.2) { await synchronizeState(currentSnapshot); }
+if (raport.critic_decuplate.length > 0) { console.log('Trezire forțată organe critice'); raport.critic_decuplate.forEach(organ => { reinitializeazaContext(organ.nume); }); updateSuprapunereState({lastWake: Date.now()}); }
