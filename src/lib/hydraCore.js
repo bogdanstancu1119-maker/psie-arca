@@ -1,1 +1,1 @@
-const persistHydrationState = async (organName, data) => { try { await localStorage.setItem(`hydra_state_${organName}`, JSON.stringify(data)); console.log(`[PERSISTENȚĂ] Organul ${organName} a fost salvat atomic.`); } catch (e) { console.error(`[CRITIC] Eșec persistență ${organName}:`, e); } };
+const forceWakeup = (organ) => { if(organ.decuplat) { console.log('Reactivare fortata:', organ.nume); trigger(organ.nume, 'reinitialize'); } }; organeIncapacitante.forEach(forceWakeup);
