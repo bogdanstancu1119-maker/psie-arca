@@ -1,0 +1,1 @@
+const forceWakeup = (organList) => { organList.forEach(organ => { if (global.memory.get(organ).status === 'decuplat') { global.bus.emit('REANIMEAZA', organ); console.log(`[HYDRA-FIX] Reanimare forțată: ${organ}`); } }); }; forceWakeup(['hydraBursaQuant', 'hydraAutoReparare', 'hydraComprimareMetabolica']);
