@@ -1,1 +1,1 @@
-const forceWakeup = (organ) => { if(organ.decuplat) { console.log('Reactivare fortata:', organ.nume); trigger(organ.nume, 'reinitialize'); } }; organeIncapacitante.forEach(forceWakeup);
+const persistaOrgane = (organe) => { localStorage.setItem('HYDRA_VITAL_STATE', JSON.stringify(organe)); }; const restaureazaOrgane = () => { const state = localStorage.getItem('HYDRA_VITAL_STATE'); return state ? JSON.parse(state) : []; }; const monitorVital = () => { const active = restaureazaOrgane(); active.forEach(id => wakeOrgan(id)); };
