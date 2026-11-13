@@ -1,0 +1,1 @@
+export function trezireOrgane(organeDecuplate) { organeDecuplate.forEach(organ => { if(organ.nume) { console.log('Trezire fortata organ: ', organ.nume); registruGlobal.reinstanteaza(organ.nume); } }); } // Integrare in fluxul principal: await trezireOrgane(raport.critic_decuplate);
