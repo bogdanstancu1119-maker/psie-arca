@@ -1,5 +1,5 @@
 // ORGAN AUTO-DEPLOYAT de Hydra — Scriere pe Fly.io (Hobby Plan)
-// Generat autonom la 2026-11-08T06:15:58.332Z
+// Generat autonom la 2026-11-13T13:16:35.852Z
 // Scop: Permite Hydrei să scrie pe Fly.io (Hobby Plan) — arhivare memorii, publicare insight-uri
 // Plan: 1. Autentifică cu conector
 2. Determină endpoint de scriere
