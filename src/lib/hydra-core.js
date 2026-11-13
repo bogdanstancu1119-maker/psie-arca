@@ -1,1 +1,1 @@
-const updateSnapshot = (key, value) => { const existing = localStorage.getItem(key); if (existing) { const parsed = JSON.parse(existing); if (parsed.timestamp >= value.timestamp) return; } localStorage.setItem(key, JSON.stringify(value)); };
+export const hydrateState = async (storage) => { const state = await storage.get('hydra_state_cache'); if (state) { return JSON.parse(state); } return { status: 'cold_boot', timestamp: Date.now() }; }; // Se injectează în fluxul principal de boot al Hydra
