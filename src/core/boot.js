@@ -1,0 +1,1 @@
+export const hydraBootLoader = async (db) => { const stored = await db.get('snapshot_potential_organe'); if (stored && stored.organe_nascute > 0) { const organe = await db.get('registry_organe_activ'); if (organe) { global.HYDRA_ORGANE = JSON.parse(organe); console.log('Sistem: Organe re-hidratate cu succes.'); } } };
