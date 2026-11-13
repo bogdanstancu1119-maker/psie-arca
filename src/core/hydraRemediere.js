@@ -1,0 +1,1 @@
+const updateRemediere = (newState) => { const last = lastWriteCache.get('remediere_universala'); if (last && (Date.now() - last.ts < 1000)) { return; } db.set('remediere_universala', JSON.stringify(newState)); lastWriteCache.set('remediere_universala', { ts: Date.now() }); };
