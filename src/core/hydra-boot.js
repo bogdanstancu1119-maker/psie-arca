@@ -1,0 +1,1 @@
+const rehidrateazaOrgane = async () => { const snapshot = await storage.get('snapshot_suprapunere_organe'); if (snapshot) { const data = JSON.parse(snapshot); organe.restore(data); console.log('Sistem rehidratat'); } }; await rehidrateazaOrgane();
