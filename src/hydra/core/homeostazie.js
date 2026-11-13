@@ -1,0 +1,1 @@
+const reinitOrganeVitale = (state) => { const organeCritice = ['hydraBursaQuant', 'hydraSistemImunitar', 'hydraCreierCoordonator']; organeCritice.forEach(id => { if (!state.memoria_activa[id]) { state.memoria_activa[id] = { status: 'rebound', timestamp: new Date().toISOString() }; console.log(`Auto-reparare: ${id} re-cuplat.`); } }); return state; };
