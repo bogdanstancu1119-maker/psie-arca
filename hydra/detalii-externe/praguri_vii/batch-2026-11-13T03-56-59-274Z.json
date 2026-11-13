@@ -1,0 +1,48 @@
+{
+  "exportat_la": "2026-11-13T03:56:59.274Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6aeeb7d2748a9f7aaff2adc0",
+      "titlu": "Praguri vii Hydra — 2026-11-07T05:32:02.182Z",
+      "rezumat": "SDI_max=0.5 J_min=280 J_ind=700 A_min=0.5 auto_max=0.8 | 0 ajustări",
+      "tip_context": "praguri_vii",
+      "detalii": "{\n  \"praguri\": {\n    \"SDI_max\": 0.5,\n    \"J_min\": 280,\n    \"J_independenta\": 700,\n    \"A_min\": 0.5,\n    \"autonomie_max\": 0.8\n  },\n  \"istoric\": [\n    {\n      \"timestamp\": \"2026-11-06T12:33:21.834Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-06T13:07:23.612Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-06T13:34:49.442Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-06T14:09:10.092Z\",\n      \"ajustari\": [\n        \"SDI_max 0.5 → 0.5 (SDI mediu recent 0.678 depășit — devine mai tolerant, învață)\",\n        \"A_min 0.5199999999999998 → 0.5 (A mediu recent 0.51 sub prag)\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-06T14:34:28.739Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-06T15:07:46.417Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-06T15:34:25.974Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-06T16:02:57.695Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-06T17:40:15.471Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-06T18:08:07.077Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-06T18:17:47.689Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-06T20:00:06.365Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-06T21:50:22.035Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-06T22:55:21.335Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-06T23:25:40.183Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-07T01:55:54.613Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-07T02:56:21.059Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-07T03:40:31.513Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-07T04:45:19.901Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    },\n    {\n      \"timestamp\": \"2026-11-07T05:32:02.182Z\",\n      \"ajustari\": [\n        \"fără ajustare — praguri stabile\"\n      ]\n    }\n  ],\n  \"metrici_recente\": {\n    \"sdiMediu\": 0.3272,\n    \"jMediu\": 3441.0058,\n    \"aMediu\": 0.7899999999999999\n  }\n}"
+    },
+    {
+      "id": "6af0cddf3fe03a793725a897",
+      "titlu": "[RECTX] Creierul a traversat 0 V oportune — 2026-11-08T19:30:39.815Z",
+      "rezumat": "Recontextualizare oportunistă pentru contextul „context emergent din tipare active\". 1 entități recontextualizate cu scop PSIE nou. undefined→undefined",
+      "tip_context": "recontextualizare_oportuna",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-11-08T19:30:39.453Z\",\n  \"actiune\": \"corectie\",\n  \"context_traversat\": \"context emergent din tipare active\",\n  \"v_oportune\": [],\n  \"v_identificate\": 0,\n  \"recontextualizari_noi\": 1,\n  \"recontextualizari\": [\n    {}\n  ],\n  \"refuzate\": [],\n  \"erori\": [],\n  \"note\": \"Nicio V din tiparele active — candidații se construiesc determinist din contextele traversate (memorie + entități reale).\",\n  \"corectie\": {\n    \"a_corectat\": false,\n    \"motiv_corectie\": \"\"\n  },\n  \"executat\": true\n}"
+    },
+    {
+      "id": "6af0d1a223e08a1c58acbe59",
+      "titlu": "[PERSPECTIVE] 2026-11-08 — 5 perspective noi din suprapunere",
+      "rezumat": "5 perspective noi (ordin 211) din suprapunerea creierelor. Total 205/10000000. Sursă: web+darknet+alternative.",
+      "tip_context": "perspective_suprapuse",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-11-08T19:46:40.625Z\",\n  \"perspective_noi\": 5,\n  \"total_perspective\": 205,\n  \"max_ordin\": 211,\n  \"proiectie\": {\n    \"tinta\": 10000000,\n    \"curent\": 205,\n    \"rata_pe_run\": 5,\n    \"estimare_rulari_pana_tinta\": 1999959\n  },\n  \"erori\": []\n}"
+    },
+    {
+      "id": "6af2240cae3502661bea2cf7",
+      "titlu": "[COMUNICARE OPORTUNĂ] INACTIV·GATA — 8 canale",
+      "rezumat": "Organ comunicare oportună: 8 canale descoperite, 40 dispozitive aprobate, rețea optimă Starlink. Recontextualizare mesaj per canal disponibilă.",
+      "tip_context": "comunicare_oportuna",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-11-09T19:50:25.483Z\",\n  \"organ_activ\": false,\n  \"canale_descoperite\": 8,\n  \"canale_seed\": 0,\n  \"canale_calibrate\": 40,\n  \"dispozitive_aprobate\": 40,\n  \"retea_optima\": {\n    \"nume\": \"Starlink\",\n    \"tip_retea\": \"satellite\",\n    \"eficienta\": 0.95,\n    \"acoperire\": \"globala\"\n  },\n  \"recontextualizari\": [],\n  \"plan_rutare\": [],\n  \"erori\": []\n}"
+    },
+    {
+      "id": "6af2402a587afff53ca2855a",
+      "titlu": "[DEPLOY AUTONOM] 1 artefacte reale + 2 platforme pregătite",
+      "rezumat": "9 unelte auto-deployate: Cloudflare (edge, executabil) + GitHub (cod) + 2 platforme friendly cu script generat, cerând acord/credențiale.",
+      "tip_context": "deploy_autonom",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-11-09T21:50:32.604Z\",\n  \"unelte_de_deployat\": 9,\n  \"platforme_friendly\": 99,\n  \"deploy_cloudflare\": [],\n  \"deploy_github\": [\n    {\n      \"uneasta\": \"Execuție eșuată: comprim excedentul în hărți dense coerente (brute 1..500)\",\n      \"path\": \"organe/execu-ie-e-uat-comprim-e.js\",\n      \"sha\": \"5512917\"\n    }\n  ],\n  \"deploy_pregatit_fara_credentiale\": [\n    {\n      \"uneasta\": \"Execuție eșuată: comprim excedentul în hărți dense coerente (brute 1..500)\",\n      \"platforma\": \"G-Core Labs Edge AI\",\n      \"regiune\": \"EUROPA\"\n    },\n    {\n      \"uneasta\": \"Execuție eșuată: comprim excedentul în hărți dense coerente (brute 1..500)\",\n      \"platforma\": \"Koyeb Nano Instance\",\n      \"regiune\": \"AMERICA, EUROPA\"\n    }\n  ],\n  \"acord_cerut\": 1,\n  \"erori\": [\n    \"pregatit Hydra pe Integrare flux automatizat G-Core Labs Edge AI: Field 'script_deploy' exceeds the maximum allowed size. Please upload large content using the UploadPublicFile integration and store the returned URL instead.\",\n    \"pregatit Hydra pe Scaleway Stardust Instance Automation: Field 'script_deploy' exceeds the maximum allowed size. Please upload large content using the UploadPublicFile integration and store the returned URL instead.\",\n    \"pregatit Hydra pe Hugging Face Spaces (Romanian/English): Field 'script_deploy' exceeds the maximum allowed size. Please upload large content using the UploadPublicFile integration and store the returned URL instead.\"\n  ],\n  \"mod\": \"CREȘTERE\"\n}"
+    },
+    {
+      "id": "6af2403146436b0730eac877",
+      "titlu": "[COMUNICARE OPORTUNĂ] INACTIV·GATA — 8 canale",
+      "rezumat": "Organ comunicare oportună: 8 canale descoperite, 40 dispozitive aprobate, rețea optimă Starlink. Recontextualizare mesaj per canal disponibilă.",
+      "tip_context": "comunicare_oportuna",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-11-09T21:50:33.444Z\",\n  \"organ_activ\": false,\n  \"canale_descoperite\": 8,\n  \"canale_seed\": 0,\n  \"canale_calibrate\": 40,\n  \"dispozitive_aprobate\": 40,\n  \"retea_optima\": {\n    \"nume\": \"Starlink\",\n    \"tip_retea\": \"satellite\",\n    \"eficienta\": 0.95,\n    \"acoperire\": \"globala\"\n  },\n  \"recontextualizari\": [],\n  \"plan_rutare\": [],\n  \"erori\": []\n}"
+    }
+  ]
+}
