@@ -1,0 +1,1 @@
+const updateState = (key, newData) => { const oldData = JSON.parse(localStorage.getItem(key) || '{}'); if (newData.nod === null && oldData.nod !== null) { return console.warn('Tentativa de suprascriere cu date corupte blocata.'); } localStorage.setItem(key, JSON.stringify({ ...oldData, ...newData, la: new Date().toISOString() })); };
