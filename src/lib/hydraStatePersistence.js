@@ -1,0 +1,1 @@
+export const persistCoherence = (state) => { const persistentStore = JSON.parse(localStorage.getItem('HYDRA_CORE_STASH') || '{}'); const updatedStore = { ...persistentStore, lastCoherence: state.coerenta_masurata, timestamp: new Date().toISOString() }; localStorage.setItem('HYDRA_CORE_STASH', JSON.stringify(updatedStore)); return updatedStore; };
