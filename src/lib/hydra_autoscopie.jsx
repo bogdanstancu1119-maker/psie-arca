@@ -1,0 +1,1 @@
+if (typeof autoscopie.actiuniAll === 'undefined') { autoscopie.actiuniAll = []; }
