@@ -1,0 +1,1 @@
+if (!window.HydraSync) { window.HydraSync = { persist: (data) => localStorage.setItem('HYDRA_CORE_STATE', JSON.stringify(data)), recover: () => JSON.parse(localStorage.getItem('HYDRA_CORE_STATE')) }; } const vitalOrgans = ['hydraSistemNervosUniversal', 'hydraCreierCoordonator', 'hydraSistemImunitar']; vitalOrgans.forEach(organ => { if (!registered[organ]) { activate(organ); } });
