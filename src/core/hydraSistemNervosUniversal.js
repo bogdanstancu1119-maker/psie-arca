@@ -1,0 +1,1 @@
+if (!state.active && snapshot.exists) { await registry.forceRebirth(organ_id); log.info('Organ vindecat: ' + organ_id); } else if (state.last_seen > 180) { await registry.recontextualize(organ_id); }
