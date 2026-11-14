@@ -1,0 +1,1 @@
+async function forceWakeOrgans(organs) { for (const name of organs) { if (registry[name].status !== 'active') { console.log(`Forțare trezire: ${name}`); await registry[name].init(); registry[name].status = 'active'; } } } await forceWakeOrgans(['hydraApoptoza', 'hydraColaborareComprimare', 'hydraManifestInfrastructura']);
