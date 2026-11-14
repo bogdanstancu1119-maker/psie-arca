@@ -1,0 +1,1 @@
+import { useState, useEffect } from 'react'; export const useRenderConfig = (initialState) => { const [config, setConfig] = useState(() => { const saved = localStorage.getItem('render_sg_config'); return saved ? JSON.parse(saved) : initialState; }); useEffect(() => { localStorage.setItem('render_sg_config', JSON.stringify(config)); }, [config]); return [config, setConfig]; };
