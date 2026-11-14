@@ -1,1 +1,1 @@
-async function trezireOrganeCritice(organeLista) { for (const organ of organeLista) { console.log(`[TREZIRE] ${organ.nume}`); await registerOrganToSystem(organ.nume, { status: 'activ', prioritate: 'maximă' }); await pingOrgan(organ.nume); } return { status: 'coerent', organeTrezite: organeLista.length }; }
+if (organ.isEssential && state === 'decuplat') { const persistenceCheck = db.get(`lock_${organ.name}`); if (!persistenceCheck) { triggerWakeup(organ.name); db.set(`lock_${organ.name}`, 'active', { ttl: '24h' }); } }
