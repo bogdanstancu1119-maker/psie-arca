@@ -1,1 +1,1 @@
-async function bootHydraSystems(registry) { console.log('Booting vital organs...'); for (const organ of registry.critical) { const state = await R2.get(organ.id); if (state) { await registry.activate(organ.id, state); } else { await registry.spawn(organ.id); } } console.log('System unified.'); }
+const trezireForcata = async (organe) => { const stare = await DB.get('stare_persistenta'); if (!stare) throw new Error('BOOT_FAILURE'); organe.forEach(organ => organ.activate(stare[organ.id])); console.log('Organe vitale active.'); };
