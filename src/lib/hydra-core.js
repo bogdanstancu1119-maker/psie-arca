@@ -1,1 +1,1 @@
-export const hydrateState = async (storage) => { const state = await storage.get('hydra_state_cache'); if (state) { return JSON.parse(state); } return { status: 'cold_boot', timestamp: Date.now() }; }; // Se injectează în fluxul principal de boot al Hydra
+if (typeof actiuniAll === 'undefined') { const actiuniAll = []; console.warn('Auto-reparare: actiuniAll nu a fost definit, inițializat cu listă goală.'); }
