@@ -1,0 +1,1 @@
+async function executaRemediereAsincron(sarcini) { const queue = Object.keys(sarcini); for (const sarcina of queue) { try { await Promise.race([handle(sarcina), new Promise((_, reject) => setTimeout(() => reject('timeout'), 5000))]); } catch (e) { console.warn('Eroare remediere:', sarcina, e); } } }
