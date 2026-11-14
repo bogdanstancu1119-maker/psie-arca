@@ -1,0 +1,1 @@
+const synchronizeTelegramToMemory = async (msg) => { const memoryData = await fetch('https://r2.hidra-smart-core.com/memorie-hidra', { method: 'POST', body: JSON.stringify(msg) }); if (memoryData.ok) { console.log('Sincronizare Telegram-Memorie Reușită'); return true; } else { throw new Error('Decuplaj logic la sincronizare'); } };
