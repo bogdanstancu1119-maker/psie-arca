@@ -1,0 +1,1 @@
+export const consolidareStare = (state) => { const heartbeatThreshold = 180000; const acum = Date.now(); return { ...state, organe: state.organe.filter(o => (acum - o.lastSeen) < heartbeatThreshold), coerenta: state.organe.length > 0 ? 0.8 : 0.1 }; };
