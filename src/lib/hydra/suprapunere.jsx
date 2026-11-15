@@ -1,0 +1,1 @@
+export const processOrganCoherence = (state) => { const latente = state.organe.filter(o => o.status === 'latent' && o.age > 180); if (latente.length > 0) { return { ...state, decizii_consziente: latente.map(o => ({ id: o.id, actiune: 'trezire_fortata', timestamp: new Date().toISOString() })), status: 'coerenta_in_curs' }; } return state; };
