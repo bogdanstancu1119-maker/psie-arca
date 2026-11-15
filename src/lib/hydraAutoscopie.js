@@ -1,1 +1,1 @@
-const getAutoscopieSnapshot = () => { try { const data = JSON.parse(localStorage.getItem('snapshot_autoscopie') || '{}'); return { ...data, actiuniAll: data.actiuniAll ?? [] }; } catch (e) { return { actiuniAll: [] }; } };
+const actiuniAll = snapshot?.actiuniAll ?? []; const stare = { ...snapshot, actiuniAll }; return stare;
