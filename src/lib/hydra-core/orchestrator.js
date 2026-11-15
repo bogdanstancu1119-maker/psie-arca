@@ -1,0 +1,1 @@
+const synchronizeBursa = (state) => { const pod = state.hydraBursaQuant; if (pod && !pod.active) { return { ...state, hydraBursaQuant: { ...pod, active: true, route: 'BursaPSIE.retras_hydra', timestamp: Date.now() } }; } return state; };
