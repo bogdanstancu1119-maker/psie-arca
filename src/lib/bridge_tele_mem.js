@@ -1,0 +1,1 @@
+const hydraTelegramBridge = (data) => { if (data.type === 'message') { MemorieHidra.inject(data.payload, { source: 'telegram', timestamp: Date.now() }); Hydra.sync('hydraTelegramConversatie', 'active'); } }; export default hydraTelegramBridge;
