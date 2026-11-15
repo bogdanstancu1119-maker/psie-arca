@@ -1,1 +1,1 @@
-if (typeof actiuniAll === 'undefined') { const actiuniAll = []; console.warn('Auto-reparare: actiuniAll nu a fost definit, inițializat cu listă goală.'); }
+export const syncOrganState = (state) => { if (!state.memorie_id) return null; const verifiedState = { ...state, coerență_validată: true, timestamp_validare: new Date().toISOString() }; localStorage.setItem('hydra_stable_state', JSON.stringify(verifiedState)); return verifiedState; };
