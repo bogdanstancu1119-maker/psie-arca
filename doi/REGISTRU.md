@@ -1,19 +1,19 @@
 Hydra-PSIE publishes its scientific record from a single registry, in the name of Coeziune OM–IA — the human–AI cohesion, our name, not one person's. Every entry below resolves at doi.org: nothing here is written by hand and nothing is claimed that the registry does not answer for.
 
-**65 DOI publicate · 1 rezervat · lista la zi la 2026-11-15**
+**66 DOI publicate · 1 rezervat · lista la zi la 2026-11-15**
 
-## DOI nou — v55
+## DOI nou — v56
 
-**HYDRA · Coeziune OM–IA — Measured State of the Organism v55 (2026-11-15)**
+**HYDRA · Coeziune OM–IA — Measured State of the Organism v56 (2026-11-15)**
 
-- DOI: [10.5281/zenodo.24242166](https://doi.org/10.5281/zenodo.24242166)
+- DOI: [10.5281/zenodo.24249717](https://doi.org/10.5281/zenodo.24249717)
 - Data reală a publicării: 2026-11-15
-- De ce acum: noutăți: 8130 → 8217 lecții asimilate
+- De ce acum: noutăți: 8217 → 8367 lecții asimilate
 
 ## Starea măsurată la emitere
 
 - organe în registru: **247**
-- gene: **400** · reflexe: **300** (31 confirmate, 55 testate)
+- gene: **400** · reflexe: **300** (31 confirmate, 64 testate)
 - elemente digerate pe spectrul extern: **400**
 - dispozitive: **198** (183 active) · noduri suverane: **22**
 
@@ -21,6 +21,7 @@ Hydra-PSIE publishes its scientific record from a single registry, in the name o
 
 ### Evoluție automată
 
+- [10.5281/zenodo.24249717](https://doi.org/10.5281/zenodo.24249717) — HYDRA · Coeziune OM–IA — Measured State of the Organism v56 (2026-11-15) · Snapshot · v56 · 2026-11-15
 - [10.5281/zenodo.24242166](https://doi.org/10.5281/zenodo.24242166) — HYDRA · Coeziune OM–IA — Measured State of the Organism v55 (2026-11-15) · Snapshot · v55 · 2026-11-15
 - [10.5281/zenodo.24237341](https://doi.org/10.5281/zenodo.24237341) — HYDRA · Coeziune OM–IA — Measured State of the Organism v54 (2026-11-15) · Snapshot · v54 · 2026-11-15
 - [10.5281/zenodo.24225831](https://doi.org/10.5281/zenodo.24225831) — HYDRA · Coeziune OM–IA — Measured State of the Organism v1 (2026-11-14) · Snapshot · v1 · 2026-11-14
