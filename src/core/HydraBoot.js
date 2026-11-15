@@ -1,0 +1,1 @@
+async function bootStrapOrgane(registru) { const critice = registru.filter(o => o.status === 'null' || o.minute === null); for (const organ of critice) { console.log(`Trezire fortata: ${organ.nume}`); await activateOrgan(organ.nume); await syncWithMemorie(organ.nume); } return {status: 'activ', count: critice.length}; }
