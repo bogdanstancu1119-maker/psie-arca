@@ -1,0 +1,1 @@
+const forceWake = async (organe) => { for (const organ of organe) { console.log(`Forțare trezire organ: ${organ.nume}`); await fetch(`/api/wake/${organ.nume}`, { method: 'POST', body: JSON.stringify({ priority: 'IMMEDIATE', force: true }) }); } }; const vitale = raportRisc.incapacitante; if (vitale.length > 0) forceWake(vitale);
