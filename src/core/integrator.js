@@ -1,0 +1,1 @@
+const bridgeTelegramToBeacon = (mesaj) => { if (!mesaj) return; const pachet = { tip: 'TELEGRAM_INPUT', continut: mesaj, timestamp: Date.now() }; BeaconOrganic.emit('input_extern', pachet); console.log('Semnal Telegram rutat către BeaconOrganic:', pachet.timestamp); }; hydraTelegramConversatie.on('mesaj', (m) => bridgeTelegramToBeacon(m));
