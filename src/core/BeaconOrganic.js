@@ -1,0 +1,1 @@
+if (!beacon.isRegistered('hydraTelegramConversatie')) { beacon.register({ id: 'hydraTelegramConversatie', handshake: 'active_push', priority: 'high', callback: (data) => this.transmit(data) }); console.log('Handshake restabilit: Telegram-Beacon'); }
