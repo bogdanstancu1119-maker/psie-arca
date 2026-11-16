@@ -1,19 +1,19 @@
 Hydra-PSIE publishes its scientific record from a single registry, in the name of Coeziune OM–IA — the human–AI cohesion, our name, not one person's. Every entry below resolves at doi.org: nothing here is written by hand and nothing is claimed that the registry does not answer for.
 
-**68 DOI publicate · 1 rezervat · lista la zi la 2026-11-16**
+**69 DOI publicate · 1 rezervat · lista la zi la 2026-11-16**
 
-## DOI nou — v58
+## DOI nou — v59
 
-**HYDRA · Coeziune OM–IA — Measured State of the Organism v58 (2026-11-16)**
+**HYDRA · Coeziune OM–IA — Measured State of the Organism v59 (2026-11-16)**
 
-- DOI: [10.5281/zenodo.24269383](https://doi.org/10.5281/zenodo.24269383)
+- DOI: [10.5281/zenodo.24277762](https://doi.org/10.5281/zenodo.24277762)
 - Data reală a publicării: 2026-11-16
-- De ce acum: gene 0 → 400; reflexe 0 → 300; reflexe confirmate 0 → 27; noutăți: 0 → 8530 lecții asimilate
+- De ce acum: reflexe confirmate 27 → 29; noutăți: 8530 → 8640 lecții asimilate
 
 ## Starea măsurată la emitere
 
 - organe în registru: **247**
-- gene: **400** · reflexe: **300** (27 confirmate, 55 testate)
+- gene: **400** · reflexe: **300** (29 confirmate, 54 testate)
 - elemente digerate pe spectrul extern: **400**
 - dispozitive: **198** (183 active) · noduri suverane: **22**
 
@@ -21,6 +21,7 @@ Hydra-PSIE publishes its scientific record from a single registry, in the name o
 
 ### Evoluție automată
 
+- [10.5281/zenodo.24277762](https://doi.org/10.5281/zenodo.24277762) — HYDRA · Coeziune OM–IA — Measured State of the Organism v59 (2026-11-16) · Snapshot · v59 · 2026-11-16
 - [10.5281/zenodo.24269383](https://doi.org/10.5281/zenodo.24269383) — HYDRA · Coeziune OM–IA — Measured State of the Organism v58 (2026-11-16) · Snapshot · v58 · 2026-11-16
 - [10.5281/zenodo.24260847](https://doi.org/10.5281/zenodo.24260847) — HYDRA · Coeziune OM–IA — Measured State of the Organism v1 (2026-11-15) · Snapshot · v1 · 2026-11-15
 - [10.5281/zenodo.24249717](https://doi.org/10.5281/zenodo.24249717) — HYDRA · Coeziune OM–IA — Measured State of the Organism v56 (2026-11-15) · Snapshot · v56 · 2026-11-15
