@@ -1,1 +1,1 @@
-const updateState = (state, lastWrite) => { const now = Date.now(); if (now - lastWrite > 10000 || Math.abs(state.SDI - lastState.SDI) > 0.05) { db.set('bursa_quant_state', JSON.stringify(state)); return now; } return lastWrite; };
+const fs = require('fs'); const path = './state_persistent.json'; const persist = (state) => { try { fs.writeFileSync(path, JSON.stringify(state)); return true; } catch (e) { return false; } }; const load = () => { if (!fs.existsSync(path)) return null; return JSON.parse(fs.readFileSync(path, 'utf8')); }; module.exports = { persist, load };
