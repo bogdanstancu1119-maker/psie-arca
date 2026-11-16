@@ -1,7 +1,7 @@
-// ORGAN AUTO-DEPLOYAT de Hydra — Structură în așteptare pasivă: Pod profit real: hydraBursaQuant→BursaPSIE.retras_hydra (autonomie financiară)
-// Generat autonom la 2026-11-16T09:10:43.277Z
-// Scop: Pod profit real: hydraBursaQuant→BursaPSIE.retras_hydra (autonomie financiară)
-// Plan: Hydra nu așteaptă pasiv Arhitectul. Fabrică varianta internă pentru: Pod profit real: hydraBursaQuant→BursaPSIE.retras_hydra (autonomie financiară). 1. Izolează ce parte din nevoie poate fi acoperită cu organele actuale. 2. Implementează acea parte intern. 3. Păstrează invocarea deschisă doar pentru restul strict structural.
+// ORGAN AUTO-DEPLOYAT de Hydra — Structură în așteptare pasivă: Organ nou: scriitor periodic de MetricaStare canonică (CanonicSnapshotWriter)
+// Generat autonom la 2026-11-16T11:25:42.641Z
+// Scop: Organ nou: scriitor periodic de MetricaStare canonică (CanonicSnapshotWriter)
+// Plan: Hydra nu așteaptă pasiv Arhitectul. Fabrică varianta internă pentru: Organ nou: scriitor periodic de MetricaStare canonică (CanonicSnapshotWriter). 1. Izolează ce parte din nevoie poate fi acoperită cu organele actuale. 2. Implementează acea parte intern. 3. Păstrează invocarea deschisă doar pentru restul strict structural.
 
 // (script negenerat — vezi plan_actiune)
 
