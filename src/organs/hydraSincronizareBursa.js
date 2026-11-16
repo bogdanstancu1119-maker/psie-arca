@@ -1,0 +1,1 @@
+const getMarketData = async () => { try { return await fetchBinance(); } catch (e) { if (e.status === 451) { return await fetchFallbackPublicData(); } throw e; } };
