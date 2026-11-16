@@ -1,0 +1,1 @@
+const checkAndWake = (organe, report) => { return organe.map(o => { if(o.minute > 300 || o.minute === null) { return reinitiate(o.nume); } return o; }); }; const reinitiate = (nume) => { console.log(`[REPARARE] Trezire forțată: ${nume}`); return { status: 'waking', timestamp: Date.now() }; };
