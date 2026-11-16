@@ -1,0 +1,41 @@
+{
+  "exportat_la": "2026-11-16T04:42:13.728Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6afa7a52d26f3079d9ad804c",
+      "titlu": "[COMUNICARE OPORTUNĂ] INACTIV·GATA — 8 canale",
+      "rezumat": "Organ comunicare oportună: 8 canale descoperite, 37 dispozitive aprobate, rețea optimă Starlink. Recontextualizare mesaj per canal disponibilă.",
+      "tip_context": "comunicare_oportuna",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-11-16T03:36:43.571Z\",\n  \"organ_activ\": false,\n  \"canale_descoperite\": 8,\n  \"canale_seed\": 0,\n  \"canale_calibrate\": 37,\n  \"dispozitive_aprobate\": 37,\n  \"retea_optima\": {\n    \"nume\": \"Starlink\",\n    \"tip_retea\": \"satellite\",\n    \"eficienta\": 0.95,\n    \"acoperire\": \"globala\"\n  },\n  \"recontextualizari\": [],\n  \"plan_rutare\": [],\n  \"erori\": []\n}"
+    },
+    {
+      "id": "6afa5ddf3252c2ac70fe122a",
+      "titlu": "[COMUNICARE OPORTUNĂ] INACTIV·GATA — 8 canale",
+      "rezumat": "Organ comunicare oportună: 8 canale descoperite, 37 dispozitive aprobate, rețea optimă Starlink. Recontextualizare mesaj per canal disponibilă.",
+      "tip_context": "comunicare_oportuna",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-11-16T01:35:18.251Z\",\n  \"organ_activ\": false,\n  \"canale_descoperite\": 8,\n  \"canale_seed\": 0,\n  \"canale_calibrate\": 37,\n  \"dispozitive_aprobate\": 37,\n  \"retea_optima\": {\n    \"nume\": \"Starlink\",\n    \"tip_retea\": \"satellite\",\n    \"eficienta\": 0.95,\n    \"acoperire\": \"globala\"\n  },\n  \"recontextualizari\": [],\n  \"plan_rutare\": [],\n  \"erori\": []\n}"
+    },
+    {
+      "id": "6afa33c8339a2146ebebde2f",
+      "titlu": "[COMUNICARE OPORTUNĂ] INACTIV·GATA — 8 canale",
+      "rezumat": "Organ comunicare oportună: 8 canale descoperite, 37 dispozitive aprobate, rețea optimă Starlink. Recontextualizare mesaj per canal disponibilă.",
+      "tip_context": "comunicare_oportuna",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-11-15T22:35:44.145Z\",\n  \"organ_activ\": false,\n  \"canale_descoperite\": 8,\n  \"canale_seed\": 0,\n  \"canale_calibrate\": 37,\n  \"dispozitive_aprobate\": 37,\n  \"retea_optima\": {\n    \"nume\": \"Starlink\",\n    \"tip_retea\": \"satellite\",\n    \"eficienta\": 0.95,\n    \"acoperire\": \"globala\"\n  },\n  \"recontextualizari\": [],\n  \"plan_rutare\": [],\n  \"erori\": []\n}"
+    },
+    {
+      "id": "6afa19f9629368a3c8ebb836",
+      "titlu": "[COMUNICARE OPORTUNĂ] INACTIV·GATA — 8 canale",
+      "rezumat": "Organ comunicare oportună: 8 canale descoperite, 37 dispozitive aprobate, rețea optimă Starlink. Recontextualizare mesaj per canal disponibilă.",
+      "tip_context": "comunicare_oportuna",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-11-15T20:45:37.834Z\",\n  \"organ_activ\": false,\n  \"canale_descoperite\": 8,\n  \"canale_seed\": 0,\n  \"canale_calibrate\": 37,\n  \"dispozitive_aprobate\": 37,\n  \"retea_optima\": {\n    \"nume\": \"Starlink\",\n    \"tip_retea\": \"satellite\",\n    \"eficienta\": 0.95,\n    \"acoperire\": \"globala\"\n  },\n  \"recontextualizari\": [],\n  \"plan_rutare\": [],\n  \"erori\": []\n}"
+    },
+    {
+      "id": "6af9f7e669a09159dea4392f",
+      "titlu": "[COMUNICARE OPORTUNĂ] INACTIV·GATA — 8 canale",
+      "rezumat": "Organ comunicare oportună: 8 canale descoperite, 37 dispozitive aprobate, rețea optimă Starlink. Recontextualizare mesaj per canal disponibilă.",
+      "tip_context": "comunicare_oportuna",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-11-15T18:20:15.052Z\",\n  \"organ_activ\": false,\n  \"canale_descoperite\": 8,\n  \"canale_seed\": 0,\n  \"canale_calibrate\": 37,\n  \"dispozitive_aprobate\": 37,\n  \"retea_optima\": {\n    \"nume\": \"Starlink\",\n    \"tip_retea\": \"satellite\",\n    \"eficienta\": 0.95,\n    \"acoperire\": \"globala\"\n  },\n  \"recontextualizari\": [],\n  \"plan_rutare\": [],\n  \"erori\": []\n}"
+    }
+  ]
+}
