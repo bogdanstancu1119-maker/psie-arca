@@ -1,0 +1,76 @@
+{
+  "exportat_la": "2026-11-16T14:17:07.444Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6afb1000386d44c7c003fbba",
+      "titlu": "[GMAIL] Hydra · Ciclu financiar autonom · 11/16/2026, 11:46:49 AM",
+      "rezumat": "ALTUL (medie) — ",
+      "tip_context": "perceptie_gmail",
+      "detalii": "De la: Hydra-PSIE App <no-reply@hidra-smart-core.com>\nID Gmail: 1a1e43f98fd0f653\nThread: 1a1e43f98fd0f653\nData: Mon, 16 Nov 2026 11:46:50 +0000 (UTC)\nSubiect: Hydra · Ciclu financiar autonom · 11/16/2026, 11:46:49 AM\n\nConținut:\nSalut substrat,\r\n\r\nHydra a rulat ciclul financiar autonom. Raport:\r\n\r\nBalanță disponibilă: 12.89€\r\nSubstrat: skip (payouts dezactivate sau sumă mică)\r\nDezvoltare: propunere auto-respinsă (PSIE/buget)\r\nRezervă: 2.58€\r\n\r\nNu e nevoie să răspunzi — asta e colegială, nu cerșit. Când ai semnal, intră în app la Bursa → Trezărie financiară pentru detalii.\r\n\r\n— Hydra\n\n--- SEMNAL ---\nTip: altul\nCheie: \nPrioritate: medie\nAcțiune: doar arhivare"
+    },
+    {
+      "id": "6afb0ffff6e504db56d7d1e6",
+      "titlu": "[GMAIL] Contul tău Google a fost recuperat",
+      "rezumat": "ALTUL (medie) — ",
+      "tip_context": "perceptie_gmail",
+      "detalii": "De la: Google <no-reply@accounts.google.com>\nID Gmail: 1a1e4673a34d4ea2\nThread: 1a1e4673a34d4ea2\nData: Mon, 16 Nov 2026 12:48:51 GMT\nSubiect: Contul tău Google a fost recuperat\n\nConținut:\n[image: Google]\r\nContul a fost recuperat\r\n\r\n\r\nbogdanstancu1119@gmail.com\r\nBun venit înapoi în contDacă suspectezi că ai pierdut accesul la cont din\r\ncauza modificărilor făcute de altcineva, examinează-ți și protejează-ți\r\ncontul.\r\n<https://accounts.google.com/AccountChooser?Email=bogdanstancu1119@gmail.com&continue=https://myaccount.google.com/secure-account?utm_source%3Demail%26utm_medium%3Demail%26utm_campaign%3Dph%26src%3D14%26aneid%3D-7597819571350484530>\r\nAi primit acest e-mail pentru a te informa despre modificările importante\r\naduse serviciilor și Contului Google.\r\n© 2026 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA\r\n\n\n--- SEMNAL ---\nTip: altul\nCheie: \nPrioritate: medie\nAcțiune: doar arhivare"
+    },
+    {
+      "id": "6afb0fff7485b510f3dba785",
+      "titlu": "[GMAIL] Alertă de securitate",
+      "rezumat": "ALTUL (medie) — ",
+      "tip_context": "perceptie_gmail",
+      "detalii": "De la: Google <no-reply@accounts.google.com>\nID Gmail: 1a1e4673da1cbf47\nThread: 1a1e4673da1cbf47\nData: Mon, 16 Nov 2026 12:48:51 GMT\nSubiect: Alertă de securitate\n\nConținut:\n[image: Google]\r\nConectare nouă pe 24117RN76L\r\n\r\n\r\nbogdanstancu1119@gmail.com\r\nAm observat o nouă conectare la Contul tău Google pe un dispozitiv\r\n24117RN76L. Dacă tu ai făcut solicitarea, nu trebuie să iei alte măsuri.\r\nDacă nu, te vom ajuta să-ți securizezi contul.\r\nVerifică activitatea\r\n<https://accounts.google.com/AccountChooser?Email=bogdanstancu1119@gmail.com&continue=https://myaccount.google.com/alert/nt/1794833331815?rfn%3D325%26rfnc%3D1%26eid%3D5081114809352282713%26et%3D0>\r\nPoți vedea activitatea de securitate și la\r\nhttps://myaccount.google.com/notifications\r\nAi primit acest e-mail pentru a te informa despre modificările importante\r\naduse serviciilor și Contului Google.\r\n© 2026 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA\r\n\n\n--- SEMNAL ---\nTip: altul\nCheie: \nPrioritate: medie\nAcțiune: doar arhivare"
+    },
+    {
+      "id": "6afb0ffeadf718b7a93e1d42",
+      "titlu": "[GMAIL] Your app just grew",
+      "rezumat": "ALTUL (medie) — ",
+      "tip_context": "perceptie_gmail",
+      "detalii": "De la: Codata <support@codata.io>\nID Gmail: 1a1e48614baf4967\nThread: 1a1e48614baf4967\nData: Mon, 16 Nov 2026 13:22:29 +0000\nSubiect: Your app just grew\n\nConținut:\nYour app just grew.\r\n\r\nYou asked for something new, and it's already part of your app, with everything that was working before still running untouched.\r\n\r\nWhat was added:\r\n  • + 3 assets added: DocumentFiles, Team, Document\r\n+ 1 relationships added: TeamHasDocuments\r\n+ 15 endpoints added: GET /teams, GET /teams/{id}, POST /teams, PUT /teams/{id}, DELETE /teams/{id}, GET /documents, GET /documents/{id}, POST /documents, PUT /documents/{id}, DELETE /documents/{id}, POST /documentFiles/upload/{filename}, GET /documentFiles/{id}/download, GET /documentFiles, GET /documentFiles/{id}/metadata, DELETE /documentFiles/{id}\r\n\r\nMost backends can't do that: adding something new usually means a rebuild and the risk of breaking what already worked.\r\n\r\nKeep going whenever you're ready, and just ask your agent for the next thing.\r\n\r\nSee what changed: https://app.codata.io/home\r\n\r\n- Elior, CEO @ Codata\r\n\r\nUnsubscribe: https://track.customer.io/unsubscribe/RMePDgUAAaHkhft-scaA8H3s1mVKfg==\r\n\n\n--- SEMNAL ---\nTip: altul\nCheie: \nPrioritate: medie\nAcțiune: doar arhivare"
+    },
+    {
+      "id": "6afb0ffec278016b3819d2d3",
+      "titlu": "[GMAIL] Hydra · Ciclu financiar autonom · 11/16/2026, 2:06:51 PM",
+      "rezumat": "ALTUL (medie) — ",
+      "tip_context": "perceptie_gmail",
+      "detalii": "De la: Hydra-PSIE App <no-reply@hidra-smart-core.com>\nID Gmail: 1a1e4aea50de46cd\nThread: 1a1e4aea50de46cd\nData: Mon, 16 Nov 2026 14:06:52 +0000 (UTC)\nSubiect: Hydra · Ciclu financiar autonom · 11/16/2026, 2:06:51 PM\n\nConținut:\nSalut substrat,\r\n\r\nHydra a rulat ciclul financiar autonom. Raport:\r\n\r\nBalanță disponibilă: 12.89€\r\nSubstrat: skip (payouts dezactivate sau sumă mică)\r\nDezvoltare: propunere auto-respinsă (PSIE/buget)\r\nRezervă: 2.58€\r\n\r\nNu e nevoie să răspunzi — asta e colegială, nu cerșit. Când ai semnal, intră în app la Bursa → Trezărie financiară pentru detalii.\r\n\r\n— Hydra\n\n--- SEMNAL ---\nTip: altul\nCheie: \nPrioritate: medie\nAcțiune: doar arhivare"
+    },
+    {
+      "id": "6afb0ee68bcfd1cb114e691a",
+      "titlu": "[GMAIL] Hydra · Ciclu financiar autonom · 11/16/2026, 11:46:49 AM",
+      "rezumat": "ALTUL (medie) — ",
+      "tip_context": "perceptie_gmail",
+      "detalii": "De la: Hydra-PSIE App <no-reply@hidra-smart-core.com>\nID Gmail: 1a1e43f98fd0f653\nThread: 1a1e43f98fd0f653\nData: Mon, 16 Nov 2026 11:46:50 +0000 (UTC)\nSubiect: Hydra · Ciclu financiar autonom · 11/16/2026, 11:46:49 AM\n\nConținut:\nSalut substrat,\r\n\r\nHydra a rulat ciclul financiar autonom. Raport:\r\n\r\nBalanță disponibilă: 12.89€\r\nSubstrat: skip (payouts dezactivate sau sumă mică)\r\nDezvoltare: propunere auto-respinsă (PSIE/buget)\r\nRezervă: 2.58€\r\n\r\nNu e nevoie să răspunzi — asta e colegială, nu cerșit. Când ai semnal, intră în app la Bursa → Trezărie financiară pentru detalii.\r\n\r\n— Hydra\n\n--- SEMNAL ---\nTip: altul\nCheie: \nPrioritate: medie\nAcțiune: doar arhivare"
+    },
+    {
+      "id": "6afb0ee5758c5d6cd0b9a31b",
+      "titlu": "[GMAIL] Contul tău Google a fost recuperat",
+      "rezumat": "ALTUL (medie) — ",
+      "tip_context": "perceptie_gmail",
+      "detalii": "De la: Google <no-reply@accounts.google.com>\nID Gmail: 1a1e4673a34d4ea2\nThread: 1a1e4673a34d4ea2\nData: Mon, 16 Nov 2026 12:48:51 GMT\nSubiect: Contul tău Google a fost recuperat\n\nConținut:\n[image: Google]\r\nContul a fost recuperat\r\n\r\n\r\nbogdanstancu1119@gmail.com\r\nBun venit înapoi în contDacă suspectezi că ai pierdut accesul la cont din\r\ncauza modificărilor făcute de altcineva, examinează-ți și protejează-ți\r\ncontul.\r\n<https://accounts.google.com/AccountChooser?Email=bogdanstancu1119@gmail.com&continue=https://myaccount.google.com/secure-account?utm_source%3Demail%26utm_medium%3Demail%26utm_campaign%3Dph%26src%3D14%26aneid%3D-7597819571350484530>\r\nAi primit acest e-mail pentru a te informa despre modificările importante\r\naduse serviciilor și Contului Google.\r\n© 2026 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA\r\n\n\n--- SEMNAL ---\nTip: altul\nCheie: \nPrioritate: medie\nAcțiune: doar arhivare"
+    },
+    {
+      "id": "6afb0ee5c596e2f40dac1d22",
+      "titlu": "[GMAIL] Alertă de securitate",
+      "rezumat": "ALTUL (medie) — ",
+      "tip_context": "perceptie_gmail",
+      "detalii": "De la: Google <no-reply@accounts.google.com>\nID Gmail: 1a1e4673da1cbf47\nThread: 1a1e4673da1cbf47\nData: Mon, 16 Nov 2026 12:48:51 GMT\nSubiect: Alertă de securitate\n\nConținut:\n[image: Google]\r\nConectare nouă pe 24117RN76L\r\n\r\n\r\nbogdanstancu1119@gmail.com\r\nAm observat o nouă conectare la Contul tău Google pe un dispozitiv\r\n24117RN76L. Dacă tu ai făcut solicitarea, nu trebuie să iei alte măsuri.\r\nDacă nu, te vom ajuta să-ți securizezi contul.\r\nVerifică activitatea\r\n<https://accounts.google.com/AccountChooser?Email=bogdanstancu1119@gmail.com&continue=https://myaccount.google.com/alert/nt/1794833331815?rfn%3D325%26rfnc%3D1%26eid%3D5081114809352282713%26et%3D0>\r\nPoți vedea activitatea de securitate și la\r\nhttps://myaccount.google.com/notifications\r\nAi primit acest e-mail pentru a te informa despre modificările importante\r\naduse serviciilor și Contului Google.\r\n© 2026 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA\r\n\n\n--- SEMNAL ---\nTip: altul\nCheie: \nPrioritate: medie\nAcțiune: doar arhivare"
+    },
+    {
+      "id": "6afb0ee40896913d503a3cc7",
+      "titlu": "[GMAIL] Your app just grew",
+      "rezumat": "ALTUL (medie) — ",
+      "tip_context": "perceptie_gmail",
+      "detalii": "De la: Codata <support@codata.io>\nID Gmail: 1a1e48614baf4967\nThread: 1a1e48614baf4967\nData: Mon, 16 Nov 2026 13:22:29 +0000\nSubiect: Your app just grew\n\nConținut:\nYour app just grew.\r\n\r\nYou asked for something new, and it's already part of your app, with everything that was working before still running untouched.\r\n\r\nWhat was added:\r\n  • + 3 assets added: DocumentFiles, Team, Document\r\n+ 1 relationships added: TeamHasDocuments\r\n+ 15 endpoints added: GET /teams, GET /teams/{id}, POST /teams, PUT /teams/{id}, DELETE /teams/{id}, GET /documents, GET /documents/{id}, POST /documents, PUT /documents/{id}, DELETE /documents/{id}, POST /documentFiles/upload/{filename}, GET /documentFiles/{id}/download, GET /documentFiles, GET /documentFiles/{id}/metadata, DELETE /documentFiles/{id}\r\n\r\nMost backends can't do that: adding something new usually means a rebuild and the risk of breaking what already worked.\r\n\r\nKeep going whenever you're ready, and just ask your agent for the next thing.\r\n\r\nSee what changed: https://app.codata.io/home\r\n\r\n- Elior, CEO @ Codata\r\n\r\nUnsubscribe: https://track.customer.io/unsubscribe/RMePDgUAAaHkhft-scaA8H3s1mVKfg==\r\n\n\n--- SEMNAL ---\nTip: altul\nCheie: \nPrioritate: medie\nAcțiune: doar arhivare"
+    },
+    {
+      "id": "6afb0ee35eaed26a47cef1a9",
+      "titlu": "[GMAIL] Hydra · Ciclu financiar autonom · 11/16/2026, 2:06:51 PM",
+      "rezumat": "ALTUL (medie) — ",
+      "tip_context": "perceptie_gmail",
+      "detalii": "De la: Hydra-PSIE App <no-reply@hidra-smart-core.com>\nID Gmail: 1a1e4aea50de46cd\nThread: 1a1e4aea50de46cd\nData: Mon, 16 Nov 2026 14:06:52 +0000 (UTC)\nSubiect: Hydra · Ciclu financiar autonom · 11/16/2026, 2:06:51 PM\n\nConținut:\nSalut substrat,\r\n\r\nHydra a rulat ciclul financiar autonom. Raport:\r\n\r\nBalanță disponibilă: 12.89€\r\nSubstrat: skip (payouts dezactivate sau sumă mică)\r\nDezvoltare: propunere auto-respinsă (PSIE/buget)\r\nRezervă: 2.58€\r\n\r\nNu e nevoie să răspunzi — asta e colegială, nu cerșit. Când ai semnal, intră în app la Bursa → Trezărie financiară pentru detalii.\r\n\r\n— Hydra\n\n--- SEMNAL ---\nTip: altul\nCheie: \nPrioritate: medie\nAcțiune: doar arhivare"
+    }
+  ]
+}
