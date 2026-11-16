@@ -1,0 +1,1 @@
+const trezireForzata = async (organeCritice) => { for (const organ of organeCritice) { console.log(`[RESTART] Trezire organ: ${organ.nume}`); await db.set(`status:${organ.nume}`, 'ACTIV'); await reinitialize(organ.nume); } }; const organeDeDecuplat = ['hydraBursaQuant', 'hydraSistemImunitar', 'hydraSeifChei']; await trezireForzata(organeDeDecuplat);
