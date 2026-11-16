@@ -1,0 +1,1 @@
+export const forceWakeup = (organeDecuplate) => { organeDecuplate.forEach(organ => { if (organ.decuplat) { console.log(`Trezire fortata: ${organ.nume}`); organ.status = 'active'; organ.last_heartbeat = new Date().toISOString(); } }); return { status: 'restarted', timestamp: new Date().toISOString() }; };
