@@ -1,0 +1,1 @@
+const synchronizeOrganHeartbeat = async (organId) => { const state = await db.get(`organ_state_${organId}`); if (!state || Date.now() - state.lastPing > 300000) { await db.set(`organ_state_${organId}`, { status: 'active', lastPing: Date.now(), coherence: 0.5 }); return 'restarted'; } return 'synced'; };
