@@ -1,0 +1,1 @@
+if (typeof actiuniAll === 'undefined') { var actiuniAll = { organe: [], status: 'init' }; }
