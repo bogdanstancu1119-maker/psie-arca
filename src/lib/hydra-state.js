@@ -1,0 +1,1 @@
+const persistState = (key, data) => { localStorage.setItem(key, JSON.stringify(data)); return data; }; const syncHydraState = (current) => { const saved = localStorage.getItem('hydra_state'); if (saved) return { ...JSON.parse(saved), ...current }; return persistState('hydra_state', current); };
