@@ -1,0 +1,1 @@
+const RenderSingapore = { state: JSON.parse(localStorage.getItem('rs_state')) || { memory: [], active: true }, save() { localStorage.setItem('rs_state', JSON.stringify(this.state)); }, update(newData) { this.state.memory.push(newData); this.save(); }, init() { console.log('Singapore Agent Initialized with persisted state'); } }; RenderSingapore.init();
