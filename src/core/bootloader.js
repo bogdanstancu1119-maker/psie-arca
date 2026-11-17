@@ -1,0 +1,1 @@
+import { initHydraRegistry } from './registry'; const CRITICAL_ORGANS = ['hydraBinanceOrdine', 'hydraSistemImunitar', 'hydraApoptoza']; async function boot() { await Promise.all(CRITICAL_ORGANS.map(async (o) => await initHydraRegistry(o))); console.log('Organe critice trezite.'); } boot();
