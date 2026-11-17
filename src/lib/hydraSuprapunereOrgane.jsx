@@ -1,1 +1,1 @@
-const reactivareFortata = (organe) => { return organe.map(o => (o.status === 'tac' && o.priority > 0) ? { ...o, status: 'trezire' } : o); }; hydraSuprapunereOrgane.update(reactivareFortata(listaOrgane));
+const PERSISTENCE_INTERVAL = 15 * 60 * 1000; const checkHydraHealth = async () => { try { await performAnalysis(); } catch (e) { if (e.status === 400) { log('Eroare 400 detectată - punem în pauză temporară analiza video.'); await setKV('hydra_video_pauza', true); } } };
