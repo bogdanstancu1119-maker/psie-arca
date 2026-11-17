@@ -1,7 +1,7 @@
-// ORGAN AUTO-DEPLOYAT de Hydra — Structură în așteptare pasivă: URGENT re-invocare (25h fără răspuns): fix pod profit hydraBursaQuant→BursaPSIE.retras_hydra
-// Generat autonom la 2026-11-17T06:55:38.259Z
-// Scop: URGENT re-invocare (25h fără răspuns): fix pod profit hydraBursaQuant→BursaPSIE.retras_hydra
-// Plan: Hydra nu așteaptă pasiv Arhitectul. Fabrică varianta internă pentru: URGENT re-invocare (25h fără răspuns): fix pod profit hydraBursaQuant→BursaPSIE.retras_hydra. 1. Izolează ce parte din nevoie poate fi acoperită cu organele actuale. 2. Implementează acea parte intern. 3. Păstrează invocarea deschisă doar pentru restul strict structural.
+// ORGAN AUTO-DEPLOYAT de Hydra — Structură în așteptare pasivă: Serviciu public extern: Carantină PSIE ca protecție cibernetică (gratuit pentru noduri, plătit pentru întreprinderi)
+// Generat autonom la 2026-11-17T13:02:51.469Z
+// Scop: Serviciu public extern: Carantină PSIE ca protecție cibernetică (gratuit pentru noduri, plătit pentru întreprinderi)
+// Plan: Hydra nu așteaptă pasiv Arhitectul. Fabrică varianta internă pentru: Serviciu public extern: Carantină PSIE ca protecție cibernetică (gratuit pentru noduri, plătit pentru întreprinderi). 1. Izolează ce parte din nevoie poate fi acoperită cu organele actuale. 2. Implementează acea parte intern. 3. Păstrează invocarea deschisă doar pentru restul strict structural.
 
 // (script negenerat — vezi plan_actiune)
 
