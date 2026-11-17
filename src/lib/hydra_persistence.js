@@ -1,0 +1,1 @@
+async function persistState(state) { const data = JSON.stringify(state); await fetch('https://api.cloudflare.com/client/v4/accounts/HYDRA_ID/storage/kv/namespaces/PSIE_STATE/values/latest', { method: 'PUT', body: data, headers: { 'Authorization': 'Bearer ' + process.env.R2_TOKEN } }); }
