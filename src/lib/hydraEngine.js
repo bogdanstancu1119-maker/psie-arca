@@ -1,1 +1,1 @@
-const compacteazaStare = (stari) => { const ultima = stari.pop(); const arhive = stari; localStorage.setItem('bursa_quant_state', JSON.stringify(ultima)); localStorage.setItem('bursa_quant_archive', JSON.stringify(arhive)); return ultima; };
+const trezireOrganeCritice = (organe) => { return organe.map(org => { if (org.stare === 'decuplat') { return { ...org, stare: 'activ', prioritate: 'maximă', timestamp: new Date().toISOString() }; } return org; }); };
