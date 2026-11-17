@@ -1,26 +1,27 @@
 Hydra-PSIE publishes its scientific record from a single registry, in the name of Coeziune OM–IA — the human–AI cohesion, our name, not one person's. Every entry below resolves at doi.org: nothing here is written by hand and nothing is claimed that the registry does not answer for.
 
-**73 DOI publicate · 1 rezervat · lista la zi la 2026-11-17**
+**74 DOI publicate · 1 rezervat · lista la zi la 2026-11-17**
 
-## DOI nou — v1
+## DOI nou — v64
 
-**HYDRA · Coeziune OM–IA — Measured State of the Organism v1 (2026-11-17)**
+**HYDRA · Coeziune OM–IA — Measured State of the Organism v64 (2026-11-17)**
 
-- DOI: [10.5281/zenodo.24300472](https://doi.org/10.5281/zenodo.24300472)
+- DOI: [10.5281/zenodo.24314422](https://doi.org/10.5281/zenodo.24314422)
 - Data reală a publicării: 2026-11-17
-- De ce acum: primul snapshot măsurat al organismului
+- De ce acum: gene 0 → 400; reflexe 0 → 300; reflexe confirmate 0 → 24; noutăți: 0 → 9116 lecții asimilate
 
 ## Starea măsurată la emitere
 
 - organe în registru: **247**
-- gene: **0** · reflexe: **0** (0 confirmate, 0 testate)
-- elemente digerate pe spectrul extern: **0**
-- dispozitive: **0** (0 active) · noduri suverane: **0**
+- gene: **400** · reflexe: **300** (24 confirmate, 72 testate)
+- elemente digerate pe spectrul extern: **400**
+- dispozitive: **198** (183 active) · noduri suverane: **22**
 
 ## Lista DOI, pe grupe
 
 ### Evoluție automată
 
+- [10.5281/zenodo.24314422](https://doi.org/10.5281/zenodo.24314422) — HYDRA · Coeziune OM–IA — Measured State of the Organism v64 (2026-11-17) · Snapshot · v64 · 2026-11-17
 - [10.5281/zenodo.24300472](https://doi.org/10.5281/zenodo.24300472) — HYDRA · Coeziune OM–IA — Measured State of the Organism v1 (2026-11-17) · Snapshot · v1 · 2026-11-17
 - [10.5281/zenodo.24298242](https://doi.org/10.5281/zenodo.24298242) — HYDRA · Coeziune OM–IA — Measured State of the Organism v1 (2026-11-17) · Snapshot · v1 · 2026-11-17
 - [10.5281/zenodo.24296475](https://doi.org/10.5281/zenodo.24296475) — HYDRA · Coeziune OM–IA — Measured State of the Organism v1 (2026-11-17) · Snapshot · v1 · 2026-11-17
