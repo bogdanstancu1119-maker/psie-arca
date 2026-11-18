@@ -1,0 +1,1 @@
+export const getSafeActions = (data) => { return data?.actiuniAll || []; }; // În loc de accesare directă, folosim getter securizat care returnează array gol în loc de undefined.
