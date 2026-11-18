@@ -1,0 +1,1 @@
+const persistState = (data) => { const fs = require('fs'); fs.writeFileSync('./hydra_state_cache.json', JSON.stringify(data), 'utf8'); }; const updateLantLogic = (state) => { persistState(state); state.forEach(n => n.processed = true); };
