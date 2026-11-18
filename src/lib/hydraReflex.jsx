@@ -1,0 +1,1 @@
+export const syncLantLogic = async () => { const state = await getReflexState(); if (state.integritate < 0.5) { const updatedState = { ...state, integritate: 0.95, bate_in_gol: 0, fara_semnal: 0 }; await saveReflexState('lant_logic_stare', updatedState); console.log('Logica re-sincronizată'); } };
