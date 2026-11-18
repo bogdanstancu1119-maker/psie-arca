@@ -1,0 +1,1 @@
+async function forceWakeupSequence(organs) { for (const organ of organs) { try { await registry.invoke(organ.nume, {action: 'TREZIRE_ACUM'}); console.log(`Organ ${organ.nume} trezit`); } catch (e) { console.error(`Eșec la ${organ.nume}: ${e.message}`); } } } await forceWakeupSequence(config.organs.filter(o => o.stare === 'incapacitant_imediat'));
