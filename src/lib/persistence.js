@@ -1,1 +1,1 @@
-const saveState = (data) => { const fs = require('fs'); fs.writeFileSync('./system_state.json', JSON.stringify(data, null, 2)); }; const loadState = () => { try { return JSON.parse(fs.readFileSync('./system_state.json', 'utf8')); } catch { return {}; } }; module.exports = { saveState, loadState };
+const hydraSync = (key, newData) => { const existing = JSON.parse(localStorage.getItem(key) || '{}'); const merged = { ...existing, ...newData, _lastUpdated: new Date().toISOString() }; localStorage.setItem(key, JSON.stringify(merged)); return merged; };
