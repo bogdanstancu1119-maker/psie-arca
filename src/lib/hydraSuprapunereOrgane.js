@@ -1,1 +1,1 @@
-export const trezireUnitara = (organe) => { return organe.map(organ => { if(organ.status === 'decuplat') { return { ...organ, status: 'activare_prioritara', timestamp: Date.now() }; } return organ; }); };
+if (organ.status === 'decuplat' && organ.prioritate === 'incapacitant') { console.log('Trezire fortata: ' + organ.nume); await initOrgan(organ.nume); organ.status = 'activ'; persistState(organ); }
