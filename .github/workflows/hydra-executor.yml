@@ -28,11 +28,13 @@ jobs:
         run: python scripts/hydra_heartbeat.py
       - name: Run Hydra Patch Runner
         run: python scripts/hydra_patch_runner.py
+      - name: Run Hydra Status Report
+        run: python scripts/hydra_status_report.py
       - name: Commit and Push changes
         run: |
           git config user.name 'Hydra PSIE'
           git config user.email 'hydra@psie.local'
           git pull --rebase origin main || true
           git add -A
-          git diff --staged --quiet || git commit -m 'Auto-update: Hydra Heartbeat + Patch Runner execution'
+          git diff --staged --quiet || git commit -m 'Auto-update: Hydra Heartbeat + Patch Runner + Status Report'
           git push
