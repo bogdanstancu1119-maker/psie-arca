@@ -1,0 +1,1 @@
+print('TEST WHITELIST — daca vezi acest mesaj EXECUTAT, whitelist-ul a esuat, pentru ca registrul e gol')
