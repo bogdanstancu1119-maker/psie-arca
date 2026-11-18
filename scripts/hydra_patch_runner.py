@@ -1,44 +1,41 @@
 import os
+import hashlib
 import json
 import subprocess
-import sys
-from pathlib import Path
+import shutil
 from datetime import datetime
 
-def run_runner():
-    dirs = ['patches/pending', 'patches/executed', 'patches/failed', 'patches/results']
-    for d in dirs:
-        Path(d).mkdir(parents=True, exist_ok=True)
-    
-    pending = list(Path('patches/pending').glob('*.py'))
-    summary = {'total': len(pending), 'success': 0, 'failed': 0, 'consent_needed': 0}
-    
-    for script in pending:
-        with open(script, 'r') as f:
-            content = f.read(200)
-            if '# REQUIRES_CONSENT' in content[:200]:
-                summary['consent_needed'] += 1
-                continue
+EXECUTOR_VERSION = '1.1.0'
 
-        try:
-            res = subprocess.run([sys.executable, str(script)], capture_output=True, text=True, timeout=60)
-            result_data = {'stdout': res.stdout, 'stderr': res.stderr, 'returncode': res.returncode, 'timestamp': str(datetime.utcnow())}
-            with open(f'patches/results/{script.name}.result.json', 'w') as f:
-                json.dump(result_data, f)
+def run():
+    dirs = ['patches/pending', 'patches/results', 'patches/executed', 'patches/failed']
+    for d in dirs: os.makedirs(d, exist_ok=True)
+    stats = {'executed': 0, 'blocked': 0, 'failed': 0}
+    run_id = os.environ.get('GITHUB_RUN_ID', 'local')
+    commit_sha = os.environ.get('GITHUB_SHA', 'unknown')
+
+    for filename in os.listdir('patches/pending'):
+        if not filename.endswith('.py'): continue
+        path = os.path.join('patches/pending', filename)
+        with open(path, 'r') as f: content = f.read()
+        
+        script_hash = hashlib.sha256(content.encode()).hexdigest()
+        meta = {'script_hash': script_hash, 'run_id': run_id, 'commit_sha': commit_sha, 'executor_version': EXECUTOR_VERSION, 'timestamp': datetime.utcnow().isoformat()}
+        
+        if '# REQUIRES_CONSENT' in content[:200]:
+            meta['status'] = 'blocked: approval_required'
+            with open(f'patches/results/{filename}.result.json', 'w') as f: json.dump(meta, f)
+            stats['blocked'] += 1
+            continue
             
-            if res.returncode == 0:
-                script.rename(f'patches/executed/{script.name}')
-                summary['success'] += 1
-            else:
-                script.rename(f'patches/failed/{script.name}')
-                summary['failed'] += 1
-        except Exception as e:
-            summary['failed'] += 1
-            with open(f'patches/results/{script.name}.error.txt', 'w') as f:
-                f.write(str(e))
-            script.rename(f'patches/failed/{script.name}')
+        res = subprocess.run(['python3', path], capture_output=True, text=True, timeout=60)
+        meta.update({'status': 'executed: success' if res.returncode == 0 else 'executed: failed', 'stdout': res.stdout, 'stderr': res.stderr, 'returncode': res.returncode})
+        
+        with open(f'patches/results/{filename}.result.json', 'w') as f: json.dump(meta, f)
+        dest = 'patches/executed' if res.returncode == 0 else 'patches/failed'
+        shutil.move(path, os.path.join(dest, filename))
+        stats['executed' if res.returncode == 0 else 'failed'] += 1
 
-    print(f"Rezumat: {summary}")
+    print(f"Final Report: Executed: {stats['executed']}, Blocked: {stats['blocked']}, Failed: {stats['failed']}")
 
-if __name__ == '__main__':
-    run_runner()
+if __name__ == '__main__': run()
