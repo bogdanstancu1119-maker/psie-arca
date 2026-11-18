@@ -1,0 +1,2 @@
+name: Hydra PSIE Executor
+on: push: branches: [main] schedule: - cron: '*/15 * * * *'jobs: build: runs-on: ubuntu-latest permissions: contents: write steps: - uses: actions/checkout@v3 - name: Set up Python 3.11 uses: actions/setup-python@v4 with: python-version: '3.11' - name: Run Hydra Heartbeat run: python scripts/hydra_heartbeat.py - name: Commit and Push changes run: | git config user.name 'Hydra PSIE' git config user.email 'hydra@psie.local' git add . git diff --quiet && git diff --staged --quiet || (git commit -m 'Auto-update: Hydra Heartbeat execution' && git push)
