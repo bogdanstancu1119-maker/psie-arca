@@ -1,0 +1,1 @@
+const trezireOrganeCritice = async () => { const critice = ['hydraSistemNervosUniversal', 'hydraSeifChei', 'hydraSistemImunitar']; for (const organ of critice) { await Registry.activate(organ); console.log(`Organ ${organ} trezit și integrat în puls.`); } }; await trezireOrganeCritice();
