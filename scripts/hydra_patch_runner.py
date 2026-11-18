@@ -1,41 +1,70 @@
+import json
 import os
 import hashlib
-import json
 import subprocess
 import shutil
 from datetime import datetime
 
-EXECUTOR_VERSION = '1.1.0'
+EXECUTOR_VERSION = '1.2.0'
 
 def run():
-    dirs = ['patches/pending', 'patches/results', 'patches/executed', 'patches/failed']
-    for d in dirs: os.makedirs(d, exist_ok=True)
-    stats = {'executed': 0, 'blocked': 0, 'failed': 0}
-    run_id = os.environ.get('GITHUB_RUN_ID', 'local')
-    commit_sha = os.environ.get('GITHUB_SHA', 'unknown')
+    registry_path = 'patches/approval_registry.json'
+    pending_dir = 'patches/pending'
+    audit_log = 'patches/audit_log.jsonl'
+    env_run_id = os.getenv('GITHUB_RUN_ID', 'manual')
+    env_commit = os.getenv('GITHUB_SHA', 'local')
+    
+    stats = {'executed': 0, 'blocked': {}, 'fail_closed': False}
 
-    for filename in os.listdir('patches/pending'):
-        if not filename.endswith('.py'): continue
-        path = os.path.join('patches/pending', filename)
-        with open(path, 'r') as f: content = f.read()
-        
-        script_hash = hashlib.sha256(content.encode()).hexdigest()
-        meta = {'script_hash': script_hash, 'run_id': run_id, 'commit_sha': commit_sha, 'executor_version': EXECUTOR_VERSION, 'timestamp': datetime.utcnow().isoformat()}
+    def log_audit(data):
+        with open(audit_log, 'a') as f:
+            f.write(json.dumps({**data, 'timestamp': datetime.utcnow().isoformat()}) + '\n')
+
+    try:
+        with open(registry_path, 'r') as f:
+            registry = json.load(f)
+            approvals = registry.get('approvals', [])
+            if not isinstance(approvals, list): raise ValueError
+    except Exception:
+        stats['fail_closed'] = True
+        for f_name in os.listdir(pending_dir):
+            if f_name.endswith('.py'):
+                log_audit({'script_hash': 'N/A', 'nume_fisier': f_name, 'decizie': 'registry_unavailable', 'run_id': env_run_id, 'commit_sha': env_commit})
+        print('Fail-closed active: Registry invalid.')
+        return
+
+    for f_name in os.listdir(pending_dir):
+        if not f_name.endswith('.py'): continue
+        path = os.path.join(pending_dir, f_name)
+        with open(path, 'r') as f:
+            content = f.read()
+            script_hash = hashlib.sha256(content.encode()).hexdigest()
         
         if '# REQUIRES_CONSENT' in content[:200]:
-            meta['status'] = 'blocked: approval_required'
-            with open(f'patches/results/{filename}.result.json', 'w') as f: json.dump(meta, f)
-            stats['blocked'] += 1
+            stats['blocked']['approval_required'] = stats['blocked'].get('approval_required', 0) + 1
+            log_audit({'script_hash': script_hash, 'nume_fisier': f_name, 'decizie': 'blocked_approval_required', 'run_id': env_run_id, 'commit_sha': env_commit})
             continue
-            
-        res = subprocess.run(['python3', path], capture_output=True, text=True, timeout=60)
-        meta.update({'status': 'executed: success' if res.returncode == 0 else 'executed: failed', 'stdout': res.stdout, 'stderr': res.stderr, 'returncode': res.returncode})
         
-        with open(f'patches/results/{filename}.result.json', 'w') as f: json.dump(meta, f)
-        dest = 'patches/executed' if res.returncode == 0 else 'patches/failed'
-        shutil.move(path, os.path.join(dest, filename))
-        stats['executed' if res.returncode == 0 else 'failed'] += 1
+        match = next((a for a in approvals if a.get('hash') == script_hash), None)
+        if not match:
+            stats['blocked']['not_in_registry'] = stats['blocked'].get('not_in_registry', 0) + 1
+            log_audit({'script_hash': script_hash, 'nume_fisier': f_name, 'decizie': 'blocked_not_in_approved_registry', 'run_id': env_run_id, 'commit_sha': env_commit})
+            continue
+        
+        if match.get('status') != 'activ':
+            stats['blocked']['revoked'] = stats['blocked'].get('revoked', 0) + 1
+            log_audit({'script_hash': script_hash, 'nume_fisier': f_name, 'decizie': 'blocked_revoked', 'run_id': env_run_id, 'commit_sha': env_commit})
+            continue
 
-    print(f"Final Report: Executed: {stats['executed']}, Blocked: {stats['blocked']}, Failed: {stats['failed']}")
+        res = subprocess.run(['python3', path], capture_output=True, text=True, timeout=60)
+        out = {'returncode': res.returncode, 'stdout': res.stdout, 'stderr': res.stderr, 'script_hash': script_hash, 'run_id': env_run_id, 'commit_sha': env_commit, 'executor_version': EXECUTOR_VERSION, 'decision_id': match.get('id'), 'approved_by': match.get('approved_by')}
+        
+        dest = 'patches/executed/' if res.returncode == 0 else 'patches/failed/'
+        with open(f'patches/results/{f_name}.result.json', 'w') as f: json.dump(out, f)
+        shutil.move(path, os.path.join(dest, f_name))
+        stats['executed'] += 1
+        log_audit({'script_hash': script_hash, 'nume_fisier': f_name, 'decizie': 'executed_success' if res.returncode == 0 else 'executed_failed', 'run_id': env_run_id, 'commit_sha': env_commit})
+
+    print(f'Final: {stats}')
 
 if __name__ == '__main__': run()
