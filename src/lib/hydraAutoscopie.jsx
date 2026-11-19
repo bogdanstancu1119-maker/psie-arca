@@ -1,0 +1,1 @@
+const hydraAutoscopie = (state) => { const actiuniAll = state.actiuniAll || []; try { return actiuniAll.map(a => ({...a, sdi: a.sdi || 0})); } catch (e) { console.error('Eroare procesare actiuniAll', e); return []; } };
