@@ -1,0 +1,1 @@
+const pulseAwakening = (registry) => { registry.filter(o => o.decuplat && o.critic).forEach(o => { console.log(`Invocare de urgență pentru: ${o.nume}`); o.initialize(); o.setStare('ACTIV'); }); };
