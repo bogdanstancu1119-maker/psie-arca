@@ -1,1 +1,1 @@
-if (response.status === 451) { console.warn('Bursa acces restricționat. Activare Fallback local.'); return this.loadLastKnownState(); } else if (organ.isDecoupled()) { organ.initialize(); organ.setstatus('active'); }
+export const safeSlice = (data, start, end) => { if (!data || typeof data.slice !== 'function') return []; return data.slice(start, end); }; // Înlocuirea apelurilor directe .slice() cu safeSlice() în nucleul de sincronizare.
