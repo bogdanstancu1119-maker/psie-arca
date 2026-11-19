@@ -1,40 +1,29 @@
-name: Hydra PSIE Executor
-
-on:
-  push:
-    branches: [main]
-  schedule:
-    - cron: '*/15 * * * *'
-
-permissions:
-  contents: write
-
-concurrency:
-  group: hydra-executor-main
-  cancel-in-progress: false
-
+name: Hydra Executor
+on: [push]
 jobs:
-  build:
+  run-hydra:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-      - name: Set up Python 3.11
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-      - name: Run Hydra Heartbeat
-        run: python scripts/hydra_heartbeat.py
-      - name: Run Hydra Patch Runner
-        run: python scripts/hydra_patch_runner.py
-      - name: Run Hydra Status Report
-        run: python scripts/hydra_status_report.py
-      - name: Commit and Push changes
+          fetch-depth: 0
+      - name: Configure Git
         run: |
-          git config user.name 'Hydra PSIE'
-          git config user.email 'hydra@psie.local'
-          git pull --rebase origin main || true
-          git add -A
-          git diff --staged --quiet || git commit -m 'Auto-update: Hydra Heartbeat + Patch Runner + Status Report'
-          git push
+          git config --global user.name 'Hydra-PSIE-Agent'
+          git config --global user.email 'hydra@psie.local'
+      - name: Execute Hydra Logic
+        run: python3 scripts/hydra_patch_runner.py
+      - name: Commit and Push with Retry
+        run: |
+          max_retries=5
+          count=0
+          until git push origin main || [ $count -eq $max_retries ]; do
+            count=$((count + 1))
+            echo 'Push failed. Retrying... (Attempt $count of $max_retries)'
+            git pull --rebase origin main
+            sleep 2
+          done
+          if [ $count -eq $max_retries ]; then
+            echo 'Failed to push after $max_retries attempts.'
+            exit 1
+          fi
