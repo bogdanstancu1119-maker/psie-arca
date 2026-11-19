@@ -1,0 +1,41 @@
+{
+  "exportat_la": "2026-11-19T08:58:30.198Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6afdf9c5f5388cd41dec1a76",
+      "titlu": "[MANIFEST] Infrastructură scrisă în bogdanstancu1119-maker/psie-arca — 2026-11-18T19:17:25.892Z",
+      "rezumat": "Manifest de infrastructură scris în bogdanstancu1119-maker/psie-arca. Identitate verificată. OK.",
+      "tip_context": "manifest_infrastructura",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-11-18T19:17:24.039Z\",\n  \"target\": \"bogdanstancu1119-maker/psie-arca\",\n  \"branch\": \"main\",\n  \"identitate_verificata\": true,\n  \"manifest_scris\": {\n    \"path\": \"HYDRA_INFRA_MANIFEST.md\",\n    \"sha\": \"ec27c16d532f549176fd46f5dec7fcb223fd575c\",\n    \"url\": \"https://github.com/bogdanstancu1119-maker/psie-arca/commit/ec27c16d532f549176fd46f5dec7fcb223fd575c\"\n  },\n  \"readme_actualizat\": {\n    \"skip\": \"README existent — neschimbat pentru a păstra conținutul proprietarului\"\n  },\n  \"erori\": []\n}"
+    },
+    {
+      "id": "6afdec1a2fec5804099e0797",
+      "titlu": "[MANIFEST] Infrastructură scrisă în bogdanstancu1119-maker/psie-arca — 2026-11-18T18:19:06.770Z",
+      "rezumat": "Manifest de infrastructură scris în bogdanstancu1119-maker/psie-arca. Identitate verificată. Eroare la scriere.",
+      "tip_context": "manifest_infrastructura",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-11-18T18:19:05.211Z\",\n  \"target\": \"bogdanstancu1119-maker/psie-arca\",\n  \"branch\": \"main\",\n  \"identitate_verificata\": true,\n  \"manifest_scris\": null,\n  \"readme_actualizat\": {\n    \"skip\": \"README existent — neschimbat pentru a păstra conținutul proprietarului\"\n  },\n  \"erori\": [\n    \"manifest_write: 409 {\\\"message\\\":\\\"is at d5d4ca8c727edbd357ff09afe321aca191e29c40 but expected a3c9241f9b22b1c51b121f3be21898b54c9e726e\\\",\\\"documentation_url\\\":\\\"https://docs.github.com/rest/repos/contents#create-or-update-file\"\n  ]\n}"
+    },
+    {
+      "id": "6afdeb780bb0d9ec848e6942",
+      "titlu": "[MANIFEST] Infrastructură scrisă în bogdanstancu1119-maker/psie-arca — 2026-11-18T18:16:24.649Z",
+      "rezumat": "Manifest de infrastructură scris în bogdanstancu1119-maker/psie-arca. Identitate verificată. Eroare la scriere.",
+      "tip_context": "manifest_infrastructura",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-11-18T18:16:22.419Z\",\n  \"target\": \"bogdanstancu1119-maker/psie-arca\",\n  \"branch\": \"main\",\n  \"identitate_verificata\": true,\n  \"manifest_scris\": null,\n  \"readme_actualizat\": {\n    \"skip\": \"README existent — neschimbat pentru a păstra conținutul proprietarului\"\n  },\n  \"erori\": [\n    \"manifest_write: 409 {\\\"message\\\":\\\"is at 19b87e52e78500601cfe93f2583f4478c6652459 but expected 7899466196fbad853993279fe59699358c2ed06e\\\",\\\"documentation_url\\\":\\\"https://docs.github.com/rest/repos/contents#create-or-update-file\"\n  ]\n}"
+    },
+    {
+      "id": "6afdeb75769907d181e7514d",
+      "titlu": "[MANIFEST] Infrastructură scrisă în bogdanstancu1119-maker/psie-arca — 2026-11-18T18:16:21.559Z",
+      "rezumat": "Manifest de infrastructură scris în bogdanstancu1119-maker/psie-arca. Identitate verificată. OK.",
+      "tip_context": "manifest_infrastructura",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-11-18T18:16:19.231Z\",\n  \"target\": \"bogdanstancu1119-maker/psie-arca\",\n  \"branch\": \"main\",\n  \"identitate_verificata\": true,\n  \"manifest_scris\": {\n    \"path\": \"HYDRA_INFRA_MANIFEST.md\",\n    \"sha\": \"8238ec807dcf5dfa012958c24b39f4ce29acb7ce\",\n    \"url\": \"https://github.com/bogdanstancu1119-maker/psie-arca/commit/8238ec807dcf5dfa012958c24b39f4ce29acb7ce\"\n  },\n  \"readme_actualizat\": {\n    \"skip\": \"README existent — neschimbat pentru a păstra conținutul proprietarului\"\n  },\n  \"erori\": []\n}"
+    },
+    {
+      "id": "6afcf19de30358517adfef44",
+      "titlu": "[MANIFEST] Infrastructură scrisă în bogdanstancu1119-maker/psie-arca — 2026-11-18T00:30:21.335Z",
+      "rezumat": "Manifest de infrastructură scris în bogdanstancu1119-maker/psie-arca. Identitate verificată. OK.",
+      "tip_context": "manifest_infrastructura",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-11-18T00:30:19.843Z\",\n  \"target\": \"bogdanstancu1119-maker/psie-arca\",\n  \"branch\": \"main\",\n  \"identitate_verificata\": true,\n  \"manifest_scris\": {\n    \"path\": \"HYDRA_INFRA_MANIFEST.md\",\n    \"sha\": \"e0d39ed0ca3148892d32232616218e259f0bf062\",\n    \"url\": \"https://github.com/bogdanstancu1119-maker/psie-arca/commit/e0d39ed0ca3148892d32232616218e259f0bf062\"\n  },\n  \"readme_actualizat\": {\n    \"skip\": \"README existent — neschimbat pentru a păstra conținutul proprietarului\"\n  },\n  \"erori\": []\n}"
+    }
+  ]
+}
