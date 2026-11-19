@@ -1,1 +1,1 @@
-if (organ.status === 'never-seen' || !organ.active) { console.log(`[REPARARE] Trezire forțată organ: ${organ.name}`); await triggerWakeupSequence(organ.name); organ.status = 'active'; }
+if (state.snapshot.coherence < 0.8) { const persistentSnapshot = { ...state.snapshot, timestamp: new Date().toISOString(), state_coerenta: 'sync_pending' }; await db.collection('hydra_state').updateOne({ key: 'snapshot_suprapunere_organe' }, { $set: { valoare: JSON.stringify(persistentSnapshot) } }, { upsert: true }); }
