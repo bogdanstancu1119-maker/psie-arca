@@ -1,29 +1,52 @@
-name: Hydra Executor
-on: [push]
+name: Hydra PSIE Executor
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+concurrency:
+  group: hydra-executor-main
+  cancel-in-progress: false
 jobs:
   run-hydra:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
       - name: Configure Git
         run: |
           git config --global user.name 'Hydra-PSIE-Agent'
           git config --global user.email 'hydra@psie.local'
-      - name: Execute Hydra Logic
-        run: python3 scripts/hydra_patch_runner.py
+      - name: Run Hydra Heartbeat
+        run: python3 scripts/hydra_heartbeat.py || true
+      - name: Run Hydra Patch Runner
+        run: python3 scripts/hydra_patch_runner.py || true
+      - name: Run Hydra Status Report
+        run: python3 scripts/hydra_status_report.py || true
       - name: Commit and Push with Retry
         run: |
+          git add -A
+          if git diff --cached --quiet; then
+            echo 'No changes to commit.'
+            exit 0
+          fi
+          git commit -m 'Auto-update: Hydra Heartbeat + Patch Runner + Status Report'
           max_retries=5
           count=0
-          until git push origin main || [ $count -eq $max_retries ]; do
-            count=$((count + 1))
-            echo 'Push failed. Retrying... (Attempt $count of $max_retries)'
+          until git push origin main; do
+            count=$((count+1))
+            if [ "$count" -ge "$max_retries" ]; then
+              echo 'Failed to push after multiple attempts.'
+              exit 1
+            fi
+            echo 'Push failed, retrying...'
             git pull --rebase origin main
             sleep 2
           done
-          if [ $count -eq $max_retries ]; then
-            echo 'Failed to push after $max_retries attempts.'
-            exit 1
-          fi
