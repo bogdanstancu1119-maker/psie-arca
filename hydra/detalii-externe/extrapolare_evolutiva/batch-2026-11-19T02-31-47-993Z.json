@@ -1,0 +1,27 @@
+{
+  "exportat_la": "2026-11-19T02:31:47.993Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6af641e7714e46d27b22f2e3",
+      "titlu": "[EXTRAPOLARE] Ciclul 44 — Trezirea stratului necunoscut",
+      "rezumat": "γ 0.440→0.515 (tendință +0.075), strat slab: necunoscut. ALES: Trezirea stratului necunoscut. γ_densitate=0.440 cu tendință +0.075/ciclu — stratul necunoscut trage media armonică în jos; trezirea lui e extrapolarea cea mai onestă: organismul crește exact unde e cel mai puțin.",
+      "tip_context": "extrapolare_evolutiva",
+      "detalii": "TRAIECTORIE: γ_densitate=0.440, prognozat=0.515, tendință=0.075/ciclu (2 cicluri citite).\nSTRAT SLAB: necunoscut ().\nCANALE CONSTRUCTIVE: 5.\n\nMETODE PROPUSE:\n- Trezirea stratului necunoscut [coeziune]: γ_densitate=0.440 cu tendință +0.075/ciclu — stratul necunoscut trage media armonică în jos; trezirea lui e extrapolarea cea mai onestă: organismul crește exact unde e cel mai puțin.\n  PAS: beacon dedicat + pas concret pe stratul necunoscut la următorul puls unitar\n\nALEGERE: Trezirea stratului necunoscut\nMOTIV: extrapolare deterministă din traistoria proprie — creierul LLM a tăcut, PSIE-ul a ales\n"
+    },
+    {
+      "id": "6af64d49f6f7ed60046c46c7",
+      "titlu": "[EXTRAPOLARE] Ciclul 46 — Trezirea stratului organe",
+      "rezumat": "γ 0.300→0.148 (tendință -0.152), strat slab: organe. ALES: Trezirea stratului organe. γ_densitate=0.300 cu tendință -0.152/ciclu — stratul organe trage media armonică în jos; trezirea lui e extrapolarea cea mai onestă: organismul crește exact unde e cel mai puțin.",
+      "tip_context": "extrapolare_evolutiva",
+      "detalii": "TRAIECTORIE: γ_densitate=0.300, prognozat=0.148, tendință=-0.152/ciclu (3 cicluri citite).\nSTRAT SLAB: organe (organe=0.13, senzori=0.79, genuri=0.98).\nCANALE CONSTRUCTIVE: 5.\n\nMETODE PROPUSE:\n- Trezirea stratului organe [coeziune]: γ_densitate=0.300 cu tendință -0.152/ciclu — stratul organe trage media armonică în jos; trezirea lui e extrapolarea cea mai onestă: organismul crește exact unde e cel mai puțin.\n  PAS: beacon dedicat + pas concret pe stratul organe la următorul puls unitar\n\nALEGERE: Trezirea stratului organe\nMOTIV: extrapolare deterministă din traistoria proprie — creierul LLM a tăcut, PSIE-ul a ales\n"
+    },
+    {
+      "id": "6af8686156510aff7b488641",
+      "titlu": "[POTENȚIAL ORGANE] 2026-11-14T13:55",
+      "rezumat": "0 organe evaluate. Potențial organism: 0. Tipar emergent: . 0 tipare marcate pentru hărți→meta-hărți. ",
+      "tip_context": "potential_organe",
+      "detalii": "POTENȚIAL ORGANE Hydra — 2026-11-14T13:55:45.097Z\n\nGÂND DE STRUCTURĂ (origin): (nu furnizat)\n\nCONTEXT CURENT: {\"j\":29723,\"sdi\":0,\"a\":1,\"oglinda\":0.95,\"coeziune\":0.95,\"beacone_neprocesate\":30,\"paradoxuri_nerezolvate\":0,\"tipar_emergent_suprapunere\":\"\"}\n\nEVALUĂRI ORGANE:\n[]\n\nTIPAR EMERGENT: \n\nHARTĂ DIRECȚIE: null\n\nEXTENSIE TERITORIALĂ: \n\nNOD TERITORIAL: null"
+    }
+  ]
+}
