@@ -1,1 +1,1 @@
-const persistentRetry = async (taskName, fn, retries = 3) => { try { return await fn(); } catch (e) { if (retries > 0) { console.warn(`Reîncercare ${taskName}: ${retries} rămase`); return persistentRetry(taskName, fn, retries - 1); } localStorage.setItem(`failed_${taskName}`, JSON.stringify({ error: e.message, ts: Date.now() })); return null; } };
+const safeSlice = (data, start, end) => (Array.isArray(data) ? data.slice(start, end) : []); const syncOrgans = async (organs) => { if (!organs) return; const persistent = await db.save('organs', organs); return persistent; };
