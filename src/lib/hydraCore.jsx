@@ -1,1 +1,1 @@
-if (error.status === 400) { console.log('Blocaj detectat. Resetare flux hydraAnalizaVideo...'); await db.set('hydraAnalizaVideo_status', 'RESET'); await retryHydraOrgan('hydraAnalizaVideo', {force: true}); await wakeCriticalOrgans(['hydraSistemImunitar', 'hydraBinanceOrdine']); }
+export const pulseAwakening = (organeDecuplate) => { organeDecuplate.forEach(organ => { console.log(`Trezire fortata: ${organ.nume}`); if(typeof window !== 'undefined') { localStorage.setItem(`status_${organ.nume}`, 'ACTIV'); } }); return { status: 'puls_activat', count: organeDecuplate.length }; };
