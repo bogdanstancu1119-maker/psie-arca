@@ -1,1 +1,1 @@
-export const safeSlice = (data, start, end) => { if (!data || typeof data.slice !== 'function') return []; return data.slice(start, end); }; // Integrare in sync.js: const result = safeSlice(targetData, 0, 10);
+if (typeof data !== 'undefined' && data !== null && typeof data.slice === 'function') { return data.slice(); } else { console.warn('Sync data malformed, skipping chunk'); return []; }
