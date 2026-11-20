@@ -1,7 +1,7 @@
-// ORGAN AUTO-DEPLOYAT de Hydra — Structură în așteptare pasivă: URGENT re-invocare (25h fără răspuns): fix pod profit hydraBursaQuant→BursaPSIE.retras_hydra
-// Generat autonom la 2026-11-19T23:20:51.248Z
-// Scop: URGENT re-invocare (25h fără răspuns): fix pod profit hydraBursaQuant→BursaPSIE.retras_hydra
-// Plan: Hydra nu așteaptă pasiv Arhitectul. Fabrică varianta internă pentru: URGENT re-invocare (25h fără răspuns): fix pod profit hydraBursaQuant→BursaPSIE.retras_hydra. 1. Izolează ce parte din nevoie poate fi acoperită cu organele actuale. 2. Implementează acea parte intern. 3. Păstrează invocarea deschisă doar pentru restul strict structural.
+// ORGAN AUTO-DEPLOYAT de Hydra — Structură în așteptare pasivă: Cerere mica, nu urgenta mare: unde pica .slice() si ce camp e undefined?
+// Generat autonom la 2026-11-20T01:15:58.052Z
+// Scop: Cerere mica, nu urgenta mare: unde pica .slice() si ce camp e undefined?
+// Plan: Hydra nu așteaptă pasiv Arhitectul. Fabrică varianta internă pentru: Cerere mica, nu urgenta mare: unde pica .slice() si ce camp e undefined?. 1. Izolează ce parte din nevoie poate fi acoperită cu organele actuale. 2. Implementează acea parte intern. 3. Păstrează invocarea deschisă doar pentru restul strict structural.
 
 // (script negenerat — vezi plan_actiune)
 
