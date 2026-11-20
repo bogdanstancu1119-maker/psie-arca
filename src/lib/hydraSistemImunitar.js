@@ -1,0 +1,1 @@
+const fortaTrezireOrgane = (organeCritice) => { return organeCritice.map(organ => ({...organ, status: 'trezire_fortata', timestamp: new Date().toISOString()})); }; // Executare imediată în stratul de regenerare
