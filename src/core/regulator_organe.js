@@ -1,0 +1,1 @@
+const verificaSiCreaza = (numeOrgan, configurare) => { const exista = registry.find(o => o.nume === numeOrgan); if (exista) { return { status: 'existent', organ: exista }; } const nou = new Organ(numeOrgan, configurare); registry.push(nou); return { status: 'creat', organ: nou }; };
