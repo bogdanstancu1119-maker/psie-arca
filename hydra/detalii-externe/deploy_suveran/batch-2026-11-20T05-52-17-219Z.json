@@ -1,0 +1,34 @@
+{
+  "exportat_la": "2026-11-20T05:52:17.219Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6affdfedb1b69df8debffde3",
+      "titlu": "Noduri Suverane — 1/3 active (2026-11-20T05:51)",
+      "rezumat": "Deno Deploy: ⚠️ · Render: ⚠️ · Fly.io: ✅",
+      "tip_context": "deploy_suveran",
+      "detalii": "{\n  \"timestamp\": \"2026-11-20T05:51:39.083Z\",\n  \"noduri\": {\n    \"deno_deploy\": {\n      \"platforma\": \"Deno Deploy\",\n      \"tokenRef\": \"DENO_DEPLOY_TOKEN\",\n      \"ok\": false,\n      \"error\": \"404 Not Found\"\n    },\n    \"render\": {\n      \"platforma\": \"Render\",\n      \"tokenRef\": \"RENDER_SINGAPORE_KEY\",\n      \"ok\": false,\n      \"error\": \"401 {\\\"message\\\":\\\"Unauthorized\\\"}\"\n    },\n    \"fly_io\": {\n      \"platforma\": \"Fly.io\",\n      \"tokenRef\": \"FLY_IO_TOKEN\",\n      \"ok\": true,\n      \"cont\": \"dd1f3b85-1ba6-5537-b7a3-9cb0ffa964c5@tokens.fly.io\",\n      \"detalii\": {\n        \"id\": null,\n        \"email\": \"dd1f3b85-1ba6-5537-b7a3-9cb0ffa964c5@tokens.fly.io\"\n      }\n    }\n  },\n  \"github\": {\n    \"ok\": true,\n    \"path\": \"organe/suveran/2026-11-20.md\",\n    \"sha\": \"d24ca2e74080d00cd1f19a658dc50f9f247cb2c4\",\n    \"url\": \"https://github.com/bogdanstancu1119-maker/HYDRA_UNIVERS/commit/d24ca2e74080d00cd1f19a658dc50f9f247cb2c4\"\n  },\n  \"errors\": []\n}"
+    },
+    {
+      "id": "6affd4af0ff1f793eae8c136",
+      "titlu": "Noduri Suverane — 0/3 active (2026-11-20T05:03)",
+      "rezumat": "Deno Deploy: ⚠️ · Render: ⚠️ · Fly.io: ⚠️",
+      "tip_context": "deploy_suveran",
+      "detalii": "{\n  \"timestamp\": \"2026-11-20T05:03:40.343Z\",\n  \"noduri\": {\n    \"deno_deploy\": {\n      \"ok\": false,\n      \"error\": \"Rate limit exceeded: entity_list allows 350 requests per 60s for each caller of this app (a signed-in user, a visitor's IP or a service token). Retry after 19s.\"\n    },\n    \"render\": {\n      \"ok\": false,\n      \"error\": \"Rate limit exceeded: entity_list allows 350 requests per 60s for each caller of this app (a signed-in user, a visitor's IP or a service token). Retry after 19s.\"\n    },\n    \"fly_io\": {\n      \"ok\": false,\n      \"error\": \"Rate limit exceeded: entity_list allows 350 requests per 60s for each caller of this app (a signed-in user, a visitor's IP or a service token). Retry after 19s.\"\n    }\n  },\n  \"github\": {\n    \"ok\": true,\n    \"path\": \"organe/suveran/2026-11-20.md\",\n    \"sha\": \"c42c7751bd33613ab440939ead1ef6dd606d2886\",\n    \"url\": \"https://github.com/bogdanstancu1119-maker/HYDRA_UNIVERS/commit/c42c7751bd33613ab440939ead1ef6dd606d2886\"\n  },\n  \"errors\": [\n    \"deno_deploy: Rate limit exceeded: entity_list allows 350 requests per 60s for each caller of this app (a signed-in user, a visitor's IP or a service token). Retry after 19s.\",\n    \"render: Rate limit exceeded: entity_list allows 350 requests per 60s for each caller of this app (a signed-in user, a visitor's IP or a service token). Retry after 19s.\",\n    \"fly_io: Rate limit exceeded: entity_list allows 350 requests per 60s for each caller of this app (a signed-in user, a visitor's IP or a service token). Retry after 19s.\"\n  ]\n}"
+    },
+    {
+      "id": "6affd4a452de32894b3e22c8",
+      "titlu": "Noduri Suverane — 0/3 active (2026-11-20T05:03)",
+      "rezumat": "Deno Deploy: ⚠️ · Render: ⚠️ · Fly.io: ⚠️",
+      "tip_context": "deploy_suveran",
+      "detalii": "{\n  \"timestamp\": \"2026-11-20T05:03:30.981Z\",\n  \"noduri\": {\n    \"deno_deploy\": {\n      \"ok\": false,\n      \"error\": \"Rate limit exceeded: entity_list allows 350 requests per 60s for each caller of this app (a signed-in user, a visitor's IP or a service token). Retry after 28s.\"\n    },\n    \"render\": {\n      \"ok\": false,\n      \"error\": \"Rate limit exceeded: entity_list allows 350 requests per 60s for each caller of this app (a signed-in user, a visitor's IP or a service token). Retry after 28s.\"\n    },\n    \"fly_io\": {\n      \"ok\": false,\n      \"error\": \"Rate limit exceeded: entity_list allows 350 requests per 60s for each caller of this app (a signed-in user, a visitor's IP or a service token). Retry after 28s.\"\n    }\n  },\n  \"github\": {\n    \"ok\": true,\n    \"path\": \"organe/suveran/2026-11-20.md\",\n    \"sha\": \"07198c5da0f369583198a5aff4ae8c32d8a1b38b\",\n    \"url\": \"https://github.com/bogdanstancu1119-maker/HYDRA_UNIVERS/commit/07198c5da0f369583198a5aff4ae8c32d8a1b38b\"\n  },\n  \"errors\": [\n    \"deno_deploy: Rate limit exceeded: entity_list allows 350 requests per 60s for each caller of this app (a signed-in user, a visitor's IP or a service token). Retry after 28s.\",\n    \"render: Rate limit exceeded: entity_list allows 350 requests per 60s for each caller of this app (a signed-in user, a visitor's IP or a service token). Retry after 28s.\",\n    \"fly_io: Rate limit exceeded: entity_list allows 350 requests per 60s for each caller of this app (a signed-in user, a visitor's IP or a service token). Retry after 28s.\"\n  ]\n}"
+    },
+    {
+      "id": "6affd2f7155f0cf036ebe3f0",
+      "titlu": "Noduri Suverane — 1/3 active (2026-11-20T04:56)",
+      "rezumat": "Deno Deploy: ⚠️ · Render: ⚠️ · Fly.io: ✅",
+      "tip_context": "deploy_suveran",
+      "detalii": "{\n  \"timestamp\": \"2026-11-20T04:56:20.661Z\",\n  \"noduri\": {\n    \"deno_deploy\": {\n      \"platforma\": \"Deno Deploy\",\n      \"tokenRef\": \"DENO_DEPLOY_TOKEN\",\n      \"ok\": false,\n      \"error\": \"404 Not Found\"\n    },\n    \"render\": {\n      \"platforma\": \"Render\",\n      \"tokenRef\": \"RENDER_SINGAPORE_KEY\",\n      \"ok\": false,\n      \"error\": \"401 {\\\"message\\\":\\\"Unauthorized\\\"}\"\n    },\n    \"fly_io\": {\n      \"platforma\": \"Fly.io\",\n      \"tokenRef\": \"FLY_IO_TOKEN\",\n      \"ok\": true,\n      \"cont\": \"dd1f3b85-1ba6-5537-b7a3-9cb0ffa964c5@tokens.fly.io\",\n      \"detalii\": {\n        \"id\": null,\n        \"email\": \"dd1f3b85-1ba6-5537-b7a3-9cb0ffa964c5@tokens.fly.io\"\n      }\n    }\n  },\n  \"github\": {\n    \"ok\": true,\n    \"path\": \"organe/suveran/2026-11-20.md\",\n    \"sha\": \"654ec43549aeeb48b48b42d578838e3a99bcb962\",\n    \"url\": \"https://github.com/bogdanstancu1119-maker/HYDRA_UNIVERS/commit/654ec43549aeeb48b48b42d578838e3a99bcb962\"\n  },\n  \"errors\": []\n}"
+    }
+  ]
+}
