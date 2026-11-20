@@ -1,1 +1,1 @@
-if (dataArray && Array.isArray(dataArray)) { const processedData = dataArray.slice(0, 10); console.log('Date procesate cu succes'); } else { console.warn('Datele primite sunt undefined sau nu sunt de tip Array, se sare peste procesare'); }
+export const safeSlice = (data, start, end) => { if (!data || typeof data.slice !== 'function') return []; return data.slice(start, end); }; // Integrare in sync.js: const result = safeSlice(targetData, 0, 10);
