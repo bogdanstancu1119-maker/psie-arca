@@ -1,1 +1,1 @@
-if (JSON.stringify(newState) !== cache.get(key)) { await db.set(key, newState); cache.set(key, JSON.stringify(newState)); }
+const syncWrapper = (data) => { if (!data || !Array.isArray(data)) return []; try { return data.slice(0, 100); } catch (e) { console.error('Data corruption detected, bypassing...'); return []; } };
