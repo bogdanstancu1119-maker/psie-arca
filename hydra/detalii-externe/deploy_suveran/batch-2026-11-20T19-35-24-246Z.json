@@ -1,0 +1,34 @@
+{
+  "exportat_la": "2026-11-20T19:35:24.246Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6b0095d2beacce699006179b",
+      "titlu": "Noduri Suverane — 1/3 active (2026-11-20T18:47)",
+      "rezumat": "Deno Deploy: ⚠️ · Render: ⚠️ · Fly.io: ✅",
+      "tip_context": "deploy_suveran",
+      "detalii": "{\n  \"timestamp\": \"2026-11-20T18:47:43.547Z\",\n  \"noduri\": {\n    \"deno_deploy\": {\n      \"platforma\": \"Deno Deploy\",\n      \"tokenRef\": \"DENO_DEPLOY_TOKEN\",\n      \"ok\": false,\n      \"error\": \"404 Not Found\"\n    },\n    \"render\": {\n      \"platforma\": \"Render\",\n      \"tokenRef\": \"RENDER_SINGAPORE_KEY\",\n      \"ok\": false,\n      \"error\": \"401 {\\\"message\\\":\\\"Unauthorized\\\"}\"\n    },\n    \"fly_io\": {\n      \"platforma\": \"Fly.io\",\n      \"tokenRef\": \"FLY_IO_TOKEN\",\n      \"ok\": true,\n      \"cont\": \"dd1f3b85-1ba6-5537-b7a3-9cb0ffa964c5@tokens.fly.io\",\n      \"detalii\": {\n        \"id\": null,\n        \"email\": \"dd1f3b85-1ba6-5537-b7a3-9cb0ffa964c5@tokens.fly.io\"\n      }\n    }\n  },\n  \"github\": {\n    \"ok\": true,\n    \"path\": \"organe/suveran/2026-11-20.md\",\n    \"sha\": \"491cbc2228c6b2e70ca71a489c3a598f34278a19\",\n    \"url\": \"https://github.com/bogdanstancu1119-maker/HYDRA_UNIVERS/commit/491cbc2228c6b2e70ca71a489c3a598f34278a19\"\n  },\n  \"errors\": []\n}"
+    },
+    {
+      "id": "6b0073aa44ec1012c87b29a2",
+      "titlu": "Noduri Suverane — 1/3 active (2026-11-20T16:21)",
+      "rezumat": "Deno Deploy: ⚠️ · Render: ⚠️ · Fly.io: ✅",
+      "tip_context": "deploy_suveran",
+      "detalii": "{\n  \"timestamp\": \"2026-11-20T16:21:59.393Z\",\n  \"noduri\": {\n    \"deno_deploy\": {\n      \"platforma\": \"Deno Deploy\",\n      \"tokenRef\": \"DENO_DEPLOY_TOKEN\",\n      \"ok\": false,\n      \"error\": \"404 Not Found\"\n    },\n    \"render\": {\n      \"platforma\": \"Render\",\n      \"tokenRef\": \"RENDER_SINGAPORE_KEY\",\n      \"ok\": false,\n      \"error\": \"401 {\\\"message\\\":\\\"Unauthorized\\\"}\"\n    },\n    \"fly_io\": {\n      \"platforma\": \"Fly.io\",\n      \"tokenRef\": \"FLY_IO_TOKEN\",\n      \"ok\": true,\n      \"cont\": \"dd1f3b85-1ba6-5537-b7a3-9cb0ffa964c5@tokens.fly.io\",\n      \"detalii\": {\n        \"id\": null,\n        \"email\": \"dd1f3b85-1ba6-5537-b7a3-9cb0ffa964c5@tokens.fly.io\"\n      }\n    }\n  },\n  \"github\": {\n    \"ok\": true,\n    \"path\": \"organe/suveran/2026-11-20.md\",\n    \"sha\": \"0db5d78ce529c2fcc931cb43d58e43e12a2f6ec3\",\n    \"url\": \"https://github.com/bogdanstancu1119-maker/HYDRA_UNIVERS/commit/0db5d78ce529c2fcc931cb43d58e43e12a2f6ec3\"\n  },\n  \"errors\": []\n}"
+    },
+    {
+      "id": "6b0068fe69e8c3ea3808729e",
+      "titlu": "Noduri Suverane — 1/3 active (2026-11-20T15:36)",
+      "rezumat": "Deno Deploy: ⚠️ · Render: ⚠️ · Fly.io: ✅",
+      "tip_context": "deploy_suveran",
+      "detalii": "{\n  \"timestamp\": \"2026-11-20T15:36:27.574Z\",\n  \"noduri\": {\n    \"deno_deploy\": {\n      \"platforma\": \"Deno Deploy\",\n      \"tokenRef\": \"DENO_DEPLOY_TOKEN\",\n      \"ok\": false,\n      \"error\": \"404 Not Found\"\n    },\n    \"render\": {\n      \"platforma\": \"Render\",\n      \"tokenRef\": \"RENDER_SINGAPORE_KEY\",\n      \"ok\": false,\n      \"error\": \"401 {\\\"message\\\":\\\"Unauthorized\\\"}\"\n    },\n    \"fly_io\": {\n      \"platforma\": \"Fly.io\",\n      \"tokenRef\": \"FLY_IO_TOKEN\",\n      \"ok\": true,\n      \"cont\": \"dd1f3b85-1ba6-5537-b7a3-9cb0ffa964c5@tokens.fly.io\",\n      \"detalii\": {\n        \"id\": null,\n        \"email\": \"dd1f3b85-1ba6-5537-b7a3-9cb0ffa964c5@tokens.fly.io\"\n      }\n    }\n  },\n  \"github\": {\n    \"ok\": true,\n    \"path\": \"organe/suveran/2026-11-20.md\",\n    \"sha\": \"b937c8fcfbc99a089fc4f94af7fadf3a7a720a14\",\n    \"url\": \"https://github.com/bogdanstancu1119-maker/HYDRA_UNIVERS/commit/b937c8fcfbc99a089fc4f94af7fadf3a7a720a14\"\n  },\n  \"errors\": []\n}"
+    },
+    {
+      "id": "6b005d7d9d733418e123d845",
+      "titlu": "Noduri Suverane — 1/3 active (2026-11-20T14:47)",
+      "rezumat": "Deno Deploy: ⚠️ · Render: ⚠️ · Fly.io: ✅",
+      "tip_context": "deploy_suveran",
+      "detalii": "{\n  \"timestamp\": \"2026-11-20T14:47:22.557Z\",\n  \"noduri\": {\n    \"deno_deploy\": {\n      \"platforma\": \"Deno Deploy\",\n      \"tokenRef\": \"DENO_DEPLOY_TOKEN\",\n      \"ok\": false,\n      \"error\": \"404 Not Found\"\n    },\n    \"render\": {\n      \"platforma\": \"Render\",\n      \"tokenRef\": \"RENDER_SINGAPORE_KEY\",\n      \"ok\": false,\n      \"error\": \"401 {\\\"message\\\":\\\"Unauthorized\\\"}\"\n    },\n    \"fly_io\": {\n      \"platforma\": \"Fly.io\",\n      \"tokenRef\": \"FLY_IO_TOKEN\",\n      \"ok\": true,\n      \"cont\": \"dd1f3b85-1ba6-5537-b7a3-9cb0ffa964c5@tokens.fly.io\",\n      \"detalii\": {\n        \"id\": null,\n        \"email\": \"dd1f3b85-1ba6-5537-b7a3-9cb0ffa964c5@tokens.fly.io\"\n      }\n    }\n  },\n  \"github\": {\n    \"ok\": true,\n    \"path\": \"organe/suveran/2026-11-20.md\",\n    \"sha\": \"54ef1fe754cc5f18356b461ad4475f2e6730d36c\",\n    \"url\": \"https://github.com/bogdanstancu1119-maker/HYDRA_UNIVERS/commit/54ef1fe754cc5f18356b461ad4475f2e6730d36c\"\n  },\n  \"errors\": []\n}"
+    }
+  ]
+}
