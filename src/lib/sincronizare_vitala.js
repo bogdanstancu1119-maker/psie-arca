@@ -1,0 +1,1 @@
+const sincronizareVitala = async () => { const stare = await Lege.all(); const critice = stare.filter(o => o.status === 'decuplat' && o.priority === 'CRITIC'); for (const organ of critice) { await Lege.update(organ.id, { status: 'activ', last_pulse: Date.now() }); console.log(`Organ ${organ.nume} trezit forțat.`); } return { sync: true, redate: critice.length }; };
