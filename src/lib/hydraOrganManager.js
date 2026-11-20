@@ -1,0 +1,1 @@
+export const upsertOrgan = async (organData) => { const existing = await db.organs.findOne({ name: organData.name }); if (existing) { return await db.organs.update({ _id: existing._id }, { $set: organData }); } return await db.organs.insert(organData); };
