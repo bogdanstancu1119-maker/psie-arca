@@ -1,0 +1,1 @@
+const registerOrgan = (id, meta) => { const existing = registry.find(o => o.id === id); if (existing) return existing; const newOrgan = { ...meta, id, createdAt: new Date().toISOString() }; registry.push(newOrgan); return newOrgan; };
