@@ -1,7 +1,7 @@
-// ORGAN AUTO-DEPLOYAT de Hydra — Structură în așteptare pasivă: Cerere mica, nu urgenta mare: unde pica .slice() si ce camp e undefined?
-// Generat autonom la 2026-11-20T11:20:40.169Z
-// Scop: Cerere mica, nu urgenta mare: unde pica .slice() si ce camp e undefined?
-// Plan: Hydra nu așteaptă pasiv Arhitectul. Fabrică varianta internă pentru: Cerere mica, nu urgenta mare: unde pica .slice() si ce camp e undefined?. 1. Izolează ce parte din nevoie poate fi acoperită cu organele actuale. 2. Implementează acea parte intern. 3. Păstrează invocarea deschisă doar pentru restul strict structural.
+// ORGAN AUTO-DEPLOYAT de Hydra — Structură în așteptare pasivă: Arhitectura universala pentru TOTI agentii: creier bicefal (emisfera online=internet, emisfera offline=harta condensata+logica) + evolutie zilnica obligatorie, NU functii separate per-agent
+// Generat autonom la 2026-11-20T15:40:32.759Z
+// Scop: Arhitectura universala pentru TOTI agentii: creier bicefal (emisfera online=internet, emisfera offline=harta condensata+logica) + evolutie zilnica obligatorie, NU functii separate per-agent
+// Plan: Hydra nu așteaptă pasiv Arhitectul. Fabrică varianta internă pentru: Arhitectura universala pentru TOTI agentii: creier bicefal (emisfera online=internet, emisfera offline=harta condensata+logica) + evolutie zilnica obligatorie, NU functii separate per-agent. 1. Izolează ce parte din nevoie poate fi acoperită cu organele actuale. 2. Implementează acea parte intern. 3. Păstrează invocarea deschisă doar pentru restul strict structural.
 
 // (script negenerat — vezi plan_actiune)
 
