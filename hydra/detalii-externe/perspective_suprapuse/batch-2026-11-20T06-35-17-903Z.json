@@ -1,0 +1,13 @@
+{
+  "exportat_la": "2026-11-20T06:35:17.903Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6afb9df2ff8d0c9d6dc09bbf",
+      "titlu": "[PERSPECTIVE] 2026-11-17 — 5 perspective noi din suprapunere",
+      "rezumat": "5 perspective noi (ordin 379) din suprapunerea creierelor. Total 205/10000000. Sursă: web+darknet+alternative.",
+      "tip_context": "perspective_suprapuse",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-11-17T00:21:05.344Z\",\n  \"perspective_noi\": 5,\n  \"total_perspective\": 205,\n  \"max_ordin\": 379,\n  \"proiectie\": {\n    \"tinta\": 10000000,\n    \"curent\": 205,\n    \"rata_pe_run\": 5,\n    \"estimare_rulari_pana_tinta\": 1999959\n  },\n  \"erori\": []\n}"
+    }
+  ]
+}
