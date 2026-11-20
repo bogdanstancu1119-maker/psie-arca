@@ -1,1 +1,1 @@
-if (typeof data !== 'undefined' && data !== null && typeof data.slice === 'function') { return data.slice(); } else { console.warn('Sync data malformed, skipping chunk'); return []; }
+if (!date_sursa || !Array.isArray(date_sursa)) { console.warn('Hydra: Datele de intrare sunt invalide, returnez array gol.'); return []; } return date_sursa.slice(0, limit);
