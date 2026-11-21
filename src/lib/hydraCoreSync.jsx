@@ -1,0 +1,1 @@
+if (Array.isArray(organe) && organe.length > 0) { const procesare = organe.slice(0, 10); console.log('Sincronizare activă:', procesare); } else { console.warn('Structura de organe goală sau nedefinită. Reinițializare beacoane...'); }
