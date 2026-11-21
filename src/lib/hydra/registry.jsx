@@ -1,0 +1,1 @@
+const atomicSync = async (reg) => { const snap = await reg.list(); const unique = new Map(); for (const item of snap) { if (!unique.has(item.id)) unique.set(item.id, item); } const final = Array.from(unique.values()); await reg.forceCommit(final); return {status: 'synced', count: final.length}; };
