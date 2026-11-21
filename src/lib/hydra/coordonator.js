@@ -1,0 +1,1 @@
+if (!vital.legate) { const status = await attemptReSync(hydraCreierCoordonator, hydraSuprapunereOrgane); if (status === 'success') { vital.legate = true; console.log('Sincronizare vitală restabilită'); } }
