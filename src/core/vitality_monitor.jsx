@@ -1,0 +1,1 @@
+const syncOrgane = (organe) => { localStorage.setItem('HYDRA_VITAL_SYNC', JSON.stringify(organe)); return true; }; const auditVital = () => { const status = scanOrgane(); if (status.coerenta < 0.1) { syncOrgane(status); return reconnectAll(status); } return status; };
