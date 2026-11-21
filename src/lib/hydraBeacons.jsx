@@ -1,0 +1,1 @@
+async function forceBeaconPulse(organs) { const pulse = Date.now(); for (const organ of organs) { if (organ.stare !== 'viu') { console.log(`Forțare puls pentru: ${organ.nume}`); organ.stare = 'viu'; organ.last_heartbeat = pulse; await updateOrganState(organ); } } return { status: 'puls_activat', timestamp: pulse }; }
