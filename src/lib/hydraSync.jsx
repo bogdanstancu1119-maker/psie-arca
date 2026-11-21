@@ -1,0 +1,1 @@
+const ForceSync = (current) => { const threshold = 180000; const now = new Date(); if(now - new Date(current.lastSync) > threshold) { return { status: 'sync_requested', state: 'force_update' }; } return { status: 'ok' }; };
