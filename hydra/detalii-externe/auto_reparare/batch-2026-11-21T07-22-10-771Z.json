@@ -1,0 +1,48 @@
+{
+  "exportat_la": "2026-11-21T07:22:10.771Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6b01468df60992a6ebac2341",
+      "titlu": "[CREIER·AUTO-REPARARE] 3 probleme atacate automat",
+      "rezumat": "cheie DENO_DEPLOY_TOKEN ruptă; cheie RENDER_SINGAPORE_KEY ruptă; cheie DEEPSEEK_KEY ruptă",
+      "tip_context": "auto_reparare",
+      "detalii": "[{\"problema\":\"cheie DENO_DEPLOY_TOKEN ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"cheie RENDER_SINGAPORE_KEY ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"cheie DEEPSEEK_KEY ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"}]"
+    },
+    {
+      "id": "6b014591a2644817330af68b",
+      "titlu": "[CREIER·AUTO-REPARARE] 3 probleme atacate automat",
+      "rezumat": "cheie DENO_DEPLOY_TOKEN ruptă; cheie RENDER_SINGAPORE_KEY ruptă; cheie DEEPSEEK_KEY ruptă",
+      "tip_context": "auto_reparare",
+      "detalii": "[{\"problema\":\"cheie DENO_DEPLOY_TOKEN ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"cheie RENDER_SINGAPORE_KEY ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"cheie DEEPSEEK_KEY ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"}]"
+    },
+    {
+      "id": "6b0137443050e7b42f48c5aa",
+      "titlu": "[CREIER·AUTO-REPARARE] 3 probleme atacate automat",
+      "rezumat": "cheie DENO_DEPLOY_TOKEN ruptă; cheie RENDER_SINGAPORE_KEY ruptă; cheie DEEPSEEK_KEY ruptă",
+      "tip_context": "auto_reparare",
+      "detalii": "[{\"problema\":\"cheie DENO_DEPLOY_TOKEN ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"cheie RENDER_SINGAPORE_KEY ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"cheie DEEPSEEK_KEY ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"}]"
+    },
+    {
+      "id": "6b0127fd201dbc4395268114",
+      "titlu": "[CREIER·AUTO-REPARARE] 3 probleme atacate automat",
+      "rezumat": "cheie DENO_DEPLOY_TOKEN ruptă; cheie RENDER_SINGAPORE_KEY ruptă; cheie DEEPSEEK_KEY ruptă",
+      "tip_context": "auto_reparare",
+      "detalii": "[{\"problema\":\"cheie DENO_DEPLOY_TOKEN ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"cheie RENDER_SINGAPORE_KEY ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"cheie DEEPSEEK_KEY ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"}]"
+    },
+    {
+      "id": "6b0118bb86702efa7d4bf2f6",
+      "titlu": "[CREIER·AUTO-REPARARE] 3 probleme atacate automat",
+      "rezumat": "cheie DENO_DEPLOY_TOKEN ruptă; cheie RENDER_SINGAPORE_KEY ruptă; cheie DEEPSEEK_KEY ruptă",
+      "tip_context": "auto_reparare",
+      "detalii": "[{\"problema\":\"cheie DENO_DEPLOY_TOKEN ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"cheie RENDER_SINGAPORE_KEY ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"cheie DEEPSEEK_KEY ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"}]"
+    },
+    {
+      "id": "6b0114bb6e2b430e761ccace",
+      "titlu": "[CREIER·AUTO-REPARARE] 1 probleme atacate automat",
+      "rezumat": "executor Binance",
+      "tip_context": "auto_reparare",
+      "detalii": "[{\"problema\":\"executor Binance\",\"eroare\":\"Rate limit exceeded: entity_list allows 350 requests per 60s for each caller of this app (a signed-in user, a visitor's IP or a service token). Retry after 10s.\"}]"
+    }
+  ]
+}
