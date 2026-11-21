@@ -1,0 +1,41 @@
+{
+  "exportat_la": "2026-11-21T12:47:39.401Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6b012477655a610f064ef28a",
+      "titlu": "Autodiagnostic secrete — 3 rupte din 10",
+      "rezumat": "Sanătoase: RANDER_API, FLY_IO_TOKEN, TOKEN_GITHUB, CLOUDFLARE_TOKEN, NETLIFY_TOKEN, TELEGRAM_API, GROQ_HYDRA. Rupte: Deno Deploy(401 {\"code\":\"INVALID_TOKEN\",\"message\":\"T); Render(401 {\"message\":\"Unauthorized\"}); DeepSeek(401 {\"error\":{\"message\":\"Authentication ). Necesită om: Deno Deploy, Render.",
+      "tip_context": "autodiagnostic_secrete",
+      "detalii": "{\n  \"rupte\": [\n    {\n      \"ref\": \"DENO_DEPLOY_TOKEN\",\n      \"platforma\": \"Deno Deploy\",\n      \"categorie\": \"extern\",\n      \"error\": \"401 {\\\"code\\\":\\\"INVALID_TOKEN\\\",\\\"message\\\":\\\"The provided access token is malformed, invalid, or expired.\\\"}\"\n    },\n    {\n      \"ref\": \"RENDER_SINGAPORE_KEY\",\n      \"platforma\": \"Render\",\n      \"categorie\": \"extern\",\n      \"error\": \"401 {\\\"message\\\":\\\"Unauthorized\\\"}\"\n    },\n    {\n      \"ref\": \"DEEPSEEK_KEY\",\n      \"platforma\": \"DeepSeek\",\n      \"categorie\": \"ai\",\n      \"error\": \"401 {\\\"error\\\":{\\\"message\\\":\\\"Authentication Fails, Your api key: ****iune is invalid (request_id: a2100bd1-4667-42c6-8f39-1d322a\"\n    }\n  ],\n  \"umane\": [\n    \"Deno Deploy\",\n    \"Render\"\n  ],\n  \"ai\": [\n    \"DeepSeek\"\n  ],\n  \"sanatoase\": [\n    \"RANDER_API\",\n    \"FLY_IO_TOKEN\",\n    \"TOKEN_GITHUB\",\n    \"CLOUDFLARE_TOKEN\",\n    \"NETLIFY_TOKEN\",\n    \"TELEGRAM_API\",\n    \"GROQ_HYDRA\"\n  ],\n  \"interne\": {\n    \"HYDRA_SYNC_TOKEN\": {\n      \"ok\": true,\n      \"actiune\": \"deja setat\"\n    }\n  }\n}"
+    },
+    {
+      "id": "6b011c560cd1ad086d8399ab",
+      "titlu": "Autodiagnostic secrete — 3 rupte din 10",
+      "rezumat": "Sanătoase: RANDER_API, FLY_IO_TOKEN, TOKEN_GITHUB, CLOUDFLARE_TOKEN, NETLIFY_TOKEN, TELEGRAM_API, GROQ_HYDRA. Rupte: Deno Deploy(401 {\"code\":\"INVALID_TOKEN\",\"message\":\"T); Render(401 {\"message\":\"Unauthorized\"}); DeepSeek(401 {\"error\":{\"message\":\"Authentication ). Necesită om: Deno Deploy, Render.",
+      "tip_context": "autodiagnostic_secrete",
+      "detalii": "{\n  \"rupte\": [\n    {\n      \"ref\": \"DENO_DEPLOY_TOKEN\",\n      \"platforma\": \"Deno Deploy\",\n      \"categorie\": \"extern\",\n      \"error\": \"401 {\\\"code\\\":\\\"INVALID_TOKEN\\\",\\\"message\\\":\\\"The provided access token is malformed, invalid, or expired.\\\"}\"\n    },\n    {\n      \"ref\": \"RENDER_SINGAPORE_KEY\",\n      \"platforma\": \"Render\",\n      \"categorie\": \"extern\",\n      \"error\": \"401 {\\\"message\\\":\\\"Unauthorized\\\"}\"\n    },\n    {\n      \"ref\": \"DEEPSEEK_KEY\",\n      \"platforma\": \"DeepSeek\",\n      \"categorie\": \"ai\",\n      \"error\": \"401 {\\\"error\\\":{\\\"message\\\":\\\"Authentication Fails, Your api key: ****iune is invalid (request_id: 5bbe01af-7a76-4bde-b20b-308041\"\n    }\n  ],\n  \"umane\": [\n    \"Deno Deploy\",\n    \"Render\"\n  ],\n  \"ai\": [\n    \"DeepSeek\"\n  ],\n  \"sanatoase\": [\n    \"RANDER_API\",\n    \"FLY_IO_TOKEN\",\n    \"TOKEN_GITHUB\",\n    \"CLOUDFLARE_TOKEN\",\n    \"NETLIFY_TOKEN\",\n    \"TELEGRAM_API\",\n    \"GROQ_HYDRA\"\n  ],\n  \"interne\": {\n    \"HYDRA_SYNC_TOKEN\": {\n      \"ok\": true,\n      \"actiune\": \"deja setat\"\n    }\n  }\n}"
+    },
+    {
+      "id": "6b00f4a131a867048181df42",
+      "titlu": "Autodiagnostic secrete — 2 rupte din 10",
+      "rezumat": "Sanătoase: RANDER_API, FLY_IO_TOKEN, TOKEN_GITHUB, CLOUDFLARE_TOKEN, NETLIFY_TOKEN, TELEGRAM_API, DEEPSEEK_KEY, GROQ_HYDRA. Rupte: Deno Deploy(401 {\"code\":\"INVALID_TOKEN\",\"message\":\"T); Render(401 {\"message\":\"Unauthorized\"}). Necesită om: Deno Deploy, Render.",
+      "tip_context": "autodiagnostic_secrete",
+      "detalii": "{\n  \"rupte\": [\n    {\n      \"ref\": \"DENO_DEPLOY_TOKEN\",\n      \"platforma\": \"Deno Deploy\",\n      \"categorie\": \"extern\",\n      \"error\": \"401 {\\\"code\\\":\\\"INVALID_TOKEN\\\",\\\"message\\\":\\\"The provided access token is malformed, invalid, or expired.\\\"}\"\n    },\n    {\n      \"ref\": \"RENDER_SINGAPORE_KEY\",\n      \"platforma\": \"Render\",\n      \"categorie\": \"extern\",\n      \"error\": \"401 {\\\"message\\\":\\\"Unauthorized\\\"}\"\n    }\n  ],\n  \"umane\": [\n    \"Deno Deploy\",\n    \"Render\"\n  ],\n  \"ai\": [],\n  \"sanatoase\": [\n    \"RANDER_API\",\n    \"FLY_IO_TOKEN\",\n    \"TOKEN_GITHUB\",\n    \"CLOUDFLARE_TOKEN\",\n    \"NETLIFY_TOKEN\",\n    \"TELEGRAM_API\",\n    \"DEEPSEEK_KEY\",\n    \"GROQ_HYDRA\"\n  ],\n  \"interne\": {\n    \"HYDRA_SYNC_TOKEN\": {\n      \"ok\": true,\n      \"actiune\": \"deja setat\"\n    }\n  }\n}"
+    },
+    {
+      "id": "6b00d4b34933f5096dfaea6e",
+      "titlu": "Autodiagnostic secrete — 2 rupte din 10",
+      "rezumat": "Sanătoase: DENO_DEPLOY_TOKEN, RANDER_API, FLY_IO_TOKEN, TOKEN_GITHUB, CLOUDFLARE_TOKEN, NETLIFY_TOKEN, TELEGRAM_API, GROQ_HYDRA. Rupte: Render(401 {\"message\":\"Unauthorized\"}); DeepSeek(401 {\"error\":{\"message\":\"Authentication ). Necesită om: Render.",
+      "tip_context": "autodiagnostic_secrete",
+      "detalii": "{\n  \"rupte\": [\n    {\n      \"ref\": \"RENDER_SINGAPORE_KEY\",\n      \"platforma\": \"Render\",\n      \"categorie\": \"extern\",\n      \"error\": \"401 {\\\"message\\\":\\\"Unauthorized\\\"}\"\n    },\n    {\n      \"ref\": \"DEEPSEEK_KEY\",\n      \"platforma\": \"DeepSeek\",\n      \"categorie\": \"ai\",\n      \"error\": \"401 {\\\"error\\\":{\\\"message\\\":\\\"Authentication Fails, Your api key: ****iune is invalid (request_id: 80d5092a-097d-4fff-977b-bba34a\"\n    }\n  ],\n  \"umane\": [\n    \"Render\"\n  ],\n  \"ai\": [\n    \"DeepSeek\"\n  ],\n  \"sanatoase\": [\n    \"DENO_DEPLOY_TOKEN\",\n    \"RANDER_API\",\n    \"FLY_IO_TOKEN\",\n    \"TOKEN_GITHUB\",\n    \"CLOUDFLARE_TOKEN\",\n    \"NETLIFY_TOKEN\",\n    \"TELEGRAM_API\",\n    \"GROQ_HYDRA\"\n  ],\n  \"interne\": {\n    \"HYDRA_SYNC_TOKEN\": {\n      \"ok\": true,\n      \"actiune\": \"deja setat\"\n    }\n  }\n}"
+    },
+    {
+      "id": "6b00b2560566f7190ba9e3c3",
+      "titlu": "Autodiagnostic secrete — 3 rupte din 10",
+      "rezumat": "Sanătoase: RANDER_API, FLY_IO_TOKEN, TOKEN_GITHUB, CLOUDFLARE_TOKEN, NETLIFY_TOKEN, TELEGRAM_API, GROQ_HYDRA. Rupte: Deno Deploy(401 {\"code\":\"INVALID_TOKEN\",\"message\":\"T); Render(401 {\"message\":\"Unauthorized\"}); DeepSeek(401 {\"error\":{\"message\":\"Authentication ). Necesită om: Deno Deploy, Render.",
+      "tip_context": "autodiagnostic_secrete",
+      "detalii": "{\n  \"rupte\": [\n    {\n      \"ref\": \"DENO_DEPLOY_TOKEN\",\n      \"platforma\": \"Deno Deploy\",\n      \"categorie\": \"extern\",\n      \"error\": \"401 {\\\"code\\\":\\\"INVALID_TOKEN\\\",\\\"message\\\":\\\"The provided access token is malformed, invalid, or expired.\\\"}\"\n    },\n    {\n      \"ref\": \"RENDER_SINGAPORE_KEY\",\n      \"platforma\": \"Render\",\n      \"categorie\": \"extern\",\n      \"error\": \"401 {\\\"message\\\":\\\"Unauthorized\\\"}\"\n    },\n    {\n      \"ref\": \"DEEPSEEK_KEY\",\n      \"platforma\": \"DeepSeek\",\n      \"categorie\": \"ai\",\n      \"error\": \"401 {\\\"error\\\":{\\\"message\\\":\\\"Authentication Fails, Your api key: ****iune is invalid (request_id: 7f56a780-237c-45d1-b75a-a980ef\"\n    }\n  ],\n  \"umane\": [\n    \"Deno Deploy\",\n    \"Render\"\n  ],\n  \"ai\": [\n    \"DeepSeek\"\n  ],\n  \"sanatoase\": [\n    \"RANDER_API\",\n    \"FLY_IO_TOKEN\",\n    \"TOKEN_GITHUB\",\n    \"CLOUDFLARE_TOKEN\",\n    \"NETLIFY_TOKEN\",\n    \"TELEGRAM_API\",\n    \"GROQ_HYDRA\"\n  ],\n  \"interne\": {\n    \"HYDRA_SYNC_TOKEN\": {\n      \"ok\": true,\n      \"actiune\": \"deja setat\"\n    }\n  }\n}"
+    }
+  ]
+}
