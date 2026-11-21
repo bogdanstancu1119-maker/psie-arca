@@ -1,0 +1,1 @@
+if (vital.minute.hydraCreierCoordonator > 30) { triggerSync(hydraCreierCoordonator, 'FORCE_SYNC_RECOVERY'); status.coerenta_recalculata = true; }
