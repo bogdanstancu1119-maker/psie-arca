@@ -1,1 +1,1 @@
-export const syncOrganRegistry = (all, subset) => { const map = new Map(all.map(o => [o.id, o])); return subset.map(s => map.get(s.id) || s).filter(o => o.status === 'active'); }; // Integrare în motorul de agregare:
+const deduplicaOrgane = (registru) => { const unic = new Map(); registru.forEach(o => { if (!unic.has(o.id)) unic.set(o.id, o); }); return Array.from(unic.values()).filter(o => o.beaconValid === true); };
