@@ -1,0 +1,1 @@
+const verificaExistentaSiFuzioneaza = async (nume, payload) => { const hash = crypto.createHash('sha256').update(nume).digest('hex'); const existent = await db.get(hash); if (existent) { return db.update(hash, { ...existent, ...payload, actualizat: Date.now() }); } return db.set(hash, { ...payload, creat: Date.now() }); };
