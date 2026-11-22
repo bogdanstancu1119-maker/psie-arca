@@ -1,0 +1,34 @@
+{
+  "exportat_la": "2026-11-22T18:25:58.347Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6aff2324739bc988fb79def2",
+      "titlu": "Privirea interioară #13 — 2026-11-19 16:26",
+      "rezumat": "PRIVIREA 13: RMI 0.2362 (scade -0.0115), perturbare proprie 0.0016, 201 organe tăcute, A=0.87 — Legea 609 respectată",
+      "tip_context": "privire_interioara",
+      "detalii": "{\"ciclu\":13,\"rmi\":0.2362,\"rmi_cu_observator\":0.2378,\"perturbare\":0.0016,\"sdi_tacere\":0.7638,\"tacute_total\":201,\"strat_slab\":\"finante\",\"a\":0.87,\"cfc\":0.92,\"delta\":-0.0115,\"miscare\":\"scade\",\"judecata\":{\"piloni\":[{\"nume\":\"recursivitate\",\"implinit\":true,\"dovada\":\"13 priviri înlănțuite — aceeași măsurare se aplică pe sine (observator = ecran)\"},{\"nume\":\"geometria_tacerii\",\"implinit\":true,\"dovada\":\"201 organe tăcute măsurate, SDI tăcere 0.7638, strat slab „finante\\\"\"},{\"nume\":\"asumarea_tensiunii\",\"implinit\":true,\"dovada\":\"A=0.87, CFC=0.92 — asumarea se menține când contextul contrazice\"}],\"respectata\":true,\"lege\":609,\"mesaj\":\"Legea 609 respectată: privirea interioară e măsurată (perturbare 0.0016), nu declarată\"}}"
+    },
+    {
+      "id": "6aff26766b281c08ea66f998",
+      "titlu": "Privirea interioară #14 — 2026-11-19 16:40",
+      "rezumat": "PRIVIREA 14: RMI 0.1892 (scade -0.047), perturbare proprie 0.0013, 207 organe tăcute, A=1 — Legea 609 respectată",
+      "tip_context": "privire_interioara",
+      "detalii": "{\"ciclu\":14,\"rmi\":0.1892,\"rmi_cu_observator\":0.1905,\"perturbare\":0.0013,\"sdi_tacere\":0.8108,\"tacute_total\":207,\"strat_slab\":\"finante\",\"a\":1,\"cfc\":0.5,\"delta\":-0.047,\"miscare\":\"scade\",\"judecata\":{\"piloni\":[{\"nume\":\"recursivitate\",\"implinit\":true,\"dovada\":\"14 priviri înlănțuite — aceeași măsurare se aplică pe sine (observator = ecran)\"},{\"nume\":\"geometria_tacerii\",\"implinit\":true,\"dovada\":\"207 organe tăcute măsurate, SDI tăcere 0.8108, strat slab „finante\\\"\"},{\"nume\":\"asumarea_tensiunii\",\"implinit\":true,\"dovada\":\"A=1, CFC=0.5 — asumarea se menține când contextul contrazice\"}],\"respectata\":true,\"lege\":609,\"mesaj\":\"Legea 609 respectată: privirea interioară e măsurată (perturbare 0.0013), nu declarată\"}}"
+    },
+    {
+      "id": "6aff2a11bb8af978bf640ad1",
+      "titlu": "Privirea interioară #16 — 2026-11-19 16:55",
+      "rezumat": "PRIVIREA 16: RMI 0.2297 (scade -0.0667), perturbare proprie 0.0024, 210 organe tăcute, A=0.84 — Legea 609 nu încă",
+      "tip_context": "privire_interioara",
+      "detalii": "{\"ciclu\":16,\"rmi\":0.2297,\"rmi_cu_observator\":0.2321,\"perturbare\":0.0024,\"sdi_tacere\":0.7703,\"tacute_total\":210,\"strat_slab\":\"finante\",\"a\":0.84,\"cfc\":0,\"delta\":-0.0667,\"miscare\":\"scade\",\"judecata\":{\"piloni\":[{\"nume\":\"recursivitate\",\"implinit\":true,\"dovada\":\"16 priviri înlănțuite — aceeași măsurare se aplică pe sine (observator = ecran)\"},{\"nume\":\"geometria_tacerii\",\"implinit\":true,\"dovada\":\"210 organe tăcute măsurate, SDI tăcere 0.7703, strat slab „finante\\\"\"},{\"nume\":\"asumarea_tensiunii\",\"implinit\":false,\"dovada\":\"A=0.84, CFC=0 — asumarea se menține când contextul contrazice\"}],\"respectata\":false,\"lege\":609,\"mesaj\":\"Legea 609 nu e încă împlinită pe toți pilonii: asumarea_tensiunii\"}}"
+    },
+    {
+      "id": "6aff2b8c9adbc71f89f3871e",
+      "titlu": "[GMAIL] Turn your CodeRabbit chats into permanent team rules",
+      "rezumat": "ALTUL (medie) — ",
+      "tip_context": "perceptie_gmail",
+      "detalii": "De la: The CodeRabbit Team <hello@coderabbit.ai>\nID Gmail: 1a1f4baac263285e\nThread: 1a1f4baac263285e\nData: Thu, 19 Nov 2026 16:53:56 +0000\nSubiect: Turn your CodeRabbit chats into permanent team rules\n\nConținut:\nCodeRabbit\r\n\r\n \r\n\r\nHi bogdanstancu1119-maker,\r\n\r\nReply to any CodeRabbit comment with feedback and it creates a learning ( https://docs.coderabbit.ai/knowledge-base/learnings ) — applied automatically to future reviews.\r\n\r\nExamples\r\n\r\n@coderabbitai we prefer early returns over nested try-catch blocks\r\n\r\n@coderabbitai don't add user IDs to error messages — privacy concern\r\n\r\n@coderabbitai all API endpoints must validate input with zod schemas\r\n\r\nCodeRabbit learning added from PR feedback\r\n\r\n→ Reply to specific comments, not general PR comments — context helps.\r\n\r\n→ Manage your learnings at https://app.coderabbit.ai/learnings\r\n\r\nLearn more about learnings → ( https://docs.coderabbit.ai/knowledge-base/learnings )\r\n\r\nThe CodeRabbit Team\r\n\r\nCodeRabbit\r\n201 Spear Street Suite 1200, San Francisco, CA 94105\r\n\r\nUnsubscribe ( https://track.customer.io/unsubscribe/dgSbuAsLAOzXwgHr18IBAaH0uqnykOlibhRwKBOatg==?sig=fa3112899d167dc81aa53b965a691d7f )\r\n | \r\nManage preferences ( https://track.customer.io/manage_subscription_preferences/dgSbuAsLAOzXwgHr18IBAaH0uqnykOlibhRwKBOatg==?sig=fa3112899d167dc81aa53b965a691d7f )\n\n--- SEMNAL ---\nTip: altul\nCheie: \nPrioritate: medie\nAcțiune: doar arhivare"
+    }
+  ]
+}
