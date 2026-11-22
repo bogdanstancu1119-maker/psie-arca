@@ -1,1 +1,1 @@
-const deduplicaOrgane = (registru) => { const unic = new Map(); registru.forEach(o => { if (!unic.has(o.id)) unic.set(o.id, o); }); return Array.from(unic.values()).filter(o => o.beaconValid === true); };
+const trezireFortata = (organeDecuplate) => { organeDecuplate.forEach(organ => { if (typeof global[organ.nume] === 'function') { console.log(`[REPARARE] Trezire forțată: ${organ.nume}`); global[organ.nume](); } }); };
