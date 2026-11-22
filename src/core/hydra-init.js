@@ -1,0 +1,1 @@
+const trezireAtomica = async (organeCritice) => { for (const organ of organeCritice) { await engine.activate(organ.nume); console.log(`[REPARARE] Organ activat: ${organ.nume}`); } }; await trezireAtomica(config.raport_risc_organe.imediat_decuplate);
