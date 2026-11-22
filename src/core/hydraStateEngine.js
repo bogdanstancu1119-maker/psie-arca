@@ -1,1 +1,1 @@
-export const updateState = async (key, newValue) => { const existing = await db.get(key); if (existing && existing.timestamp >= newValue.timestamp) return; await db.set(key, { ...newValue, timestamp: Date.now(), sync: 'verified' }); };
+const updateHydraState = (key, value) => { const existingState = db.get('configs') || []; const filteredState = existingState.filter(item => item.cheie !== key); filteredState.push({ cheie: key, valoare: JSON.stringify(value), sursa: 'hydra' }); db.set('configs', filteredState); };
