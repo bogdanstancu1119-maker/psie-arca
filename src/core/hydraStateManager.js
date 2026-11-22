@@ -1,0 +1,1 @@
+const synchronizeState = (state, raw) => { const reconciled = { ...state, activeCount: raw.length, lastSync: Date.now() }; return reconciled; }; const checkIntegrity = async (current, live) => { if (current.activeCount !== live.length) { return await synchronizeState(current, live); } return current; };
