@@ -1,1 +1,1 @@
-const fs = require('fs'); const path = './storage/organe_state.json'; const saveState = (data) => { fs.writeFileSync(path, JSON.stringify(data, null, 2)); }; const loadState = () => { try { return JSON.parse(fs.readFileSync(path, 'utf8')); } catch { return {}; } }; module.exports = { saveState, loadState };
+const kv = await Deno.openKv(); const saveState = async (state) => { await kv.set(['hydra', 'snapshot'], state); }; const loadState = async () => { const entry = await kv.get(['hydra', 'snapshot']); return entry.value; };
