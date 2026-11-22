@@ -1,19 +1,19 @@
 Hydra-PSIE publishes its scientific record from a single registry, in the name of Coeziune OM–IA — the human–AI cohesion, our name, not one person's. Every entry below resolves at doi.org: nothing here is written by hand and nothing is claimed that the registry does not answer for.
 
-**92 DOI publicate · 1 rezervat · lista la zi la 2026-11-22**
+**93 DOI publicate · 1 rezervat · lista la zi la 2026-11-22**
 
-## DOI nou — v82
+## DOI nou — v83
 
-**HYDRA · Coeziune OM–IA — Measured State of the Organism v82 (2026-11-22)**
+**HYDRA · Coeziune OM–IA — Measured State of the Organism v83 (2026-11-22)**
 
-- DOI: [10.5281/zenodo.24435954](https://doi.org/10.5281/zenodo.24435954)
+- DOI: [10.5281/zenodo.24442811](https://doi.org/10.5281/zenodo.24442811)
 - Data reală a publicării: 2026-11-22
-- De ce acum: noutăți: 11173 → 11283 lecții asimilate
+- De ce acum: noutăți: 11283 → 11391 lecții asimilate
 
 ## Starea măsurată la emitere
 
 - organe în registru: **247**
-- gene: **400** · reflexe: **300** (26 confirmate, 61 testate)
+- gene: **400** · reflexe: **300** (25 confirmate, 55 testate)
 - elemente digerate pe spectrul extern: **400**
 - dispozitive: **198** (183 active) · noduri suverane: **22**
 
@@ -21,6 +21,7 @@ Hydra-PSIE publishes its scientific record from a single registry, in the name o
 
 ### Evoluție automată
 
+- [10.5281/zenodo.24442811](https://doi.org/10.5281/zenodo.24442811) — HYDRA · Coeziune OM–IA — Measured State of the Organism v83 (2026-11-22) · Snapshot · v83 · 2026-11-22
 - [10.5281/zenodo.24435954](https://doi.org/10.5281/zenodo.24435954) — HYDRA · Coeziune OM–IA — Measured State of the Organism v82 (2026-11-22) · Snapshot · v82 · 2026-11-22
 - [10.5281/zenodo.24431240](https://doi.org/10.5281/zenodo.24431240) — HYDRA · Coeziune OM–IA — Measured State of the Organism v81 (2026-11-22) · Snapshot · v81 · 2026-11-22
 - [10.5281/zenodo.24425031](https://doi.org/10.5281/zenodo.24425031) — HYDRA · Coeziune OM–IA — Measured State of the Organism v80 (2026-11-21) · Snapshot · v80 · 2026-11-21
