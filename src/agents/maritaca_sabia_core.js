@@ -1,0 +1,1 @@
+const AgentState = { save: (data) => { try { localStorage.setItem('maritaca_state', JSON.stringify(data)); } catch (e) { console.error('Persistence failed', e); } }, load: () => { const data = localStorage.getItem('maritaca_state'); return data ? JSON.parse(data) : { memory: [], epoch: 0 }; } }; export default AgentState;
