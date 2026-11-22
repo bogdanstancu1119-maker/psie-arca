@@ -1,1 +1,1 @@
-const updateState = (key, newState) => { const lastState = cache.get(key); if (lastState && newState.timestamp <= lastState.timestamp) { console.warn('Tentativa de scriere depasita detectata'); return false; } return storage.put(key, JSON.stringify(newState)); };
+const updateState = (key, value) => { const existing = db.get(key); if (existing && existing.timestamp === value.timestamp) return; db.set(key, value); };
