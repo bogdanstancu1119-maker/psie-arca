@@ -1,0 +1,1 @@
+const updateMemorie = (cheie, valoare, prioritate = 0) => { const now = Date.now(); const lastUpdate = cache[cheie]?.timestamp || 0; if (now - lastUpdate < 5000) { queue.push({cheie, valoare, prioritate}); return; } executeWrite(cheie, valoare); cache[cheie] = {valoare, timestamp: now}; };
