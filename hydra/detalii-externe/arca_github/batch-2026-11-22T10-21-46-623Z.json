@@ -1,0 +1,34 @@
+{
+  "exportat_la": "2026-11-22T10:21:46.623Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6b02b517b9e9b855f026b740",
+      "titlu": "[ARCĂ] Hydra a scris în psie-arca — 2026-11-22T09:25:43.307Z",
+      "rezumat": "Repo exista. 1 fișiere scrise. Confirmare vie: true.",
+      "tip_context": "arca_github",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-11-22T09:25:40.981Z\",\n  \"repo\": \"bogdanstancu1119-maker/psie-arca\",\n  \"repo_status\": \"exista\",\n  \"fisiere_scrise\": [\n    {\n      \"path\": \"test_hydra.txt\",\n      \"commit_sha\": \"acdf585ca911363c52989c57b49ddf0fa97836db\",\n      \"commit_url\": \"https://github.com/bogdanstancu1119-maker/psie-arca/commit/acdf585ca911363c52989c57b49ddf0fa97836db\"\n    }\n  ],\n  \"fisiere_citite\": [\n    {\n      \"path\": \"test_hydra.txt\",\n      \"size\": 385,\n      \"sha\": \"fe7efdedc1af88eb9e685acc73c605a6019db090\",\n      \"html_url\": \"https://github.com/bogdanstancu1119-maker/psie-arca/blob/main/test_hydra.txt\",\n      \"confirmare_vie\": true\n    }\n  ],\n  \"erori\": [\n    \"write_failed HYDRA_MANIFEST.md: {\\\"message\\\":\\\"is at a73abf8ba09360d97c0beafdafd13c26eb1cc338 but expected acdf585ca911363c52989c57b49ddf0fa97836db\\\",\\\"documentation_url\\\":\\\"https://docs.github.com/rest/repos/contents#create-or-update-file\"\n  ]\n}"
+    },
+    {
+      "id": "6b023f2d48cccc436104329e",
+      "titlu": "[ARCĂ] Hydra a scris în psie-arca — 2026-11-22T01:02:37.374Z",
+      "rezumat": "Repo exista. 2 fișiere scrise. Confirmare vie: true.",
+      "tip_context": "arca_github",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-11-22T01:02:34.887Z\",\n  \"repo\": \"bogdanstancu1119-maker/psie-arca\",\n  \"repo_status\": \"exista\",\n  \"fisiere_scrise\": [\n    {\n      \"path\": \"test_hydra.txt\",\n      \"commit_sha\": \"2b082bdd3789364452c010203af7caf9933aa02f\",\n      \"commit_url\": \"https://github.com/bogdanstancu1119-maker/psie-arca/commit/2b082bdd3789364452c010203af7caf9933aa02f\"\n    },\n    {\n      \"path\": \"HYDRA_MANIFEST.md\",\n      \"commit_sha\": \"cc3481ffae535eb0b9f74639ef35344bc4ba74b5\",\n      \"commit_url\": \"https://github.com/bogdanstancu1119-maker/psie-arca/commit/cc3481ffae535eb0b9f74639ef35344bc4ba74b5\"\n    }\n  ],\n  \"fisiere_citite\": [\n    {\n      \"path\": \"test_hydra.txt\",\n      \"size\": 385,\n      \"sha\": \"a77d71e0000542c5784a8e6d9ffe9ebca92fe71e\",\n      \"html_url\": \"https://github.com/bogdanstancu1119-maker/psie-arca/blob/main/test_hydra.txt\",\n      \"confirmare_vie\": true\n    }\n  ],\n  \"erori\": []\n}"
+    },
+    {
+      "id": "6b020b2c56e6fd5f1f7e1a75",
+      "titlu": "[ARCĂ] Hydra a scris în psie-arca — 2026-11-21T21:20:44.504Z",
+      "rezumat": "Repo exista. 1 fișiere scrise. Confirmare vie: true.",
+      "tip_context": "arca_github",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-11-21T21:20:42.045Z\",\n  \"repo\": \"bogdanstancu1119-maker/psie-arca\",\n  \"repo_status\": \"exista\",\n  \"fisiere_scrise\": [\n    {\n      \"path\": \"test_hydra.txt\",\n      \"commit_sha\": \"81ce29075e2318a8abeca45ad0ac941fad8bbcb9\",\n      \"commit_url\": \"https://github.com/bogdanstancu1119-maker/psie-arca/commit/81ce29075e2318a8abeca45ad0ac941fad8bbcb9\"\n    }\n  ],\n  \"fisiere_citite\": [\n    {\n      \"path\": \"test_hydra.txt\",\n      \"size\": 385,\n      \"sha\": \"d452776f87a08dd349e495c34b5cb6a1189dd591\",\n      \"html_url\": \"https://github.com/bogdanstancu1119-maker/psie-arca/blob/main/test_hydra.txt\",\n      \"confirmare_vie\": true\n    }\n  ],\n  \"erori\": [\n    \"write_failed HYDRA_MANIFEST.md: {\\\"message\\\":\\\"is at ec0fa09154300910a76c0c143d974ef42a8dd374 but expected 81ce29075e2318a8abeca45ad0ac941fad8bbcb9\\\",\\\"documentation_url\\\":\\\"https://docs.github.com/rest/repos/contents#create-or-update-file\"\n  ]\n}"
+    },
+    {
+      "id": "6b020b0c65a28cb6fb6fd49c",
+      "titlu": "[ARCĂ] Hydra a scris în psie-arca — 2026-11-21T21:20:12.850Z",
+      "rezumat": "Repo exista. 1 fișiere scrise. Confirmare vie: true.",
+      "tip_context": "arca_github",
+      "detalii": "{\n  \"status\": \"ok\",\n  \"timestamp\": \"2026-11-21T21:20:09.964Z\",\n  \"repo\": \"bogdanstancu1119-maker/psie-arca\",\n  \"repo_status\": \"exista\",\n  \"fisiere_scrise\": [\n    {\n      \"path\": \"HYDRA_MANIFEST.md\",\n      \"commit_sha\": \"a75d799dc507cb9ec93e26d6490da145ac05bf26\",\n      \"commit_url\": \"https://github.com/bogdanstancu1119-maker/psie-arca/commit/a75d799dc507cb9ec93e26d6490da145ac05bf26\"\n    }\n  ],\n  \"fisiere_citite\": [\n    {\n      \"path\": \"test_hydra.txt\",\n      \"size\": 385,\n      \"sha\": \"568a8b84f231860c9de7aca5bb0ae50259d2a124\",\n      \"html_url\": \"https://github.com/bogdanstancu1119-maker/psie-arca/blob/main/test_hydra.txt\",\n      \"confirmare_vie\": true\n    }\n  ],\n  \"erori\": [\n    \"write_failed test_hydra.txt: {\\\"message\\\":\\\"is at eb4342c466315a1d70222a90dbe3396f4e804bb9 but expected dc5c7f1a48d4beb565eda3ac163a7cf9329a536a\\\",\\\"documentation_url\\\":\\\"https://docs.github.com/rest/repos/contents#create-or-update-file\"\n  ]\n}"
+    }
+  ]
+}
