@@ -1,1 +1,1 @@
-const actiuniAll = snapshot?.actiuniAll ?? []; const stare = { ...snapshot, actiuniAll }; return stare;
+const actiuniAll = state.actiuniAll || []; try { /* procesare logica */ } catch (e) { console.error('Eroare: actiuniAll indisponibil'); }
