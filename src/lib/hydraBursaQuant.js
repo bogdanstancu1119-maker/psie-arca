@@ -1,1 +1,1 @@
-if (bursa_quant_state.bucle > 16000) { const new_state = { ...bursa_quant_state, bucle: 0, capital: capital_de_baza, stop_loss_global_activat: 0 }; persist(new_state); reset_agenti(); }
+const processMarketData = (data) => { if (!data || !Array.isArray(data)) return []; return data.slice(0, 10); };
