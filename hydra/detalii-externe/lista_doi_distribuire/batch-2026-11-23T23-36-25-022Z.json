@@ -1,0 +1,41 @@
+{
+  "exportat_la": "2026-11-23T23:36:25.022Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6b04ccdf759b8fb71a307b69",
+      "titlu": "[DISTRIBUIRE DOI] 2026-11-23",
+      "rezumat": "Dev.to: lista publicată (https://dev.to/bogdan_sambo_be2dc54ea397/hydra-coeziune-om-ia-the-complete-doi-registry-2026-11-23-100-published-works-ck0) —  · Google: sitemap trimis pe https://hidra-smart-core.com/ — sitemap trimis la Search Console",
+      "tip_context": "lista_doi_distribuire",
+      "detalii": "{\"actiune\":\"ambele\",\"zero_llm\":true,\"devto\":{\"ok\":true,\"url\":\"https://dev.to/bogdan_sambo_be2dc54ea397/hydra-coeziune-om-ia-the-complete-doi-registry-2026-11-23-100-published-works-ck0\",\"motiv\":null,\"total\":101,\"publicate\":100,\"amprenta\":\"2428:238750600\"},\"google\":{\"ok\":true,\"proprietate\":\"https://hidra-smart-core.com/\",\"permisiune\":\"siteOwner\",\"sitemap\":\"https://hidra-smart-core.com/sitemap.xml\",\"status_http\":204,\"motiv\":\"sitemap trimis la Search Console\",\"stare_google\":[{\"cale\":\"https://hidra-smart-core.com/sitemap.xml\",\"trimis\":\"2026-11-23T23:31:43.329Z\",\"descarcat\":\"2026-11-23T16:41:49.164Z\",\"erori\":0,\"avertismente\":0},{\"cale\":\"https://hidra-smart-core.com/\",\"trimis\":\"2026-11-05T20:22:44.949Z\",\"descarcat\":\"2026-11-23T21:00:23.053Z\",\"erori\":1,\"avertismente\":0},{\"cale\":\"https://hidra-smart-core.com/Hidra-smart-core.com\",\"trimis\":\"2026-11-05T20:20:59.970Z\",\"descarcat\":\"2026-11-23T03:44:27.733Z\",\"erori\":1,\"avertismente\":0}],\"proprietati_cunoscute\":3}}"
+    },
+    {
+      "id": "6b046ccca66cc22ce4c9c7ef",
+      "titlu": "[DISTRIBUIRE DOI] 2026-11-23",
+      "rezumat": "Dev.to: nepublicată — DEV.to HTTP 429: {\"error\":\"Rate limit reached, try again in 30 seconds\",\"status\":429} · Google: sitemap trimis pe https://hidra-smart-core.com/ — sitemap trimis la Search Console",
+      "tip_context": "lista_doi_distribuire",
+      "detalii": "{\"actiune\":\"ambele\",\"zero_llm\":true,\"devto\":{\"ok\":false,\"url\":null,\"motiv\":\"DEV.to HTTP 429: {\\\"error\\\":\\\"Rate limit reached, try again in 30 seconds\\\",\\\"status\\\":429}\",\"total\":100,\"publicate\":99,\"amprenta\":\"2404:947116092\"},\"google\":{\"ok\":true,\"proprietate\":\"https://hidra-smart-core.com/\",\"permisiune\":\"siteOwner\",\"sitemap\":\"https://hidra-smart-core.com/sitemap.xml\",\"status_http\":204,\"motiv\":\"sitemap trimis la Search Console\",\"stare_google\":[{\"cale\":\"https://hidra-smart-core.com/sitemap.xml\",\"trimis\":\"2026-11-23T16:41:48.745Z\",\"descarcat\":\"2026-11-23T09:36:00.007Z\",\"erori\":0,\"avertismente\":0},{\"cale\":\"https://hidra-smart-core.com/\",\"trimis\":\"2026-11-05T20:22:44.949Z\",\"descarcat\":\"2026-11-21T19:19:30.556Z\",\"erori\":1,\"avertismente\":0},{\"cale\":\"https://hidra-smart-core.com/Hidra-smart-core.com\",\"trimis\":\"2026-11-05T20:20:59.970Z\",\"descarcat\":\"2026-11-23T03:44:27.733Z\",\"erori\":1,\"avertismente\":0}],\"proprietati_cunoscute\":3}}"
+    },
+    {
+      "id": "6b046cccfc6a58345782fccb",
+      "titlu": "[DISTRIBUIRE DOI] 2026-11-23",
+      "rezumat": "Dev.to: nepublicată — DEV.to HTTP 429: Retry later\n · Google: sitemap trimis pe https://hidra-smart-core.com/ — sitemap trimis la Search Console",
+      "tip_context": "lista_doi_distribuire",
+      "detalii": "{\"actiune\":\"ambele\",\"zero_llm\":true,\"devto\":{\"ok\":false,\"url\":null,\"motiv\":\"DEV.to HTTP 429: Retry later\\n\",\"total\":100,\"publicate\":99,\"amprenta\":\"2404:947116092\"},\"google\":{\"ok\":true,\"proprietate\":\"https://hidra-smart-core.com/\",\"permisiune\":\"siteOwner\",\"sitemap\":\"https://hidra-smart-core.com/sitemap.xml\",\"status_http\":204,\"motiv\":\"sitemap trimis la Search Console\",\"stare_google\":[{\"cale\":\"https://hidra-smart-core.com/sitemap.xml\",\"trimis\":\"2026-11-23T16:41:48.040Z\",\"descarcat\":\"2026-11-23T09:36:00.007Z\",\"erori\":0,\"avertismente\":0},{\"cale\":\"https://hidra-smart-core.com/\",\"trimis\":\"2026-11-05T20:22:44.949Z\",\"descarcat\":\"2026-11-21T19:19:30.556Z\",\"erori\":1,\"avertismente\":0},{\"cale\":\"https://hidra-smart-core.com/Hidra-smart-core.com\",\"trimis\":\"2026-11-05T20:20:59.970Z\",\"descarcat\":\"2026-11-23T03:44:27.733Z\",\"erori\":1,\"avertismente\":0}],\"proprietati_cunoscute\":3}}"
+    },
+    {
+      "id": "6b046ccc1c11a7ae8393671a",
+      "titlu": "[DISTRIBUIRE DOI] 2026-11-23",
+      "rezumat": "Dev.to: lista publicată (https://dev.to/bogdan_sambo_be2dc54ea397/hydra-coeziune-om-ia-the-complete-doi-registry-2026-11-23-99-published-works-c8) —  · Google: sitemap trimis pe https://hidra-smart-core.com/ — sitemap trimis la Search Console",
+      "tip_context": "lista_doi_distribuire",
+      "detalii": "{\"actiune\":\"ambele\",\"zero_llm\":true,\"devto\":{\"ok\":true,\"url\":\"https://dev.to/bogdan_sambo_be2dc54ea397/hydra-coeziune-om-ia-the-complete-doi-registry-2026-11-23-99-published-works-c8\",\"motiv\":null,\"total\":100,\"publicate\":99,\"amprenta\":\"2404:947116092\"},\"google\":{\"ok\":true,\"proprietate\":\"https://hidra-smart-core.com/\",\"permisiune\":\"siteOwner\",\"sitemap\":\"https://hidra-smart-core.com/sitemap.xml\",\"status_http\":204,\"motiv\":\"sitemap trimis la Search Console\",\"stare_google\":[{\"cale\":\"https://hidra-smart-core.com/sitemap.xml\",\"trimis\":\"2026-11-23T16:41:48.040Z\",\"descarcat\":\"2026-11-23T09:36:00.007Z\",\"erori\":0,\"avertismente\":0},{\"cale\":\"https://hidra-smart-core.com/\",\"trimis\":\"2026-11-05T20:22:44.949Z\",\"descarcat\":\"2026-11-21T19:19:30.556Z\",\"erori\":1,\"avertismente\":0},{\"cale\":\"https://hidra-smart-core.com/Hidra-smart-core.com\",\"trimis\":\"2026-11-05T20:20:59.970Z\",\"descarcat\":\"2026-11-23T03:44:27.733Z\",\"erori\":1,\"avertismente\":0}],\"proprietati_cunoscute\":3}}"
+    },
+    {
+      "id": "6b0408ff484a4661231f5ac8",
+      "titlu": "[DISTRIBUIRE DOI] 2026-11-23",
+      "rezumat": "Dev.to: lista publicată (https://dev.to/bogdan_sambo_be2dc54ea397/hydra-coeziune-om-ia-the-complete-doi-registry-2026-11-23-8-published-works-539) —  · Google: sitemap trimis pe https://hidra-smart-core.com/ — sitemap trimis la Search Console",
+      "tip_context": "lista_doi_distribuire",
+      "detalii": "{\"actiune\":\"ambele\",\"zero_llm\":true,\"devto\":{\"ok\":true,\"url\":\"https://dev.to/bogdan_sambo_be2dc54ea397/hydra-coeziune-om-ia-the-complete-doi-registry-2026-11-23-8-published-works-539\",\"motiv\":null,\"total\":9,\"publicate\":8,\"amprenta\":\"220:166687871\"},\"google\":{\"ok\":true,\"proprietate\":\"https://hidra-smart-core.com/\",\"permisiune\":\"siteOwner\",\"sitemap\":\"https://hidra-smart-core.com/sitemap.xml\",\"status_http\":204,\"motiv\":\"sitemap trimis la Search Console\",\"stare_google\":[{\"cale\":\"https://hidra-smart-core.com/sitemap.xml\",\"trimis\":\"2026-11-23T09:35:59.519Z\",\"descarcat\":\"2026-11-23T07:56:31.519Z\",\"erori\":0,\"avertismente\":0},{\"cale\":\"https://hidra-smart-core.com/\",\"trimis\":\"2026-11-05T20:22:44.949Z\",\"descarcat\":\"2026-11-21T19:19:30.556Z\",\"erori\":1,\"avertismente\":0},{\"cale\":\"https://hidra-smart-core.com/Hidra-smart-core.com\",\"trimis\":\"2026-11-05T20:20:59.970Z\",\"descarcat\":\"2026-11-23T03:44:27.733Z\",\"erori\":1,\"avertismente\":0}],\"proprietati_cunoscute\":3}}"
+    }
+  ]
+}
