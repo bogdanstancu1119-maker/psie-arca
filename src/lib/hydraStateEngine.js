@@ -1,1 +1,1 @@
-const queue = []; const PROCESS_INTERVAL = 30000; async function persistState(data) { queue.push(data); if (queue.length > 5) { const batch = queue.splice(0, 5); await R2.put('hydra-memorie/bursa.json', JSON.stringify(batch)); } } setInterval(() => { if (queue.length > 0) persistState(queue.shift()); }, PROCESS_INTERVAL);
+const synchronizeState = (key, newState, existingState) => { if (!existingState || new Date(newState.timestamp) > new Date(existingState.timestamp)) { localStorage.setItem(key, JSON.stringify(newState)); return newState; } return existingState; };
