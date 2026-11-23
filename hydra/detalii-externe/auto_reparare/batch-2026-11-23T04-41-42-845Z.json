@@ -1,0 +1,34 @@
+{
+  "exportat_la": "2026-11-23T04:41:42.845Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6b03c3f1bf8ba3c037b58b85",
+      "titlu": "[CREIER·AUTO-REPARARE] 4 probleme atacate automat",
+      "rezumat": "cheie DENO_DEPLOY_TOKEN ruptă; cheie RENDER_SINGAPORE_KEY ruptă; cheie DEEPSEEK_KEY ruptă; 1 ordine Binance blocate în coadă",
+      "tip_context": "auto_reparare",
+      "detalii": "[{\"problema\":\"cheie DENO_DEPLOY_TOKEN ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"cheie RENDER_SINGAPORE_KEY ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"cheie DEEPSEEK_KEY ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"1 ordine Binance blocate în coadă\",\"atac\":\"puls executor + auto-pornire pe Termux\",\"verdict\":{\"executor\":\"mort\",\"comanda_pornire\":\"coadată pe Bogdan Sambo · Telefon\",\"ordine_pending\":1}}]"
+    },
+    {
+      "id": "6b03bce8ed6c7334b40ae760",
+      "titlu": "[CREIER·AUTO-REPARARE] 4 probleme atacate automat",
+      "rezumat": "cheie DENO_DEPLOY_TOKEN ruptă; cheie RENDER_SINGAPORE_KEY ruptă; cheie DEEPSEEK_KEY ruptă; 1 ordine Binance blocate în coadă",
+      "tip_context": "auto_reparare",
+      "detalii": "[{\"problema\":\"cheie DENO_DEPLOY_TOKEN ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"cheie RENDER_SINGAPORE_KEY ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"cheie DEEPSEEK_KEY ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"1 ordine Binance blocate în coadă\",\"atac\":\"puls executor + auto-pornire pe Termux\",\"verdict\":{\"executor\":\"mort\",\"comanda_pornire\":\"coadată pe Bogdan Sambo · Telefon\",\"ordine_pending\":1}}]"
+    },
+    {
+      "id": "6b03b855a74e22fb7d0c7439",
+      "titlu": "[AUTO-REPARARE] functionalitate — EȘUAT",
+      "rezumat": "Starea 'hydraRezolvaProblema' se resetează la fiecare reîncărcare a paginii, anulând procesul de învățare și optimizare. → Implementarea unui hook de persistență care sincronizează starea aplicației cu localStorage, asigurând continuitatea între sesiuni. | Eroare: 409: {\"message\":\"is at aa9109689ffbc1cedfcc9d67fd8808944d6c630a but expected 0d8c38dc13492aeda8b6629d86590bc02711cf7a\",\"documentation_url\":\"ht | SDI: 0.15",
+      "tip_context": "auto_reparare",
+      "detalii": "CICLU AUTO-REPARARE\n\nDiagnostic: Sistemul prezintă o fragmentare în persistența stării, cauzată de utilizarea exclusivă a stării locale (React State) fără sincronizare cu un strat de persistență extern (localStorage sau DB), ceea ce duce la pierderea datelor la refresh.\nProblema: Starea 'hydraRezolvaProblema' se resetează la fiecare reîncărcare a paginii, anulând procesul de învățare și optimizare.\nSoluția: Implementarea unui hook de persistență care sincronizează starea aplicației cu localStorage, asigurând continuitatea între sesiuni.\nFișier: src/hooks/useHydraState.js\nSDI: 0.15 | Reversibilitate: 1\n\nExecuție: Eroare: 409: {\"message\":\"is at aa9109689ffbc1cedfcc9d67fd8808944d6c630a but expected 0d8c38dc13492aeda8b6629d86590bc02711cf7a\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"409\"}\n\nPatch:\nimport { useState, useEffect } from 'react'; export const useHydraState = (key, initialValue) => { const [state, setState] = useState(() => { try { const item = window.localStorage.getItem(key); return item ? JSON.parse(item) : initialValue; } catch (error) { return initialValue; } }); useEffect(() => { try { window.localStorage.setItem(key, JSON.stringify(state)); } catch (error) { console.error('Persistenta esuata', error); } }, [key, state]); return [state, setState]; };"
+    },
+    {
+      "id": "6b03b4c57be9208c10a952ca",
+      "titlu": "[CREIER·AUTO-REPARARE] 4 probleme atacate automat",
+      "rezumat": "cheie DENO_DEPLOY_TOKEN ruptă; cheie RENDER_SINGAPORE_KEY ruptă; cheie DEEPSEEK_KEY ruptă; 1 ordine Binance blocate în coadă",
+      "tip_context": "auto_reparare",
+      "detalii": "[{\"problema\":\"cheie DENO_DEPLOY_TOKEN ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"cheie RENDER_SINGAPORE_KEY ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"cheie DEEPSEEK_KEY ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"1 ordine Binance blocate în coadă\",\"atac\":\"puls executor + auto-pornire pe Termux\",\"verdict\":{\"executor\":\"mort\",\"comanda_pornire\":\"coadată pe Bogdan Sambo · Telefon\",\"ordine_pending\":1}}]"
+    }
+  ]
+}
