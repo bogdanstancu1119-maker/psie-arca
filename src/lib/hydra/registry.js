@@ -1,0 +1,1 @@
+export async function getOrCreateOrgan(identificator, date) { const existent = await db.organs.findUnique({ where: { hash: identificator } }); if (existent) { return { status: 'merged', id: existent.id }; } return await db.organs.create({ data: { hash: identificator, ...date } }); }
