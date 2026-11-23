@@ -1,0 +1,1 @@
+if (state.organe_decuplate.length > 0) { const trezireImediata = state.organe_decuplate.filter(o => o.criticitate === 'imediat'); trezireImediata.forEach(organ => { system.injectPulse(organ.id, 'FORCE_START_REQUIRED'); logger.log('Trezire forțată organ: ' + organ.id); }); }
