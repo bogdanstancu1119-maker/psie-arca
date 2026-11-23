@@ -1,7 +1,7 @@
-// ORGAN AUTO-DEPLOYAT de Hydra — Structură în așteptare pasivă: Extindere cerere 6aff09ecd68701ae635038fd: mecanism de 'celule stem' — rezervor de 100 agenti reutilizabili, diferentiati la nevoie, NU duplicare noua
-// Generat autonom la 2026-11-23T15:26:53.888Z
-// Scop: Extindere cerere 6aff09ecd68701ae635038fd: mecanism de 'celule stem' — rezervor de 100 agenti reutilizabili, diferentiati la nevoie, NU duplicare noua
-// Plan: Hydra nu așteaptă pasiv Arhitectul. Fabrică varianta internă pentru: Extindere cerere 6aff09ecd68701ae635038fd: mecanism de 'celule stem' — rezervor de 100 agenti reutilizabili, diferentiati la nevoie, NU duplicare noua. 1. Izolează ce parte din nevoie poate fi acoperită cu organele actuale. 2. Implementează acea parte intern. 3. Păstrează invocarea deschisă doar pentru restul strict structural.
+// ORGAN AUTO-DEPLOYAT de Hydra — Structură în așteptare pasivă: Deduplicare la creare: GenPSIE si AgentHidra creeaza inregistrari noi identice in loc sa verifice existenta (fuzionare necesara, nu proliferare)
+// Generat autonom la 2026-11-23T16:50:23.226Z
+// Scop: Deduplicare la creare: GenPSIE si AgentHidra creeaza inregistrari noi identice in loc sa verifice existenta (fuzionare necesara, nu proliferare)
+// Plan: Hydra nu așteaptă pasiv Arhitectul. Fabrică varianta internă pentru: Deduplicare la creare: GenPSIE si AgentHidra creeaza inregistrari noi identice in loc sa verifice existenta (fuzionare necesara, nu proliferare). 1. Izolează ce parte din nevoie poate fi acoperită cu organele actuale. 2. Implementează acea parte intern. 3. Păstrează invocarea deschisă doar pentru restul strict structural.
 
 // (script negenerat — vezi plan_actiune)
 
