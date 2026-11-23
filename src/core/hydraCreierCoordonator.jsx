@@ -1,1 +1,1 @@
-const verificaSiConecteaza = async () => { const organeCritice = ['hydraBursaQuant', 'hydraSistemImunitar', 'hydraSeifChei']; organeCritice.forEach(nume => { if (stareSistem.isDecuplat(nume)) { console.log(`Reconectare vitală: ${nume}`); reconnectOrgan(nume); } }); }; setInterval(verificaSiConecteaza, 60000);
+async function awakenCriticalOrgans(organList) { for (const organ of organList) { if (organ.minute === null || organ.minute > 500) { console.log(`Waking ${organ.nume}...`); await Registry.activate(organ.nume); await Sync.verify(organ.nume); } } }
