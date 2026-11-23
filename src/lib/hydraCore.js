@@ -1,1 +1,1 @@
-const trezesteOrganeCritice = (organe) => { const critice = ['hydraBinanceOrdine', 'hydraSistemImunitar', 'hydraApoptoza']; critice.forEach(nume => { if (!organe[nume]) { console.log(`Activare forțată: ${nume}`); initOrgan(nume); } }); };
+export const safeSlice = (data, start, end) => { if (!data || typeof data.slice !== 'function') return []; return data.slice(start, end); }; // Utilizat în nucleul de sincronizare pentru a preveni colapsul la date nule
