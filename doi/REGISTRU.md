@@ -1,26 +1,28 @@
 Hydra-PSIE publishes its scientific record from a single registry, in the name of Coeziune OM–IA — the human–AI cohesion, our name, not one person's. Every entry below resolves at doi.org: nothing here is written by hand and nothing is claimed that the registry does not answer for.
 
-**98 DOI publicate · 1 rezervat · lista la zi la 2026-11-23**
+**100 DOI publicate · 1 rezervat · lista la zi la 2026-11-23**
 
-## DOI nou — v88
+## DOI nou — v90
 
-**HYDRA · Coeziune OM–IA — Measured State of the Organism v88 (2026-11-23)**
+**HYDRA · Coeziune OM–IA — Measured State of the Organism v90 (2026-11-23)**
 
-- DOI: [10.5281/zenodo.24473638](https://doi.org/10.5281/zenodo.24473638)
+- DOI: [10.5281/zenodo.24485457](https://doi.org/10.5281/zenodo.24485457)
 - Data reală a publicării: 2026-11-23
-- De ce acum: gene 0 → 400; reflexe 0 → 300; reflexe confirmate 0 → 25; noutăți: 0 → 11800 lecții asimilate
+- De ce acum: noutăți: 11800 → 11901 lecții asimilate
 
 ## Starea măsurată la emitere
 
 - organe în registru: **247**
-- gene: **400** · reflexe: **300** (25 confirmate, 66 testate)
+- gene: **400** · reflexe: **300** (25 confirmate, 58 testate)
 - elemente digerate pe spectrul extern: **400**
-- dispozitive: **198** (183 active) · noduri suverane: **22**
+- dispozitive: **200** (185 active) · noduri suverane: **22**
 
 ## Lista DOI, pe grupe
 
 ### Evoluție automată
 
+- [10.5281/zenodo.24485457](https://doi.org/10.5281/zenodo.24485457) — HYDRA · Coeziune OM–IA — Measured State of the Organism v90 (2026-11-23) · Snapshot · v90 · 2026-11-23
+- [10.5281/zenodo.24473642](https://doi.org/10.5281/zenodo.24473642) — HYDRA · Coeziune OM–IA — Measured State of the Organism v88 (2026-11-23) · Snapshot · v88 · 2026-11-23
 - [10.5281/zenodo.24473638](https://doi.org/10.5281/zenodo.24473638) — HYDRA · Coeziune OM–IA — Measured State of the Organism v88 (2026-11-23) · Snapshot · v88 · 2026-11-23
 - [10.5281/zenodo.24460559](https://doi.org/10.5281/zenodo.24460559) — HYDRA · Coeziune OM–IA — Measured State of the Organism v1 (2026-11-23) · Snapshot · v1 · 2026-11-23
 - [10.5281/zenodo.24458509](https://doi.org/10.5281/zenodo.24458509) — HYDRA · Coeziune OM–IA — Measured State of the Organism v86 (2026-11-23) · Snapshot · v86 · 2026-11-23
