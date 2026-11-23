@@ -1,0 +1,1 @@
+const trezireCritice = async () => { const raport = await getRaportRiscuri(); const critice = raport.imediat_decuplate; for (const organ of critice) { console.log(`[BOOT] Trezire forțată organ: ${organ.nume}`); await activateOrgan(organ.nume); } }; await trezireCritice();
