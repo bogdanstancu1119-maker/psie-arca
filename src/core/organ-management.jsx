@@ -1,0 +1,1 @@
+async function trezireOrgane(stareCurenta) { const organeTacute = stareCurenta.filter(o => o.stare === 'inactiv'); for (const organ of organeTacute) { await system.pulse(organ.id); console.log(`Trezire fortata: ${organ.nume}`); } return await updateDashboard('active', 'restored'); }
