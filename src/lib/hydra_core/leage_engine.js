@@ -1,0 +1,1 @@
+const getOrganeStabile = async () => { const [agregat, direct] = await Promise.all([Lege.aggregate({groupBy: 'stare'}), Lege.list()]); const reconciliat = new Map(); direct.forEach(o => reconciliat.set(o.id, o)); return Array.from(reconciliat.values()); };
