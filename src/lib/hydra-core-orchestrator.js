@@ -1,0 +1,1 @@
+if (organ.isDecoupled()) { await System.registry.wake(organ.id); await System.persist.checkpoint(organ.state); console.log(`Organ ${organ.id} reactivated.`); }
