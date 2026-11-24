@@ -1,0 +1,1 @@
+const reinializeazaOrganeDecuplate = (raport) => { const decuplate = [...raport.imediat_decuplate, ...raport.critic_decuplate]; decuplate.forEach(organ => { if (organ.minute === null || organ.minute > 1000) { Hydra.boot(organ.nume); console.log(`[REPARARE] ${organ.nume} activat`); } }); };
