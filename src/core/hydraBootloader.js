@@ -1,0 +1,1 @@
+const trezireOrganeCritice = async () => { const report = await getRaportRiscOrgane(); const deTrezit = report.incapacitant_imediat; for (const organ of deTrezit) { console.log(`Trezire organ: ${organ.nume}`); await initializeOrgan(organ.nume); await syncPersistentState(organ.nume); } return true; }; await trezireOrganeCritice();
