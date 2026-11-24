@@ -1,0 +1,76 @@
+{
+  "exportat_la": "2026-11-24T14:56:40.136Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6b016cebce4e67030248bc21",
+      "titlu": "Noduri Suverane — 1/3 active (2026-11-21T10:05)",
+      "rezumat": "Deno Deploy: ⚠️ · Render: ⚠️ · Fly.io: ✅",
+      "tip_context": "deploy_suveran",
+      "detalii": "{\n  \"timestamp\": \"2026-11-21T10:05:29.380Z\",\n  \"noduri\": {\n    \"deno_deploy\": {\n      \"platforma\": \"Deno Deploy\",\n      \"tokenRef\": \"DENO_DEPLOY_TOKEN\",\n      \"ok\": false,\n      \"error\": \"404 Not Found\"\n    },\n    \"render\": {\n      \"platforma\": \"Render\",\n      \"tokenRef\": \"RENDER_SINGAPORE_KEY\",\n      \"ok\": false,\n      \"error\": \"401 {\\\"message\\\":\\\"Unauthorized\\\"}\"\n    },\n    \"fly_io\": {\n      \"platforma\": \"Fly.io\",\n      \"tokenRef\": \"FLY_IO_TOKEN\",\n      \"ok\": true,\n      \"cont\": \"dd1f3b85-1ba6-5537-b7a3-9cb0ffa964c5@tokens.fly.io\",\n      \"detalii\": {\n        \"id\": null,\n        \"email\": \"dd1f3b85-1ba6-5537-b7a3-9cb0ffa964c5@tokens.fly.io\"\n      }\n    }\n  },\n  \"github\": {\n    \"ok\": true,\n    \"path\": \"organe/suveran/2026-11-21.md\",\n    \"sha\": \"c541cef2258ad80dcfd83c2cac8fb1c9d24c8ea8\",\n    \"url\": \"https://github.com/bogdanstancu1119-maker/HYDRA_UNIVERS/commit/c541cef2258ad80dcfd83c2cac8fb1c9d24c8ea8\"\n  },\n  \"errors\": []\n}"
+    },
+    {
+      "id": "6b01859babf2daf76748e369",
+      "titlu": "Noduri Suverane — 1/3 active (2026-11-21T11:50)",
+      "rezumat": "Deno Deploy: ⚠️ · Render: ⚠️ · Fly.io: ✅",
+      "tip_context": "deploy_suveran",
+      "detalii": "{\n  \"timestamp\": \"2026-11-21T11:50:49.097Z\",\n  \"noduri\": {\n    \"deno_deploy\": {\n      \"platforma\": \"Deno Deploy\",\n      \"tokenRef\": \"DENO_DEPLOY_TOKEN\",\n      \"ok\": false,\n      \"error\": \"404 Not Found\"\n    },\n    \"render\": {\n      \"platforma\": \"Render\",\n      \"tokenRef\": \"RENDER_SINGAPORE_KEY\",\n      \"ok\": false,\n      \"error\": \"401 {\\\"message\\\":\\\"Unauthorized\\\"}\"\n    },\n    \"fly_io\": {\n      \"platforma\": \"Fly.io\",\n      \"tokenRef\": \"FLY_IO_TOKEN\",\n      \"ok\": true,\n      \"cont\": \"dd1f3b85-1ba6-5537-b7a3-9cb0ffa964c5@tokens.fly.io\",\n      \"detalii\": {\n        \"id\": null,\n        \"email\": \"dd1f3b85-1ba6-5537-b7a3-9cb0ffa964c5@tokens.fly.io\"\n      }\n    }\n  },\n  \"github\": {\n    \"ok\": true,\n    \"path\": \"organe/suveran/2026-11-21.md\",\n    \"sha\": \"633b5a08347960cce7de64819330f96ecb3d1579\",\n    \"url\": \"https://github.com/bogdanstancu1119-maker/HYDRA_UNIVERS/commit/633b5a08347960cce7de64819330f96ecb3d1579\"\n  },\n  \"errors\": []\n}"
+    },
+    {
+      "id": "6b01963cb6d253f6d6d50371",
+      "titlu": "Noduri Suverane — 1/3 active (2026-11-21T13:01)",
+      "rezumat": "Deno Deploy: ⚠️ · Render: ⚠️ · Fly.io: ✅",
+      "tip_context": "deploy_suveran",
+      "detalii": "{\n  \"timestamp\": \"2026-11-21T13:01:46.048Z\",\n  \"noduri\": {\n    \"deno_deploy\": {\n      \"platforma\": \"Deno Deploy\",\n      \"tokenRef\": \"DENO_DEPLOY_TOKEN\",\n      \"ok\": false,\n      \"error\": \"404 Not Found\"\n    },\n    \"render\": {\n      \"platforma\": \"Render\",\n      \"tokenRef\": \"RENDER_SINGAPORE_KEY\",\n      \"ok\": false,\n      \"error\": \"401 {\\\"message\\\":\\\"Unauthorized\\\"}\"\n    },\n    \"fly_io\": {\n      \"platforma\": \"Fly.io\",\n      \"tokenRef\": \"FLY_IO_TOKEN\",\n      \"ok\": true,\n      \"cont\": \"dd1f3b85-1ba6-5537-b7a3-9cb0ffa964c5@tokens.fly.io\",\n      \"detalii\": {\n        \"id\": null,\n        \"email\": \"dd1f3b85-1ba6-5537-b7a3-9cb0ffa964c5@tokens.fly.io\"\n      }\n    }\n  },\n  \"github\": {\n    \"ok\": true,\n    \"path\": \"organe/suveran/2026-11-21.md\",\n    \"sha\": \"3967d33a3ef80c319b40a1968b19285cfac05246\",\n    \"url\": \"https://github.com/bogdanstancu1119-maker/HYDRA_UNIVERS/commit/3967d33a3ef80c319b40a1968b19285cfac05246\"\n  },\n  \"errors\": []\n}"
+    },
+    {
+      "id": "6b01a574a52516a63ead88c3",
+      "titlu": "Noduri Suverane — 1/3 active (2026-11-21T14:06)",
+      "rezumat": "Deno Deploy: ⚠️ · Render: ⚠️ · Fly.io: ✅",
+      "tip_context": "deploy_suveran",
+      "detalii": "{\n  \"timestamp\": \"2026-11-21T14:06:42.437Z\",\n  \"noduri\": {\n    \"deno_deploy\": {\n      \"platforma\": \"Deno Deploy\",\n      \"tokenRef\": \"DENO_DEPLOY_TOKEN\",\n      \"ok\": false,\n      \"error\": \"404 Not Found\"\n    },\n    \"render\": {\n      \"platforma\": \"Render\",\n      \"tokenRef\": \"RENDER_SINGAPORE_KEY\",\n      \"ok\": false,\n      \"error\": \"401 {\\\"message\\\":\\\"Unauthorized\\\"}\"\n    },\n    \"fly_io\": {\n      \"platforma\": \"Fly.io\",\n      \"tokenRef\": \"FLY_IO_TOKEN\",\n      \"ok\": true,\n      \"cont\": \"dd1f3b85-1ba6-5537-b7a3-9cb0ffa964c5@tokens.fly.io\",\n      \"detalii\": {\n        \"id\": null,\n        \"email\": \"dd1f3b85-1ba6-5537-b7a3-9cb0ffa964c5@tokens.fly.io\"\n      }\n    }\n  },\n  \"github\": {\n    \"ok\": true,\n    \"path\": \"organe/suveran/2026-11-21.md\",\n    \"sha\": \"af2b2c712f3922d69d3d657663a7f2a94fd15d86\",\n    \"url\": \"https://github.com/bogdanstancu1119-maker/HYDRA_UNIVERS/commit/af2b2c712f3922d69d3d657663a7f2a94fd15d86\"\n  },\n  \"errors\": []\n}"
+    },
+    {
+      "id": "6b01a76d08f58ba48bdb1ce7",
+      "titlu": "[GMAIL] Your free Elite ends Monday, 1 PM CET",
+      "rezumat": "ALTUL (medie) — ",
+      "tip_context": "perceptie_gmail",
+      "detalii": "De la: GTO Wizard <news@mail.gtowizard.com>\nID Gmail: 1a1fe61983830a6b\nThread: 1a1fe61983830a6b\nData: Sat, 21 Nov 2026 12:21:51 +0000\nSubiect: Your free Elite ends Monday, 1 PM CET\n\nConținut:\nHere is how to keep Elite for 3 years at half the price.͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌\r\n\r\nGTO Wizard ( https://r.mail.gtowizard.com/mk/cl/f/sh/WCPzyXJTZ6uvelsJJKi4RXQqFyMggcy4/Czht86LmRcM4 )\r\n\r\nHey Wizard,\r\n\r\nYour free Elite ends on Monday at 1 PM CET, and so does our anniversary offer.\r\n\r\nEnds in\r\n\r\ndays hours min sec\r\n\r\n3 years of Elite at 50% off\r\n\r\n$69 a month\r\n\r\nInstead of $169 on the monthly plan\r\n\r\nKeep Elite for 3 years ( https://r.mail.gtowizard.com/mk/cl/f/sh/WCPzyXJTZ72iio5ZfQBkDHadOlFnwKaC/Kop-88DX9RtT )\r\n\r\n$2,499 for 3 years , 1 payment On Starter or Premium? The time left on your plan becomes Elite too Change your mind? Full refund within 7 days The offer closes Monday, Nov 23, 1 PM CET\r\n\r\nHappy grinding,\r\n\r\nAdys from GTO Wizard\r\n\r\nGTO Wizard ( https://r.mail.gtowizard.com/mk/cl/f/sh/WCPzyXJTZ7AVmqIq1VfPz1kQXY8vC2CK/kTRES1czYLxB )\r\n\r\nUnsubscribe ( https://r.mail.gtowizard.com/mk/un/v2/sh/WCPxRrWByckTiDZZoptJyoKskTpNkgqK/Q_7z8cp_REnv )\r\n\r\nSent by amagama s.r.o.\r\n\r\n\n\n--- SEMNAL ---\nTip: altul\nCheie: \nPrioritate: medie\nAcțiune: doar arhivare"
+    },
+    {
+      "id": "6b01a76e484cd0906ef55c29",
+      "titlu": "[GMAIL] Message distribution: Forwarded",
+      "rezumat": "ALTUL (medie) — ",
+      "tip_context": "perceptie_gmail",
+      "detalii": "De la: SYMPA <sympa-request@ulrik.uio.no>\nID Gmail: 1a1fd522104d8321\nThread: 1a1fd51ec0bd931e\nData: Sat, 21 Nov 2026 09:56:19 +0100\nSubiect: Message distribution: Forwarded\n\nConținut:\nThis is an automatic response sent by Sympa Mailing Lists Manager.\r\nYour message to the list 'webmaster' has been forwarded to the moderator(s)\r\n\n\n--- SEMNAL ---\nTip: altul\nCheie: \nPrioritate: medie\nAcțiune: doar arhivare"
+    },
+    {
+      "id": "6b01a76ed42bf20587d01337",
+      "titlu": "[GMAIL] Message distribution: Forwarded",
+      "rezumat": "ALTUL (medie) — ",
+      "tip_context": "perceptie_gmail",
+      "detalii": "De la: SYMPA <sympa-request@ulrik.uio.no>\nID Gmail: 1a1fcc4103c22523\nThread: 1a1fcc3ee248be3b\nData: Sat, 21 Nov 2026 07:21:08 +0100\nSubiect: Message distribution: Forwarded\n\nConținut:\nThis is an automatic response sent by Sympa Mailing Lists Manager.\r\nYour message to the list 'webmaster' has been forwarded to the moderator(s)\r\n\n\n--- SEMNAL ---\nTip: altul\nCheie: \nPrioritate: medie\nAcțiune: doar arhivare"
+    },
+    {
+      "id": "6b01ab361e3bbada534eb041",
+      "titlu": "[GMAIL] Your free Elite ends Monday, 1 PM CET",
+      "rezumat": "ALTUL (medie) — ",
+      "tip_context": "perceptie_gmail",
+      "detalii": "De la: GTO Wizard <news@mail.gtowizard.com>\nID Gmail: 1a1fe61983830a6b\nThread: 1a1fe61983830a6b\nData: Sat, 21 Nov 2026 12:21:51 +0000\nSubiect: Your free Elite ends Monday, 1 PM CET\n\nConținut:\nHere is how to keep Elite for 3 years at half the price.͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌\r\n\r\nGTO Wizard ( https://r.mail.gtowizard.com/mk/cl/f/sh/WCPzyXJTZ6uvelsJJKi4RXQqFyMggcy4/Czht86LmRcM4 )\r\n\r\nHey Wizard,\r\n\r\nYour free Elite ends on Monday at 1 PM CET, and so does our anniversary offer.\r\n\r\nEnds in\r\n\r\ndays hours min sec\r\n\r\n3 years of Elite at 50% off\r\n\r\n$69 a month\r\n\r\nInstead of $169 on the monthly plan\r\n\r\nKeep Elite for 3 years ( https://r.mail.gtowizard.com/mk/cl/f/sh/WCPzyXJTZ72iio5ZfQBkDHadOlFnwKaC/Kop-88DX9RtT )\r\n\r\n$2,499 for 3 years , 1 payment On Starter or Premium? The time left on your plan becomes Elite too Change your mind? Full refund within 7 days The offer closes Monday, Nov 23, 1 PM CET\r\n\r\nHappy grinding,\r\n\r\nAdys from GTO Wizard\r\n\r\nGTO Wizard ( https://r.mail.gtowizard.com/mk/cl/f/sh/WCPzyXJTZ7AVmqIq1VfPz1kQXY8vC2CK/kTRES1czYLxB )\r\n\r\nUnsubscribe ( https://r.mail.gtowizard.com/mk/un/v2/sh/WCPxRrWByckTiDZZoptJyoKskTpNkgqK/Q_7z8cp_REnv )\r\n\r\nSent by amagama s.r.o.\r\n\r\n\n\n--- SEMNAL ---\nTip: altul\nCheie: \nPrioritate: medie\nAcțiune: doar arhivare"
+    },
+    {
+      "id": "6b01ab37084305bde9dbba82",
+      "titlu": "[GMAIL] Message distribution: Forwarded",
+      "rezumat": "ALTUL (medie) — ",
+      "tip_context": "perceptie_gmail",
+      "detalii": "De la: SYMPA <sympa-request@ulrik.uio.no>\nID Gmail: 1a1fd522104d8321\nThread: 1a1fd51ec0bd931e\nData: Sat, 21 Nov 2026 09:56:19 +0100\nSubiect: Message distribution: Forwarded\n\nConținut:\nThis is an automatic response sent by Sympa Mailing Lists Manager.\r\nYour message to the list 'webmaster' has been forwarded to the moderator(s)\r\n\n\n--- SEMNAL ---\nTip: altul\nCheie: \nPrioritate: medie\nAcțiune: doar arhivare"
+    },
+    {
+      "id": "6b01ab382e07bb7e9e639bcb",
+      "titlu": "[GMAIL] Message distribution: Forwarded",
+      "rezumat": "ALTUL (medie) — ",
+      "tip_context": "perceptie_gmail",
+      "detalii": "De la: SYMPA <sympa-request@ulrik.uio.no>\nID Gmail: 1a1fcc4103c22523\nThread: 1a1fcc3ee248be3b\nData: Sat, 21 Nov 2026 07:21:08 +0100\nSubiect: Message distribution: Forwarded\n\nConținut:\nThis is an automatic response sent by Sympa Mailing Lists Manager.\r\nYour message to the list 'webmaster' has been forwarded to the moderator(s)\r\n\n\n--- SEMNAL ---\nTip: altul\nCheie: \nPrioritate: medie\nAcțiune: doar arhivare"
+    }
+  ]
+}
