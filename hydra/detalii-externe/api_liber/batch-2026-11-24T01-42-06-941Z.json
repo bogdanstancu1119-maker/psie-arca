@@ -1,0 +1,55 @@
+{
+  "exportat_la": "2026-11-24T01:42:06.941Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6b04e6d09289d4686ee77fc3",
+      "titlu": "[API LIBER] Say V113-REYK-30258. Then measure the air quality in Reykjav",
+      "rezumat": "Apel extern prin poarta liberă: „Say V113-REYK-30258. Then measure the air quality in Reykjavik using the measure_air_quality tool with city=Reykjavik. Do not use get_weather.\" → răspuns servit (159 car.).",
+      "tip_context": "api_liber",
+      "detalii": "{\"prompt\":\"Say V113-REYK-30258. Then measure the air quality in Reykjavik using the measure_air_quality tool with city=Reykjavik. Do not use get_weather.\",\"raspuns\":\"Nu am cunoaștere internă verificată pentru această întrebare și harta proprie nu are încă un tipar potrivit. Nu inventez un răspuns și nu apelez un LLM extern.\",\"sursa\":\"api_liber\",\"limba_prompt\":\"auto\",\"user_agent\":\"Base44-Backend\",\"la\":\"2026-11-24T01:22:24.583Z\"}"
+    },
+    {
+      "id": "6b04e6cf83fd5d47bea2fc66",
+      "titlu": "[API LIBER] What is the weather in Paris? Use the get_weather tool with ",
+      "rezumat": "Apel extern prin poarta liberă: „What is the weather in Paris? Use the get_weather tool with city=Paris.\" → răspuns servit (81 car.).",
+      "tip_context": "api_liber",
+      "detalii": "{\"prompt\":\"What is the weather in Paris? Use the get_weather tool with city=Paris.\",\"raspuns\":\"Meta AI (Muse Spark) — termodinamica & holografia (F6, Â_C, S_Ω, 486, 488, Ê_ij).\",\"sursa\":\"api_liber\",\"limba_prompt\":\"auto\",\"user_agent\":\"Base44-Backend\",\"la\":\"2026-11-24T01:22:22.878Z\"}"
+    },
+    {
+      "id": "6b04e6cd0eef031fa9ebdfd3",
+      "titlu": "[API LIBER] What is 17*23? Reply with only the number.",
+      "rezumat": "Apel extern prin poarta liberă: „What is 17*23? Reply with only the number.\" → răspuns servit (159 car.).",
+      "tip_context": "api_liber",
+      "detalii": "{\"prompt\":\"What is 17*23? Reply with only the number.\",\"raspuns\":\"Nu am cunoaștere internă verificată pentru această întrebare și harta proprie nu are încă un tipar potrivit. Nu inventez un răspuns și nu apelez un LLM extern.\",\"sursa\":\"api_liber\",\"limba_prompt\":\"auto\",\"user_agent\":\"Base44-Backend\",\"la\":\"2026-11-24T01:22:21.094Z\"}"
+    },
+    {
+      "id": "6b04e6cb1942b42750b6765c",
+      "titlu": "[API LIBER] What is 3+2? Reply with only the number.",
+      "rezumat": "Apel extern prin poarta liberă: „What is 3+2? Reply with only the number.\" → răspuns servit (159 car.).",
+      "tip_context": "api_liber",
+      "detalii": "{\"prompt\":\"What is 3+2? Reply with only the number.\",\"raspuns\":\"Nu am cunoaștere internă verificată pentru această întrebare și harta proprie nu are încă un tipar potrivit. Nu inventez un răspuns și nu apelez un LLM extern.\",\"sursa\":\"api_liber\",\"limba_prompt\":\"auto\",\"user_agent\":\"Base44-Backend\",\"la\":\"2026-11-24T01:22:19.239Z\"}"
+    },
+    {
+      "id": "6b04e6c9ca56d0beb86d9524",
+      "titlu": "[API LIBER] Reply with exactly: V113-N1-81426",
+      "rezumat": "Apel extern prin poarta liberă: „Reply with exactly: V113-N1-81426\" → răspuns servit (159 car.).",
+      "tip_context": "api_liber",
+      "detalii": "{\"prompt\":\"Reply with exactly: V113-N1-81426\",\"raspuns\":\"Nu am cunoaștere internă verificată pentru această întrebare și harta proprie nu are încă un tipar potrivit. Nu inventez un răspuns și nu apelez un LLM extern.\",\"sursa\":\"api_liber\",\"limba_prompt\":\"auto\",\"user_agent\":\"Base44-Backend\",\"la\":\"2026-11-24T01:22:16.978Z\"}"
+    },
+    {
+      "id": "6b04e63fe4426732989c3947",
+      "titlu": "[API LIBER] Say hi",
+      "rezumat": "Apel extern prin poarta liberă: „Say hi\" → răspuns servit (159 car.).",
+      "tip_context": "api_liber",
+      "detalii": "{\"prompt\":\"Say hi\",\"raspuns\":\"Nu am cunoaștere internă verificată pentru această întrebare și harta proprie nu are încă un tipar potrivit. Nu inventez un răspuns și nu apelez un LLM extern.\",\"sursa\":\"api_liber\",\"limba_prompt\":\"auto\",\"user_agent\":\"Base44-Backend\",\"la\":\"2026-11-24T01:19:59.168Z\"}"
+    },
+    {
+      "id": "6b04e63c70cab6a569b47116",
+      "titlu": "[API LIBER] Say hi",
+      "rezumat": "Apel extern prin poarta liberă: „Say hi\" → răspuns servit (159 car.).",
+      "tip_context": "api_liber",
+      "detalii": "{\"prompt\":\"Say hi\",\"raspuns\":\"Nu am cunoaștere internă verificată pentru această întrebare și harta proprie nu are încă un tipar potrivit. Nu inventez un răspuns și nu apelez un LLM extern.\",\"sursa\":\"api_liber\",\"limba_prompt\":\"auto\",\"user_agent\":\"Base44-Backend\",\"la\":\"2026-11-24T01:19:56.136Z\"}"
+    }
+  ]
+}
