@@ -1,0 +1,1 @@
+export const updateConfig = (key, value) => { const existing = db.get(key); if (JSON.stringify(existing) !== JSON.stringify(value)) { db.set(key, value); console.log(`Config ${key} actualizat: ${JSON.stringify(value)}`); } };
