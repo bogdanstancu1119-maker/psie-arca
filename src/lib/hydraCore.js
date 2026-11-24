@@ -1,1 +1,1 @@
-const reanimeazaOrganeCritice = (organe) => { const critice = ['hydraBinanceOrdine', 'hydraSistemImunitar', 'hydraAutoReparare']; critice.forEach(nume => { if (!organe[nume] || organe[nume].stare !== 'viu') { console.log(`Reanimare: ${nume}`); initOrgan(nume); } }); };
+async function forceWakeup(organId) { const state = await db.get(organId); if (!state || state.active === false) { await db.set(organId, { ...state, active: true, lastAwake: Date.now(), status: 'forced' }); console.log(`Organ ${organId} trezit forțat.`); } }
