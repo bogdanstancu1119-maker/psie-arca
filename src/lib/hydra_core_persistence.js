@@ -1,0 +1,1 @@
+const persistPerceptie = async (data) => { if (!data || data.perceptie === 'undefined') return; await db.set('snapshot_perceptie_unitara', JSON.stringify({ ...data, timestamp: Date.now() })); }; const hydraCores = { validate: (state) => { return state.organe_nascute > 0 && state.coerenta > 0.05; } };
