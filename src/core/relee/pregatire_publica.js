@@ -1,0 +1,1 @@
+const verificaRedundanta = (cheie, valoareNoua) => { const ultimaStare = db.get(cheie); if (ultimaStare && ultimaStare.verdict === valoareNoua.verdict && (Date.now() - ultimaStare.ts < 60000)) return false; return true; };
