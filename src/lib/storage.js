@@ -1,0 +1,1 @@
+const updateSystemState = (key, newState) => { const currentState = getFromStorage(key); if (currentState && currentState.bucle >= newState.bucle) return; setToStorage(key, newState); };
