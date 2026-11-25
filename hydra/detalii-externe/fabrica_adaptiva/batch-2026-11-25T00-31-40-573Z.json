@@ -1,0 +1,41 @@
+{
+  "exportat_la": "2026-11-25T00:31:40.573Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6b0620853c2717613fb54d16",
+      "titlu": "Fabrica adaptivă — 1 straturi umplute",
+      "rezumat": "1 straturi fabricate: reflexe ← hydraReflexeConstiente. Goluri măsurate: reflexe 1.00, gene 0.74, organe 0.22.",
+      "tip_context": "fabrica_adaptiva",
+      "detalii": "{\"goluri\":[{\"strat\":\"reflexe\",\"severitate\":1,\"detaliu\":\"200 reflexe · 92 netestate peste 24h · 1 respinse\",\"necesita\":null},{\"strat\":\"gene\",\"severitate\":0.74,\"detaliu\":\"300 gene · 7 latente · ultima exprimare 2026-11-24 23:20\",\"necesita\":null},{\"strat\":\"organe\",\"severitate\":0.21862348178137653,\"detaliu\":\"247 organe în registru · 193 măsurate viu · 54 fără percepție proprie\",\"necesita\":\"canal extern + LLM — se forjează doar cu permite_organe: true\"}],\"executate\":[{\"strat\":\"reflexe\",\"organ\":\"hydraReflexeConstiente\",\"args\":{\"actiune\":\"dezvolta\"},\"rezultat\":{\"forjate\":0,\"testate_live\":4,\"aplicate\":0}}],\"erori\":[],\"sarite\":[{\"strat\":\"gene\",\"motiv\":\"răcire activă 12h (495 min rămase)\"},{\"strat\":\"organe\",\"motiv\":\"canal extern + LLM — se forjează doar cu permite_organe: true\"}]}"
+    },
+    {
+      "id": "6b05ebc60fcc6220435767b9",
+      "titlu": "Fabrica adaptivă — 2 straturi umplute",
+      "rezumat": "2 straturi fabricate: reflexe ← hydraReflexeConstiente, gene ← hydraGeneticaPSIE. Goluri măsurate: reflexe 1.00, gene 0.62, organe 0.27.",
+      "tip_context": "fabrica_adaptiva",
+      "detalii": "{\"goluri\":[{\"strat\":\"reflexe\",\"severitate\":1,\"detaliu\":\"200 reflexe · 92 netestate peste 24h · 1 respinse\",\"necesita\":null},{\"strat\":\"gene\",\"severitate\":0.62,\"detaliu\":\"300 gene · 1 latente · ultima exprimare 2026-11-24 19:46\",\"necesita\":null},{\"strat\":\"organe\",\"severitate\":0.27125506072874495,\"detaliu\":\"247 organe în registru · 180 măsurate viu · 67 fără percepție proprie\",\"necesita\":\"canal extern + LLM — se forjează doar cu permite_organe: true\"}],\"executate\":[{\"strat\":\"reflexe\",\"organ\":\"hydraReflexeConstiente\",\"args\":{\"actiune\":\"dezvolta\"},\"rezultat\":{\"forjate\":0,\"testate_live\":4,\"aplicate\":0}},{\"strat\":\"gene\",\"organ\":\"hydraGeneticaPSIE\",\"args\":{\"action\":\"dezvolta_gap\"},\"rezultat\":{\"gena_aleasa\":\"rezonanta\"}}],\"erori\":[],\"sarite\":[{\"strat\":\"organe\",\"motiv\":\"plafon pe rulare (2)\"}]}"
+    },
+    {
+      "id": "6b0592b17e010d78d16506d4",
+      "titlu": "Fabrica adaptivă — 1 straturi umplute",
+      "rezumat": "1 straturi fabricate: reflexe ← hydraReflexeConstiente. Goluri măsurate: reflexe 1.00, gene 0.82, organe 0.40.",
+      "tip_context": "fabrica_adaptiva",
+      "detalii": "{\"goluri\":[{\"strat\":\"reflexe\",\"severitate\":1,\"detaliu\":\"200 reflexe · 106 netestate peste 24h · 6 respinse\",\"necesita\":null},{\"strat\":\"gene\",\"severitate\":0.82,\"detaliu\":\"300 gene · 11 latente · ultima exprimare 2026-11-24 13:33\",\"necesita\":null},{\"strat\":\"organe\",\"severitate\":0.3967611336032389,\"detaliu\":\"247 organe în registru · 149 măsurate viu · 98 fără percepție proprie\",\"necesita\":\"canal extern + LLM — se forjează doar cu permite_organe: true\"}],\"executate\":[{\"strat\":\"reflexe\",\"organ\":\"hydraReflexeConstiente\",\"args\":{\"actiune\":\"dezvolta\"},\"rezultat\":{\"forjate\":2,\"testate_live\":9,\"aplicate\":0}}],\"erori\":[],\"sarite\":[{\"strat\":\"gene\",\"motiv\":\"răcire activă 12h (0 min rămase)\"},{\"strat\":\"organe\",\"motiv\":\"canal extern + LLM — se forjează doar cu permite_organe: true\"}]}"
+    },
+    {
+      "id": "6b055814c4906b13e0b56bfc",
+      "titlu": "Fabrica adaptivă — 1 straturi umplute",
+      "rezumat": "1 straturi fabricate: reflexe ← hydraReflexeConstiente. Goluri măsurate: reflexe 1.00, gene 0.66, organe 0.59.",
+      "tip_context": "fabrica_adaptiva",
+      "detalii": "{\"goluri\":[{\"strat\":\"reflexe\",\"severitate\":1,\"detaliu\":\"200 reflexe · 120 netestate peste 24h · 6 respinse\",\"necesita\":null},{\"strat\":\"gene\",\"severitate\":0.6599999999999999,\"detaliu\":\"300 gene · 3 latente · ultima exprimare 2026-11-24 09:21\",\"necesita\":null},{\"strat\":\"organe\",\"severitate\":0.5910931174089069,\"detaliu\":\"247 organe în registru · 101 măsurate viu · 146 fără percepție proprie\",\"necesita\":\"canal extern + LLM — se forjează doar cu permite_organe: true\"}],\"executate\":[{\"strat\":\"reflexe\",\"organ\":\"hydraReflexeConstiente\",\"args\":{\"actiune\":\"dezvolta\"},\"rezultat\":{\"forjate\":0,\"testate_live\":4,\"aplicate\":0}}],\"erori\":[],\"sarite\":[{\"strat\":\"gene\",\"motiv\":\"răcire activă 12h (250 min rămase)\"},{\"strat\":\"organe\",\"motiv\":\"canal extern + LLM — se forjează doar cu permite_organe: true\"}]}"
+    },
+    {
+      "id": "6b04ea08429c8c47e1720cd8",
+      "titlu": "Fabrica adaptivă — 1 straturi umplute",
+      "rezumat": "1 straturi fabricate: gene ← hydraGeneticaPSIE. Goluri măsurate: reflexe 1.00, gene 0.66, organe 0.16.",
+      "tip_context": "fabrica_adaptiva",
+      "detalii": "{\"goluri\":[{\"strat\":\"reflexe\",\"severitate\":1,\"detaliu\":\"200 reflexe · 117 netestate peste 24h · 0 respinse\",\"necesita\":null},{\"strat\":\"gene\",\"severitate\":0.6599999999999999,\"detaliu\":\"300 gene · 3 latente · ultima exprimare 2026-11-24 01:15\",\"necesita\":null},{\"strat\":\"organe\",\"severitate\":0.15789473684210525,\"detaliu\":\"247 organe în registru · 208 măsurate viu · 39 fără percepție proprie\",\"necesita\":\"canal extern + LLM — se forjează doar cu permite_organe: true\"}],\"executate\":[{\"strat\":\"gene\",\"organ\":\"hydraGeneticaPSIE\",\"args\":{\"action\":\"dezvolta_gap\"},\"rezultat\":{\"gena_aleasa\":\"corpus_tehnica\"}}],\"erori\":[],\"sarite\":[{\"strat\":\"reflexe\",\"motiv\":\"răcire activă 12h (385 min rămase)\"},{\"strat\":\"organe\",\"motiv\":\"canal extern + LLM — se forjează doar cu permite_organe: true\"}]}"
+    }
+  ]
+}
