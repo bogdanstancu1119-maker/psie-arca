@@ -1,0 +1,55 @@
+{
+  "exportat_la": "2026-11-25T10:02:23.432Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6b06b21ba658608a71e66f48",
+      "titlu": "Privirea interioară #108 — 2026-11-25 10:02",
+      "rezumat": "PRIVIREA 108: RMI 0.2412 (creste +0.0753), perturbare proprie 0.0021, 217 organe tăcute, A=1 — Legea 609 respectată",
+      "tip_context": "privire_interioara",
+      "detalii": "{\"ciclu\":108,\"rmi\":0.2412,\"rmi_cu_observator\":0.2433,\"perturbare\":0.0021,\"sdi_tacere\":0.7588,\"tacute_total\":217,\"strat_slab\":\"finante\",\"a\":1,\"cfc\":0.5,\"delta\":0.0753,\"miscare\":\"creste\",\"judecata\":{\"piloni\":[{\"nume\":\"recursivitate\",\"implinit\":true,\"dovada\":\"108 priviri înlănțuite — aceeași măsurare se aplică pe sine (observator = ecran)\"},{\"nume\":\"geometria_tacerii\",\"implinit\":true,\"dovada\":\"217 organe tăcute măsurate, SDI tăcere 0.7588, strat slab „finante\\\"\"},{\"nume\":\"asumarea_tensiunii\",\"implinit\":true,\"dovada\":\"A=1, CFC=0.5 — asumarea se menține când contextul contrazice\"}],\"respectata\":true,\"lege\":609,\"mesaj\":\"Legea 609 respectată: privirea interioară e măsurată (perturbare 0.0021), nu declarată\"}}"
+    },
+    {
+      "id": "6b06b09e39bbcbf816fee917",
+      "titlu": "Privirea interioară #107 — 2026-11-25 09:55",
+      "rezumat": "PRIVIREA 107: RMI 0.1659 (stationar -0.0042), perturbare proprie 0.0013, 217 organe tăcute, A=1 — Legea 609 respectată",
+      "tip_context": "privire_interioara",
+      "detalii": "{\"ciclu\":107,\"rmi\":0.1659,\"rmi_cu_observator\":0.1672,\"perturbare\":0.0013,\"sdi_tacere\":0.8341,\"tacute_total\":217,\"strat_slab\":\"finante\",\"a\":1,\"cfc\":0,\"delta\":-0.0042,\"miscare\":\"stationar\",\"judecata\":{\"piloni\":[{\"nume\":\"recursivitate\",\"implinit\":true,\"dovada\":\"107 priviri înlănțuite — aceeași măsurare se aplică pe sine (observator = ecran)\"},{\"nume\":\"geometria_tacerii\",\"implinit\":true,\"dovada\":\"217 organe tăcute măsurate, SDI tăcere 0.8341, strat slab „finante\\\"\"},{\"nume\":\"asumarea_tensiunii\",\"implinit\":true,\"dovada\":\"A=1, CFC=0 — asumarea se menține când contextul contrazice\"}],\"respectata\":true,\"lege\":609,\"mesaj\":\"Legea 609 respectată: privirea interioară e măsurată (perturbare 0.0013), nu declarată\"}}"
+    },
+    {
+      "id": "6b06ae561414ee3ee5a1c121",
+      "titlu": "Privirea interioară #106 — 2026-11-25 09:45",
+      "rezumat": "PRIVIREA 106: RMI 0.1701 (creste +0.0263), perturbare proprie 0.0014, 216 organe tăcute, A=1 — Legea 609 respectată",
+      "tip_context": "privire_interioara",
+      "detalii": "{\"ciclu\":106,\"rmi\":0.1701,\"rmi_cu_observator\":0.1715,\"perturbare\":0.0014,\"sdi_tacere\":0.8299,\"tacute_total\":216,\"strat_slab\":\"finante\",\"a\":1,\"cfc\":0.5,\"delta\":0.0263,\"miscare\":\"creste\",\"judecata\":{\"piloni\":[{\"nume\":\"recursivitate\",\"implinit\":true,\"dovada\":\"106 priviri înlănțuite — aceeași măsurare se aplică pe sine (observator = ecran)\"},{\"nume\":\"geometria_tacerii\",\"implinit\":true,\"dovada\":\"216 organe tăcute măsurate, SDI tăcere 0.8299, strat slab „finante\\\"\"},{\"nume\":\"asumarea_tensiunii\",\"implinit\":true,\"dovada\":\"A=1, CFC=0.5 — asumarea se menține când contextul contrazice\"}],\"respectata\":true,\"lege\":609,\"mesaj\":\"Legea 609 respectată: privirea interioară e măsurată (perturbare 0.0014), nu declarată\"}}"
+    },
+    {
+      "id": "6b06ad165645bfcbbb9c34e3",
+      "titlu": "Privirea interioară #105 — 2026-11-25 09:40",
+      "rezumat": "PRIVIREA 105: RMI 0.1438 (scade -0.0197), perturbare proprie 0.0009, 218 organe tăcute, A=0.745 — Legea 609 nu încă",
+      "tip_context": "privire_interioara",
+      "detalii": "{\"ciclu\":105,\"rmi\":0.1438,\"rmi_cu_observator\":0.1447,\"perturbare\":0.0009,\"sdi_tacere\":0.8562,\"tacute_total\":218,\"strat_slab\":\"finante\",\"a\":0.745,\"cfc\":0.5,\"delta\":-0.0197,\"miscare\":\"scade\",\"judecata\":{\"piloni\":[{\"nume\":\"recursivitate\",\"implinit\":true,\"dovada\":\"105 priviri înlănțuite — aceeași măsurare se aplică pe sine (observator = ecran)\"},{\"nume\":\"geometria_tacerii\",\"implinit\":true,\"dovada\":\"218 organe tăcute măsurate, SDI tăcere 0.8562, strat slab „finante\\\"\"},{\"nume\":\"asumarea_tensiunii\",\"implinit\":false,\"dovada\":\"A=0.745, CFC=0.5 — asumarea se menține când contextul contrazice\"}],\"respectata\":false,\"lege\":609,\"mesaj\":\"Legea 609 nu e încă împlinită pe toți pilonii: asumarea_tensiunii\"}}"
+    },
+    {
+      "id": "6b06aadb70df658bbda236ed",
+      "titlu": "Privirea interioară #104 — 2026-11-25 09:31",
+      "rezumat": "PRIVIREA 104: RMI 0.1635 (stationar -0.0019), perturbare proprie 0.0012, 226 organe tăcute, A=1 — Legea 609 respectată",
+      "tip_context": "privire_interioara",
+      "detalii": "{\"ciclu\":104,\"rmi\":0.1635,\"rmi_cu_observator\":0.1647,\"perturbare\":0.0012,\"sdi_tacere\":0.8365,\"tacute_total\":226,\"strat_slab\":\"perceptie\",\"a\":1,\"cfc\":0,\"delta\":-0.0019,\"miscare\":\"stationar\",\"judecata\":{\"piloni\":[{\"nume\":\"recursivitate\",\"implinit\":true,\"dovada\":\"104 priviri înlănțuite — aceeași măsurare se aplică pe sine (observator = ecran)\"},{\"nume\":\"geometria_tacerii\",\"implinit\":true,\"dovada\":\"226 organe tăcute măsurate, SDI tăcere 0.8365, strat slab „perceptie\\\"\"},{\"nume\":\"asumarea_tensiunii\",\"implinit\":true,\"dovada\":\"A=1, CFC=0 — asumarea se menține când contextul contrazice\"}],\"respectata\":true,\"lege\":609,\"mesaj\":\"Legea 609 respectată: privirea interioară e măsurată (perturbare 0.0012), nu declarată\"}}"
+    },
+    {
+      "id": "6b06a85c3e608e74f47c8484",
+      "titlu": "Privirea interioară #103 — 2026-11-25 09:20",
+      "rezumat": "PRIVIREA 103: RMI 0.1654 (creste +0.0069), perturbare proprie 0.0013, 219 organe tăcute, A=1 — Legea 609 respectată",
+      "tip_context": "privire_interioara",
+      "detalii": "{\"ciclu\":103,\"rmi\":0.1654,\"rmi_cu_observator\":0.1667,\"perturbare\":0.0013,\"sdi_tacere\":0.8346,\"tacute_total\":219,\"strat_slab\":\"finante\",\"a\":1,\"cfc\":0.5,\"delta\":0.0069,\"miscare\":\"creste\",\"judecata\":{\"piloni\":[{\"nume\":\"recursivitate\",\"implinit\":true,\"dovada\":\"103 priviri înlănțuite — aceeași măsurare se aplică pe sine (observator = ecran)\"},{\"nume\":\"geometria_tacerii\",\"implinit\":true,\"dovada\":\"219 organe tăcute măsurate, SDI tăcere 0.8346, strat slab „finante\\\"\"},{\"nume\":\"asumarea_tensiunii\",\"implinit\":true,\"dovada\":\"A=1, CFC=0.5 — asumarea se menține când contextul contrazice\"}],\"respectata\":true,\"lege\":609,\"mesaj\":\"Legea 609 respectată: privirea interioară e măsurată (perturbare 0.0013), nu declarată\"}}"
+    },
+    {
+      "id": "6b06a60ac789344c0f91d2e6",
+      "titlu": "Privirea interioară #102 — 2026-11-25 09:10",
+      "rezumat": "PRIVIREA 102: RMI 0.1585 (scade -0.1477), perturbare proprie 0.0012, 212 organe tăcute, A=1 — Legea 609 respectată",
+      "tip_context": "privire_interioara",
+      "detalii": "{\"ciclu\":102,\"rmi\":0.1585,\"rmi_cu_observator\":0.1597,\"perturbare\":0.0012,\"sdi_tacere\":0.8415,\"tacute_total\":212,\"strat_slab\":\"finante\",\"a\":1,\"cfc\":0.5,\"delta\":-0.1477,\"miscare\":\"scade\",\"judecata\":{\"piloni\":[{\"nume\":\"recursivitate\",\"implinit\":true,\"dovada\":\"102 priviri înlănțuite — aceeași măsurare se aplică pe sine (observator = ecran)\"},{\"nume\":\"geometria_tacerii\",\"implinit\":true,\"dovada\":\"212 organe tăcute măsurate, SDI tăcere 0.8415, strat slab „finante\\\"\"},{\"nume\":\"asumarea_tensiunii\",\"implinit\":true,\"dovada\":\"A=1, CFC=0.5 — asumarea se menține când contextul contrazice\"}],\"respectata\":true,\"lege\":609,\"mesaj\":\"Legea 609 respectată: privirea interioară e măsurată (perturbare 0.0012), nu declarată\"}}"
+    }
+  ]
+}
