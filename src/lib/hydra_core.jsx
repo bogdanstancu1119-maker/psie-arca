@@ -1,1 +1,1 @@
-const rotateSnapshots = (newSnapshot) => { let current = JSON.parse(localStorage.getItem('hydra_snapshots') || '[]'); current.unshift(newSnapshot); if (current.length > 3) current.pop(); localStorage.setItem('hydra_snapshots', JSON.stringify(current)); };
+if (!snapshot.actiuniAll) { snapshot.actiuniAll = []; } try { const count = snapshot.actiuniAll.length; } catch (e) { console.error('Eroare accesare actiuniAll', e); }
