@@ -1,1 +1,1 @@
-if (localStorage.getItem('hydra_state_integrity') < 0.1) { console.warn('Hydra: State fragmentat, forțare regenerare.'); localStorage.setItem('hydra_mode', 'REGENERATE'); window.dispatchEvent(new Event('hydra-force-sync')); }
+const saveState = (key, value) => { const history = JSON.parse(localStorage.getItem('hydra_history') || '{}'); history[key] = [...(history[key] || []), { ts: Date.now(), val: value }]; localStorage.setItem('hydra_history', JSON.stringify(history)); localStorage.setItem(key, JSON.stringify(value)); };
