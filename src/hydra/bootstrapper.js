@@ -1,0 +1,1 @@
+const bootstrapper = async (registru) => { const critice = registru.incapacitant_imediat.filter(o => !o.viu); for (const organ of critice) { await triggerInit(organ.nume); console.log(`Trezire forțată: ${organ.nume}`); } }; export default bootstrapper;
