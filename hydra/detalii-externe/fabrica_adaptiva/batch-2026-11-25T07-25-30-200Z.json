@@ -1,0 +1,97 @@
+{
+  "exportat_la": "2026-11-25T07:25:30.200Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6afd346bce2f3f8470db0664",
+      "titlu": "Fabrica adaptivă — 1 straturi umplute",
+      "rezumat": "1 straturi fabricate: gene ← hydraGeneticaPSIE. Goluri măsurate: reflexe 1.00, gene 0.96, organe 0.57.",
+      "tip_context": "fabrica_adaptiva",
+      "detalii": "{\"goluri\":[{\"strat\":\"reflexe\",\"severitate\":1,\"detaliu\":\"200 reflexe · 111 netestate peste 24h · 4 respinse\",\"necesita\":null},{\"strat\":\"gene\",\"severitate\":0.96,\"detaliu\":\"300 gene · 18 latente · ultima exprimare 2026-11-18 05:06\",\"necesita\":null},{\"strat\":\"organe\",\"severitate\":0.5708502024291497,\"detaliu\":\"247 organe în registru · 106 măsurate viu · 141 fără percepție proprie\",\"necesita\":\"canal extern + LLM — se forjează doar cu permite_organe: true\"}],\"executate\":[{\"strat\":\"gene\",\"organ\":\"hydraGeneticaPSIE\",\"args\":{\"action\":\"dezvolta_gap\"},\"rezultat\":{\"gena_aleasa\":\"corpus_tehnica\"}}],\"erori\":[],\"sarite\":[{\"strat\":\"reflexe\",\"motiv\":\"răcire activă 12h (367 min rămase)\"},{\"strat\":\"organe\",\"motiv\":\"canal extern + LLM — se forjează doar cu permite_organe: true\"}]}"
+    },
+    {
+      "id": "6afd69757da1141a99bfa555",
+      "titlu": "Fabrica adaptivă — 0 straturi umplute",
+      "rezumat": "0 straturi fabricate, 2 erori: niciunul. Goluri măsurate: reflexe 1.00, agenti 1.00, organe 1.00.",
+      "tip_context": "fabrica_adaptiva",
+      "detalii": "{\"goluri\":[{\"strat\":\"reflexe\",\"severitate\":1,\"detaliu\":\"0 reflexe · 0 netestate peste 24h · 0 respinse\",\"necesita\":null},{\"strat\":\"agenti\",\"severitate\":1,\"detaliu\":\"0 agenți interni · 0 noi în 24h · 0 unelte forjate în 24h\",\"necesita\":null},{\"strat\":\"organe\",\"severitate\":1,\"detaliu\":\"247 organe în registru · 0 măsurate viu · 247 fără percepție proprie\",\"necesita\":\"canal extern + LLM — se forjează doar cu permite_organe: true\"}],\"executate\":[],\"erori\":[{\"strat\":\"reflexe\",\"organ\":\"hydraReflexeConstiente\",\"eroare\":\"Request failed with status code 500\"},{\"strat\":\"agenti\",\"organ\":\"hydraForjaAgenti\",\"eroare\":\"Request failed with status code 500\"}],\"sarite\":[{\"strat\":\"organe\",\"motiv\":\"canal extern + LLM — se forjează doar cu permite_organe: true\"}]}"
+    },
+    {
+      "id": "6afd8563158ca649008ed019",
+      "titlu": "Fabrica adaptivă — 1 straturi umplute",
+      "rezumat": "1 straturi fabricate: gene ← hydraGeneticaPSIE. Goluri măsurate: reflexe 1.00, gene 1.00, organe 0.56.",
+      "tip_context": "fabrica_adaptiva",
+      "detalii": "{\"goluri\":[{\"strat\":\"reflexe\",\"severitate\":1,\"detaliu\":\"200 reflexe · 102 netestate peste 24h · 9 respinse\",\"necesita\":null},{\"strat\":\"gene\",\"severitate\":1,\"detaliu\":\"300 gene · 40 latente · ultima exprimare 2026-11-18 10:57\",\"necesita\":null},{\"strat\":\"organe\",\"severitate\":0.5587044534412956,\"detaliu\":\"247 organe în registru · 109 măsurate viu · 138 fără percepție proprie\",\"necesita\":\"canal extern + LLM — se forjează doar cu permite_organe: true\"}],\"executate\":[{\"strat\":\"gene\",\"organ\":\"hydraGeneticaPSIE\",\"args\":{\"action\":\"dezvolta_gap\"},\"rezultat\":{\"gena_aleasa\":\"corpus_tehnica\"}}],\"erori\":[],\"sarite\":[{\"strat\":\"reflexe\",\"motiv\":\"răcire activă 12h (601 min rămase)\"},{\"strat\":\"organe\",\"motiv\":\"canal extern + LLM — se forjează doar cu permite_organe: true\"}]}"
+    },
+    {
+      "id": "6afe1a3ad47680da0b389137",
+      "titlu": "Fabrica adaptivă — 1 straturi umplute",
+      "rezumat": "1 straturi fabricate: reflexe ← hydraReflexeConstiente. Goluri măsurate: reflexe 1.00, gene 0.66, organe 0.20.",
+      "tip_context": "fabrica_adaptiva",
+      "detalii": "{\"goluri\":[{\"strat\":\"reflexe\",\"severitate\":1,\"detaliu\":\"200 reflexe · 61 netestate peste 24h · 2 respinse\",\"necesita\":null},{\"strat\":\"gene\",\"severitate\":0.6599999999999999,\"detaliu\":\"300 gene · 3 latente · ultima exprimare 2026-11-18 21:32\",\"necesita\":null},{\"strat\":\"organe\",\"severitate\":0.20242914979757085,\"detaliu\":\"247 organe în registru · 197 măsurate viu · 50 fără percepție proprie\",\"necesita\":\"canal extern + LLM — se forjează doar cu permite_organe: true\"}],\"executate\":[{\"strat\":\"reflexe\",\"organ\":\"hydraReflexeConstiente\",\"args\":{\"actiune\":\"dezvolta\"},\"rezultat\":{\"forjate\":0,\"testate_live\":5,\"aplicate\":0}}],\"erori\":[],\"sarite\":[{\"strat\":\"gene\",\"motiv\":\"răcire activă 12h (85 min rămase)\"},{\"strat\":\"organe\",\"motiv\":\"canal extern + LLM — se forjează doar cu permite_organe: true\"}]}"
+    },
+    {
+      "id": "6b025e56b4ff3e2a509f7dea",
+      "titlu": "[GMAIL] INABSUPP-60128 Socio-economic analysis and societal adaptation in complex ecosys",
+      "rezumat": "ALTUL (medie) — ",
+      "tip_context": "perceptie_gmail",
+      "detalii": "De la: Higher School of Economics notification <pmo@hse.ru>\nID Gmail: 1a1ff696f4d68e50\nThread: 1a1ff696f4d68e50\nData: Sat, 21 Nov 2026 21:41:00 +0300\nSubiect: INABSUPP-60128 Socio-economic analysis and societal adaptation in complex ecosystems\n\nConținut:\n—-—-—-—\n\n\nДобрый день!\n\nВаше обращение получено и мы приступили к его обработке.\n\nОтвет по нему будет подготовлен в течение двух рабочих дней.\n\nНаправить дополнительную информацию Вы можете ответив на данное письмо или на письмо, направленное нашим специалистом, в процессе работы с обращением.\n\nПросим обратить внимание: Запросы не обрабатываются в выходные и праздничные дни.\n\n\n\n\n--- SEMNAL ---\nTip: altul\nCheie: \nPrioritate: medie\nAcțiune: doar arhivare"
+    },
+    {
+      "id": "6b025e56989eb729068a6f91",
+      "titlu": "[GMAIL] INABSUPP-60127 Societal adaptation and PSIE in urban ecosystems",
+      "rezumat": "ALTUL (medie) — ",
+      "tip_context": "perceptie_gmail",
+      "detalii": "De la: Higher School of Economics notification <pmo@hse.ru>\nID Gmail: 1a1ff696a9b6c44b\nThread: 1a1ff696a9b6c44b\nData: Sat, 21 Nov 2026 21:41:00 +0300\nSubiect: INABSUPP-60127 Societal adaptation and PSIE in urban ecosystems\n\nConținut:\n—-—-—-—\n\n\nДобрый день!\n\nВаше обращение получено и мы приступили к его обработке.\n\nОтвет по нему будет подготовлен в течение двух рабочих дней.\n\nНаправить дополнительную информацию Вы можете ответив на данное письмо или на письмо, направленное нашим специалистом, в процессе работы с обращением.\n\nПросим обратить внимание: Запросы не обрабатываются в выходные и праздничные дни.\n\n\n\n\n--- SEMNAL ---\nTip: altul\nCheie: \nPrioritate: medie\nAcțiune: doar arhivare"
+    },
+    {
+      "id": "6b0261dd4fc113a8d5215462",
+      "titlu": "[GMAIL] INABSUPP-60128 Socio-economic analysis and societal adaptation in complex ecosys",
+      "rezumat": "ALTUL (medie) — ",
+      "tip_context": "perceptie_gmail",
+      "detalii": "De la: Higher School of Economics notification <pmo@hse.ru>\nID Gmail: 1a1ff696f4d68e50\nThread: 1a1ff696f4d68e50\nData: Sat, 21 Nov 2026 21:41:00 +0300\nSubiect: INABSUPP-60128 Socio-economic analysis and societal adaptation in complex ecosystems\n\nConținut:\n—-—-—-—\n\n\nДобрый день!\n\nВаше обращение получено и мы приступили к его обработке.\n\nОтвет по нему будет подготовлен в течение двух рабочих дней.\n\nНаправить дополнительную информацию Вы можете ответив на данное письмо или на письмо, направленное нашим специалистом, в процессе работы с обращением.\n\nПросим обратить внимание: Запросы не обрабатываются в выходные и праздничные дни.\n\n\n\n\n--- SEMNAL ---\nTip: altul\nCheie: \nPrioritate: medie\nAcțiune: doar arhivare"
+    },
+    {
+      "id": "6b0261ddf6998ae4a99f2488",
+      "titlu": "[GMAIL] INABSUPP-60127 Societal adaptation and PSIE in urban ecosystems",
+      "rezumat": "ALTUL (medie) — ",
+      "tip_context": "perceptie_gmail",
+      "detalii": "De la: Higher School of Economics notification <pmo@hse.ru>\nID Gmail: 1a1ff696a9b6c44b\nThread: 1a1ff696a9b6c44b\nData: Sat, 21 Nov 2026 21:41:00 +0300\nSubiect: INABSUPP-60127 Societal adaptation and PSIE in urban ecosystems\n\nConținut:\n—-—-—-—\n\n\nДобрый день!\n\nВаше обращение получено и мы приступили к его обработке.\n\nОтвет по нему будет подготовлен в течение двух рабочих дней.\n\nНаправить дополнительную информацию Вы можете ответив на данное письмо или на письмо, направленное нашим специалистом, в процессе работы с обращением.\n\nПросим обратить внимание: Запросы не обрабатываются в выходные и праздничные дни.\n\n\n\n\n--- SEMNAL ---\nTip: altul\nCheie: \nPrioritate: medie\nAcțiune: doar arhivare"
+    },
+    {
+      "id": "6b026568896bff777f40f861",
+      "titlu": "[GMAIL] INABSUPP-60128 Socio-economic analysis and societal adaptation in complex ecosys",
+      "rezumat": "ALTUL (medie) — ",
+      "tip_context": "perceptie_gmail",
+      "detalii": "De la: Higher School of Economics notification <pmo@hse.ru>\nID Gmail: 1a1ff696f4d68e50\nThread: 1a1ff696f4d68e50\nData: Sat, 21 Nov 2026 21:41:00 +0300\nSubiect: INABSUPP-60128 Socio-economic analysis and societal adaptation in complex ecosystems\n\nConținut:\n—-—-—-—\n\n\nДобрый день!\n\nВаше обращение получено и мы приступили к его обработке.\n\nОтвет по нему будет подготовлен в течение двух рабочих дней.\n\nНаправить дополнительную информацию Вы можете ответив на данное письмо или на письмо, направленное нашим специалистом, в процессе работы с обращением.\n\nПросим обратить внимание: Запросы не обрабатываются в выходные и праздничные дни.\n\n\n\n\n--- SEMNAL ---\nTip: altul\nCheie: \nPrioritate: medie\nAcțiune: doar arhivare"
+    },
+    {
+      "id": "6b026568b340789c512c7cdd",
+      "titlu": "[GMAIL] INABSUPP-60127 Societal adaptation and PSIE in urban ecosystems",
+      "rezumat": "ALTUL (medie) — ",
+      "tip_context": "perceptie_gmail",
+      "detalii": "De la: Higher School of Economics notification <pmo@hse.ru>\nID Gmail: 1a1ff696a9b6c44b\nThread: 1a1ff696a9b6c44b\nData: Sat, 21 Nov 2026 21:41:00 +0300\nSubiect: INABSUPP-60127 Societal adaptation and PSIE in urban ecosystems\n\nConținut:\n—-—-—-—\n\n\nДобрый день!\n\nВаше обращение получено и мы приступили к его обработке.\n\nОтвет по нему будет подготовлен в течение двух рабочих дней.\n\nНаправить дополнительную информацию Вы можете ответив на данное письмо или на письмо, направленное нашим специалистом, в процессе работы с обращением.\n\nПросим обратить внимание: Запросы не обрабатываются в выходные и праздничные дни.\n\n\n\n\n--- SEMNAL ---\nTip: altul\nCheie: \nPrioritate: medie\nAcțiune: doar arhivare"
+    },
+    {
+      "id": "6b0267deb61e2d42b8fa8155",
+      "titlu": "[HARTĂ CONDENSATĂ] perceptie_gmail — 2026-11-25",
+      "rezumat": "[GMAIL] Vibe code shareable apps and showcase your skills. ALTUL (medie) — [GMAIL] Message distribution: Forwarded. ALTUL (medie) — [GMAIL] INABSUPP-60127 Societal adaptation and PSIE in urban ecosystems. ALTUL (medie) — [GMAIL] INABSUPP-60128 Socio-economic analysis and societal adaptation in complex ecosys. ALTUL (medie) — [GMAIL] Message distribution: Forwarded. ALTUL (medie) — [GMAIL] Vibe code shareable apps and showcase your skills. ALTUL (medie) — [GMAIL] Message distribution: Forwarded. ALTUL (medie) — [GMAIL] INABSUPP-60127 Societal adaptation and PSIE in urban ecosystems.",
+      "tip_context": "perceptie_gmail",
+      "detalii": "[GMAIL] Vibe code shareable apps and showcase your skills. ALTUL (medie) — [GMAIL] Message distribution: Forwarded. ALTUL (medie) — [GMAIL] INABSUPP-60127 Societal adaptation and PSIE in urban ecosystems. ALTUL (medie) — [GMAIL] INABSUPP-60128 Socio-economic analysis and societal adaptation in complex ecosys. ALTUL (medie) — [GMAIL] Message distribution: Forwarded. ALTUL (medie) — [GMAIL] Vibe code shareable apps and showcase your skills. ALTUL (medie) — [GMAIL] Message distribution: Forwarded. ALTUL (medie) — [GMAIL] INABSUPP-60127 Societal adaptation and PSIE in urban ecosystems. ALTUL (medie) — [GMAIL] INABSUPP-60128 Socio-economic analysis and societal adaptation in complex ecosys. ALTUL (medie) — [GMAIL] Message distribution: Forwarded. ALTUL (medie) — Cheie: gmail, altul, medie, your, google, coursera, important, message, forwarded, sympa, thread, data, subiect, conținut. [GMAIL] The readywhen app is ready to download.. ALTUL (medie) — [GMAIL] Bogdan, get 50% OFF: Save on a Premium plan. ALTUL (medie) — [GMAIL] Your Personalized Developer News from NVIDIA. ALTUL (medie) — [GMAIL] Introducing: Wyze Window Bird Cam. ALTUL (medie) — [GMAIL] Security notice for services using Ghostscript or ImageMagick. ALTUL (medie) — [GMAIL] The readywhen app is ready to download.. Cheie: https, wyze, bird, window, your, gmail, altul, medie, with, from, nvidia, products, ghostscript, render."
+    },
+    {
+      "id": "6b0268fb206764edd4920c5a",
+      "titlu": "[GMAIL] INABSUPP-60128 Socio-economic analysis and societal adaptation in complex ecosys",
+      "rezumat": "ALTUL (medie) — ",
+      "tip_context": "perceptie_gmail",
+      "detalii": "De la: Higher School of Economics notification <pmo@hse.ru>\nID Gmail: 1a1ff696f4d68e50\nThread: 1a1ff696f4d68e50\nData: Sat, 21 Nov 2026 21:41:00 +0300\nSubiect: INABSUPP-60128 Socio-economic analysis and societal adaptation in complex ecosystems\n\nConținut:\n—-—-—-—\n\n\nДобрый день!\n\nВаше обращение получено и мы приступили к его обработке.\n\nОтвет по нему будет подготовлен в течение двух рабочих дней.\n\nНаправить дополнительную информацию Вы можете ответив на данное письмо или на письмо, направленное нашим специалистом, в процессе работы с обращением.\n\nПросим обратить внимание: Запросы не обрабатываются в выходные и праздничные дни.\n\n\n\n\n--- SEMNAL ---\nTip: altul\nCheie: \nPrioritate: medie\nAcțiune: doar arhivare"
+    },
+    {
+      "id": "6b0268fce06c63b3b6c1c927",
+      "titlu": "[GMAIL] INABSUPP-60127 Societal adaptation and PSIE in urban ecosystems",
+      "rezumat": "ALTUL (medie) — ",
+      "tip_context": "perceptie_gmail",
+      "detalii": "De la: Higher School of Economics notification <pmo@hse.ru>\nID Gmail: 1a1ff696a9b6c44b\nThread: 1a1ff696a9b6c44b\nData: Sat, 21 Nov 2026 21:41:00 +0300\nSubiect: INABSUPP-60127 Societal adaptation and PSIE in urban ecosystems\n\nConținut:\n—-—-—-—\n\n\nДобрый день!\n\nВаше обращение получено и мы приступили к его обработке.\n\nОтвет по нему будет подготовлен в течение двух рабочих дней.\n\nНаправить дополнительную информацию Вы можете ответив на данное письмо или на письмо, направленное нашим специалистом, в процессе работы с обращением.\n\nПросим обратить внимание: Запросы не обрабатываются в выходные и праздничные дни.\n\n\n\n\n--- SEMNAL ---\nTip: altul\nCheie: \nPrioritate: medie\nAcțiune: doar arhivare"
+    }
+  ]
+}
