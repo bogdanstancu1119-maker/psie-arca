@@ -1,1 +1,1 @@
-const patchEvolutie = (state) => ({ ...state, anulat: false, completed: false, ultima_rulare: new Date().toISOString() }); const newState = patchEvolutie(JSON.parse(localStorage.getItem('evolutie_asistata_001_state'))); localStorage.setItem('evolutie_asistata_001_state', JSON.stringify(newState));
+function updateState(key, value) { const last = localStorage.getItem('last_' + key); const now = Date.now(); if (last && (now - last) < 300000) return; localStorage.setItem(key, JSON.stringify(value)); localStorage.setItem('last_' + key, now); }
