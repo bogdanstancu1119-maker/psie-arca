@@ -1,1 +1,1 @@
-const sincronizeazaVital = (organe) => { const stare = { ts: Date.now(), sync: true, status: 'coerenta_fortata' }; hydraCreierCoordonator.update(stare); return stare; }; sincronizeazaVital(current_organs);
+if (raportRisc.incapacitant_imediat.length > 0) { console.log('Blocare preventivă: organe incapacitante detectate.'); await Promise.all(raportRisc.incapacitant_imediat.map(organ => trezireOrgan(organ.nume))); return; }
