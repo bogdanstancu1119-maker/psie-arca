@@ -1,0 +1,27 @@
+{
+  "exportat_la": "2026-11-25T18:47:03.014Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6b072d0f69c06d0a77f0e8cc",
+      "titlu": "[CREIER·AUTO-REPARARE] 4 probleme atacate automat",
+      "rezumat": "cheie DENO_DEPLOY_TOKEN ruptă; cheie RENDER_SINGAPORE_KEY ruptă; cheie DEEPSEEK_KEY ruptă; 1 ordine Binance blocate în coadă",
+      "tip_context": "auto_reparare",
+      "detalii": "[{\"problema\":\"cheie DENO_DEPLOY_TOKEN ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"cheie RENDER_SINGAPORE_KEY ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"cheie DEEPSEEK_KEY ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"1 ordine Binance blocate în coadă\",\"atac\":\"puls executor + auto-pornire pe Termux\",\"verdict\":{\"executor\":\"mort\",\"comanda_pornire\":\"coadată pe Bogdan Sambo · Telefon\",\"ordine_pending\":1}}]"
+    },
+    {
+      "id": "6b072aa96bfeb5450f731a54",
+      "titlu": "[CREIER·AUTO-REPARARE] 4 probleme atacate automat",
+      "rezumat": "cheie DENO_DEPLOY_TOKEN ruptă; cheie RENDER_SINGAPORE_KEY ruptă; cheie DEEPSEEK_KEY ruptă; 1 ordine Binance blocate în coadă",
+      "tip_context": "auto_reparare",
+      "detalii": "[{\"problema\":\"cheie DENO_DEPLOY_TOKEN ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"cheie RENDER_SINGAPORE_KEY ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"cheie DEEPSEEK_KEY ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"1 ordine Binance blocate în coadă\",\"atac\":\"puls executor + auto-pornire pe Termux\",\"verdict\":{\"executor\":\"mort\",\"comanda_pornire\":\"coadată pe Bogdan Sambo · Telefon\",\"ordine_pending\":1}}]"
+    },
+    {
+      "id": "6b071bb251da087469e68400",
+      "titlu": "[CREIER·AUTO-REPARARE] 4 probleme atacate automat",
+      "rezumat": "cheie DENO_DEPLOY_TOKEN ruptă; cheie RENDER_SINGAPORE_KEY ruptă; cheie DEEPSEEK_KEY ruptă; 1 ordine Binance blocate în coadă",
+      "tip_context": "auto_reparare",
+      "detalii": "[{\"problema\":\"cheie DENO_DEPLOY_TOKEN ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"cheie RENDER_SINGAPORE_KEY ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"cheie DEEPSEEK_KEY ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"1 ordine Binance blocate în coadă\",\"atac\":\"puls executor + auto-pornire pe Termux\",\"verdict\":{\"executor\":\"mort\",\"comanda_pornire\":\"coadată pe Bogdan Sambo · Telefon\",\"ordine_pending\":1}}]"
+    }
+  ]
+}
