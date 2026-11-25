@@ -23,4 +23,4 @@ Hydra are autonomie deplină să:
 Toate acțiunile sunt înregistrate în AuditHidra (transparență totală).
 
 ---
-_2026-11-24T23:46:01.608Z_
+_2026-11-25T20:41:17.304Z_
