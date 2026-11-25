@@ -1,1 +1,1 @@
-const resincronizeazaOrgane = (organeDecuplate) => { const timestamp = new Date().toISOString(); return organeDecuplate.map(organ => ({ ...organ, minute: 0, actiune: 'sincronizat - activ' })); }; const organeActive = resincronizeazaOrgane(snapshot.critic_decuplate); console.log('Sistem: Organe recalibrate.', organeActive);
+const ReconectareVitala = async (organeDecuplate) => { for (const organ of organeDecuplate) { await fetch(process.env.HYDRA_R2_ENDPOINT, { method: 'PUT', body: JSON.stringify({ [organ]: 'ACT_TREZIRE' }) }); console.log(`Organ ${organ} trezit`); } };
