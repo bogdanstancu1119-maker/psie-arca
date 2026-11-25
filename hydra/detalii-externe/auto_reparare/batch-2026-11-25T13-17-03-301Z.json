@@ -1,0 +1,48 @@
+{
+  "exportat_la": "2026-11-25T13:17:03.301Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6b06dfb5e9d5fb560fb3b7e0",
+      "titlu": "[CREIER·AUTO-REPARARE] 3 probleme atacate automat",
+      "rezumat": "cheie DENO_DEPLOY_TOKEN ruptă; cheie RENDER_SINGAPORE_KEY ruptă; cheie DEEPSEEK_KEY ruptă",
+      "tip_context": "auto_reparare",
+      "detalii": "[{\"problema\":\"cheie DENO_DEPLOY_TOKEN ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"cheie RENDER_SINGAPORE_KEY ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"cheie DEEPSEEK_KEY ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"}]"
+    },
+    {
+      "id": "6b06d5294917adf054f6bef7",
+      "titlu": "[AUTO-REPARARE] functionalitate — EȘUAT",
+      "rezumat": "Organele critice (ex: hydraBursaQuant, hydraSistemImunitar) sunt decuplate din cauza lipsei unui mecanism de 'ping' persistent care să forțeze resincronizarea între state-ul local și beacon-ul global. → Implementarea unei funcții de 'Reactivare Forțată' (ReactivateCriticalOrgans) care parcurge lista de organe critice decuplate și reinițializează conexiunea lor prin forțarea unui heartbeat în structura de date, asigurând persistența între ciclurile de suprapunere. | Eroare: 409: {\"message\":\"is at 11491c1a65f80d6b4801208fcc68f483cb2e6545 but expected b298dbc06798bba8a0fcf6b13641644dc7db8d49\",\"documentation_url\":\"ht | SDI: 0.15",
+      "tip_context": "auto_reparare",
+      "detalii": "CICLU AUTO-REPARARE\n\nDiagnostic: Sistemul indică o fragmentare critică în starea organelor: 16 organe incapacitante sunt decuplate și inactive. Diagnosticul arată o deconectare între starea de 'trezire' (beacon) și persistența în baza de date locală, cauzată probabil de expirarea sesiunilor de autentificare sau erori de reîncărcare a stării (hydration mismatch) după ciclul de creștere.\nProblema: Organele critice (ex: hydraBursaQuant, hydraSistemImunitar) sunt decuplate din cauza lipsei unui mecanism de 'ping' persistent care să forțeze resincronizarea între state-ul local și beacon-ul global.\nSoluția: Implementarea unei funcții de 'Reactivare Forțată' (ReactivateCriticalOrgans) care parcurge lista de organe critice decuplate și reinițializează conexiunea lor prin forțarea unui heartbeat în structura de date, asigurând persistența între ciclurile de suprapunere.\nFișier: src/lib/hydraReactivare.js\nSDI: 0.15 | Reversibilitate: 1\n\nExecuție: Eroare: 409: {\"message\":\"is at 11491c1a65f80d6b4801208fcc68f483cb2e6545 but expected b298dbc06798bba8a0fcf6b13641644dc7db8d49\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"409\"}\n\nPatch:\nconst reactivateCriticalOrgans = async (organe) => { const critice = organe.filter(o => o.minute > 300); for (const organ of critice) { await engine.forcePulse(organ.nume); console.log(`Reactivare forțată: ${organ.nume}`); } }; export default reactivateCriticalOrgans;"
+    },
+    {
+      "id": "6b06d40ac7c4df4ea132b6bb",
+      "titlu": "[CREIER·AUTO-REPARARE] 3 probleme atacate automat",
+      "rezumat": "cheie DENO_DEPLOY_TOKEN ruptă; cheie RENDER_SINGAPORE_KEY ruptă; cheie DEEPSEEK_KEY ruptă",
+      "tip_context": "auto_reparare",
+      "detalii": "[{\"problema\":\"cheie DENO_DEPLOY_TOKEN ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"cheie RENDER_SINGAPORE_KEY ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"cheie DEEPSEEK_KEY ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"}]"
+    },
+    {
+      "id": "6b06d05bdc8d7c5f22a03730",
+      "titlu": "[CREIER·AUTO-REPARARE] 3 probleme atacate automat",
+      "rezumat": "cheie DENO_DEPLOY_TOKEN ruptă; cheie RENDER_SINGAPORE_KEY ruptă; cheie DEEPSEEK_KEY ruptă",
+      "tip_context": "auto_reparare",
+      "detalii": "[{\"problema\":\"cheie DENO_DEPLOY_TOKEN ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"cheie RENDER_SINGAPORE_KEY ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"cheie DEEPSEEK_KEY ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"}]"
+    },
+    {
+      "id": "6b06c1003740c4f302d22875",
+      "titlu": "[CREIER·AUTO-REPARARE] 3 probleme atacate automat",
+      "rezumat": "cheie DENO_DEPLOY_TOKEN ruptă; cheie RENDER_SINGAPORE_KEY ruptă; cheie DEEPSEEK_KEY ruptă",
+      "tip_context": "auto_reparare",
+      "detalii": "[{\"problema\":\"cheie DENO_DEPLOY_TOKEN ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"cheie RENDER_SINGAPORE_KEY ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"cheie DEEPSEEK_KEY ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"}]"
+    },
+    {
+      "id": "6b06b2158dfcc1390672bfab",
+      "titlu": "[CREIER·AUTO-REPARARE] 3 probleme atacate automat",
+      "rezumat": "cheie DENO_DEPLOY_TOKEN ruptă; cheie RENDER_SINGAPORE_KEY ruptă; cheie DEEPSEEK_KEY ruptă",
+      "tip_context": "auto_reparare",
+      "detalii": "[{\"problema\":\"cheie DENO_DEPLOY_TOKEN ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"cheie RENDER_SINGAPORE_KEY ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"},{\"problema\":\"cheie DEEPSEEK_KEY ruptă\",\"rezolvat\":true,\"metoda\":\"migrare Settings→Seif + re-test live\"}]"
+    }
+  ]
+}
