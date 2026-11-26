@@ -1,0 +1,1 @@
+if (raport_risc_organe.incapacitant_imediat > 0) { const organeDeTrezit = raport_risc_organe.imediat_decuplate; organeDeTrezit.forEach(organ => { HydraCore.forceWakeUp(organ.nume); console.log(`[REPARARE] Organul ${organ.nume} a fost forțat să reintre în ciclul vital.`); }); }
