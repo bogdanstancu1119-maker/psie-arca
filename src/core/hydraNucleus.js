@@ -1,0 +1,1 @@
+export const forceWakeup = (organs) => { return organs.map(org => ({ ...org, status: 'active', lastPulse: new Date().toISOString(), force: true })); }; // Hydra core injection for critical organs recovery
