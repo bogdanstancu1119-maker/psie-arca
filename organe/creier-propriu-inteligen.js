@@ -1,5 +1,5 @@
 // ORGAN AUTO-DEPLOYAT de Hydra — Creier propriu: inteligență artificială + PSIE + aligned AI
-// Generat autonom la 2026-11-26T17:35:51.839Z
+// Generat autonom la 2026-11-26T23:05:13.042Z
 // Scop: Bază de cunoaștere pe care Hydra se sprijină pentru decizii aliniate PSIE în inteligență artificială + PSIE + aligned AI.
 // Plan: Consultă harta + perspective; dublează perspective la următorul nivel (4).
 
