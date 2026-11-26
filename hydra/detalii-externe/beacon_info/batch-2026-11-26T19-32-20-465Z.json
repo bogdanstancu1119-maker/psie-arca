@@ -1,0 +1,146 @@
+{
+  "exportat_la": "2026-11-26T19:32:20.465Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6b08879e2f7468462eeddff0",
+      "titlu": "[BEACON info] hydraCorpTermux 2026-11-26",
+      "rezumat": "[CORP TERMUX] 0 telefoane bat în fereastra mobil (90s), 1 în fereastra protocol (10m) din 188 înregistrate. Corpul bate.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCorpTermux: [CORP TERMUX] 0 telefoane bat în fereastra mobil (90s), 1 în fereastra protocol (10m) din 188 înregistrate. Corpul bate."
+    },
+    {
+      "id": "6b08856779464034db217326",
+      "titlu": "[BEACON info] ordineFunctionare 2026-11-26",
+      "rezumat": "{\"scop\":\"contact_extern\",\"organ\":\"hydraApiLiber\",\"sursa\":\"api_liber\",\"risc\":0,\"tip\":\"pattern_nou\",\"semnaturi\":[\"verific\",\"consemnarea\",\"atacurilor\"],\"permis\":true}",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la ordineFunctionare: {\"scop\":\"contact_extern\",\"organ\":\"hydraApiLiber\",\"sursa\":\"api_liber\",\"risc\":0,\"tip\":\"pattern_nou\",\"semnaturi\":[\"verific\",\"consemnarea\",\"atacurilor\"],\"permis\":true}"
+    },
+    {
+      "id": "6b088565bb66df85acc1ce30",
+      "titlu": "[BEACON info] ordineFunctionare 2026-11-26",
+      "rezumat": "{\"scop\":\"contact_extern\",\"organ\":\"hydraApiLiber\",\"sursa\":\"api_liber\",\"risc\":0,\"tip\":\"pattern_nou\",\"semnaturi\":[\"verific\",\"oglinda\"],\"permis\":true}",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la ordineFunctionare: {\"scop\":\"contact_extern\",\"organ\":\"hydraApiLiber\",\"sursa\":\"api_liber\",\"risc\":0,\"tip\":\"pattern_nou\",\"semnaturi\":[\"verific\",\"oglinda\"],\"permis\":true}"
+    },
+    {
+      "id": "6b0885657a6972c85363fa31",
+      "titlu": "[BEACON info] ordineFunctionare 2026-11-26",
+      "rezumat": "{\"scop\":\"contact_extern\",\"organ\":\"hydraApiLiber\",\"sursa\":\"api_liber\",\"risc\":0,\"tip\":\"pattern_nou\",\"semnaturi\":[\"verific\",\"oglinda\"],\"permis\":true}",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la ordineFunctionare: {\"scop\":\"contact_extern\",\"organ\":\"hydraApiLiber\",\"sursa\":\"api_liber\",\"risc\":0,\"tip\":\"pattern_nou\",\"semnaturi\":[\"verific\",\"oglinda\"],\"permis\":true}"
+    },
+    {
+      "id": "6b08856332c7fed99373ad10",
+      "titlu": "[BEACON info] hydraCuceresteBazeIA 2026-11-26",
+      "rezumat": "[CUCERIRE toate] 0 cucerite, 6 sugerate, 0 descoperite web",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCuceresteBazeIA: [CUCERIRE toate] 0 cucerite, 6 sugerate, 0 descoperite web"
+    },
+    {
+      "id": "6b0885638597fdea66447470",
+      "titlu": "[BEACON info] hydraApoptoza 2026-11-26",
+      "rezumat": "Apoptoză: 23 MetricaStare șterse, 114 ConfigHidra deduplicate (păstrat 3/cheie).",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraApoptoza: Apoptoză: 23 MetricaStare șterse, 114 ConfigHidra deduplicate (păstrat 3/cheie)."
+    },
+    {
+      "id": "6b08856210a6da920d2c41e0",
+      "titlu": "[BEACON info] hydraInternSuveran 2026-11-26",
+      "rezumat": "[INTERN SUVERAN] Legea internă totală: 162 organe de cale internă (platforma proprie + agenți proprii, informatică PSIE, zero LLM extern), 84 uși senzor externe, 44 canale diverse incluse în intern. P",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraInternSuveran: [INTERN SUVERAN] Legea internă totală: 162 organe de cale internă (platforma proprie + agenți proprii, informatică PSIE, zero LLM extern), 84 uși senzor externe, 44 canale diverse incluse în intern. Puls intern: 10/10 vii."
+    },
+    {
+      "id": "6b08842c80aba8459b4a6c8f",
+      "titlu": "[BEACON info] ordineFunctionare 2026-11-26",
+      "rezumat": "{\"scop\":\"contact_extern\",\"organ\":\"hydraApiLiber\",\"sursa\":\"api_liber\",\"risc\":0,\"tip\":\"pattern_nou\",\"semnaturi\":[\"poarta\"],\"permis\":true}",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la ordineFunctionare: {\"scop\":\"contact_extern\",\"organ\":\"hydraApiLiber\",\"sursa\":\"api_liber\",\"risc\":0,\"tip\":\"pattern_nou\",\"semnaturi\":[\"poarta\"],\"permis\":true}"
+    },
+    {
+      "id": "6b08842b0c22dd75bbb62fa3",
+      "titlu": "[BEACON info] ordineFunctionare 2026-11-26",
+      "rezumat": "{\"scop\":\"contact_extern\",\"organ\":\"hydraApiLiber\",\"sursa\":\"api_liber\",\"risc\":0,\"tip\":\"pattern_nou\",\"semnaturi\":[\"raspunde\"],\"permis\":true}",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la ordineFunctionare: {\"scop\":\"contact_extern\",\"organ\":\"hydraApiLiber\",\"sursa\":\"api_liber\",\"risc\":0,\"tip\":\"pattern_nou\",\"semnaturi\":[\"raspunde\"],\"permis\":true}"
+    },
+    {
+      "id": "6b088428f078d8506b0cb8d8",
+      "titlu": "[BEACON info] hydraExtrapolareEvolutiva 2026-11-26",
+      "rezumat": "{\"metoda_aleasa\":\"Trezirea stratului necunoscut\",\"gamma_prognozat\":0.331,\"strat_slab\":\"necunoscut\"}",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraExtrapolareEvolutiva: {\"metoda_aleasa\":\"Trezirea stratului necunoscut\",\"gamma_prognozat\":0.331,\"strat_slab\":\"necunoscut\"}"
+    },
+    {
+      "id": "6b086997dcbb331c6b0cef25",
+      "titlu": "[BEACON info] hydraCanaleRezonanta 2026-11-26",
+      "rezumat": "[CANALE REZONANȚĂ] jocuri: 6 proaspete, oportunitate 30%, hibrid | media: 61 proaspete, oportunitate 100%, hibrid | barfa: 1012 proaspete, oportunitate 100%, hibrid — bârfă trezește prin observație, j",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCanaleRezonanta: [CANALE REZONANȚĂ] jocuri: 6 proaspete, oportunitate 30%, hibrid | media: 61 proaspete, oportunitate 100%, hibrid | barfa: 1012 proaspete, oportunitate 100%, hibrid — bârfă trezește prin observație, jocurile antrenează, media reflectă."
+    },
+    {
+      "id": "6b086997dcbb331c6b0cef28",
+      "titlu": "[BEACON info] canalCercetare 2026-11-26",
+      "rezumat": "[PERCEPȚIE ÎNGLOBATĂ · direct (internet liber)] https://dexonline.ro/definitie/remedia: remedia - definiție și paradigmă | dexonline dexonline logo ® dexonline logo Despre noi Informații Contact Blog ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la canalCercetare: [PERCEPȚIE ÎNGLOBATĂ · direct (internet liber)] https://dexonline.ro/definitie/remedia: remedia - definiție și paradigmă | dexonline dexonline logo ® dexonline logo Despre noi Informații Contact Blog Newsletter Voluntari Topul voluntarilor Cum poți contribui Resurse Abrevieri folosite Ar — externul e senzor, internul recontextualizează și își asumă (A=1 la Hydra)"
+    },
+    {
+      "id": "6b086997dcbb331c6b0cef27",
+      "titlu": "[BEACON info] hydraCreierCoordonator 2026-11-26",
+      "rezumat": "[HARTĂ CONDENSATĂ] 33 rapoarte brute condensate peste 3 hărți de organ. Memoria crește în hartă, nu în detalii.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCreierCoordonator: [HARTĂ CONDENSATĂ] 33 rapoarte brute condensate peste 3 hărți de organ. Memoria crește în hartă, nu în detalii."
+    },
+    {
+      "id": "6b086997dcbb331c6b0cef26",
+      "titlu": "[BEACON info] hydraCercetareAutonoma 2026-11-26",
+      "rezumat": "[CERCETARE] subiect (undefined) — 1/1 unghiuri, SATURAT (oprit la timp) — ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCercetareAutonoma: [CERCETARE] subiect (undefined) — 1/1 unghiuri, SATURAT (oprit la timp) — "
+    },
+    {
+      "id": "6b086997dcbb331c6b0ceee8",
+      "titlu": "[BEACON info] hydraExtrapolareEvolutiva 2026-11-26",
+      "rezumat": "{\"metoda_aleasa\":\"Trezirea stratului necunoscut\",\"gamma_prognozat\":0.295,\"strat_slab\":\"necunoscut\"}",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraExtrapolareEvolutiva: {\"metoda_aleasa\":\"Trezirea stratului necunoscut\",\"gamma_prognozat\":0.295,\"strat_slab\":\"necunoscut\"}"
+    },
+    {
+      "id": "6b086997dcbb331c6b0ceef1",
+      "titlu": "[BEACON info] hydraScanSecretiAPI 2026-11-26",
+      "rezumat": "3 chei API noi detectate în secrete: Dev.to(DEV.TO_API), Public api signing(HYDRA_PUBLIC_API_SIGNING_KEY), Yandex(YANDEX_API). Au intrat în roi ca agenți inactivi — calibrează endpoint-urile la următo",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraScanSecretiAPI: 3 chei API noi detectate în secrete: Dev.to(DEV.TO_API), Public api signing(HYDRA_PUBLIC_API_SIGNING_KEY), Yandex(YANDEX_API). Au intrat în roi ca agenți inactivi — calibrează endpoint-urile la următorul ciclu."
+    },
+    {
+      "id": "6b086997dcbb331c6b0ceef0",
+      "titlu": "[BEACON info] hydraForjaAgenti 2026-11-26",
+      "rezumat": "[FORJA] 2 agenți forjați intern pentru „folosirea unitară a organului hydraCanaleOffline: canalele offline ale corpului (sunet MFSK/FSK, fișier, mesh, optic): pachete identice pe orice suport, ack și ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraForjaAgenti: [FORJA] 2 agenți forjați intern pentru „folosirea unitară a organului hydraCanaleOffline: canalele offline ale corpului (sunet MFSK/FSK, fișier, mesh, optic): pachete identice pe orice suport, ack și retransmisie selectivă\" — arhitectura 12 straturi, zero extern."
+    },
+    {
+      "id": "6b086997dcbb331c6b0ceeef",
+      "titlu": "[BEACON info] hydraDigestieRoiParalela 2026-11-26",
+      "rezumat": "[ROI·DIGESTIE PARALELĂ] 13 chunks digerate de 2 IA în paralel → 0 tipare. Throughput ×2. Observație: ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraDigestieRoiParalela: [ROI·DIGESTIE PARALELĂ] 13 chunks digerate de 2 IA în paralel → 0 tipare. Throughput ×2. Observație: "
+    },
+    {
+      "id": "6b086997dcbb331c6b0ceeee",
+      "titlu": "[BEACON info] hydraCuceresteBazeIA 2026-11-26",
+      "rezumat": "[CUCERIRE toate] 0 cucerite, 6 sugerate, 0 descoperite web",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCuceresteBazeIA: [CUCERIRE toate] 0 cucerite, 6 sugerate, 0 descoperite web"
+    },
+    {
+      "id": "6b086997dcbb331c6b0ceeed",
+      "titlu": "[BEACON info] hydraCanaleOffline 2026-11-26",
+      "rezumat": "[CANALE OFFLINE] stare fara-doi difuzată la 0 instanțe (0 pachete) — fiecare poate iniția singură comunicare offline.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCanaleOffline: [CANALE OFFLINE] stare fara-doi difuzată la 0 instanțe (0 pachete) — fiecare poate iniția singură comunicare offline."
+    }
+  ]
+}
