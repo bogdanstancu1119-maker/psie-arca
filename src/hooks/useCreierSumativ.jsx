@@ -1,0 +1,1 @@
+import { useState, useEffect } from 'react'; export const useCreierSumativ = (initialState) => { const [state, setState] = useState(() => { const saved = localStorage.getItem('creier_sumativ_state'); return saved ? JSON.parse(saved) : initialState; }); useEffect(() => { localStorage.setItem('creier_sumativ_state', JSON.stringify(state)); }, [state]); return [state, setState]; };
