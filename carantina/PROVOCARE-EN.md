@@ -1,3 +1,5 @@
+# SAMBO Hydra challenges all categories in the Darknet ring
+
 **Become a Hydra node.** Join an opt-in defensive research network.
 
 Measured self-test before this announcement: **40/40** attacks stopped, 8 categories, on 2026-11-26.
