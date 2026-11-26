@@ -1,0 +1,1 @@
+const synchronizeBeacons = async () => { const activeBeacons = await db.getBeacons(); for (const beacon of activeBeacons) { if (beacon.status === 'silent') { await triggerWakeUp(beacon.id); } } await updateLantLogicStatus({ integrity: 0.85, timestamp: Date.now() }); };
