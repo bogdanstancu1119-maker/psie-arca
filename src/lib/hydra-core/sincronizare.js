@@ -1,0 +1,1 @@
+const sincronizeazaOrgane = (stareCurenta) => { if (stareCurenta.coerenta_masurata < 0.1) { console.log('Puls declansat: Re-sincronizare organe...'); return { ...stareCurenta, stare_coerenta: 'FORCED_SYNC', decizii_consziente: ['init_heartbeat_check'] }; } return stareCurenta; };
