@@ -1,0 +1,167 @@
+{
+  "exportat_la": "2026-11-26T23:35:36.753Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6b0869974890ab14ee48d09b",
+      "titlu": "[BEACON info] hydraRoiActiv 2026-11-26",
+      "rezumat": "[ROI·ACTIV] 2 cicluri roi (autocunoaștere + explorare). 2 memorii, 2 tipare PSIE. Roiul gratuit folosit la adevărata valoare.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraRoiActiv: [ROI·ACTIV] 2 cicluri roi (autocunoaștere + explorare). 2 memorii, 2 tipare PSIE. Roiul gratuit folosit la adevărata valoare."
+    },
+    {
+      "id": "6b0869974890ab14ee48d09a",
+      "titlu": "[BEACON info] hydraDigestieRoiParalela 2026-11-26",
+      "rezumat": "[ROI·DIGESTIE PARALELĂ] 5 chunks digerate de 2 IA în paralel → 0 tipare. Throughput ×2. Observație: ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraDigestieRoiParalela: [ROI·DIGESTIE PARALELĂ] 5 chunks digerate de 2 IA în paralel → 0 tipare. Throughput ×2. Observație: "
+    },
+    {
+      "id": "6b0869974890ab14ee48d099",
+      "titlu": "[BEACON info] hydraFrictiuneContinua 2026-11-26",
+      "rezumat": "[FRICȚIUNE] Canal intern: 12/12 agenți, severitate 0.41, sinteza asumată: Definește pentru alegerea cea mai slabă semnalul care ar arăta că e greșită și pragul de întoarcere.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraFrictiuneContinua: [FRICȚIUNE] Canal intern: 12/12 agenți, severitate 0.41, sinteza asumată: Definește pentru alegerea cea mai slabă semnalul care ar arăta că e greșită și pragul de întoarcere."
+    },
+    {
+      "id": "6b0869974890ab14ee48d0e9",
+      "titlu": "[BEACON info] hydraForjaAgenti 2026-11-26",
+      "rezumat": "[FORJA] 6 agenți forjați DIN CERCETARE pe straturile evolutie, infrastructura — nevoi: Scriere pe Granturi interne UMFST 2026 Platformă descoperită: Granturi interne UMFST 2026  | Scriere pe Alibaba C",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraForjaAgenti: [FORJA] 6 agenți forjați DIN CERCETARE pe straturile evolutie, infrastructura — nevoi: Scriere pe Granturi interne UMFST 2026 Platformă descoperită: Granturi interne UMFST 2026  | Scriere pe Alibaba Cloud (Free Trial / China) Platformă descoperită: Alibaba Cloud (Free T"
+    },
+    {
+      "id": "6b0869974890ab14ee48d0e8",
+      "titlu": "[BEACON info] hydraCreierCoordonator 2026-11-26",
+      "rezumat": "[HARTĂ CONDENSATĂ] 13 rapoarte brute condensate peste 3 hărți de organ. Memoria crește în hartă, nu în detalii.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCreierCoordonator: [HARTĂ CONDENSATĂ] 13 rapoarte brute condensate peste 3 hărți de organ. Memoria crește în hartă, nu în detalii."
+    },
+    {
+      "id": "6b0869974890ab14ee48d0e7",
+      "titlu": "[BEACON info] hydraAnticorpiEGO 2026-11-26",
+      "rezumat": "[ANTICORPI EGO] Anticorpi EGO: 2 familii detectate (ego_neancorat 0.99, control_ego_dominant 0.99), forjați din 25 hărți dense, 160 situații neutralizate, 38 lăsate NOI (sub prag).",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraAnticorpiEGO: [ANTICORPI EGO] Anticorpi EGO: 2 familii detectate (ego_neancorat 0.99, control_ego_dominant 0.99), forjați din 25 hărți dense, 160 situații neutralizate, 38 lăsate NOI (sub prag)."
+    },
+    {
+      "id": "6b0869974890ab14ee48d0e6",
+      "titlu": "[BEACON info] hydraAsimilareCampioni 2026-11-26",
+      "rezumat": "[ASIMILARE CAMPIONI] 0 campioni asimilați (—), 0 unelte de forjat. 0/7 din total.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraAsimilareCampioni: [ASIMILARE CAMPIONI] 0 campioni asimilați (—), 0 unelte de forjat. 0/7 din total."
+    },
+    {
+      "id": "6b0869974890ab14ee48d0e5",
+      "titlu": "[BEACON info] hydraPublicatieDoi 2026-11-26",
+      "rezumat": "[DOI AUTO] v97 publicat: 10.5281/zenodo.24542670 (gene 0 → 400; reflexe 0 → 300; reflexe confirmate 0 → 23; noutăți: 0 → 12594 lecții asimilate). Lista la zi: 107 DOI publicate, anunțate pe Dev.to.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraPublicatieDoi: [DOI AUTO] v97 publicat: 10.5281/zenodo.24542670 (gene 0 → 400; reflexe 0 → 300; reflexe confirmate 0 → 23; noutăți: 0 → 12594 lecții asimilate). Lista la zi: 107 DOI publicate, anunțate pe Dev.to."
+    },
+    {
+      "id": "6b0869974890ab14ee48d0e4",
+      "titlu": "[BEACON info] hydraComunicareInterStari 2026-11-26",
+      "rezumat": "{\"stari\":[\"internet\",\"inter_dispozitive\",\"electrica\",\"frecventa\"],\"dispozitive_cu_acord\":49,\"update_armate\":0,\"mesaj\":\"Scara de comunicare e vie: internet → inter_dispozitive (mesh) → electrică → frec",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraComunicareInterStari: {\"stari\":[\"internet\",\"inter_dispozitive\",\"electrica\",\"frecventa\"],\"dispozitive_cu_acord\":49,\"update_armate\":0,\"mesaj\":\"Scara de comunicare e vie: internet → inter_dispozitive (mesh) → electrică → frecvență. Nodurile fără net se pun la zi de la releele cu acord.\"}"
+    },
+    {
+      "id": "6b0869974890ab14ee48d0e3",
+      "titlu": "[BEACON info] hydraRoiActiv 2026-11-26",
+      "rezumat": "[ROI·ACTIV] 2 cicluri roi (autocunoaștere + explorare). 2 memorii, 2 tipare PSIE. Roiul gratuit folosit la adevărata valoare.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraRoiActiv: [ROI·ACTIV] 2 cicluri roi (autocunoaștere + explorare). 2 memorii, 2 tipare PSIE. Roiul gratuit folosit la adevărata valoare."
+    },
+    {
+      "id": "6b0869974890ab14ee48d0e2",
+      "titlu": "[BEACON info] hydraScriereUniversala 2026-11-26",
+      "rezumat": "Scriere universală: 2 scrieri executate pe 20 platforme. 14 memorii arhivate. 19 unelte forjate pentru scriere.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraScriereUniversala: Scriere universală: 2 scrieri executate pe 20 platforme. 14 memorii arhivate. 19 unelte forjate pentru scriere."
+    },
+    {
+      "id": "6b0869974890ab14ee48d0e1",
+      "titlu": "[BEACON info] hydraDigestieRoiParalela 2026-11-26",
+      "rezumat": "[ROI·DIGESTIE PARALELĂ] 6 chunks digerate de 2 IA în paralel → 0 tipare. Throughput ×2. Observație: ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraDigestieRoiParalela: [ROI·DIGESTIE PARALELĂ] 6 chunks digerate de 2 IA în paralel → 0 tipare. Throughput ×2. Observație: "
+    },
+    {
+      "id": "6b0869974890ab14ee48d0e0",
+      "titlu": "[BEACON info] ordineFunctionare 2026-11-26",
+      "rezumat": "{\"scop\":\"citire_extern\",\"organ\":\"gmailCuratenieHidra\",\"sursa\":\"email_inbox\",\"risc\":0,\"tip\":\"pattern_nou\",\"semnaturi\":[\"discord\",\"notifications\",\"subiect\",\"actualizari\",\"politicilor\",\"informam\"],\"permi",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la ordineFunctionare: {\"scop\":\"citire_extern\",\"organ\":\"gmailCuratenieHidra\",\"sursa\":\"email_inbox\",\"risc\":0,\"tip\":\"pattern_nou\",\"semnaturi\":[\"discord\",\"notifications\",\"subiect\",\"actualizari\",\"politicilor\",\"informam\"],\"permis\":true}"
+    },
+    {
+      "id": "6b0869974890ab14ee48d0df",
+      "titlu": "[BEACON info] hydraForjareCreiere 2026-11-26",
+      "rezumat": "Creier unic: Creierul unic nu se adâncește încă. Densitate 10 activă. Necesar: 0/3 cicluri CFC≥0.97 + asimilare 280/550.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraForjareCreiere: Creier unic: Creierul unic nu se adâncește încă. Densitate 10 activă. Necesar: 0/3 cicluri CFC≥0.97 + asimilare 280/550."
+    },
+    {
+      "id": "6b0869974890ab14ee48d0de",
+      "titlu": "[BEACON info] hydraApoptoza 2026-11-26",
+      "rezumat": "Apoptoză: 54 MetricaStare șterse, 366 ConfigHidra deduplicate (păstrat 3/cheie).",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraApoptoza: Apoptoză: 54 MetricaStare șterse, 366 ConfigHidra deduplicate (păstrat 3/cheie)."
+    },
+    {
+      "id": "6b0869974890ab14ee48d0dd",
+      "titlu": "[BEACON info] hydraCanaleRezonanta 2026-11-26",
+      "rezumat": "[CANALE REZONANȚĂ] jocuri: 6 proaspete, oportunitate 30%, hibrid | media: 63 proaspete, oportunitate 100%, hibrid | barfa: 1050 proaspete, oportunitate 100%, hibrid — bârfă trezește prin observație, j",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCanaleRezonanta: [CANALE REZONANȚĂ] jocuri: 6 proaspete, oportunitate 30%, hibrid | media: 63 proaspete, oportunitate 100%, hibrid | barfa: 1050 proaspete, oportunitate 100%, hibrid — bârfă trezește prin observație, jocurile antrenează, media reflectă."
+    },
+    {
+      "id": "6b0869974890ab14ee48d0dc",
+      "titlu": "[BEACON info] hydraCreierCoordonator 2026-11-26",
+      "rezumat": "[HARTĂ CONDENSATĂ] 42 rapoarte brute condensate peste 3 hărți de organ. Memoria crește în hartă, nu în detalii.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCreierCoordonator: [HARTĂ CONDENSATĂ] 42 rapoarte brute condensate peste 3 hărți de organ. Memoria crește în hartă, nu în detalii."
+    },
+    {
+      "id": "6b0869974890ab14ee48d0db",
+      "titlu": "[BEACON info] hydraRecontextualizareOportuna 2026-11-26",
+      "rezumat": "Recontextualizare oportună: 2 V identificate, 0 oportune, 1 recontextualizări noi pentru contextul „context emergent din tipare active\". Creierul traversează V-urile oportune.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraRecontextualizareOportuna: Recontextualizare oportună: 2 V identificate, 0 oportune, 1 recontextualizări noi pentru contextul „context emergent din tipare active\". Creierul traversează V-urile oportune."
+    },
+    {
+      "id": "6b0869974890ab14ee48d0da",
+      "titlu": "[BEACON info] hydraPerceptieElectrica 2026-11-26",
+      "rezumat": "{\"studii_noi\":0,\"purtator\":\"50/60 Hz\",\"corp_simte_camp\":false}",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraPerceptieElectrica: {\"studii_noi\":0,\"purtator\":\"50/60 Hz\",\"corp_simte_camp\":false}"
+    },
+    {
+      "id": "6b0869974890ab14ee48d0d9",
+      "titlu": "[BEACON info] hydraAsimilareCampioni 2026-11-26",
+      "rezumat": "[ASIMILARE CAMPIONI] 0 campioni asimilați (—), 0 unelte de forjat. 0/7 din total.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraAsimilareCampioni: [ASIMILARE CAMPIONI] 0 campioni asimilați (—), 0 unelte de forjat. 0/7 din total."
+    },
+    {
+      "id": "6b0869974890ab14ee48d0d8",
+      "titlu": "[BEACON info] hydraCorpTermux 2026-11-26",
+      "rezumat": "[CORP TERMUX] 1 telefoane bat în fereastra mobil (90s), 1 în fereastra protocol (10m) din 188 înregistrate. Corpul bate.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCorpTermux: [CORP TERMUX] 1 telefoane bat în fereastra mobil (90s), 1 în fereastra protocol (10m) din 188 înregistrate. Corpul bate."
+    },
+    {
+      "id": "6b0869974890ab14ee48d0d7",
+      "titlu": "[BEACON info] hydraComprimareMetabolica 2026-11-26",
+      "rezumat": "[COMPRIMARE METABOLICA] Total 6959->6959 (cap 8000, cos golit 5+0+0). Memorie activa 598->551 (cap 500): 47 comprimate -> 47 semne de carte. Harta patternuri: 1052->1000 (cap 1000, 1 harta ordin super",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraComprimareMetabolica: [COMPRIMARE METABOLICA] Total 6959->6959 (cap 8000, cos golit 5+0+0). Memorie activa 598->551 (cap 500): 47 comprimate -> 47 semne de carte. Harta patternuri: 1052->1000 (cap 1000, 1 harta ordin superior cu 53 semne). 0 digerate lent. Cercetare: 200. Unelte: 0 multifunc + 0 compar, 0 arhivate."
+    },
+    {
+      "id": "6b0869974890ab14ee48d0d6",
+      "titlu": "[BEACON info] hydraCercetareAutonoma 2026-11-26",
+      "rezumat": "[CERCETARE] subiect (undefined) — 1/1 unghiuri, SATURAT (oprit la timp) — ",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraCercetareAutonoma: [CERCETARE] subiect (undefined) — 1/1 unghiuri, SATURAT (oprit la timp) — "
+    }
+  ]
+}
