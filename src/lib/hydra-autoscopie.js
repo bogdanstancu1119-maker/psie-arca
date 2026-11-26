@@ -1,0 +1,1 @@
+const getActiuniSnapshot = (state) => { try { return state.actiuniAll || state.ultimele_actiuni || []; } catch (e) { return []; } };
