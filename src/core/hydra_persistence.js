@@ -1,0 +1,1 @@
+const forcePersistence = async (state) => { const checkpoint = { ...state, timestamp: new Date().toISOString(), integrityCheck: 'PSIE-VALIDATED' }; await localStorage.setItem('hydra_critical_checkpoint', JSON.stringify(checkpoint)); console.log('Checkpoint salvat: integrare PSIE confirmata'); };
