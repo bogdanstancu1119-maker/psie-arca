@@ -1,0 +1,1 @@
+const createOrMerge = (organ) => { const existing = db.find({ hash: organ.hash }); if (existing) { return db.update(existing.id, { ...existing, ...organ, lastSync: Date.now() }); } return db.insert(organ); };
