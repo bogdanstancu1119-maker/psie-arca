@@ -3,7 +3,7 @@
 ## What has actually been received
 
 **In plain words.** Nobody has attacked Hydra yet. Not one attack has been recorded, not one node has attested the Tor gateway, and the counter of active challenge days is still at zero. We are publishing the zero as a zero, because a report that flatters the numbers is worth nothing.
-**Technically.** Attacker origins recorded: 0. Quarantine reports retained: 0. Gateway state: pachet_emis; package issued: 2026-11-26T19:00; challenge expires: 2026-11-27T19:00; attestations accepted: 0; claims rejected: 1; days active: 0/30. Publications confirmed so far: 8.
+**Technically.** Attacker origins recorded: 0. Quarantine reports retained: 0. Gateway state: pachet_emis; package issued: 2026-11-27T14:53; challenge expires: 2026-11-28T14:53; attestations accepted: 0; claims rejected: 2; days active: 0/30. Publications confirmed so far: 9.
 
 ## The invitation, ready to forward
 
