@@ -1,0 +1,1 @@
+import { useState, useEffect } from 'react'; export const useModelScope = (initialConfig) => { const [config, setConfig] = useState(() => { const saved = localStorage.getItem('modelScope_config'); return saved ? JSON.parse(saved) : initialConfig; }); useEffect(() => { localStorage.setItem('modelScope_config', JSON.stringify(config)); }, [config]); return [config, setConfig]; };
