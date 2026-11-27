@@ -1,15 +1,30 @@
-# POARTA TOR — varianta fără bani, fără VPS și fără secrete puse de mână.
+# POARTA TOR — runner gratuit, cu identitatea onion ținută în afara cache-ului.
 #
-# Ce face: un runner GitHub gratuit ține serviciul ascuns ~6 ore, apoi cron-ul
-# îl repornește. Cheia .onion stă în cache între rulări, deci adresa rămâne
-# aceeași. Nodul se autentifică singur: GitHub semnează un token OIDC care
-# spune în ce repo rulează, organul verifică semnătura și îi dă tokenul de nod.
-# Deci nu trebuie adăugat niciun secret în repo — doar fișierul acesta.
+# Ce face: un runner GitHub ține serviciul ascuns ~5h50m, apoi cron-ul îl
+# repornește. Între rulări adresa e offline câteva zeci de minute, iar organul
+# arată asta ca atare (fara_bataie), nu ca „activă prin amintire".
 #
-# Pași (o singură dată): copiază fișierul în .github/workflows/poarta-tor.yml.
-# După asta rulează singur la fiecare 6 ore, gratis (repo public = minute
-# nelimitate). Limita spusă pe față: între rulări adresa poate fi offline
-# câteva minute, iar organul arată asta ca atare, nu ca „activă prin amintire”.
+# DE CE NU MAI FOLOSIM actions/cache PENTRU CHEIE:
+# cheia privată a serviciului ascuns este o credențială. Cache-urile GitHub pot
+# fi restaurate de alte rulări din același repo (inclusiv rulări pornite de
+# pull request-uri, care pot citi cache-ul ramurii de bază), deci nu sunt un loc
+# pentru secrete. Aici cache-ul nu mai păstrează nimic: cheia stă într-un
+# depozit privat separat, cu acces limitat la un singur token.
+#
+# Fără depozitul secret configurat, rularea merge mai departe și spune pe față
+# că adresa .onion va fi nouă la fiecare rulare (identitate efemeră).
+#
+# CE PERMISIUNI CERE:
+#   contents: read   — doar citește acest repo (checkout)
+#   id-token: write  — poate cere GitHub-ului un token OIDC semnat, valabil
+#                      minute, care dovedește doar repo-ul și workflow-ul
+# Nu cere scriere în repo, nu cere packages, nu citește alte secrete decât
+# POARTA_HS_REPO / POARTA_HS_TOKEN (opționale, pentru identitate).
+#
+# TRIGGERE: doar `schedule` (rulează pe ramura implicită) și `workflow_dispatch`
+# (cere drept de scriere). Nu există trigger de `pull_request`, deci un fork nu
+# poate porni acest workflow și nu poate primi secrete; în plus, jobul refuză să
+# ruleze în alt repo decât cel al organismului.
 
 name: Poarta TOR
 
@@ -28,19 +43,37 @@ permissions:
 
 jobs:
   nod:
+    if: github.repository == 'bogdanstancu1119-maker/psie-arca'
     runs-on: ubuntu-latest
     timeout-minutes: 355
     steps:
       - uses: actions/checkout@v4
 
-      - name: Cheia serviciului ascuns (păstrată între rulări)
-        uses: actions/cache@v4
-        with:
-          path: ~/.hydra-tor
-          key: poarta-tor-cheie-v1
+      - name: Instalează Tor, socat și jq
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq tor socat curl jq
 
-      - name: Instalează Tor și socat
-        run: sudo apt-get update -qq && sudo apt-get install -y -qq tor socat curl
+      - name: Identitatea onion — din depozit privat, nu din cache
+        env:
+          HS_REPO: ${{ secrets.POARTA_HS_REPO }}
+          HS_TOKEN: ${{ secrets.POARTA_HS_TOKEN }}
+        run: |
+          mkdir -p ~/.hydra-tor/hs
+          chmod 700 ~/.hydra-tor ~/.hydra-tor/hs
+          if [ -z "$HS_REPO" ] || [ -z "$HS_TOKEN" ]; then
+            echo "Fără depozit secret (POARTA_HS_REPO / POARTA_HS_TOKEN): identitate efemeră, adresa .onion se schimbă la fiecare rulare." >> "$GITHUB_STEP_SUMMARY"
+            exit 0
+          fi
+          echo "::add-mask::$HS_TOKEN"
+          if git clone --depth 1 "https://x-access-token:$HS_TOKEN@github.com/$HS_REPO.git" /tmp/hs-repo 2>/dev/null; then
+            if [ -d /tmp/hs-repo/hs ]; then
+              cp -f /tmp/hs-repo/hs/* ~/.hydra-tor/hs/ 2>/dev/null || true
+              echo "Identitate onion restaurată din $HS_REPO." >> "$GITHUB_STEP_SUMMARY"
+            else
+              echo "Depozitul $HS_REPO nu are încă hs/ — cheia se generează acum și se salvează la final." >> "$GITHUB_STEP_SUMMARY"
+            fi
+          else
+            echo "Depozitul secret nu a putut fi citit: rularea continuă cu identitate efemeră." >> "$GITHUB_STEP_SUMMARY"
+          fi
 
       - name: Nodul se autentifică singur (OIDC GitHub)
         env:
@@ -58,9 +91,6 @@ jobs:
                 -H 'Content-Type: application/json' \
                 -d "{\"actiune\":\"nod_oidc\",\"oidc_token\":\"$OIDC\"}")
               echo "răspuns organ: $(echo "$RESP" | jq -r '.motiv // .error // .nota // "necunoscut"' 2>/dev/null)"
-              if echo "$RESP" | grep -q actiune_necunoscuta; then
-                echo "Organul public nu are încă acțiunea nod_oidc: publică aplicația o dată, apoi rulează din nou." >> "$GITHUB_STEP_SUMMARY"
-              fi
               TOKEN=$(echo "$RESP" | jq -r '.token_nod // empty')
             fi
           else
@@ -90,3 +120,30 @@ jobs:
           done
           tail -n 20 /tmp/poarta.log >> "$GITHUB_STEP_SUMMARY" || true
           wait $PID || true
+
+      - name: Păstrează identitatea onion (doar hs/, în depozitul privat)
+        if: always()
+        env:
+          HS_REPO: ${{ secrets.POARTA_HS_REPO }}
+          HS_TOKEN: ${{ secrets.POARTA_HS_TOKEN }}
+        run: |
+          if [ -z "$HS_REPO" ] || [ -z "$HS_TOKEN" ]; then
+            echo "Identitate efemeră: nu se salvează nicio cheie." >> "$GITHUB_STEP_SUMMARY"
+            exit 0
+          fi
+          echo "::add-mask::$HS_TOKEN"
+          rm -rf /tmp/hs-save
+          git clone --depth 1 "https://x-access-token:$HS_TOKEN@github.com/$HS_REPO.git" /tmp/hs-save || exit 1
+          git -C /tmp/hs-save remote set-url origin "https://github.com/$HS_REPO.git"
+          mkdir -p /tmp/hs-save/hs
+          cp -f ~/.hydra-tor/hs/* /tmp/hs-save/hs/ 2>/dev/null || true
+          git -C /tmp/hs-save config user.name "hydra-poarta"
+          git -C /tmp/hs-save config user.email "poarta@users.noreply.github.com"
+          git -C /tmp/hs-save add hs
+          if git -C /tmp/hs-save diff --cached --quiet; then
+            echo "Identitatea nu s-a schimbat — nimic de salvat." >> "$GITHUB_STEP_SUMMARY"
+            exit 0
+          fi
+          git -C /tmp/hs-save commit -m "Identitatea onion (rularea $GITHUB_RUN_ID)"
+          git -C /tmp/hs-save push "https://x-access-token:$HS_TOKEN@github.com/$HS_REPO.git" HEAD:main
+          echo "Identitatea onion salvată în $HS_REPO (doar hs/)." >> "$GITHUB_STEP_SUMMARY"
