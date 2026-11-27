@@ -58,6 +58,9 @@ jobs:
                 -H 'Content-Type: application/json' \
                 -d "{\"actiune\":\"nod_oidc\",\"oidc_token\":\"$OIDC\"}")
               echo "răspuns organ: $(echo "$RESP" | jq -r '.motiv // .error // .nota // "necunoscut"' 2>/dev/null)"
+              if echo "$RESP" | grep -q actiune_necunoscuta; then
+                echo "Organul public nu are încă acțiunea nod_oidc: publică aplicația o dată, apoi rulează din nou." >> "$GITHUB_STEP_SUMMARY"
+              fi
               TOKEN=$(echo "$RESP" | jq -r '.token_nod // empty')
             fi
           else
