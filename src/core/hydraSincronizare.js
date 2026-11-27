@@ -1,0 +1,1 @@
+const reconciliazaOrgane = (listaBruta, agregat) => { const setValid = new Set(agregat.map(o => o.id)); return listaBruta.filter(organ => setValid.has(organ.id)); }; const stareConsistenta = reconciliazaOrgane(Lege.list(), Lege.aggregate({groupBy:'stare'})); console.log('Sincronizare unitară aplicată: ' + stareConsistenta.length + ' organe validate.');
