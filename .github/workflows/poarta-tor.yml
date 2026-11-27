@@ -1,149 +1,85 @@
-# POARTA TOR — runner gratuit, cu identitatea onion ținută în afara cache-ului.
+# POARTA TOR — LIVRARE ȘI VERIFICARE. Runnerul NU mai găzduiește poarta.
 #
-# Ce face: un runner GitHub ține serviciul ascuns ~5h50m, apoi cron-ul îl
-# repornește. Între rulări adresa e offline câteva zeci de minute, iar organul
-# arată asta ca atare (fara_bataie), nu ca „activă prin amintire".
+# DE CE: un runner GitHub este temporar — coadă de joburi, durată maximă, oprire
+# între rulări. Niciun mecanism nu îl face gazdă Tor permanentă. Deci rolurile se
+# separă (OM 27.11.2026):
+#   · gazda permanentă (VPS sau dispozitiv propriu, pornit mereu) ține tor, releul
+#     și cheia onion pe discul ei: public/termux/poarta_gazda.sh instalare
+#   · identitatea onion stă doar pe acea gazdă, cu permisiuni 700 și copie
+#     criptată de siguranță — nu în cache, nu în git, nu în loguri
+#   · acest workflow livrează versiunile: verifică scripturile și raportează
+#     starea reală a porții. Nu ține Tor, nu primește token de nod, nu atinge cheia.
 #
-# DE CE NU MAI FOLOSIM actions/cache PENTRU CHEIE:
-# cheia privată a serviciului ascuns este o credențială. Cache-urile GitHub pot
-# fi restaurate de alte rulări din același repo (inclusiv rulări pornite de
-# pull request-uri, care pot citi cache-ul ramurii de bază), deci nu sunt un loc
-# pentru secrete. Aici cache-ul nu mai păstrează nimic: cheia stă într-un
-# depozit privat separat, cu acces limitat la un singur token.
-#
-# Fără depozitul secret configurat, rularea merge mai departe și spune pe față
-# că adresa .onion va fi nouă la fiecare rulare (identitate efemeră).
-#
-# CE PERMISIUNI CERE:
-#   contents: read   — doar citește acest repo (checkout)
-#   id-token: write  — poate cere GitHub-ului un token OIDC semnat, valabil
-#                      minute, care dovedește doar repo-ul și workflow-ul
-# Nu cere scriere în repo, nu cere packages, nu citește alte secrete decât
-# POARTA_HS_REPO / POARTA_HS_TOKEN (opționale, pentru identitate).
-#
-# TRIGGERE: doar `schedule` (rulează pe ramura implicită) și `workflow_dispatch`
-# (cere drept de scriere). Nu există trigger de `pull_request`, deci un fork nu
-# poate porni acest workflow și nu poate primi secrete; în plus, jobul refuză să
+# CE PERMISIUNI CERE: doar `contents: read` (checkout). Nu cere `id-token: write`
+# și nu are acces la niciun secret: nu are ce să compromită.
+# TRIGGERE: push pe main pentru fișierele porții + `workflow_dispatch`. Fără
+# `pull_request`, deci un fork nu poate porni workflow-ul, iar jobul refuză să
 # ruleze în alt repo decât cel al organismului.
+#
+# Cum ajunge versiunea pe gazdă (o dată, pe gazdă): git pull && systemctl restart poarta-tor
 
-name: Poarta TOR
+name: Poarta TOR — livrare
 
 on:
-  schedule:
-    - cron: "0 */6 * * *"
+  push:
+    branches: [main]
+    paths:
+      - "public/termux/**"
+      - ".github/workflows/poarta-tor.yml"
   workflow_dispatch:
 
 concurrency:
-  group: poarta-tor
-  cancel-in-progress: false
+  group: poarta-tor-livrare
+  cancel-in-progress: true
 
 permissions:
   contents: read
-  id-token: write
 
 jobs:
-  nod:
+  livrare:
     if: github.repository == 'bogdanstancu1119-maker/psie-arca'
     runs-on: ubuntu-latest
-    timeout-minutes: 355
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
 
-      - name: Instalează Tor, socat și jq
-        run: sudo apt-get update -qq && sudo apt-get install -y -qq tor socat curl jq
-
-      - name: Identitatea onion — din depozit privat, nu din cache
-        env:
-          HS_REPO: ${{ secrets.POARTA_HS_REPO }}
-          HS_TOKEN: ${{ secrets.POARTA_HS_TOKEN }}
+      - name: Sintaxa scripturilor livrate
         run: |
-          mkdir -p ~/.hydra-tor/hs
-          chmod 700 ~/.hydra-tor ~/.hydra-tor/hs
-          if [ -z "$HS_REPO" ] || [ -z "$HS_TOKEN" ]; then
-            echo "Fără depozit secret (POARTA_HS_REPO / POARTA_HS_TOKEN): identitate efemeră, adresa .onion se schimbă la fiecare rulare." >> "$GITHUB_STEP_SUMMARY"
-            exit 0
-          fi
-          echo "::add-mask::$HS_TOKEN"
-          if git clone --depth 1 "https://x-access-token:$HS_TOKEN@github.com/$HS_REPO.git" /tmp/hs-repo 2>/dev/null; then
-            if [ -d /tmp/hs-repo/hs ]; then
-              cp -f /tmp/hs-repo/hs/* ~/.hydra-tor/hs/ 2>/dev/null || true
-              echo "Identitate onion restaurată din $HS_REPO." >> "$GITHUB_STEP_SUMMARY"
-            else
-              echo "Depozitul $HS_REPO nu are încă hs/ — cheia se generează acum și se salvează la final." >> "$GITHUB_STEP_SUMMARY"
-            fi
-          else
-            echo "Depozitul secret nu a putut fi citit: rularea continuă cu identitate efemeră." >> "$GITHUB_STEP_SUMMARY"
-          fi
+          for f in public/termux/*.sh; do bash -n "$f" && echo "ok $f"; done
+          python3 -m py_compile public/termux/poarta_relay.py && echo "ok releu"
 
-      - name: Nodul se autentifică singur (OIDC GitHub)
-        env:
-          FALLBACK_TOKEN: ${{ secrets.POARTA_TOKEN }}
+      - name: Fără cache, fără chei, fără tokenuri în livrare
         run: |
-          set +e
-          echo "OIDC url: ${ACTIONS_ID_TOKEN_REQUEST_URL:0:40}… · token: ${#ACTIONS_ID_TOKEN_REQUEST_TOKEN} caractere"
-          TOKEN=""
-          if [ -n "$ACTIONS_ID_TOKEN_REQUEST_URL" ]; then
-            OIDC=$(curl -sS -m 20 -H "Authorization: bearer $ACTIONS_ID_TOKEN_REQUEST_TOKEN" \
-              "$ACTIONS_ID_TOKEN_REQUEST_URL&audience=hydra" | jq -r '.value // empty')
-            echo "OIDC primit: ${#OIDC} caractere"
-            if [ -n "$OIDC" ]; then
-              RESP=$(curl -sS -m 25 -X POST https://hidra-smart-core.base44.app/functions/hydraPoartaTor \
-                -H 'Content-Type: application/json' \
-                -d "{\"actiune\":\"nod_oidc\",\"oidc_token\":\"$OIDC\"}")
-              echo "răspuns organ: $(echo "$RESP" | jq -r '.motiv // .error // .nota // "necunoscut"' 2>/dev/null)"
-              TOKEN=$(echo "$RESP" | jq -r '.token_nod // empty')
-            fi
-          else
-            echo "Runnerul nu a dat token OIDC — verifică permisiunea id-token: write."
+          if grep -rn "uses: actions/cache" public/termux .github/workflows 2>/dev/null; then
+            echo "cache interzis: cheia onion și tokenul nu se pun în cache"; exit 1
           fi
-          if [ -z "$TOKEN" ] && [ -n "$FALLBACK_TOKEN" ]; then
-            echo "Folosesc tokenul din secretul POARTA_TOKEN."
-            TOKEN="$FALLBACK_TOKEN"
+          if grep -rniE "hs_ed25519_secret_key|BEGIN OPENSSH PRIVATE KEY" public/termux .github/workflows 2>/dev/null; then
+            echo "material de cheie în repo — oprit"; exit 1
           fi
-          if [ -z "$TOKEN" ]; then
-            echo "Nodul nu a primit token." >> "$GITHUB_STEP_SUMMARY"
-            exit 1
-          fi
-          echo "::add-mask::$TOKEN"
-          echo "HYDRA_TOKEN=$TOKEN" >> "$GITHUB_ENV"
-          echo "Nod autentificat — poarta poate fi ținută." >> "$GITHUB_STEP_SUMMARY"
+          echo "curat: fără cache, fără material de cheie, fără tokenuri"
 
-      - name: Ține poarta
-        env:
-          HYDRA_ORE_MAX: "5.8"
+      - name: Starea reală a porții (citită, nu declarată)
         run: |
-          bash public/termux/poarta_tor.sh > /tmp/poarta.log 2>&1 &
-          PID=$!
-          for i in $(seq 1 20); do
-            sleep 15
-            if grep -m1 "adresa .onion" /tmp/poarta.log >> "$GITHUB_STEP_SUMMARY"; then break; fi
-          done
-          tail -n 20 /tmp/poarta.log >> "$GITHUB_STEP_SUMMARY" || true
-          wait $PID || true
+          R=$(curl -sS -m 25 "https://hidra-smart-core.base44.app/functions/hydraPoartaTor?actiune=permanent" || echo '{}')
+          {
+            echo "### Poarta TOR"
+            echo "- stare: $(echo "$R" | jq -r '.poarta.stare // "nepornită"')"
+            echo "- adresa .onion: $(echo "$R" | jq -r '.poarta.adresa_onion // "—"')"
+            echo "- ultima bătaie a nodului: $(echo "$R" | jq -r '.poarta.ultima_bataie_nod // "—"')"
+            echo "- bătăi primite: $(echo "$R" | jq -r '.poarta.batai_nod // 0')"
+            echo ""
+            echo "Gazda permanentă ține poarta; acest workflow doar livrează codul."
+          } >> "$GITHUB_STEP_SUMMARY"
 
-      - name: Păstrează identitatea onion (doar hs/, în depozitul privat)
-        if: always()
-        env:
-          HS_REPO: ${{ secrets.POARTA_HS_REPO }}
-          HS_TOKEN: ${{ secrets.POARTA_HS_TOKEN }}
+      - name: Ce trebuie să ruleze pe gazdă
         run: |
-          if [ -z "$HS_REPO" ] || [ -z "$HS_TOKEN" ]; then
-            echo "Identitate efemeră: nu se salvează nicio cheie." >> "$GITHUB_STEP_SUMMARY"
-            exit 0
-          fi
-          echo "::add-mask::$HS_TOKEN"
-          rm -rf /tmp/hs-save
-          git clone --depth 1 "https://x-access-token:$HS_TOKEN@github.com/$HS_REPO.git" /tmp/hs-save || exit 1
-          git -C /tmp/hs-save remote set-url origin "https://github.com/$HS_REPO.git"
-          mkdir -p /tmp/hs-save/hs
-          cp -f ~/.hydra-tor/hs/* /tmp/hs-save/hs/ 2>/dev/null || true
-          git -C /tmp/hs-save config user.name "hydra-poarta"
-          git -C /tmp/hs-save config user.email "poarta@users.noreply.github.com"
-          git -C /tmp/hs-save add hs
-          if git -C /tmp/hs-save diff --cached --quiet; then
-            echo "Identitatea nu s-a schimbat — nimic de salvat." >> "$GITHUB_STEP_SUMMARY"
-            exit 0
-          fi
-          git -C /tmp/hs-save commit -m "Identitatea onion (rularea $GITHUB_RUN_ID)"
-          git -C /tmp/hs-save push "https://x-access-token:$HS_TOKEN@github.com/$HS_REPO.git" HEAD:main
-          echo "Identitatea onion salvată în $HS_REPO (doar hs/)." >> "$GITHUB_STEP_SUMMARY"
+          {
+            echo "### Pe gazda permanentă"
+            echo '```'
+            echo "curl -fsSL https://hidra-smart-core.com/termux/poarta_gazda.sh -o poarta_gazda.sh"
+            echo "curl -fsSL https://hidra-smart-core.com/termux/poarta_tor.sh -o poarta_tor.sh"
+            echo "HYDRA_TOKEN=<tokenul nodului> bash poarta_gazda.sh instalare"
+            echo "bash poarta_gazda.sh stare"
+            echo '```'
+            echo "Dacă starea nu e „activ”, spune care probă lipsește; identitatea onion nu se regenerează."
+          } >> "$GITHUB_STEP_SUMMARY"
