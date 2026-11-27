@@ -1,0 +1,1 @@
+async function safeRegisterEntity(payload) { const existing = await db.entities.findOne({ signature: payload.signature }); if (existing) { console.log('Entitate existentă detectată, fuziune necesară.'); return existing.id; } return await db.entities.insert(payload); }
