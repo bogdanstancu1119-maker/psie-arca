@@ -1,0 +1,58 @@
+# POARTA TOR — varianta fără bani și fără server propriu.
+#
+# Ce face: un runner GitHub gratuit ține serviciul ascuns ~6 ore, apoi cron-ul
+# îl repornește. Cheia .onion stă în cache între rulări, deci adresa rămâne
+# aceeași; tokenul și provocarea stau în secretele repo-ului, nu în fișier.
+#
+# Pași (o singură dată):
+#   1. copiază fișierul în .github/workflows/poarta-tor.yml
+#   2. în repo → Settings → Secrets and variables → Actions adaugă:
+#        POARTA_TOKEN = tokenul de nod din panoul /tor
+#        POARTA_NONCE = provocarea din panoul /tor
+#   3. Actions → „Poarta TOR” → Run workflow
+# După asta rulează singur la fiecare 6 ore, gratis (repo public = minute nelimitate).
+#
+# Limita spusă pe față: între rulări, de la o oră la alta, adresa poate fi
+# offline câteva minute. Organul arată asta ca atare, nu ca „activă prin amintire”.
+
+name: Poarta TOR
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: poarta-tor
+  cancel-in-progress: false
+
+jobs:
+  nod:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Cheia serviciului ascuns (păstrată între rulări)
+        uses: actions/cache@v4
+        with:
+          path: ~/.hydra-tor
+          key: poarta-tor-cheie-v1
+
+      - name: Instalează Tor și socat
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq tor socat curl
+
+      - name: Ține poarta
+        env:
+          HYDRA_TOKEN: ${{ secrets.POARTA_TOKEN }}
+          HYDRA_NONCE: ${{ secrets.POARTA_NONCE }}
+          HYDRA_ORE_MAX: "5.8"
+        run: |
+          bash public/termux/poarta_tor.sh > /tmp/poarta.log 2>&1 &
+          PID=$!
+          for i in $(seq 1 20); do
+            sleep 15
+            grep -m1 "adresa .onion" /tmp/poarta.log >> "$GITHUB_STEP_SUMMARY" && break
+          done
+          tail -n 20 /tmp/poarta.log >> "$GITHUB_STEP_SUMMARY" || true
+          wait $PID || true
