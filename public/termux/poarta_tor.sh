@@ -67,10 +67,25 @@ atest() {
   echo
 }
 
+# ROTIREA TOKENULUI: organul spune câte zile mai are tokenul; când coboară sub
+# 30, nodul cere el unul nou — nu așteaptă să expire și nu îl rescrie singur.
+roteste() {
+  R=$(post "{\"actiune\":\"rotire\",\"token_nod\":\"$(cat "$DIR/token" 2>/dev/null)\"}")
+  NOU=$(printf '%s' "$R" | sed -n 's/.*"token_nod":"\([^"]*\)".*/\1/p')
+  if [ -n "$NOU" ]; then
+    printf '%s' "$NOU" > "$DIR/token"; chmod 600 "$DIR/token"
+    echo "[poartă] token rotit; expiră la $(printf '%s' "$R" | sed -n 's/.*"expira_la":"\([^"]*\)".*/\1/p')"
+  else
+    echo "[poartă] rotirea nu a reușit: $(printf '%s' "$R" | head -c 200)"
+  fi
+}
+
 bate() {
   local o; o="$(onion)"; [ -z "$o" ] && return 0
-  post "{\"actiune\":\"bate\",\"adresa_onion\":\"$o\",\"token_nod\":\"$(cat "$DIR/token" 2>/dev/null)\"}" >/dev/null
+  R=$(post "{\"actiune\":\"bate\",\"adresa_onion\":\"$o\",\"token_nod\":\"$(cat "$DIR/token" 2>/dev/null)\"}")
   echo "[poartă] bătaie trimisă"
+  Z=$(printf '%s' "$R" | sed -n 's/.*"zile_ramase_token":\([0-9]*\).*/\1/p')
+  if [ -n "$Z" ] && [ "$Z" -le 30 ]; then roteste; fi
 }
 
 start_all
