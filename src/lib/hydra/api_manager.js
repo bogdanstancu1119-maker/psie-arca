@@ -1,0 +1,1 @@
+const fetchWithBackoff = async (fn, retries = 3, delay = 1000) => { try { return await fn(); } catch (e) { if (e.status === 429 && retries > 0) { await new Promise(r => setTimeout(r, delay)); return fetchWithBackoff(fn, retries - 1, delay * 2); } throw e; } };
