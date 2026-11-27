@@ -1,1 +1,1 @@
-const syncRegistry = () => { const state = Lege.aggregate({ groupBy: 'stare' }); const total = Object.values(state).reduce((a, b) => a + b, 0); if (Lege.list().length !== total) { console.warn('Incoerență detectată: sincronizare forțată'); Lege.rebuildIndex(); } }; setInterval(syncRegistry, 300000);
+const getUniqueAgent = (id) => { const agents = Lege.list().filter(a => a.id === id); if (agents.length > 1) { console.warn('Deduplicare necesară'); return agents[0]; } return agents[0] || null; };
