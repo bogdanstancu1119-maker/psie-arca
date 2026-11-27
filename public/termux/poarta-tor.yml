@@ -1,0 +1,85 @@
+# POARTA TOR — LIVRARE ȘI VERIFICARE. Runnerul NU mai găzduiește poarta.
+#
+# DE CE: un runner GitHub este temporar — coadă de joburi, durată maximă, oprire
+# între rulări. Niciun mecanism nu îl face gazdă Tor permanentă. Deci rolurile se
+# separă (OM 27.11.2026):
+#   · gazda permanentă (VPS sau dispozitiv propriu, pornit mereu) ține tor, releul
+#     și cheia onion pe discul ei: public/termux/poarta_gazda.sh instalare
+#   · identitatea onion stă doar pe acea gazdă, cu permisiuni 700 și copie
+#     criptată de siguranță — nu în cache, nu în git, nu în loguri
+#   · acest workflow livrează versiunile: verifică scripturile și raportează
+#     starea reală a porții. Nu ține Tor, nu primește token de nod, nu atinge cheia.
+#
+# CE PERMISIUNI CERE: doar `contents: read` (checkout). Nu cere `id-token: write`
+# și nu are acces la niciun secret: nu are ce să compromită.
+# TRIGGERE: push pe main pentru fișierele porții + `workflow_dispatch`. Fără
+# `pull_request`, deci un fork nu poate porni workflow-ul, iar jobul refuză să
+# ruleze în alt repo decât cel al organismului.
+#
+# Cum ajunge versiunea pe gazdă (o dată, pe gazdă): git pull && systemctl restart poarta-tor
+
+name: Poarta TOR — livrare
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "public/termux/**"
+      - ".github/workflows/poarta-tor.yml"
+  workflow_dispatch:
+
+concurrency:
+  group: poarta-tor-livrare
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  livrare:
+    if: github.repository == 'bogdanstancu1119-maker/psie-arca'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Sintaxa scripturilor livrate
+        run: |
+          for f in public/termux/*.sh; do bash -n "$f" && echo "ok $f"; done
+          python3 -m py_compile public/termux/poarta_relay.py && echo "ok releu"
+
+      - name: Fără cache, fără chei, fără tokenuri în livrare
+        run: |
+          if grep -rn "uses: actions/cache" public/termux .github/workflows 2>/dev/null; then
+            echo "cache interzis: cheia onion și tokenul nu se pun în cache"; exit 1
+          fi
+          if grep -rniE "hs_ed25519_secret_key|BEGIN OPENSSH PRIVATE KEY" public/termux .github/workflows 2>/dev/null; then
+            echo "material de cheie în repo — oprit"; exit 1
+          fi
+          echo "curat: fără cache, fără material de cheie, fără tokenuri"
+
+      - name: Starea reală a porții (citită, nu declarată)
+        run: |
+          R=$(curl -sS -m 25 "https://hidra-smart-core.base44.app/functions/hydraPoartaTor?actiune=permanent" || echo '{}')
+          {
+            echo "### Poarta TOR"
+            echo "- stare: $(echo "$R" | jq -r '.poarta.stare // "nepornită"')"
+            echo "- adresa .onion: $(echo "$R" | jq -r '.poarta.adresa_onion // "—"')"
+            echo "- ultima bătaie a nodului: $(echo "$R" | jq -r '.poarta.ultima_bataie_nod // "—"')"
+            echo "- bătăi primite: $(echo "$R" | jq -r '.poarta.batai_nod // 0')"
+            echo ""
+            echo "Gazda permanentă ține poarta; acest workflow doar livrează codul."
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Ce trebuie să ruleze pe gazdă
+        run: |
+          {
+            echo "### Pe gazda permanentă"
+            echo '```'
+            echo "curl -fsSL https://hidra-smart-core.com/termux/poarta_gazda.sh -o poarta_gazda.sh"
+            echo "curl -fsSL https://hidra-smart-core.com/termux/poarta_tor.sh -o poarta_tor.sh"
+            echo "HYDRA_TOKEN=<tokenul nodului> bash poarta_gazda.sh instalare"
+            echo "bash poarta_gazda.sh stare"
+            echo '```'
+            echo "Dacă starea nu e „activ”, spune care probă lipsește; identitatea onion nu se regenerează."
+          } >> "$GITHUB_STEP_SUMMARY"
