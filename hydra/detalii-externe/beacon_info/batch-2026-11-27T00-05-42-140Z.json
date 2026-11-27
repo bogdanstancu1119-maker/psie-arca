@@ -1,0 +1,27 @@
+{
+  "exportat_la": "2026-11-27T00:05:42.140Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6b086997e3fec60dfd95466d",
+      "titlu": "[BEACON info] hydraApoptoza 2026-11-26",
+      "rezumat": "Apoptoză: 24 MetricaStare șterse, 200 ConfigHidra deduplicate (păstrat 3/cheie).",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraApoptoza: Apoptoză: 24 MetricaStare șterse, 200 ConfigHidra deduplicate (păstrat 3/cheie)."
+    },
+    {
+      "id": "6b086997e3fec60dfd95466c",
+      "titlu": "[BEACON info] hydraSenzoriExterni 2026-11-26",
+      "rezumat": "{\"devto\":{\"articole\":6,\"reactii\":0,\"comentarii\":0},\"github\":{\"stele\":0,\"forkuri\":0,\"issues\":0,\"pr\":0},\"oameni_noi\":0,\"proiecte_noi\":0,\"raspunsuri\":0,\"erori\":[]}",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraSenzoriExterni: {\"devto\":{\"articole\":6,\"reactii\":0,\"comentarii\":0},\"github\":{\"stele\":0,\"forkuri\":0,\"issues\":0,\"pr\":0},\"oameni_noi\":0,\"proiecte_noi\":0,\"raspunsuri\":0,\"erori\":[]}"
+    },
+    {
+      "id": "6b086997e3fec60dfd95466b",
+      "titlu": "[BEACON info] hydraMotorPlacere 2026-11-26",
+      "rezumat": "[MOTOR·PLĂCERE] Amânat conștient: 15 nevoi interne active — plăcerea externă NU înlocuiește rezolvarea internă.",
+      "tip_context": "beacon_info",
+      "detalii": "Beacon info de la hydraMotorPlacere: [MOTOR·PLĂCERE] Amânat conștient: 15 nevoi interne active — plăcerea externă NU înlocuiește rezolvarea internă."
+    }
+  ]
+}
