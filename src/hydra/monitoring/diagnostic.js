@@ -1,0 +1,1 @@
+const getActiuni = (state) => (state && typeof state.actiuniAll !== 'undefined' ? state.actiuniAll : []); const raport = getActiuni(snapshot_curent);
