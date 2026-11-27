@@ -1,1 +1,1 @@
-if (organ.status === 'decuplat' && organ.prioritate === 'incapacitant') { console.log('Trezire fortata: ' + organ.nume); await initOrgan(organ.nume); organ.status = 'activ'; persistState(organ); }
+const trezireFortata = (organeDecuplate) => { organeDecuplate.forEach(organ => { if (organ.nume) { console.log(`[REPARAȚIE] Forțare trezire: ${organ.nume}`); HydraReflex.reinit(organ.nume); } }); }; const cicluSuprapunere = () => { const stare = getSnapshot(); if (stare.raport_risc.imediat_decuplate.length > 0) { trezireFortata(stare.raport_risc.imediat_decuplate); } };
