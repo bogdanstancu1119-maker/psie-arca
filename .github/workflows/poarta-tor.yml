@@ -43,20 +43,37 @@ jobs:
         run: sudo apt-get update -qq && sudo apt-get install -y -qq tor socat curl
 
       - name: Nodul se autentifică singur (OIDC GitHub)
+        env:
+          FALLBACK_TOKEN: ${{ secrets.POARTA_TOKEN }}
         run: |
-          OIDC=$(curl -sS -H "Authorization: bearer $ACTIONS_ID_TOKEN_REQUEST_TOKEN" \
-            "$ACTIONS_ID_TOKEN_REQUEST_URL&audience=hydra" | jq -r .value)
-          RESP=$(curl -sS -m 25 -X POST https://hidra-smart-core.base44.app/functions/hydraPoartaTor \
-            -H 'Content-Type: application/json' \
-            -d "{\"actiune\":\"nod_oidc\",\"oidc_token\":\"$OIDC\"}")
-          TOKEN=$(echo "$RESP" | jq -r '.token_nod // empty')
+          set +e
+          echo "OIDC url: ${ACTIONS_ID_TOKEN_REQUEST_URL:0:40}… · token: ${#ACTIONS_ID_TOKEN_REQUEST_TOKEN} caractere"
+          TOKEN=""
+          if [ -n "$ACTIONS_ID_TOKEN_REQUEST_URL" ]; then
+            OIDC=$(curl -sS -m 20 -H "Authorization: bearer $ACTIONS_ID_TOKEN_REQUEST_TOKEN" \
+              "$ACTIONS_ID_TOKEN_REQUEST_URL&audience=hydra" | jq -r '.value // empty')
+            echo "OIDC primit: ${#OIDC} caractere"
+            if [ -n "$OIDC" ]; then
+              RESP=$(curl -sS -m 25 -X POST https://hidra-smart-core.base44.app/functions/hydraPoartaTor \
+                -H 'Content-Type: application/json' \
+                -d "{\"actiune\":\"nod_oidc\",\"oidc_token\":\"$OIDC\"}")
+              echo "răspuns organ: $(echo "$RESP" | jq -r '.motiv // .error // .nota // "necunoscut"' 2>/dev/null)"
+              TOKEN=$(echo "$RESP" | jq -r '.token_nod // empty')
+            fi
+          else
+            echo "Runnerul nu a dat token OIDC — verifică permisiunea id-token: write."
+          fi
+          if [ -z "$TOKEN" ] && [ -n "$FALLBACK_TOKEN" ]; then
+            echo "Folosesc tokenul din secretul POARTA_TOKEN."
+            TOKEN="$FALLBACK_TOKEN"
+          fi
           if [ -z "$TOKEN" ]; then
-            echo "Nodul nu a primit token: $(echo "$RESP" | jq -r '.motiv // .error // .')" >> "$GITHUB_STEP_SUMMARY"
+            echo "Nodul nu a primit token." >> "$GITHUB_STEP_SUMMARY"
             exit 1
           fi
           echo "::add-mask::$TOKEN"
           echo "HYDRA_TOKEN=$TOKEN" >> "$GITHUB_ENV"
-          echo "Nod acceptat prin OIDC: $(echo "$RESP" | jq -r '.repo')" >> "$GITHUB_STEP_SUMMARY"
+          echo "Nod autentificat — poarta poate fi ținută." >> "$GITHUB_STEP_SUMMARY"
 
       - name: Ține poarta
         env:
