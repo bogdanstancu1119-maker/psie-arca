@@ -1,19 +1,15 @@
-# POARTA TOR — varianta fără bani și fără server propriu.
+# POARTA TOR — varianta fără bani, fără VPS și fără secrete puse de mână.
 #
 # Ce face: un runner GitHub gratuit ține serviciul ascuns ~6 ore, apoi cron-ul
 # îl repornește. Cheia .onion stă în cache între rulări, deci adresa rămâne
-# aceeași; tokenul și provocarea stau în secretele repo-ului, nu în fișier.
+# aceeași. Nodul se autentifică singur: GitHub semnează un token OIDC care
+# spune în ce repo rulează, organul verifică semnătura și îi dă tokenul de nod.
+# Deci nu trebuie adăugat niciun secret în repo — doar fișierul acesta.
 #
-# Pași (o singură dată):
-#   1. copiază fișierul în .github/workflows/poarta-tor.yml
-#   2. în repo → Settings → Secrets and variables → Actions adaugă:
-#        POARTA_TOKEN = tokenul de nod din panoul /tor
-#        POARTA_NONCE = provocarea din panoul /tor
-#   3. Actions → „Poarta TOR” → Run workflow
-# După asta rulează singur la fiecare 6 ore, gratis (repo public = minute nelimitate).
-#
-# Limita spusă pe față: între rulări, de la o oră la alta, adresa poate fi
-# offline câteva minute. Organul arată asta ca atare, nu ca „activă prin amintire”.
+# Pași (o singură dată): copiază fișierul în .github/workflows/poarta-tor.yml.
+# După asta rulează singur la fiecare 6 ore, gratis (repo public = minute
+# nelimitate). Limita spusă pe față: între rulări adresa poate fi offline
+# câteva minute, iar organul arată asta ca atare, nu ca „activă prin amintire”.
 
 name: Poarta TOR
 
@@ -25,6 +21,10 @@ on:
 concurrency:
   group: poarta-tor
   cancel-in-progress: false
+
+permissions:
+  contents: read
+  id-token: write
 
 jobs:
   nod:
@@ -42,17 +42,31 @@ jobs:
       - name: Instalează Tor și socat
         run: sudo apt-get update -qq && sudo apt-get install -y -qq tor socat curl
 
+      - name: Nodul se autentifică singur (OIDC GitHub)
+        run: |
+          OIDC=$(curl -sS -H "Authorization: bearer $ACTIONS_ID_TOKEN_REQUEST_TOKEN" \
+            "$ACTIONS_ID_TOKEN_REQUEST_URL&audience=hydra" | jq -r .value)
+          RESP=$(curl -sS -m 25 -X POST https://hidra-smart-core.base44.app/functions/hydraPoartaTor \
+            -H 'Content-Type: application/json' \
+            -d "{\"actiune\":\"nod_oidc\",\"oidc_token\":\"$OIDC\"}")
+          TOKEN=$(echo "$RESP" | jq -r '.token_nod // empty')
+          if [ -z "$TOKEN" ]; then
+            echo "Nodul nu a primit token: $(echo "$RESP" | jq -r '.motiv // .error // .')" >> "$GITHUB_STEP_SUMMARY"
+            exit 1
+          fi
+          echo "::add-mask::$TOKEN"
+          echo "HYDRA_TOKEN=$TOKEN" >> "$GITHUB_ENV"
+          echo "Nod acceptat prin OIDC: $(echo "$RESP" | jq -r '.repo')" >> "$GITHUB_STEP_SUMMARY"
+
       - name: Ține poarta
         env:
-          HYDRA_TOKEN: ${{ secrets.POARTA_TOKEN }}
-          HYDRA_NONCE: ${{ secrets.POARTA_NONCE }}
           HYDRA_ORE_MAX: "5.8"
         run: |
           bash public/termux/poarta_tor.sh > /tmp/poarta.log 2>&1 &
           PID=$!
           for i in $(seq 1 20); do
             sleep 15
-            grep -m1 "adresa .onion" /tmp/poarta.log >> "$GITHUB_STEP_SUMMARY" && break
+            if grep -m1 "adresa .onion" /tmp/poarta.log >> "$GITHUB_STEP_SUMMARY"; then break; fi
           done
           tail -n 20 /tmp/poarta.log >> "$GITHUB_STEP_SUMMARY" || true
           wait $PID || true
