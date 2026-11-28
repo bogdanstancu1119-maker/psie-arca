@@ -1,0 +1,1 @@
+const trezesteOrganeCritice = (organe) => { const critice = ['hydraBursaQuant', 'hydraBinanceOrdine', 'hydraAutodiagnosticSecreti', 'hydraSeifChei', 'hydraApoptoza']; critice.forEach(nume => { if (!organe[nume]) { console.log(`[REPARARE] Trezire fortata: ${nume}`); initOrgan(nume); } }); };
