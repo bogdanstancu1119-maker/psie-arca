@@ -1,0 +1,1 @@
+const fs = require('fs'); const path = require('path'); const configPath = path.join(__dirname, 'telegram_session.json'); function saveSession(data) { fs.writeFileSync(configPath, JSON.stringify(data, null, 2)); } function loadSession() { try { return JSON.parse(fs.readFileSync(configPath, 'utf8')); } catch (e) { return {}; } } module.exports = { saveSession, loadSession };
