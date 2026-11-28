@@ -1,1 +1,1 @@
-const persistState = (key, data) => { localStorage.setItem(key, JSON.stringify(data)); return data; }; const syncHydraState = (current) => { const saved = localStorage.getItem('hydra_state'); if (saved) return { ...JSON.parse(saved), ...current }; return persistState('hydra_state', current); };
+import { persistState } from './storage'; export const syncState = async (data) => { await fetch('/api/state/sync', { method: 'POST', body: JSON.stringify(data), headers: { 'Content-Type': 'application/json' } }); localStorage.setItem('hydra_state', JSON.stringify(data)); };
