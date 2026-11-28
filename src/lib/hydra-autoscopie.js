@@ -1,1 +1,1 @@
-const getActiuniSnapshot = (state) => { try { return state.actiuniAll || state.ultimele_actiuni || []; } catch (e) { return []; } };
+export const getSnapshot = async () => { try { const data = await fetchMetrics(); return { ...data, actiuniAll: data.actiuniAll || [], status: 'ok', timestamp: new Date().toISOString() }; } catch (e) { return { status: 'error', message: e.message, actiuniAll: [] }; } };
