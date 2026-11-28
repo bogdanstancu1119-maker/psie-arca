@@ -1,7 +1,7 @@
-// ORGAN AUTO-DEPLOYAT de Hydra — Structură în așteptare pasivă: Cerere mica, nu urgenta mare: unde pica .slice() si ce camp e undefined?
-// Generat autonom la 2026-11-28T19:40:42.871Z
-// Scop: Cerere mica, nu urgenta mare: unde pica .slice() si ce camp e undefined?
-// Plan: Hydra nu așteaptă pasiv Arhitectul. Fabrică varianta internă pentru: Cerere mica, nu urgenta mare: unde pica .slice() si ce camp e undefined?. 1. Izolează ce parte din nevoie poate fi acoperită cu organele actuale. 2. Implementează acea parte intern. 3. Păstrează invocarea deschisă doar pentru restul strict structural.
+// ORGAN AUTO-DEPLOYAT de Hydra — Structură în așteptare pasivă: TEST PICAT: patch sync.js NU a deblocat sincronizarea — găsește calea REALă de cod
+// Generat autonom la 2026-11-28T22:02:28.811Z
+// Scop: TEST PICAT: patch sync.js NU a deblocat sincronizarea — găsește calea REALă de cod
+// Plan: Hydra nu așteaptă pasiv Arhitectul. Fabrică varianta internă pentru: TEST PICAT: patch sync.js NU a deblocat sincronizarea — găsește calea REALă de cod. 1. Izolează ce parte din nevoie poate fi acoperită cu organele actuale. 2. Implementează acea parte intern. 3. Păstrează invocarea deschisă doar pentru restul strict structural.
 
 // (script negenerat — vezi plan_actiune)
 
