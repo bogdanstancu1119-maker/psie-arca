@@ -1,0 +1,1 @@
+export const bootStrapHydra = async () => { const report = await getRiskReport(); if (report.critic_decuplate) { report.critic_decuplate.forEach(async (organ) => { await wakeUpOrgan(organ.nume); console.log(`[BOOT] Re-cuplat organ: ${organ.nume}`); }); } };
