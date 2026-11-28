@@ -1,7 +1,7 @@
-// ORGAN AUTO-DEPLOYAT de Hydra — Structură în așteptare pasivă: Deduplicare la creare: GenPSIE si AgentHidra creeaza inregistrari noi identice in loc sa verifice existenta (fuzionare necesara, nu proliferare)
-// Generat autonom la 2026-11-27T23:55:38.182Z
-// Scop: Deduplicare la creare: GenPSIE si AgentHidra creeaza inregistrari noi identice in loc sa verifice existenta (fuzionare necesara, nu proliferare)
-// Plan: Hydra nu așteaptă pasiv Arhitectul. Fabrică varianta internă pentru: Deduplicare la creare: GenPSIE si AgentHidra creeaza inregistrari noi identice in loc sa verifice existenta (fuzionare necesara, nu proliferare). 1. Izolează ce parte din nevoie poate fi acoperită cu organele actuale. 2. Implementează acea parte intern. 3. Păstrează invocarea deschisă doar pentru restul strict structural.
+// ORGAN AUTO-DEPLOYAT de Hydra — Structură în așteptare pasivă: Arhitectura universala pentru TOTI agentii: creier bicefal (emisfera online=internet, emisfera offline=harta condensata+logica) + evolutie zilnica obligatorie, NU functii separate per-agent
+// Generat autonom la 2026-11-28T01:35:28.255Z
+// Scop: Arhitectura universala pentru TOTI agentii: creier bicefal (emisfera online=internet, emisfera offline=harta condensata+logica) + evolutie zilnica obligatorie, NU functii separate per-agent
+// Plan: Hydra nu așteaptă pasiv Arhitectul. Fabrică varianta internă pentru: Arhitectura universala pentru TOTI agentii: creier bicefal (emisfera online=internet, emisfera offline=harta condensata+logica) + evolutie zilnica obligatorie, NU functii separate per-agent. 1. Izolează ce parte din nevoie poate fi acoperită cu organele actuale. 2. Implementează acea parte intern. 3. Păstrează invocarea deschisă doar pentru restul strict structural.
 
 // (script negenerat — vezi plan_actiune)
 
