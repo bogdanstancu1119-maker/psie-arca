@@ -1,0 +1,1 @@
+if (Array.isArray(contextData) && contextData.length > 0) { const latestContext = contextData.slice(-5); console.log('Context sincronizat:', latestContext); } else { console.warn('Context indisponibil - initializare cu array gol'); contextData = []; }
