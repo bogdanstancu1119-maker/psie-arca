@@ -1,0 +1,1 @@
+const normalizeSnapshot = (data) => ({...data,imunitate: Array.isArray(data.imunitate) ? data.imunitate : [],regenerare: Array.isArray(data.regenerare) ? data.regenerare : [],coerenta_masurata: data.coerenta_masurata || 0.05,timestamp: new Date().toISOString()});
