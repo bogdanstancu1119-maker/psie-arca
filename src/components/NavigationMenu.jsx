@@ -1,0 +1,1 @@
+const activeRoutes = registry.filter(organ => organ.hasPage); const menuItems = activeRoutes.map(organ => ({ title: organ.name, path: `/${organ.slug}` }));
