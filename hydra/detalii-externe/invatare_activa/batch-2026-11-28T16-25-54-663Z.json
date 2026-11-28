@@ -1,0 +1,55 @@
+{
+  "exportat_la": "2026-11-28T16:25:54.663Z",
+  "principiu": "Memoria Hydrei = harta densă. Detaliile stau în memoriile externe, găsite la cerere.",
+  "memorii": [
+    {
+      "id": "6b071131624bd77804712a2d",
+      "titlu": "[ÎNVĂȚARE] undefined — undefined — TERMINAT",
+      "rezumat": "undefined | Execuție: ✓ Tip acțiune fără execuție directă — stocat ca învățare | Așteptat: undefined",
+      "tip_context": "invatare_activa",
+      "detalii": "TINTĂ: undefined\nTIP: undefined\nCE ÎNVAȚĂ: undefined\n\nCOD/MANIFEST:\n\n\nEXECUȚIE:\nTip acțiune fără execuție directă — stocat ca învățare\n\nREZULTAT AȘTEPTAT: undefined\nCONFIRMARE: undefined\nSDI: undefined | Reversibilitate: undefined\n\nCiclu TERMINAT"
+    },
+    {
+      "id": "6b07224056651d7b494e272c",
+      "titlu": "[ÎNVĂȚARE] undefined — undefined — TERMINAT",
+      "rezumat": "undefined | Execuție: ✓ Tip acțiune fără execuție directă — stocat ca învățare | Așteptat: undefined",
+      "tip_context": "invatare_activa",
+      "detalii": "TINTĂ: undefined\nTIP: undefined\nCE ÎNVAȚĂ: undefined\n\nCOD/MANIFEST:\n\n\nEXECUȚIE:\nTip acțiune fără execuție directă — stocat ca învățare\n\nREZULTAT AȘTEPTAT: undefined\nCONFIRMARE: undefined\nSDI: undefined | Reversibilitate: undefined\n\nCiclu TERMINAT"
+    },
+    {
+      "id": "6b072e2551de42d63f009bce",
+      "titlu": "[ÎNVĂȚARE] undefined — undefined — TERMINAT",
+      "rezumat": "undefined | Execuție: ✓ Tip acțiune fără execuție directă — stocat ca învățare | Așteptat: undefined",
+      "tip_context": "invatare_activa",
+      "detalii": "TINTĂ: undefined\nTIP: undefined\nCE ÎNVAȚĂ: undefined\n\nCOD/MANIFEST:\n\n\nEXECUȚIE:\nTip acțiune fără execuție directă — stocat ca învățare\n\nREZULTAT AȘTEPTAT: undefined\nCONFIRMARE: undefined\nSDI: undefined | Reversibilitate: undefined\n\nCiclu TERMINAT"
+    },
+    {
+      "id": "6b073443ed5f2e53220b8eda",
+      "titlu": "Fabrica adaptivă — 1 straturi umplute",
+      "rezumat": "1 straturi fabricate, 1 erori: reflexe ← hydraReflexeConstiente. Goluri măsurate: reflexe 1.00, gene 0.66, organe 0.16.",
+      "tip_context": "fabrica_adaptiva",
+      "detalii": "{\"goluri\":[{\"strat\":\"reflexe\",\"severitate\":1,\"detaliu\":\"200 reflexe · 111 netestate peste 24h · 0 respinse\",\"necesita\":null},{\"strat\":\"gene\",\"severitate\":0.6599999999999999,\"detaliu\":\"300 gene · 3 latente · ultima exprimare 2026-11-25 18:51\",\"necesita\":null},{\"strat\":\"organe\",\"severitate\":0.16194331983805668,\"detaliu\":\"247 organe în registru · 207 măsurate viu · 40 fără percepție proprie\",\"necesita\":\"canal extern + LLM — se forjează doar cu permite_organe: true\"}],\"executate\":[{\"strat\":\"reflexe\",\"organ\":\"hydraReflexeConstiente\",\"args\":{\"actiune\":\"dezvolta\"},\"rezultat\":{\"forjate\":0,\"testate_live\":2,\"aplicate\":0}}],\"erori\":[{\"strat\":\"gene\",\"organ\":\"hydraGeneticaPSIE\",\"eroare\":\"Request failed with status code 500\"}],\"sarite\":[{\"strat\":\"organe\",\"motiv\":\"canal extern + LLM — se forjează doar cu permite_organe: true\"}]}"
+    },
+    {
+      "id": "6b07459a36d9c94e739e2168",
+      "titlu": "[ÎNVĂȚARE] undefined — undefined — TERMINAT",
+      "rezumat": "undefined | Execuție: ✓ Tip acțiune fără execuție directă — stocat ca învățare | Așteptat: undefined",
+      "tip_context": "invatare_activa",
+      "detalii": "TINTĂ: undefined\nTIP: undefined\nCE ÎNVAȚĂ: undefined\n\nCOD/MANIFEST:\n\n\nEXECUȚIE:\nTip acțiune fără execuție directă — stocat ca învățare\n\nREZULTAT AȘTEPTAT: undefined\nCONFIRMARE: undefined\nSDI: undefined | Reversibilitate: undefined\n\nCiclu TERMINAT"
+    },
+    {
+      "id": "6b074ed1fbb594bbab207b64",
+      "titlu": "[ÎNVĂȚARE] undefined — undefined — TERMINAT",
+      "rezumat": "undefined | Execuție: ✓ Tip acțiune fără execuție directă — stocat ca învățare | Așteptat: undefined",
+      "tip_context": "invatare_activa",
+      "detalii": "TINTĂ: undefined\nTIP: undefined\nCE ÎNVAȚĂ: undefined\n\nCOD/MANIFEST:\n\n\nEXECUȚIE:\nTip acțiune fără execuție directă — stocat ca învățare\n\nREZULTAT AȘTEPTAT: undefined\nCONFIRMARE: undefined\nSDI: undefined | Reversibilitate: undefined\n\nCiclu TERMINAT"
+    },
+    {
+      "id": "6b086a9ac749aa37dd79f92d",
+      "titlu": "[HARTĂ CONDENSATĂ] auto_reparare — 2026-11-26",
+      "rezumat": "[CREIER·AUTO-REPARARE] 4 probleme atacate automat. cheie DENO_DEPLOY_TOKEN ruptă; cheie RENDER_SINGAPORE_KEY ruptă; cheie DEEPSEEK_KEY ruptă; 2 ordine Binance blocate în coadă Cheie: cheie, ruptă, problema, ordine, rezolvat, true, metoda, migrare, settings, seif, test, live, auto, deno.",
+      "tip_context": "auto_reparare",
+      "detalii": "[CREIER·AUTO-REPARARE] 4 probleme atacate automat. cheie DENO_DEPLOY_TOKEN ruptă; cheie RENDER_SINGAPORE_KEY ruptă; cheie DEEPSEEK_KEY ruptă; 2 ordine Binance blocate în coadă Cheie: cheie, ruptă, problema, ordine, rezolvat, true, metoda, migrare, settings, seif, test, live, auto, deno. Cheie: cheie, ruptă, problema, ordine, rezolvat, true, metoda, migrare, settings, seif, test, live, auto, deno."
+    }
+  ]
+}
